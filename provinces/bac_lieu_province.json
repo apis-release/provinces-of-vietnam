@@ -1,0 +1,78 @@
+{
+    "description": "Tính đến tháng 06 năm 2021 - Tỉnh Bạc Liêu bao gồm 1 Thành phố trực thuộc, 1 Thị xã và 8 Huyện",
+    "lastUpdatedAt": "2021-06-28T17:32:42.061873671+07:00",
+    "type": "province",
+    "name": "Bạc Liêu",
+    "districts": [
+        {
+            "index": 1,
+            "code": "",
+            "type": "district",
+            "name": "Tp. Bạc Liêu",
+            "slug": "tp. bac lieu",
+            "nameWithType": "Thành phố Bạc Liêu",
+            "path": "Tp. Bạc Liêu, Bạc Liêu, Việt Nam",
+            "pathWithType": "Thành phố Bạc Liêu, Tỉnh Bạc Liêu, Việt Nam"
+        },
+        {
+            "index": 2,
+            "code": "",
+            "type": "district",
+            "name": "Tx. Giá Rai",
+            "slug": "tx. gia rai",
+            "nameWithType": "Thị xã Giá Rai",
+            "path": "Tx. Giá Rai, Bạc Liêu, Việt Nam",
+            "pathWithType": "Thị xã Giá Rai, Tỉnh Bạc Liêu, Việt Nam"
+        },
+        {
+            "index": 3,
+            "code": "",
+            "type": "district",
+            "name": "Đông Hải",
+            "slug": "dong hai",
+            "nameWithType": "Huyện Đông Hải",
+            "path": "Đông Hải, Bạc Liêu, Việt Nam",
+            "pathWithType": "Huyện Đông Hải, Tỉnh Bạc Liêu, Việt Nam"
+        },
+        {
+            "index": 4,
+            "code": "",
+            "type": "district",
+            "name": "Hòa Bình",
+            "slug": "hoa binh",
+            "nameWithType": "Huyện Hòa Bình",
+            "path": "Hòa Bình, Bạc Liêu, Việt Nam",
+            "pathWithType": "Huyện Hòa Bình, Tỉnh Bạc Liêu, Việt Nam"
+        },
+        {
+            "index": 5,
+            "code": "",
+            "type": "district",
+            "name": "Hồng Dân",
+            "slug": "hong dan",
+            "nameWithType": "Huyện Hồng Dân",
+            "path": "Hồng Dân, Bạc Liêu, Việt Nam",
+            "pathWithType": "Huyện Hồng Dân, Tỉnh Bạc Liêu, Việt Nam"
+        },
+        {
+            "index": 6,
+            "code": "",
+            "type": "district",
+            "name": "Phước Long",
+            "slug": "phuoc long",
+            "nameWithType": "Huyện Phước Long",
+            "path": "Phước Long, Bạc Liêu, Việt Nam",
+            "pathWithType": "Huyện Phước Long, Tỉnh Bạc Liêu, Việt Nam"
+        },
+        {
+            "index": 7,
+            "code": "",
+            "type": "district",
+            "name": "Vĩnh Lợi",
+            "slug": "vinh loi",
+            "nameWithType": "Huyện Vĩnh Lợi",
+            "path": "Vĩnh Lợi, Bạc Liêu, Việt Nam",
+            "pathWithType": "Huyện Vĩnh Lợi, Tỉnh Bạc Liêu, Việt Nam"
+        }
+    ]
+}
