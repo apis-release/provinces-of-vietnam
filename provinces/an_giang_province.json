@@ -1,0 +1,118 @@
+{
+    "description": "Tính đến tháng 06 năm 2021 - Tỉnh An Giang bao gồm 2 Thành phố trực thuộc, 1 Thị xã và 8 Huyện",
+    "lastUpdatedAt": "2021-06-28T17:19:12.968311495+07:00",
+    "type": "province",
+    "name": "An Giang",
+    "districts": [
+        {
+            "index": 1,
+            "code": "",
+            "type": "district",
+            "name": "Tp. Long Xuyên",
+            "slug": "tp. long xuyen",
+            "nameWithType": "Thành phố Long Xuyên",
+            "path": "Tp. Long Xuyên, An Giang, Việt Nam",
+            "pathWithType": "Thành phố Long Xuyên, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 2,
+            "code": "",
+            "type": "district",
+            "name": "Tp. Châu Đốc",
+            "slug": "tp. chau doc",
+            "nameWithType": "Thành phố Châu Đốc",
+            "path": "Tp. Châu Đốc, An Giang, Việt Nam",
+            "pathWithType": "Thành phố Châu Đốc, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 3,
+            "code": "",
+            "type": "district",
+            "name": "Tx. Tân Châu",
+            "slug": "tx. tan chau",
+            "nameWithType": "Thị xã Tân Châu",
+            "path": "Tx. Tân Châu, An Giang, Việt Nam",
+            "pathWithType": "Thị xã Tân Châu, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 4,
+            "code": "",
+            "type": "district",
+            "name": "An Phú",
+            "slug": "an phu",
+            "nameWithType": "Huyện An Phú",
+            "path": "An Phú, An Giang, Việt Nam",
+            "pathWithType": "Huyện An Phú, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 5,
+            "code": "",
+            "type": "district",
+            "name": "Châu Phú",
+            "slug": "chau phu",
+            "nameWithType": "Huyện Châu Phú",
+            "path": "Châu Phú, An Giang, Việt Nam",
+            "pathWithType": "Huyện Châu Phú, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 6,
+            "code": "",
+            "type": "district",
+            "name": "Châu Thành",
+            "slug": "chau thanh",
+            "nameWithType": "Huyện Châu Thành",
+            "path": "Châu Thành, An Giang, Việt Nam",
+            "pathWithType": "Huyện Châu Thành, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 7,
+            "code": "",
+            "type": "district",
+            "name": "Chợ Mới",
+            "slug": "cho moi",
+            "nameWithType": "Huyện Chợ Mới",
+            "path": "Chợ Mới, An Giang, Việt Nam",
+            "pathWithType": "Huyện Chợ Mới, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 8,
+            "code": "",
+            "type": "district",
+            "name": "Phú Tân",
+            "slug": "phu tan",
+            "nameWithType": "Huyện Phú Tân",
+            "path": "Phú Tân, An Giang, Việt Nam",
+            "pathWithType": "Huyện Phú Tân, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 9,
+            "code": "",
+            "type": "district",
+            "name": "Thoại Sơn",
+            "slug": "thoai son",
+            "nameWithType": "Huyện Thoại Sơn",
+            "path": "Thoại Sơn, An Giang, Việt Nam",
+            "pathWithType": "Huyện Thoại Sơn, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 10,
+            "code": "",
+            "type": "district",
+            "name": "Tịnh Biên",
+            "slug": "tinh bien",
+            "nameWithType": "Huyện Tịnh Biên",
+            "path": "Tịnh Biên, An Giang, Việt Nam",
+            "pathWithType": "Huyện Tịnh Biên, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 11,
+            "code": "",
+            "type": "district",
+            "name": "Tri Tôn",
+            "slug": "tri ton",
+            "nameWithType": "Huyện Tri Tôn",
+            "path": "Tri Tôn, An Giang, Việt Nam",
+            "pathWithType": "Huyện Tri Tôn, Tỉnh An Giang, Việt Nam"
+        }
+    ]
+}
