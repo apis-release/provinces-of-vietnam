@@ -1,0 +1,98 @@
+{
+    "description": "Tính đến tháng 06 năm 2021 - Tỉnh An Giang bao gồm 1 Thành phố trực thuộc và 8 Huyện",
+    "lastUpdatedAt": "2021-06-28T17:39:59.138691133+07:00",
+    "type": "province",
+    "name": "Bến Tre",
+    "districts": [
+        {
+            "index": 1,
+            "code": "",
+            "type": "district",
+            "name": "Tp. Bến Tre",
+            "slug": "tp. ben tre",
+            "nameWithType": "Thành phố Bến Tre",
+            "path": "Tp. Bến Tre, Bến Tre, Việt Nam",
+            "pathWithType": "Thành phố Bến Tre, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 2,
+            "code": "",
+            "type": "district",
+            "name": "Ba Tri",
+            "slug": "ba tri",
+            "nameWithType": "Huyện Ba Tri",
+            "path": "Ba Tri, Bến Tre, Việt Nam",
+            "pathWithType": "Huyện Ba Tri, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 3,
+            "code": "",
+            "type": "district",
+            "name": "Bình Đại",
+            "slug": "binh dai",
+            "nameWithType": "Huyện Bình Đại",
+            "path": "Bình Đại, Bến Tre, Việt Nam",
+            "pathWithType": "Huyện Bình Đại, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 4,
+            "code": "",
+            "type": "district",
+            "name": "Châu Thành",
+            "slug": "chau thanh",
+            "nameWithType": "Huyện Châu Thành",
+            "path": "Châu Thành, Bến Tre, Việt Nam",
+            "pathWithType": "Huyện Châu Thành, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 5,
+            "code": "",
+            "type": "district",
+            "name": "Chợ Lách",
+            "slug": "cho lach",
+            "nameWithType": "Huyện Chợ Lách",
+            "path": "Chợ Lách, Bến Tre, Việt Nam",
+            "pathWithType": "Huyện Chợ Lách, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 6,
+            "code": "",
+            "type": "district",
+            "name": "Giồng Trôm",
+            "slug": "giong trom",
+            "nameWithType": "Huyện Giồng Trôm",
+            "path": "Giồng Trôm, Bến Tre, Việt Nam",
+            "pathWithType": "Huyện Giồng Trôm, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 7,
+            "code": "",
+            "type": "district",
+            "name": "Mỏ Cày Bắc",
+            "slug": "mo cay bac",
+            "nameWithType": "Huyện Mỏ Cày Bắc",
+            "path": "Mỏ Cày Bắc, Bến Tre, Việt Nam",
+            "pathWithType": "Huyện Mỏ Cày Bắc, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 8,
+            "code": "",
+            "type": "district",
+            "name": "Mỏ Cày Nam",
+            "slug": "mo cay nam",
+            "nameWithType": "Huyện Mỏ Cày Nam",
+            "path": "Mỏ Cày Nam, Bến Tre, Việt Nam",
+            "pathWithType": "Huyện Mỏ Cày Nam, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 9,
+            "code": "",
+            "type": "district",
+            "name": "Thạnh Phú",
+            "slug": "thanh phu",
+            "nameWithType": "Huyện Thạnh Phú",
+            "path": "Thạnh Phú, Bến Tre, Việt Nam",
+            "pathWithType": "Huyện Thạnh Phú, Tỉnh Bến Tre, Việt Nam"
+        }
+    ]
+}
