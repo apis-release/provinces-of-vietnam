@@ -1,0 +1,108 @@
+{
+    "description": "Tính đến tháng 06 năm 2021 - Tỉnh An Giang bao gồm 1 Thành phố trực thuộc, 9 Huyện",
+    "lastUpdatedAt": "2021-06-28T17:34:22.867911105+07:00",
+    "type": "province",
+    "name": "Bắc Giang",
+    "districts": [
+        {
+            "index": 1,
+            "code": "",
+            "type": "district",
+            "name": "Tp. Bắc Giang",
+            "slug": "tp. bac giang",
+            "nameWithType": "Thành phố Bắc Giang",
+            "path": "Tp. Bắc Giang, Bắc Giang, Việt Nam",
+            "pathWithType": "Thành phố Bắc Giang, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 2,
+            "code": "",
+            "type": "district",
+            "name": "Hiệp Hòa",
+            "slug": "hiep hoa",
+            "nameWithType": "Huyện Hiệp Hòa",
+            "path": "Hiệp Hòa, Bắc Giang, Việt Nam",
+            "pathWithType": "Huyện Hiệp Hòa, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 3,
+            "code": "",
+            "type": "district",
+            "name": "Lạng Giang",
+            "slug": "lang giang",
+            "nameWithType": "Huyện Lạng Giang",
+            "path": "Lạng Giang, Bắc Giang, Việt Nam",
+            "pathWithType": "Huyện Lạng Giang, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 4,
+            "code": "",
+            "type": "district",
+            "name": "Lục Nam",
+            "slug": "luc nam",
+            "nameWithType": "Huyện Lục Nam",
+            "path": "Lục Nam, Bắc Giang, Việt Nam",
+            "pathWithType": "Huyện Lục Nam, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 5,
+            "code": "",
+            "type": "district",
+            "name": "Lục Ngạn",
+            "slug": "luc ngan",
+            "nameWithType": "Huyện Lục Ngạn",
+            "path": "Lục Ngạn, Bắc Giang, Việt Nam",
+            "pathWithType": "Huyện Lục Ngạn, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 6,
+            "code": "",
+            "type": "district",
+            "name": "Sơn Động",
+            "slug": "son dong",
+            "nameWithType": "Huyện Sơn Động",
+            "path": "Sơn Động, Bắc Giang, Việt Nam",
+            "pathWithType": "Huyện Sơn Động, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 7,
+            "code": "",
+            "type": "district",
+            "name": "Tân Yên",
+            "slug": "tan yen",
+            "nameWithType": "Huyện Tân Yên",
+            "path": "Tân Yên, Bắc Giang, Việt Nam",
+            "pathWithType": "Huyện Tân Yên, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 8,
+            "code": "",
+            "type": "district",
+            "name": "Việt Yên",
+            "slug": "viet yen",
+            "nameWithType": "Huyện Việt Yên",
+            "path": "Việt Yên, Bắc Giang, Việt Nam",
+            "pathWithType": "Huyện Việt Yên, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 9,
+            "code": "",
+            "type": "district",
+            "name": "Yên Dũng",
+            "slug": "yen dung",
+            "nameWithType": "Huyện Yên Dũng",
+            "path": "Yên Dũng, Bắc Giang, Việt Nam",
+            "pathWithType": "Huyện Yên Dũng, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 10,
+            "code": "",
+            "type": "district",
+            "name": "Yên Thế",
+            "slug": "yen the",
+            "nameWithType": "Huyện Yên Thế",
+            "path": "Yên Thế, Bắc Giang, Việt Nam",
+            "pathWithType": "Huyện Yên Thế, Tỉnh Bắc Giang, Việt Nam"
+        }
+    ]
+}
