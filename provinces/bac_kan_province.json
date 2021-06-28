@@ -1,0 +1,88 @@
+{
+    "description": "Tính đến tháng 06 năm 2021 - Tỉnh An Giang bao gồm 1 Thành phố trực thuộc, 7 Huyện",
+    "lastUpdatedAt": "2021-06-28T17:35:56.506417697+07:00",
+    "type": "province",
+    "name": "Bắc Kạn",
+    "districts": [
+        {
+            "index": 1,
+            "code": "",
+            "type": "district",
+            "name": "Tp. Bắc Kạn",
+            "slug": "tp. bac kan",
+            "nameWithType": "Thành phố Bắc Kạn",
+            "path": "Tp. Bắc Kạn, Bắc Kạn, Việt Nam",
+            "pathWithType": "Thành phố Bắc Kạn, Tỉnh Bắc Kạn, Việt Nam"
+        },
+        {
+            "index": 2,
+            "code": "",
+            "type": "district",
+            "name": "Ba Bể",
+            "slug": "ba be",
+            "nameWithType": "Huyện Ba Bể",
+            "path": "Ba Bể, Bắc Kạn, Việt Nam",
+            "pathWithType": "Huyện Ba Bể, Tỉnh Bắc Kạn, Việt Nam"
+        },
+        {
+            "index": 3,
+            "code": "",
+            "type": "district",
+            "name": "Bạch Thông",
+            "slug": "bach thong",
+            "nameWithType": "Huyện Bạch Thông",
+            "path": "Bạch Thông, Bắc Kạn, Việt Nam",
+            "pathWithType": "Huyện Bạch Thông, Tỉnh Bắc Kạn, Việt Nam"
+        },
+        {
+            "index": 4,
+            "code": "",
+            "type": "district",
+            "name": "Chợ Đồn",
+            "slug": "cho don",
+            "nameWithType": "Huyện Chợ Đồn",
+            "path": "Chợ Đồn, Bắc Kạn, Việt Nam",
+            "pathWithType": "Huyện Chợ Đồn, Tỉnh Bắc Kạn, Việt Nam"
+        },
+        {
+            "index": 5,
+            "code": "",
+            "type": "district",
+            "name": "Chợ Mới",
+            "slug": "cho moi",
+            "nameWithType": "Huyện Chợ Mới",
+            "path": "Chợ Mới, Bắc Kạn, Việt Nam",
+            "pathWithType": "Huyện Chợ Mới, Tỉnh Bắc Kạn, Việt Nam"
+        },
+        {
+            "index": 6,
+            "code": "",
+            "type": "district",
+            "name": "Na Rì",
+            "slug": "na ri",
+            "nameWithType": "Huyện Na Rì",
+            "path": "Na Rì, Bắc Kạn, Việt Nam",
+            "pathWithType": "Huyện Na Rì, Tỉnh Bắc Kạn, Việt Nam"
+        },
+        {
+            "index": 7,
+            "code": "",
+            "type": "district",
+            "name": "Ngân Sơn",
+            "slug": "ngan son",
+            "nameWithType": "Huyện Ngân Sơn",
+            "path": "Ngân Sơn, Bắc Kạn, Việt Nam",
+            "pathWithType": "Huyện Ngân Sơn, Tỉnh Bắc Kạn, Việt Nam"
+        },
+        {
+            "index": 8,
+            "code": "",
+            "type": "district",
+            "name": "Pác Nặm",
+            "slug": "pac nam",
+            "nameWithType": "Huyện Pác Nặm",
+            "path": "Pác Nặm, Bắc Kạn, Việt Nam",
+            "pathWithType": "Huyện Pác Nặm, Tỉnh Bắc Kạn, Việt Nam"
+        }
+    ]
+}
