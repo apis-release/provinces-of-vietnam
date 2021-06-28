@@ -1,0 +1,88 @@
+{
+    "description": "Tính đến tháng 06 năm 2021 - Tỉnh An Giang bao gồm 1 Thành phố trực thuộc, 1 Thị xã và 6 Huyện",
+    "lastUpdatedAt": "2021-06-28T17:38:22.312402316+07:00",
+    "type": "province",
+    "name": "Bắc Ninh",
+    "districts": [
+        {
+            "index": 1,
+            "code": "",
+            "type": "district",
+            "name": "Tp. Bắc Ninh",
+            "slug": "tp. bac ninh",
+            "nameWithType": "Thành phố Bắc Ninh",
+            "path": "Tp. Bắc Ninh, Bắc Ninh, Việt Nam",
+            "pathWithType": "Thành phố Bắc Ninh, Tỉnh Bắc Ninh, Việt Nam"
+        },
+        {
+            "index": 2,
+            "code": "",
+            "type": "district",
+            "name": "Tx. Từ Sơn",
+            "slug": "tx. tu son",
+            "nameWithType": "Thị xã Từ Sơn",
+            "path": "Tx. Từ Sơn, Bắc Ninh, Việt Nam",
+            "pathWithType": "Thị xã Từ Sơn, Tỉnh Bắc Ninh, Việt Nam"
+        },
+        {
+            "index": 3,
+            "code": "",
+            "type": "district",
+            "name": "Gia Bình",
+            "slug": "gia binh",
+            "nameWithType": "Huyện Gia Bình",
+            "path": "Gia Bình, Bắc Ninh, Việt Nam",
+            "pathWithType": "Huyện Gia Bình, Tỉnh Bắc Ninh, Việt Nam"
+        },
+        {
+            "index": 4,
+            "code": "",
+            "type": "district",
+            "name": "Lương Tài",
+            "slug": "luong tai",
+            "nameWithType": "Huyện Lương Tài",
+            "path": "Lương Tài, Bắc Ninh, Việt Nam",
+            "pathWithType": "Huyện Lương Tài, Tỉnh Bắc Ninh, Việt Nam"
+        },
+        {
+            "index": 5,
+            "code": "",
+            "type": "district",
+            "name": "Quế Võ",
+            "slug": "que vo",
+            "nameWithType": "Huyện Quế Võ",
+            "path": "Quế Võ, Bắc Ninh, Việt Nam",
+            "pathWithType": "Huyện Quế Võ, Tỉnh Bắc Ninh, Việt Nam"
+        },
+        {
+            "index": 6,
+            "code": "",
+            "type": "district",
+            "name": "Thuận Thành",
+            "slug": "thuan thanh",
+            "nameWithType": "Huyện Thuận Thành",
+            "path": "Thuận Thành, Bắc Ninh, Việt Nam",
+            "pathWithType": "Huyện Thuận Thành, Tỉnh Bắc Ninh, Việt Nam"
+        },
+        {
+            "index": 7,
+            "code": "",
+            "type": "district",
+            "name": "Tiên Du",
+            "slug": "tien du",
+            "nameWithType": "Huyện Tiên Du",
+            "path": "Tiên Du, Bắc Ninh, Việt Nam",
+            "pathWithType": "Huyện Tiên Du, Tỉnh Bắc Ninh, Việt Nam"
+        },
+        {
+            "index": 8,
+            "code": "",
+            "type": "district",
+            "name": "Yên Phong",
+            "slug": "yen phong",
+            "nameWithType": "Huyện Yên Phong",
+            "path": "Yên Phong, Bắc Ninh, Việt Nam",
+            "pathWithType": "Huyện Yên Phong, Tỉnh Bắc Ninh, Việt Nam"
+        }
+    ]
+}
