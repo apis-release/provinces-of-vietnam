@@ -1,0 +1,88 @@
+{
+    "description": "Tính đến tháng 06 năm 2021 - Tỉnh Bà Rịa - Vũng Tàu bao gồm 2 Thành phố trực thuộc, 1 Thị xã và 5 Huyện",
+    "lastUpdatedAt": "2021-06-28T17:27:40.485310845+07:00",
+    "type": "province",
+    "name": "Bà Rịa - Vũng Tàu",
+    "districts": [
+        {
+            "index": 1,
+            "code": "",
+            "type": "district",
+            "name": "Tp. Bà Rịa",
+            "slug": "tp. ba ria",
+            "nameWithType": "Thành phố Bà Rịa",
+            "path": "Tp. Bà Rịa, Bà Rịa - Vũng Tàu, Việt Nam",
+            "pathWithType": "Thành Phố Bà Rịa, Tỉnh Bà Rịa - Vũng Tàu, Việt Nam"
+        },
+        {
+            "index": 2,
+            "code": "",
+            "type": "district",
+            "name": "Tp. Vũng Tàu",
+            "slug": "tp. vung tau",
+            "nameWithType": "Thành phố Vũng Tàu",
+            "path": "Tp. Vũng Tàu,  Bà Rịa - Vũng Tàu, Việt Nam",
+            "pathWithType": "Thành phố Vũng Tàu, Tỉnh Bà Rịa - Vũng Tàu, Việt Nam"
+        },
+        {
+            "index": 3,
+            "code": "",
+            "type": "district",
+            "name": "Tx. Phú Mỹ",
+            "slug": "tx. phu my",
+            "nameWithType": "Thị xã Phú Mỹ",
+            "path": "Tx. Phú Mỹ,  Bà Rịa - Vũng Tàu, Việt Nam",
+            "pathWithType": "Thị xã Phú Mỹ, Tỉnh Bà Rịa - Vũng Tàu, Việt Nam"
+        },
+        {
+            "index": 4,
+            "code": "",
+            "type": "district",
+            "name": "Châu Đức",
+            "slug": "chau duc",
+            "nameWithType": "Huyện Châu Đức",
+            "path": "Châu Đức,  Bà Rịa - Vũng Tàu, Việt Nam",
+            "pathWithType": "Huyện Châu Đức, Tỉnh Bà Rịa - Vũng Tàu, Việt Nam"
+        },
+        {
+            "index": 5,
+            "code": "",
+            "type": "district",
+            "name": "Côn Đảo",
+            "slug": "con dao",
+            "nameWithType": "Huyện Côn Đảo",
+            "path": "Côn Đảo, Bà Rịa - Vũng Tàu, Việt Nam",
+            "pathWithType": "Huyện Côn Đảo, Tỉnh Bà Rịa - Vũng Tàu, Việt Nam"
+        },
+        {
+            "index": 6,
+            "code": "",
+            "type": "district",
+            "name": "Đất Đỏ",
+            "slug": "dat do",
+            "nameWithType": "Huyện Đất Đỏ",
+            "path": "Đất Đỏ,  Bà Rịa - Vũng Tàu, Việt Nam",
+            "pathWithType": "Huyện Đất Đỏ, Tỉnh Bà Rịa - Vũng Tàu, Việt Nam"
+        },
+        {
+            "index": 7,
+            "code": "",
+            "type": "district",
+            "name": "Long Điền",
+            "slug": "long dien",
+            "nameWithType": "Huyện Long Điền",
+            "path": "Long Điền,  Bà Rịa - Vũng Tàu, Việt Nam",
+            "pathWithType": "Huyện Long Điền, Tỉnh Bà Rịa - Vũng Tàu, Việt Nam"
+        },
+        {
+            "index": 8,
+            "code": "",
+            "type": "district",
+            "name": "Xuyên Mộc",
+            "slug": "xuyen moc",
+            "nameWithType": "Huyện Xuyên Mộc",
+            "path": "Xuyên Mộc,  Bà Rịa - Vũng Tàu, Việt Nam",
+            "pathWithType": "Huyện Xuyên Mộc, Tỉnh Bà Rịa - Vũng Tàu, Việt Nam"
+        }
+    ]
+}
