@@ -1,0 +1,118 @@
+{
+    "description": "Tính đến tháng 06 năm 2021 - Tỉnh Bình Phước bao gồm 1 Thành phố trực thuộc, 2 Thị xã và 8 Huyện",
+    "lastUpdatedAt": "2021-06-28T17:41:42.381845315+07:00",
+    "type": "province",
+    "name": "Bình Phước",
+    "districts": [
+        {
+            "index": 1,
+            "code": "",
+            "type": "district",
+            "name": "Tp. Đồng Xoài",
+            "slug": "tp. dong xoai",
+            "nameWithType": "Thành phố Đồng Xoài",
+            "path": "Tp. Đồng Xoài, Bình Phước, Việt Nam",
+            "pathWithType": "Thành phố Đồng Xoài, Tỉnh Bình Phước, Việt Nam"
+        },
+        {
+            "index": 2,
+            "code": "",
+            "type": "district",
+            "name": "Tx. Bình Long",
+            "slug": "tx. binh long",
+            "nameWithType": "Thị xã Bình Long",
+            "path": "Tx. Bình Long, Bình Phước, Việt Nam",
+            "pathWithType": "Thị xã Bình Long, Tỉnh Bình Phước, Việt Nam"
+        },
+        {
+            "index": 3,
+            "code": "",
+            "type": "district",
+            "name": "Tx. Phước Long",
+            "slug": "tx. phuoc long",
+            "nameWithType": "Thị xã Phước Long",
+            "path": "Tx. Phước Long, Bình Phước, Việt Nam",
+            "pathWithType": "Thị xã Phước Long, Tỉnh Bình Phước, Việt Nam"
+        },
+        {
+            "index": 4,
+            "code": "",
+            "type": "district",
+            "name": "Bù Đăng",
+            "slug": "bu dang",
+            "nameWithType": "Huyện Bù Đăng",
+            "path": "Bù Đăng, Bình Phước, Việt Nam",
+            "pathWithType": "Huyện Bù Đăng, Tỉnh Bình Phước, Việt Nam"
+        },
+        {
+            "index": 5,
+            "code": "",
+            "type": "district",
+            "name": "Bù Đốp",
+            "slug": "bu dop",
+            "nameWithType": "Huyện Bù Đốp",
+            "path": "Bù Đốp, Bình Phước, Việt Nam",
+            "pathWithType": "Huyện Bù Đốp, Tỉnh Bình Phước, Việt Nam"
+        },
+        {
+            "index": 6,
+            "code": "",
+            "type": "district",
+            "name": "Bù Gia Mập",
+            "slug": "bu gia map",
+            "nameWithType": "Huyện Bù Gia Mập",
+            "path": "Bù Gia Mập, Bình Phước, Việt Nam",
+            "pathWithType": "Huyện Bù Gia Mập, Tỉnh Bình Phước, Việt Nam"
+        },
+        {
+            "index": 7,
+            "code": "",
+            "type": "district",
+            "name": "Chơn Thành",
+            "slug": "chon thanh",
+            "nameWithType": "Huyện Chơn Thành",
+            "path": "Chơn Thành, Bình Phước, Việt Nam",
+            "pathWithType": "Huyện Chơn Thành, Tỉnh Bình Phước, Việt Nam"
+        },
+        {
+            "index": 8,
+            "code": "",
+            "type": "district",
+            "name": "Đồng Phú",
+            "slug": "dong phu",
+            "nameWithType": "Huyên Đồng Phú",
+            "path": "Đồng Phú, Bình Phước, Việt Nam",
+            "pathWithType": "Huyện Đồng Phú, Tỉnh Bình Phước, Việt Nam"
+        },
+        {
+            "index": 9,
+            "code": "",
+            "type": "district",
+            "name": "Hớn Quản",
+            "slug": "hon quan",
+            "nameWithType": "Huyện Hớn Quản",
+            "path": "Hớn Quản, Bình Phước, Việt Nam",
+            "pathWithType": "Huyện Hớn Quản, Tỉnh Bình Phước, Việt Nam"
+        },
+        {
+            "index": 10,
+            "code": "",
+            "type": "district",
+            "name": "Lộc Ninh",
+            "slug": "loc ninh",
+            "nameWithType": "Huyện Lộc Ninh",
+            "path": "Lộc Ninh, Bình Phước, Việt Nam",
+            "pathWithType": "Huyện Lộc Ninh, Tỉnh Bình Phước, Việt Nam"
+        },
+        {
+            "index": 11,
+            "code": "",
+            "type": "district",
+            "name": "Phú Riềng",
+            "slug": "phu rieng",
+            "nameWithType": "Huyện Phú Riềng",
+            "path": "Phú Riềng, Bình Phước, Việt Nam",
+            "pathWithType": "Huyện Phú Riềng, Tỉnh Bình Phước, Việt Nam"
+        }
+    ]
+}

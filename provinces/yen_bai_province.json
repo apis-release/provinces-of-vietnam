@@ -1,0 +1,98 @@
+{
+    "description": "Tính đến tháng 06 năm 2021 - Tỉnh An Giang bao gồm 1 Thành phố trực thuộc, 1 Thị xã và 7 Huyện",
+    "lastUpdatedAt": "2021-06-28T17:41:42.383385798+07:00",
+    "type": "province",
+    "name": "Yên Bái",
+    "districts": [
+        {
+            "index": 1,
+            "code": "",
+            "type": "district",
+            "name": "Tp. Yên Bái",
+            "slug": "tp. yen bai",
+            "nameWithType": "Thành phố Yên Bái",
+            "path": "Tp. Yên Bái, Yên Bái, Việt Nam",
+            "pathWithType": "Thành phố Yên Bái, Tỉnh Yên Bái, Việt Nam"
+        },
+        {
+            "index": 2,
+            "code": "",
+            "type": "district",
+            "name": "Tx. Nghĩa Lộ",
+            "slug": "tx. nghia lo",
+            "nameWithType": "Thị xã Nghĩa Lộ",
+            "path": "Tx. Nghĩa Lộ, Yên Bái, Việt Nam",
+            "pathWithType": "Thị xã Nghĩa Lộ, Tỉnh Yên Bái, Việt Nam"
+        },
+        {
+            "index": 3,
+            "code": "",
+            "type": "district",
+            "name": "Lục Yên",
+            "slug": "luc yen",
+            "nameWithType": "Huyện Lục Yên",
+            "path": "Lục Yên, Yên Bái, Việt Nam",
+            "pathWithType": "Huyện Lục Yên, Tỉnh Yên Bái, Việt Nam"
+        },
+        {
+            "index": 4,
+            "code": "",
+            "type": "district",
+            "name": "Mù Cang Chải",
+            "slug": "mu cang chai",
+            "nameWithType": "Huyện Mù Cang Chải",
+            "path": "Mù Cang Chải, Yên Bái, Việt Nam",
+            "pathWithType": "Huyện Mù Cang Chải, Tỉnh Yên Bái, Việt Nam"
+        },
+        {
+            "index": 5,
+            "code": "",
+            "type": "district",
+            "name": "Trạm Tấu",
+            "slug": "tram tau",
+            "nameWithType": "Huyện Trạm Tấu",
+            "path": "Trạm Tấu, Yên Bái, Việt Nam",
+            "pathWithType": "Huyện Trạm Tấu, Tỉnh Yên Bái, Việt Nam"
+        },
+        {
+            "index": 6,
+            "code": "",
+            "type": "district",
+            "name": "Trấn Yên",
+            "slug": "tran yen",
+            "nameWithType": "Huyện Trấn Yên",
+            "path": "Trấn Yên, Yên Bái, Việt Nam",
+            "pathWithType": "Huyện Trân Yên, Tỉnh Yên Bái, Việt Nam"
+        },
+        {
+            "index": 7,
+            "code": "",
+            "type": "district",
+            "name": "Văn Chấn",
+            "slug": "van chan",
+            "nameWithType": "Huyện Vân Chấn",
+            "path": "Văn Chấn, Yên Bái, Việt Nam",
+            "pathWithType": "Huyện Văn Chấn, Tỉnh Yên Bái, Việt Nam"
+        },
+        {
+            "index": 8,
+            "code": "",
+            "type": "district",
+            "name": "Vân Yên",
+            "slug": "van yen",
+            "nameWithType": "Huyện Vân Yên",
+            "path": "Vân Yên, Yên Bái, Việt Nam",
+            "pathWithType": "Huyện Vân Yên, Tỉnh Yên Bái, Việt Nam"
+        },
+        {
+            "index": 9,
+            "code": "",
+            "type": "district",
+            "name": "Yên Bình",
+            "slug": "yen binh",
+            "nameWithType": "Huyện Yên Bình",
+            "path": "Yên Bình, Yên Bái, Việt Nam",
+            "pathWithType": "Huyện Yên Bình, Tỉnh Yên Bái, Việt Nam"
+        }
+    ]
+}

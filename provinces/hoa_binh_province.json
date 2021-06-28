@@ -1,0 +1,108 @@
+{
+    "description": "Tính đến tháng 06 năm 2021 - Tỉnh Hòa Bình bao gồm 1 Thành phố trực thuộc và 9 Huyện",
+    "lastUpdatedAt": "2021-06-28T17:41:42.382410994+07:00",
+    "type": "province",
+    "name": "Hòa Bình",
+    "districts": [
+        {
+            "index": 1,
+            "code": "",
+            "type": "district",
+            "name": "Tp. Hòa Bình",
+            "slug": "tp. hoa binh",
+            "nameWithType": "Thành phố Hòa Bình",
+            "path": "Tp. Hòa Bình, Hòa Bình, Việt Nam",
+            "pathWithType": "Thành phố Hòa Bình, Tỉnh Hòa Bình, Việt Nam"
+        },
+        {
+            "index": 2,
+            "code": "",
+            "type": "district",
+            "name": "Cao Phong",
+            "slug": "cao phong",
+            "nameWithType": "Huyện Cao Phong",
+            "path": "Cao Phong, Hòa Bình, Việt Nam",
+            "pathWithType": "Huyện Cao Phong, Tỉnh Hòa Bình, Việt Nam"
+        },
+        {
+            "index": 3,
+            "code": "",
+            "type": "district",
+            "name": "Đà Bắc",
+            "slug": "da bac",
+            "nameWithType": "Huyện Đà Bắc",
+            "path": "Đà Bắc, Hòa Bình, Việt Nam",
+            "pathWithType": "Huyện Đà Bắc, Tỉnh Hòa Bình, Việt Nam"
+        },
+        {
+            "index": 4,
+            "code": "",
+            "type": "district",
+            "name": "Kim Bôi",
+            "slug": "kim boi",
+            "nameWithType": "Huyện Kim Bôi",
+            "path": "Kim Bôi, Hòa Bình, Việt Nam",
+            "pathWithType": "Huyện Kim BÔi, Tỉnh Hòa Bình, Việt Nam"
+        },
+        {
+            "index": 5,
+            "code": "",
+            "type": "district",
+            "name": "Lạc Sơn",
+            "slug": "lac son",
+            "nameWithType": "Huyện Lạc SƠn",
+            "path": "Lạc Sơn, Hòa Bình, Việt Nam",
+            "pathWithType": "Huyện Lạc Sơn, Tỉnh Hòa Bình, Việt Nam"
+        },
+        {
+            "index": 6,
+            "code": "",
+            "type": "district",
+            "name": "Lạc Thủy",
+            "slug": "lac thuy",
+            "nameWithType": "Huyện Lạc Thủy",
+            "path": "Lạc Thủy, Hòa Bình, Việt Nam",
+            "pathWithType": "Huyện Lạc Thủy, Tỉnh Hòa Bình, Việt Nam"
+        },
+        {
+            "index": 7,
+            "code": "",
+            "type": "district",
+            "name": "Lương Sơn",
+            "slug": "luong son",
+            "nameWithType": "Huyện Lương Sơn",
+            "path": "Lương Sơn, Hòa Bình, Việt Nam",
+            "pathWithType": "Huyện Lương Sơn, Tỉnh Hòa Bình, Việt Nam"
+        },
+        {
+            "index": 8,
+            "code": "",
+            "type": "district",
+            "name": "Mai Châu",
+            "slug": "mai chau",
+            "nameWithType": "Huyện Mai Châu",
+            "path": "Mai Châu, Hòa Bình, Việt Nam",
+            "pathWithType": "Huyện Mai Châu, Tỉnh Hòa Bình, Việt Nam"
+        },
+        {
+            "index": 9,
+            "code": "",
+            "type": "district",
+            "name": "Tân Lạc",
+            "slug": "tan lac",
+            "nameWithType": "Huyện Tân Lạc",
+            "path": "Tân Lạc, Hòa Bình, Việt Nam",
+            "pathWithType": "Huyện Tân Lạc, Tỉnh Hòa Bình, Việt Nam"
+        },
+        {
+            "index": 10,
+            "code": "",
+            "type": "district",
+            "name": "Yên Thủy",
+            "slug": "yen thuy",
+            "nameWithType": "Huyện Yên Thủy",
+            "path": "Yên Thủy, Hòa Bình, Việt Nam",
+            "pathWithType": "Huyện Yên Thủy, Tỉnh Hòa Bình, Việt Nam"
+        }
+    ]
+}

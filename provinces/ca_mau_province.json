@@ -1,0 +1,98 @@
+{
+    "description": "Tính đến tháng 06 năm 2021 - Tỉnh Cà Mau bao gồm 1 Thành phố trực thuộc và 8 Huyện",
+    "lastUpdatedAt": "2021-06-28T17:41:42.381898278+07:00",
+    "type": "province",
+    "name": "Cà Mau",
+    "districts": [
+        {
+            "index": 1,
+            "code": "",
+            "type": "district",
+            "name": "Tp. Cà Mau",
+            "slug": "tp. ca mau",
+            "nameWithType": "Thành phố Cà Mau",
+            "path": "Tp. Cà Mau, Cà Mau, Việt Nam",
+            "pathWithType": "Thành phố Cà Mau, Tỉnh Cà Mau, Việt Nam"
+        },
+        {
+            "index": 2,
+            "code": "",
+            "type": "district",
+            "name": "Cái Nước",
+            "slug": "cai nuoc",
+            "nameWithType": "Huyện Cái Nước",
+            "path": "Cái Nước, Cà Mau, Việt Nam",
+            "pathWithType": "Huyện Cái Nước, Tỉnh Cà Mau, Việt Nam"
+        },
+        {
+            "index": 3,
+            "code": "",
+            "type": "district",
+            "name": "Đầm Dơi",
+            "slug": "dam doi",
+            "nameWithType": "Huyện Đầm Dơi",
+            "path": "Đầm Dơi, Cà Mau, Việt Nam",
+            "pathWithType": "Huyện Đầm Dơi, Tỉnh Cà Mau, Việt Nam"
+        },
+        {
+            "index": 4,
+            "code": "",
+            "type": "district",
+            "name": "năm căn",
+            "slug": "nam can",
+            "nameWithType": "Huyện Năm Căn",
+            "path": "Năm Căn, Cà Mau, Việt Nam",
+            "pathWithType": "Huyện Năm Căn, Tỉnh Cà Mau, Việt Nam"
+        },
+        {
+            "index": 5,
+            "code": "",
+            "type": "district",
+            "name": "Ngọc Hiển",
+            "slug": "ngoc hien",
+            "nameWithType": "Huyện Ngọc Hiển",
+            "path": "Ngọc Hiển, Cà Mau, Việt Nam",
+            "pathWithType": "Huyện Ngọc Hiển, Tỉnh Cà Mau, Việt Nam"
+        },
+        {
+            "index": 6,
+            "code": "",
+            "type": "district",
+            "name": "Phú Tân",
+            "slug": "phu tan",
+            "nameWithType": "Huyện Phú Tân",
+            "path": "Phú Tân, Cà Mau, Việt Nam",
+            "pathWithType": "Huyện Phú Tân, Tỉnh Cà Mau, Việt Nam"
+        },
+        {
+            "index": 7,
+            "code": "",
+            "type": "district",
+            "name": "Thới Bình",
+            "slug": "thoi binh",
+            "nameWithType": "Huyện Thới Bình",
+            "path": "Thới Bình, Cà Mau, Việt Nam",
+            "pathWithType": "Huyện Thới Bình, Tỉnh Cà Mau, Việt Nam"
+        },
+        {
+            "index": 8,
+            "code": "",
+            "type": "district",
+            "name": "Trần Văn Thời",
+            "slug": "tran van thoi",
+            "nameWithType": "Huyện Trần Văn Thời",
+            "path": "Trần Văn Thời, Cà Mau, Việt Nam",
+            "pathWithType": "Huyện Trần Văn Thời, Tỉnh Cà Mau, Việt Nam"
+        },
+        {
+            "index": 9,
+            "code": "",
+            "type": "district",
+            "name": "U Minh",
+            "slug": "u minh",
+            "nameWithType": "Huyện U Minh",
+            "path": "U Minh, Cà Mau, Việt Nam",
+            "pathWithType": "Huyện U Minh, Tỉnh Cà Mau, Việt Nam"
+        }
+    ]
+}

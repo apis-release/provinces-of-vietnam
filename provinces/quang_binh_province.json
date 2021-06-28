@@ -1,0 +1,88 @@
+{
+    "description": "Tính đến tháng 06 năm 2021 - Tỉnh Quảng Bình bao gồm 1 Thành phố trực thuộc, 1 Thị xã và 6 Huyện",
+    "lastUpdatedAt": "2021-06-28T17:41:42.382902429+07:00",
+    "type": "province",
+    "name": "Quảng Bình",
+    "districts": [
+        {
+            "index": 1,
+            "code": "",
+            "type": "district",
+            "name": "Tp. Đồng Hới",
+            "slug": "tp. dong hoi",
+            "nameWithType": "Thành phố Đồng Hới",
+            "path": "Tp. Đồng Hới, Quảng Bình, Việt Nam",
+            "pathWithType": "Thành phố Đồng Hới, Tỉnh Quảng Bình, Việt Nam"
+        },
+        {
+            "index": 2,
+            "code": "",
+            "type": "district",
+            "name": "Tx. Ba Đồn",
+            "slug": "tx. ba don",
+            "nameWithType": "Thị xã Ba Đồn",
+            "path": "Tx. Ba Đồn, Quảng Bình, Việt Nam",
+            "pathWithType": "Thị xã Ba Đồn, Tỉnh Quảng Bình, Việt Nam"
+        },
+        {
+            "index": 3,
+            "code": "",
+            "type": "district",
+            "name": "Bố Trạch",
+            "slug": "bo trach",
+            "nameWithType": "Huyện Bố Trạch",
+            "path": "Bố Trạch, Quảng Bình, Việt Nam",
+            "pathWithType": "Huyện Bố Trạch, Tỉnh Quảng Bình, Việt Nam"
+        },
+        {
+            "index": 4,
+            "code": "",
+            "type": "district",
+            "name": "Lệ Thủy",
+            "slug": "le thuy",
+            "nameWithType": "Huyện Lệ Thủy",
+            "path": "Lệ Thủy, Quảng Bình, Việt Nam",
+            "pathWithType": "Huyện Lệ Thủy, Tỉnh Quảng Bình, Việt Nam"
+        },
+        {
+            "index": 5,
+            "code": "",
+            "type": "district",
+            "name": "Minh Hòa",
+            "slug": "minh hoa",
+            "nameWithType": "Huyện Minh Hòa",
+            "path": "Minh Hòa, Quảng Bình, Việt Nam",
+            "pathWithType": "Huyện Minh Hòa, Tỉnh Quảng Bình, Việt Nam"
+        },
+        {
+            "index": 6,
+            "code": "",
+            "type": "district",
+            "name": "Quảng Ninh",
+            "slug": "quang ninh",
+            "nameWithType": "Huyện Quảng Ninh",
+            "path": "Quảng Ninh, Quảng Bình, Việt Nam",
+            "pathWithType": "Huyện Quảng Ninh, Tỉnh Quảng Bình, Việt Nam"
+        },
+        {
+            "index": 7,
+            "code": "",
+            "type": "district",
+            "name": "Quảng Trạch",
+            "slug": "quang trach",
+            "nameWithType": "Huyện Quảng Trạch",
+            "path": "Quảng Trạch, Quảng Bình, Việt Nam",
+            "pathWithType": "Huyện Quảng Trạch, Tỉnh Quảng Bình, Việt Nam"
+        },
+        {
+            "index": 8,
+            "code": "",
+            "type": "district",
+            "name": "Tuyên Hóa",
+            "slug": "tuyen hoa",
+            "nameWithType": "Huyện Tuyên Hóa",
+            "path": "Tuyên Hóa, Quảng Bình, Việt Nam",
+            "pathWithType": "Huyện Tuyên Hóa, Tỉnh Quảng Bình, Việt Nam"
+        }
+    ]
+}

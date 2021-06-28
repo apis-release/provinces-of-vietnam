@@ -1,0 +1,278 @@
+{
+    "description": "Tính đến tháng 06 năm 2021 - Tỉnh Thanh Hóa bao gồm 2 Thành phố trực thuộc, 2 Thị xã và 23 Huyện",
+    "lastUpdatedAt": "2021-06-28T17:41:42.383178608+07:00",
+    "type": "province",
+    "name": "Thanh Hóa",
+    "districts": [
+        {
+            "index": 1,
+            "code": "",
+            "type": "district",
+            "name": "Tp. Thanh Hóa",
+            "slug": "tp. thanh hoa",
+            "nameWithType": "Thành phố Thanh Hóa",
+            "path": "Tp. Thanh Hóa, Thanh Hóa, Việt Nam",
+            "pathWithType": "Thành phố Thanh Hóa, Tỉnh Thanh Hóa, Việt Nam"
+        },
+        {
+            "index": 2,
+            "code": "",
+            "type": "district",
+            "name": "Tp. Sầm Sơn",
+            "slug": "tp. sam son",
+            "nameWithType": "Thành phố Sầm Sơn",
+            "path": "Tp. Sầm Sơn, Thanh Hóa, Việt Nam",
+            "pathWithType": "Thành phố Sầm Sơn, Tỉnh Thanh Hóa, Việt Nam"
+        },
+        {
+            "index": 3,
+            "code": "",
+            "type": "district",
+            "name": "Tx. Bỉm Sơn",
+            "slug": "tx. bim son",
+            "nameWithType": "Thị xã Bỉm Sơn",
+            "path": "Tx. Bỉm Sơn, Thanh Hóa, Việt Nam",
+            "pathWithType": "Thị xã Bỉm Sơn, Tỉnh Thanh Hóa, Việt Nam"
+        },
+        {
+            "index": 4,
+            "code": "",
+            "type": "district",
+            "name": "Tx. Nghi Sơn",
+            "slug": "tx. nghi son",
+            "nameWithType": "Thị xã Nghi Sơn",
+            "path": "Tx. Nghi Sơn, Thanh Hóa, Việt Nam",
+            "pathWithType": "Thị xã Nghi Sơn, Tỉnh Thanh Hóa, Việt Nam"
+        },
+        {
+            "index": 5,
+            "code": "",
+            "type": "district",
+            "name": "Bá Thước",
+            "slug": "ba thuoc",
+            "nameWithType": "Huyện Bá Thước",
+            "path": "Bá Thước, Thanh Hóa, Việt Nam",
+            "pathWithType": "Huyện Bá Thước, Tỉnh Thanh Hóa, Việt Nam"
+        },
+        {
+            "index": 6,
+            "code": "",
+            "type": "district",
+            "name": "Cẩm Thủy",
+            "slug": "cam thuy",
+            "nameWithType": "Huyện Cẩm Thủy",
+            "path": "Cẩm Thủy, Thanh Hóa, Việt Nam",
+            "pathWithType": "Huyện Cẩm Thủy, Tỉnh Thanh Hóa, Việt Nam"
+        },
+        {
+            "index": 7,
+            "code": "",
+            "type": "district",
+            "name": "Đông Sơn",
+            "slug": "dong son",
+            "nameWithType": "Huyện Đông Sơn",
+            "path": "Đông Sơn, Thanh Hóa, Việt Nam",
+            "pathWithType": "Huyện Đông Sơn, Tỉnh Thanh Hóa, Việt Nam"
+        },
+        {
+            "index": 8,
+            "code": "",
+            "type": "district",
+            "name": "Hà Trung",
+            "slug": "ha trung",
+            "nameWithType": "Huyện Hà Trung",
+            "path": "Hà Trung, Thanh Hóa, Việt Nam",
+            "pathWithType": "Huyện Hà Trung, Tỉnh Thanh Hóa, Việt Nam"
+        },
+        {
+            "index": 9,
+            "code": "",
+            "type": "district",
+            "name": "Hậu Lộc",
+            "slug": "hau loc",
+            "nameWithType": "Huyện Hậu Lộc",
+            "path": "Hậu Lộc, Thanh Hóa, Việt Nam",
+            "pathWithType": "Huyện hậu Lộc, Tỉnh Thanh Hóa, Việt Nam"
+        },
+        {
+            "index": 10,
+            "code": "",
+            "type": "district",
+            "name": "Hoằng Hóa",
+            "slug": "hoang hoa",
+            "nameWithType": "Huyện Hoằng Hóa",
+            "path": "Hoằng Hóa, Thanh Hóa, Việt Nam",
+            "pathWithType": "Huyện Hoằng Hóa, Tỉnh Thanh Hóa, Việt Nam"
+        },
+        {
+            "index": 11,
+            "code": "",
+            "type": "district",
+            "name": "Lang Chánh",
+            "slug": "lang chanh",
+            "nameWithType": "Huyện Lang Chánh",
+            "path": "Lang Chánh, Thanh Hóa, Việt Nam",
+            "pathWithType": "Huyện Lang Chánh, Tỉnh Thanh Hóa, Việt Nam"
+        },
+        {
+            "index": 12,
+            "code": "",
+            "type": "district",
+            "name": "Mường Lát",
+            "slug": "muong lat",
+            "nameWithType": "Huyện Mường Lát",
+            "path": "Mường Lát, Thanh Hóa, Việt Nam",
+            "pathWithType": "Huyện Mường Lát, Tỉnh Thanh Hóa, Việt Nam"
+        },
+        {
+            "index": 13,
+            "code": "",
+            "type": "district",
+            "name": "Nga Sơn",
+            "slug": "nga son",
+            "nameWithType": "Huyện Nga Sơn",
+            "path": "Nga Sơn, Thanh Hóa, Việt Nam",
+            "pathWithType": "Huyện Nga Sơn, Tỉnh Thanh Hóa, Việt Nam"
+        },
+        {
+            "index": 14,
+            "code": "",
+            "type": "district",
+            "name": "Ngọc Lặc",
+            "slug": "ngoc lac",
+            "nameWithType": "Huyện Ngọc Lặc",
+            "path": "Ngọc Lặc, Thanh Hóa, Việt Nam",
+            "pathWithType": "Huyện Ngọc Lặc, Tỉnh Thanh Hóa, Việt Nam"
+        },
+        {
+            "index": 15,
+            "code": "",
+            "type": "district",
+            "name": "Như Thanh",
+            "slug": "nhu thanh",
+            "nameWithType": "Huyện Như Thanh",
+            "path": "Như Thanh, Thanh Hóa, Việt Nam",
+            "pathWithType": "Huyện Như Thanh, Tỉnh Thanh Hóa, Việt Nam"
+        },
+        {
+            "index": 16,
+            "code": "",
+            "type": "district",
+            "name": "Như Xuân",
+            "slug": "nhu xuan",
+            "nameWithType": "Huyện Như Xuân",
+            "path": "Như Xuân, Thanh Hóa, Việt Nam",
+            "pathWithType": "Huyện Như Xuân, Tỉnh Thanh Hóa, Việt Nam"
+        },
+        {
+            "index": 17,
+            "code": "",
+            "type": "district",
+            "name": "Nông Cống",
+            "slug": "nong cong",
+            "nameWithType": "Huyện Nông Cống",
+            "path": "Nông Cống, Thanh Hóa, Việt Nam",
+            "pathWithType": "Huyện Nông Cống, Tỉnh Thanh Hóa, Việt Nam"
+        },
+        {
+            "index": 18,
+            "code": "",
+            "type": "district",
+            "name": "Quan Hóa",
+            "slug": "quan hoa",
+            "nameWithType": "Huyện Quan Hóa",
+            "path": "Quan Hóa, Thanh Hóa, Việt Nam",
+            "pathWithType": "Huyện Quan Hóa, Tỉnh Thanh Hóa, Việt Nam"
+        },
+        {
+            "index": 19,
+            "code": "",
+            "type": "district",
+            "name": "Quan Sơn",
+            "slug": "quan son",
+            "nameWithType": "Huyện Quan Sơn",
+            "path": "Quan Sơn, Thanh Hóa, Việt Nam",
+            "pathWithType": "Huyện Quan Sơn, Tỉnh Thanh Hóa, Việt Nam"
+        },
+        {
+            "index": 20,
+            "code": "",
+            "type": "district",
+            "name": "Quảng Xương",
+            "slug": "quang xuong",
+            "nameWithType": "Huyện Quảng Xương",
+            "path": "Quảng Xương, Thanh Hóa, Việt Nam",
+            "pathWithType": "Huyện Quảng Xương, Tỉnh Thanh Hóa, Việt Nam"
+        },
+        {
+            "index": 21,
+            "code": "",
+            "type": "district",
+            "name": "Thạch Thành",
+            "slug": "thach thanh",
+            "nameWithType": "Huyện Thạch Thành",
+            "path": "Thạch Thành, Thanh Hóa, Việt Nam",
+            "pathWithType": "Huyện Thạch Thành, Tỉnh Thanh Hóa, Việt Nam"
+        },
+        {
+            "index": 22,
+            "code": "",
+            "type": "district",
+            "name": "Thiệu Hóa",
+            "slug": "thieu hoa",
+            "nameWithType": "Huyện Thiệu Hóa",
+            "path": "Thiệu Hóa, Thanh Hóa, Việt Nam",
+            "pathWithType": "Huyện Thiệu Hóa, Tỉnh Thanh Hóa, Việt Nam"
+        },
+        {
+            "index": 23,
+            "code": "",
+            "type": "district",
+            "name": "Thọ Xuân",
+            "slug": "tho xuan",
+            "nameWithType": "Huyện Thọ Xuân",
+            "path": "Thọ Xuân, Thanh Hóa, Việt Nam",
+            "pathWithType": "Huyện Thọ Xuân, Tỉnh Thanh Hóa, Việt Nam"
+        },
+        {
+            "index": 24,
+            "code": "",
+            "type": "district",
+            "name": "Thường Xuân",
+            "slug": "thuong xuan",
+            "nameWithType": "Huyện Thường Xuân",
+            "path": "Thường Xuân, Thanh Hóa, Việt Nam",
+            "pathWithType": "Huyện Thường Xuân, Tỉnh Thanh Hóa, Việt Nam"
+        },
+        {
+            "index": 25,
+            "code": "",
+            "type": "district",
+            "name": "Triệu Sơn",
+            "slug": "trieu son",
+            "nameWithType": "Huyện Triệu Sơn",
+            "path": "Triệu Sơn, Thanh Hóa, Việt Nam",
+            "pathWithType": "Huyện Triệu Sơn, Tỉnh Thanh Hóa, Việt Nam"
+        },
+        {
+            "index": 26,
+            "code": "",
+            "type": "district",
+            "name": "Vĩnh Lộc",
+            "slug": "vinh loc",
+            "nameWithType": "Huyện Vĩnh Lộc",
+            "path": "Vĩnh Lộc, Thanh Hóa, Việt Nam",
+            "pathWithType": "Huyện Vĩnh Lộc, Tỉnh Thanh Hóa, Việt Nam"
+        },
+        {
+            "index": 27,
+            "code": "",
+            "type": "district",
+            "name": "Yên Định",
+            "slug": "yen dinh",
+            "nameWithType": "Huyện Yên Định",
+            "path": "Yên Định, Thanh Hóa, Việt Nam",
+            "pathWithType": "Huyện Yên Định, Tỉnh Thanh Hóa, Việt Nam"
+        }
+    ]
+}

@@ -1,0 +1,178 @@
+{
+    "description": "Tính đến tháng 06 năm 2021 - Tỉnh An Giang bao gồm 1 Thành phố trực thuộc, 2 Thị xã và 14 Huyện",
+    "lastUpdatedAt": "2021-06-28T17:41:42.382148811+07:00",
+    "type": "province",
+    "name": "Gia Lai",
+    "districts": [
+        {
+            "index": 1,
+            "code": "",
+            "type": "district",
+            "name": "Tp. Pleiu",
+            "slug": "tp. pleiku",
+            "nameWithType": "Thành phố Pleiku",
+            "path": "Tp. Pleiku, Gia Lai, Việt Nam",
+            "pathWithType": "Thành phố Pleiku, Tỉnh Gia Lai, Việt Nam"
+        },
+        {
+            "index": 2,
+            "code": "",
+            "type": "district",
+            "name": "Tx. An Khê",
+            "slug": "tan khe",
+            "nameWithType": "Thị xã An Khê",
+            "path": "Tx. An Khê, Gia Lai, Việt Nam",
+            "pathWithType": "Thị xã An Khê, Tỉnh Gia Lai, Việt Nam"
+        },
+        {
+            "index": 3,
+            "code": "",
+            "type": "district",
+            "name": "Tx. Ayun Pa",
+            "slug": "Tx. Ayun Pa",
+            "nameWithType": "Thị xã Ayun Pa",
+            "path": "Tx. Ayun Pa, Gia Lai, Việt Nam",
+            "pathWithType": "Thị xã Ayun Pa, Tỉnh Gia Lai, Việt Nam"
+        },
+        {
+            "index": 4,
+            "code": "",
+            "type": "district",
+            "name": "Chư Păh",
+            "slug": "chu pah",
+            "nameWithType": "Huyện Chư Păh",
+            "path": "Chư Păh, Gia Lai, Việt Nam",
+            "pathWithType": "Huyện Chư Păh, Tỉnh Gia Lai, Việt Nam"
+        },
+        {
+            "index": 5,
+            "code": "",
+            "type": "district",
+            "name": "Chư Prông",
+            "slug": "chu prong",
+            "nameWithType": "Huyện Chư Prông",
+            "path": "Chư Prông, Gia Lai, Việt Nam",
+            "pathWithType": "Huyện Chư Prông, Tỉnh Gia Lai, Việt Nam"
+        },
+        {
+            "index": 6,
+            "code": "",
+            "type": "district",
+            "name": "Chư Pưh",
+            "slug": "chu puh",
+            "nameWithType": "Huyện Chư Pưh",
+            "path": "Chư Pưh, Gia Lai, Việt Nam",
+            "pathWithType": "Huyện Chư Pưh, Tỉnh Gia Lai, Việt Nam"
+        },
+        {
+            "index": 7,
+            "code": "",
+            "type": "district",
+            "name": "Chư Sê",
+            "slug": "chu se",
+            "nameWithType": "Huyện Chư Sê",
+            "path": "Chư Sê, Gia Lai, Việt Nam",
+            "pathWithType": "Huyện Chư Sê, Tỉnh Gia Lai, Việt Nam"
+        },
+        {
+            "index": 8,
+            "code": "",
+            "type": "district",
+            "name": "Đak Đoa",
+            "slug": "dak doa",
+            "nameWithType": "Huyện Đak Đoa",
+            "path": "Đak Đoa, Gia Lai, Việt Nam",
+            "pathWithType": "Huyện Đak Đoa, Tỉnh Gia Lai, Việt Nam"
+        },
+        {
+            "index": 9,
+            "code": "",
+            "type": "district",
+            "name": "Đak Pơ",
+            "slug": "dak po",
+            "nameWithType": "Huyện Đak Pơ",
+            "path": "Đak Pơ, Gia Lai, Việt Nam",
+            "pathWithType": "Huyện Đak Pơ, Tỉnh Gia Lai, Việt Nam"
+        },
+        {
+            "index": 10,
+            "code": "",
+            "type": "district",
+            "name": "Đức Cơ",
+            "slug": "duc co",
+            "nameWithType": "Huyện Đức Cơ",
+            "path": "Đức Cơ, Gia Lai, Việt Nam",
+            "pathWithType": "Huyện Đức Cơ, Tỉnh Gia Lai, Việt Nam"
+        },
+        {
+            "index": 11,
+            "code": "",
+            "type": "district",
+            "name": "Ia Grai",
+            "slug": "ia grai",
+            "nameWithType": "Huyện Ia Grai",
+            "path": "Ia Grai, Gia Lai, Việt Nam",
+            "pathWithType": "Huyện Ia Grai, Tỉnh Gia Lai, Việt Nam"
+        },
+        {
+            "index": 12,
+            "code": "",
+            "type": "district",
+            "name": "Ia Pa",
+            "slug": "ia pa",
+            "nameWithType": "Huyện Ia Pa",
+            "path": "Ia Pa, Gia Lai, Việt Nam",
+            "pathWithType": "Huyện Ia Pa, Tỉnh Gia Lai, Việt Nam"
+        },
+        {
+            "index": 13,
+            "code": "",
+            "type": "district",
+            "name": "Kbang",
+            "slug": "kbang",
+            "nameWithType": "Huyện Kbang",
+            "path": "Kbang, Gia Lai, Việt Nam",
+            "pathWithType": "Huyện Kbang, Tỉnh Gia Lai, Việt Nam"
+        },
+        {
+            "index": 14,
+            "code": "",
+            "type": "district",
+            "name": "Kông Chro",
+            "slug": "kong chro",
+            "nameWithType": "Huyện Kông Chro",
+            "path": "Kông Chro, Gia Lai, Việt Nam",
+            "pathWithType": "Huyện Kông Chro, Tỉnh Gia Lai, Việt Nam"
+        },
+        {
+            "index": 15,
+            "code": "",
+            "type": "district",
+            "name": "Krông Pa",
+            "slug": "krong pa",
+            "nameWithType": "Huyện Krông Pa",
+            "path": "Krông Pa, Gia Lai, Việt Nam",
+            "pathWithType": "Huyện Krông Pa, Tỉnh Gia Lai, Việt Nam"
+        },
+        {
+            "index": 16,
+            "code": "",
+            "type": "district",
+            "name": "Mang Yang",
+            "slug": "mang yang",
+            "nameWithType": "Huyện Mang Yang",
+            "path": "Mang Yang, Gia Lai, Việt Nam",
+            "pathWithType": "Huyện Mang Yang, Tỉnh Gia Lai, Việt Nam"
+        },
+        {
+            "index": 17,
+            "code": "",
+            "type": "district",
+            "name": "Phú Thiện",
+            "slug": "phu thien",
+            "nameWithType": "Huyện Phú Thiện",
+            "path": "Phú Thiện, Gia Lai, Việt Nam",
+            "pathWithType": "Huyện Phú Thiện, Tỉnh Gia Lai, Việt Nam"
+        }
+    ]
+}

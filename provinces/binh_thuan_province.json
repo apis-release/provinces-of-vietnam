@@ -1,0 +1,108 @@
+{
+    "description": "Tính đến tháng 06 năm 2021 - Tỉnh Bình Thuận bao gồm 1 Thành phố trực thuộc, 1 Thị xã và 8 Huyện",
+    "lastUpdatedAt": "2021-06-28T17:41:42.381872148+07:00",
+    "type": "province",
+    "name": "Bình Thuận",
+    "districts": [
+        {
+            "index": 1,
+            "code": "",
+            "type": "district",
+            "name": "Tp. Phan Thiết",
+            "slug": "tp. phan thiet",
+            "nameWithType": "Thành phố Phan Thiết",
+            "path": "Tp. Phan Thiết, Bình Thuận, Việt Nam",
+            "pathWithType": "Thành phố Phan Thiết, Tỉnh Bình Thuận, Việt Nam"
+        },
+        {
+            "index": 2,
+            "code": "",
+            "type": "district",
+            "name": "Tx. La Gi",
+            "slug": "Tx. La Gi",
+            "nameWithType": "Thị xã La Gi",
+            "path": "Tx. La Gi, Bình Thuận, Việt Nam",
+            "pathWithType": "Thị xã La Gi, Tỉnh Bình Thuận, Việt Nam"
+        },
+        {
+            "index": 3,
+            "code": "",
+            "type": "district",
+            "name": "Bắc Bình",
+            "slug": "bac binh",
+            "nameWithType": "Huyện Bắc Bình",
+            "path": "Bắc Bình, Bình Thuận, Việt Nam",
+            "pathWithType": "Huyện Bắc Bình, Tỉnh Bình Thuận, Việt Nam"
+        },
+        {
+            "index": 4,
+            "code": "",
+            "type": "district",
+            "name": "Đức Linh",
+            "slug": "duc linh",
+            "nameWithType": "Huyện Đức Linh",
+            "path": "Đức Linh, Bình Thuận, Việt Nam",
+            "pathWithType": "Huyện Đức Linh, Tỉnh Bình Thuận, Việt Nam"
+        },
+        {
+            "index": 5,
+            "code": "",
+            "type": "district",
+            "name": "Hàm Tân",
+            "slug": "han tan",
+            "nameWithType": "Huyện Hàm Tân",
+            "path": "Hàm Tân, Bình Thuận, Việt Nam",
+            "pathWithType": "Huyện Hàm Tân, Tỉnh Bình Thuận, Việt Nam"
+        },
+        {
+            "index": 6,
+            "code": "",
+            "type": "district",
+            "name": "Hàm Thuận Bắc",
+            "slug": "ham thuan bac",
+            "nameWithType": "Huyện Hàm Thuận Bắc",
+            "path": "Hàm Thuận Bắc, Bình Thuận, Việt Nam",
+            "pathWithType": "Huyện Hàm Thuận Bắc, Tỉnh Bình Thuận, Việt Nam"
+        },
+        {
+            "index": 7,
+            "code": "",
+            "type": "district",
+            "name": "Hàm Thuận Nam",
+            "slug": "ham thuan nam",
+            "nameWithType": "Huyện Hàm Thuận Nam",
+            "path": "Hàm Thuận Nam, Bình Thuận, Việt Nam",
+            "pathWithType": "Huyện Hàm Thuận Nam, Tỉnh Bình Thuận, Việt Nam"
+        },
+        {
+            "index": 8,
+            "code": "",
+            "type": "district",
+            "name": "Phú QUý",
+            "slug": "phu quy",
+            "nameWithType": "Huyện Phú Quý",
+            "path": "Phú Quý, Bình Thuận, Việt Nam",
+            "pathWithType": "Huyện Phú Quý, Tỉnh Bình Thuận, Việt Nam"
+        },
+        {
+            "index": 9,
+            "code": "",
+            "type": "district",
+            "name": "Tánh Linh",
+            "slug": "tanh linh",
+            "nameWithType": "Huyện Tánh Linh",
+            "path": "Tánh Linh, Bình Thuận, Việt Nam",
+            "pathWithType": "Huyện Tánh Linh, Tỉnh Bình Thuận, Việt Nam"
+        },
+        {
+            "index": 10,
+            "code": "",
+            "type": "district",
+            "name": "Tuy Phong",
+            "slug": "tuy phong",
+            "nameWithType": "Huyện Tuy Phong",
+            "path": "Tuy Phong, Bình Thuận, Việt Nam",
+            "pathWithType": "Huyện Tuy Phong, Tỉnh Bình Thuận, Việt Nam"
+        }
+    ]
+}

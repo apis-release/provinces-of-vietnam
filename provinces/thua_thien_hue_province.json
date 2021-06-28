@@ -1,0 +1,98 @@
+{
+    "description": "Tính đến tháng 06 năm 2021 - Tỉnh Thừa Thiên - Huế bao gồm 1 Thành phố trực thuộc, 2 Thị xã và 6 Huyện",
+    "lastUpdatedAt": "2021-06-28T17:41:42.38322165+07:00",
+    "type": "province",
+    "name": "Thừa Thiên - Huế",
+    "districts": [
+        {
+            "index": 1,
+            "code": "",
+            "type": "district",
+            "name": "Tp. Huế",
+            "slug": "tp. hue",
+            "nameWithType": "Thành phố Huế",
+            "path": "Tp. Huế, Thừa Thiên Huế, Việt Nam",
+            "pathWithType": "Thành phố Huế, Tỉnh Thừa Thiên - Huế, Việt Nam"
+        },
+        {
+            "index": 2,
+            "code": "",
+            "type": "district",
+            "name": "Tx. Hương Thủy",
+            "slug": "thuong thuy",
+            "nameWithType": "Thị xã Hương Thủy",
+            "path": "Tx. Hương Thủy, Thừa Thiên Huế, Việt Nam",
+            "pathWithType": "Thị xã Hương Thủy, Tỉnh Thừa Thiên - Huế, Việt Nam"
+        },
+        {
+            "index": 3,
+            "code": "",
+            "type": "district",
+            "name": "Tx. Hương Trà",
+            "slug": "thuong tra",
+            "nameWithType": "Thị xã Hương Trà",
+            "path": "Tx. Hương Trà, Thừa Thiên Huế, Việt Nam",
+            "pathWithType": "Thị xã Hương Trà, Tỉnh Thừa Thiên - Huế, Việt Nam"
+        },
+        {
+            "index": 4,
+            "code": "",
+            "type": "district",
+            "name": "A Lưới",
+            "slug": "a luoi",
+            "nameWithType": "Huyện A Lưới",
+            "path": "A Lưới, Thừa Thiên Huế, Việt Nam",
+            "pathWithType": "Huyện A Lưới, Tỉnh Thừa Thiên - Huế, Việt Nam"
+        },
+        {
+            "index": 5,
+            "code": "",
+            "type": "district",
+            "name": "Nam Đông",
+            "slug": "nam dong",
+            "nameWithType": "Huyện Nam Đông",
+            "path": "Nam Đông, Thừa Thiên Huế, Việt Nam",
+            "pathWithType": "Huyện Nam Đông, Tỉnh Thừa Thiên - Huế, Việt Nam"
+        },
+        {
+            "index": 6,
+            "code": "",
+            "type": "district",
+            "name": "Phong Điền",
+            "slug": "phong dien",
+            "nameWithType": "Huyện Phong Điền",
+            "path": "Phong Điền, Thừa Thiên Huế, Việt Nam",
+            "pathWithType": "Huyện Phong Điền, Tỉnh Thừa Thiên - Huế, Việt Nam"
+        },
+        {
+            "index": 7,
+            "code": "",
+            "type": "district",
+            "name": "Phú Lộc",
+            "slug": "phu loc",
+            "nameWithType": "Huyện Phú Lộc",
+            "path": "Phú Lộc, Thừa Thiên Huế, Việt Nam",
+            "pathWithType": "Huyện Phú Lộc, Tỉnh Thừa Thiên - Huế, Việt Nam"
+        },
+        {
+            "index": 8,
+            "code": "",
+            "type": "district",
+            "name": "Phú Vang",
+            "slug": "phu vang",
+            "nameWithType": "Huyện Phú Vang",
+            "path": "Phú Vang, Thừa Thiên Huế, Việt Nam",
+            "pathWithType": "Huyện Phú Vang, Tỉnh Thừa Thiên - Huế, Việt Nam"
+        },
+        {
+            "index": 9,
+            "code": "",
+            "type": "district",
+            "name": "Quảng Điền",
+            "slug": "quang dien",
+            "nameWithType": "Huyện Quảng Điền",
+            "path": "Quảng Đièn, Thừa Thiên Huế, Việt Nam",
+            "pathWithType": "Huyện Quảng Điền, Tỉnh Thừa Thiên - Huế, Việt Nam"
+        }
+    ]
+}

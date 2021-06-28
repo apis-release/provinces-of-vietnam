@@ -1,0 +1,98 @@
+{
+    "description": "Tính đến tháng 06 năm 2021 - Tỉnh Tây Ninh bao gồm 1 Thành phố trực thuộc, 2 Thị xã và 6 Huyện",
+    "lastUpdatedAt": "2021-06-28T17:41:42.383106952+07:00",
+    "type": "province",
+    "name": "Tây Ninh",
+    "districts": [
+        {
+            "index": 1,
+            "code": "",
+            "type": "district",
+            "name": "Tp. Tây Ninh",
+            "slug": "tp. tay ninh",
+            "nameWithType": "Thành phố Tây Ninh",
+            "path": "Tp. Tây Ninh, Tây Ninh, Việt Nam",
+            "pathWithType": "Thành phố Tây Ninh, Tỉnh Tây Ninh, Việt Nam"
+        },
+        {
+            "index": 2,
+            "code": "",
+            "type": "district",
+            "name": "Hòa Thành",
+            "slug": "hoa thanh",
+            "nameWithType": "Huyện Hòa Thành",
+            "path": "Hòa Thành, Tây Ninh, Việt Nam",
+            "pathWithType": "Huyện Hòa Thành, Tỉnh Tây Ninh, Việt Nam"
+        },
+        {
+            "index": 3,
+            "code": "",
+            "type": "district",
+            "name": "Trảng Bàng",
+            "slug": "trang bang",
+            "nameWithType": "Huyện Trảng Bàng",
+            "path": "Trảng Bàng, Tây Ninh, Việt Nam",
+            "pathWithType": "Huyện Trảng Bàng, Tỉnh Tây Ninh, Việt Nam"
+        },
+        {
+            "index": 4,
+            "code": "",
+            "type": "district",
+            "name": "Bến Cầu",
+            "slug": "ben cau",
+            "nameWithType": "Huyện Bến Cầu",
+            "path": "Bến Cầu, Tây Ninh, Việt Nam",
+            "pathWithType": "Huyện Bến Cầu, Tỉnh Tây Ninh, Việt Nam"
+        },
+        {
+            "index": 5,
+            "code": "",
+            "type": "district",
+            "name": "Châu Thành",
+            "slug": "chau thanh",
+            "nameWithType": "Huyện Châu Thành",
+            "path": "Châu Thành, Tây Ninh, Việt Nam",
+            "pathWithType": "Huyện Châu Thành, Tỉnh Tây Ninh, Việt Nam"
+        },
+        {
+            "index": 6,
+            "code": "",
+            "type": "district",
+            "name": "Dương Minh Châu",
+            "slug": "duong minh chau",
+            "nameWithType": "Huyện Dương Minh Châu",
+            "path": "Dương Minh Châu, Tây Ninh, Việt Nam",
+            "pathWithType": "Huyện Dương Minh Châu, Tỉnh Tây Ninh, Việt Nam"
+        },
+        {
+            "index": 7,
+            "code": "",
+            "type": "district",
+            "name": "Gò Dầu",
+            "slug": "go dau",
+            "nameWithType": "Huyện Gò Dầu",
+            "path": "Gò Dầu, Tây Ninh, Việt Nam",
+            "pathWithType": "Huyện Gò Dầu, Tỉnh Tây Ninh, Việt Nam"
+        },
+        {
+            "index": 8,
+            "code": "",
+            "type": "district",
+            "name": "Tân Biên",
+            "slug": "tan bien",
+            "nameWithType": "Huyện Tân Biên",
+            "path": "Tân Biên, Tây Ninh, Việt Nam",
+            "pathWithType": "Huyện Tân Biên, Tỉnh Tây Ninh, Việt Nam"
+        },
+        {
+            "index": 9,
+            "code": "",
+            "type": "district",
+            "name": "Tân Châu",
+            "slug": "tan chau",
+            "nameWithType": "Huyện Tân Châu",
+            "path": "Tân Châu, Tây Ninh, Việt Nam",
+            "pathWithType": "Huyện Tân Châu, Tỉnh Tây Ninh, Việt Nam"
+        }
+    ]
+}

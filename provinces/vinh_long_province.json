@@ -1,0 +1,88 @@
+{
+    "description": "Tính đến tháng 06 năm 2021 - Tỉnh Vĩnh Long bao gồm 1 Thành phố trực thuộc, 1 Thị xã và 6 Huyện",
+    "lastUpdatedAt": "2021-06-28T17:41:42.383328551+07:00",
+    "type": "province",
+    "name": "Vĩnh Long",
+    "districts": [
+        {
+            "index": 1,
+            "code": "",
+            "type": "district",
+            "name": "Tp. Vĩnh Long",
+            "slug": "tp. vinh long",
+            "nameWithType": "Thành phố Vĩnh Long",
+            "path": "Tp. Vĩnh Long, Vĩnh Long, Việt Nam",
+            "pathWithType": "Thành phố Vĩnh Long, Tỉnh Vĩnh Long, Việt Nam"
+        },
+        {
+            "index": 2,
+            "code": "",
+            "type": "district",
+            "name": "Tx. Bình Minh",
+            "slug": "tx. binh minh",
+            "nameWithType": "Thị xã Bình Minh",
+            "path": "Tx. Bình Minh, Vĩnh Long, Việt Nam",
+            "pathWithType": "Thị xã Bình Minh, Tỉnh Vĩnh Long, Việt Nam"
+        },
+        {
+            "index": 3,
+            "code": "",
+            "type": "district",
+            "name": "Bình Tân",
+            "slug": "binh tan",
+            "nameWithType": "Huyện Bình Tân",
+            "path": "Bình Tân, Vĩnh Long, Việt Nam",
+            "pathWithType": "Huyện Bình Tân, Tỉnh Vĩnh Long, Việt Nam"
+        },
+        {
+            "index": 4,
+            "code": "",
+            "type": "district",
+            "name": "Long Hồ",
+            "slug": "long ho",
+            "nameWithType": "Huyện Long Hồ",
+            "path": "Long Hồ, Vĩnh Long, Việt Nam",
+            "pathWithType": "Huyện Long Hồ, Tỉnh Vĩnh Long, Việt Nam"
+        },
+        {
+            "index": 5,
+            "code": "",
+            "type": "district",
+            "name": "Mang Thít",
+            "slug": "mang thit",
+            "nameWithType": "Huyện Mang Thít",
+            "path": "Mang Thít, Vĩnh Long, Việt Nam",
+            "pathWithType": "Huyện Mang Thít, Tỉnh Vĩnh Long, Việt Nam"
+        },
+        {
+            "index": 6,
+            "code": "",
+            "type": "district",
+            "name": "Tam Bình",
+            "slug": "tam binh",
+            "nameWithType": "Huyện Tam Bình",
+            "path": "Tam Bình, Vĩnh Long, Việt Nam",
+            "pathWithType": "Huyện Tam Bình, Tỉnh Vĩnh Long, Việt Nam"
+        },
+        {
+            "index": 7,
+            "code": "",
+            "type": "district",
+            "name": "Trà Ôn",
+            "slug": "tra on",
+            "nameWithType": "Huyện Trà Ôn",
+            "path": "Trà Ôn, Vĩnh Long, Việt Nam",
+            "pathWithType": "Huyện Trà Ôn, Tỉnh Vĩnh Long, Việt Nam"
+        },
+        {
+            "index": 8,
+            "code": "",
+            "type": "district",
+            "name": "Vũnh Liêm",
+            "slug": "vunh liem",
+            "nameWithType": "Huyện Vũnh Liêm",
+            "path": "Vũnh Liêm, Vĩnh Long, Việt Nam",
+            "pathWithType": "Huyện Vũnh Liêm, Tỉnh Vĩnh Long, Việt Nam"
+        }
+    ]
+}

@@ -1,0 +1,108 @@
+{
+    "description": "Tính đến tháng 06 năm 2021 - Tỉnh Quảng Trị bao gồm 1 Thành phố trực thuộc, 1 Thị xã và 8 Huyện",
+    "lastUpdatedAt": "2021-06-28T17:41:42.3830242+07:00",
+    "type": "province",
+    "name": "Quảng Trị",
+    "districts": [
+        {
+            "index": 1,
+            "code": "",
+            "type": "district",
+            "name": "Tp. Đông Hà",
+            "slug": "tp. dong ha",
+            "nameWithType": "Thành phố Đông Hà",
+            "path": "Tp. Đông Hà, Quảng Trị, Việt Nam",
+            "pathWithType": "Thành phố Đông Hà, Tỉnh Quảng Trị, Việt Nam"
+        },
+        {
+            "index": 2,
+            "code": "",
+            "type": "district",
+            "name": "Tx. Quảng Trị",
+            "slug": "tx. quang tri",
+            "nameWithType": "Thị xã Quảng Trị",
+            "path": "Tx. Quảng Trị, Quảng Trị, Việt Nam",
+            "pathWithType": "Thị xã Quảng Trị, Tỉnh Quảng Trị, Việt Nam"
+        },
+        {
+            "index": 3,
+            "code": "",
+            "type": "district",
+            "name": "Cam Lộ",
+            "slug": "cam lo",
+            "nameWithType": "Huyện Cam Lộ",
+            "path": "Cam Lộ, Quảng Trị, Việt Nam",
+            "pathWithType": "Huyện Cam Lộ, Tỉnh Quảng Trị, Việt Nam"
+        },
+        {
+            "index": 4,
+            "code": "",
+            "type": "district",
+            "name": "Cồn Cỏ",
+            "slug": "con co",
+            "nameWithType": "Huyện Cồn Cỏ",
+            "path": "Cồn Cỏ, Quảng Trị, Việt Nam",
+            "pathWithType": "Huyện Cồn Cỏ, Tỉnh Quảng Trị, Việt Nam"
+        },
+        {
+            "index": 5,
+            "code": "",
+            "type": "district",
+            "name": "Đa Krông",
+            "slug": "da krong",
+            "nameWithType": "Huyện Đa Krông",
+            "path": "Đa Krông, Quảng Trị, Việt Nam",
+            "pathWithType": "Huyện Đa Krông, Tỉnh Quảng Trị, Việt Nam"
+        },
+        {
+            "index": 6,
+            "code": "",
+            "type": "district",
+            "name": "Gio Linh",
+            "slug": "gio linh",
+            "nameWithType": "Huyện Gio Linh",
+            "path": "Gio Linh, Quảng Trị, Việt Nam",
+            "pathWithType": "Huyện Gio Linh, Tỉnh Quảng Trị, Việt Nam"
+        },
+        {
+            "index": 7,
+            "code": "",
+            "type": "district",
+            "name": "Hải Lăng",
+            "slug": "hai lang",
+            "nameWithType": "Huyện Hải Lăng",
+            "path": "Hải Lăng, Quảng Trị, Việt Nam",
+            "pathWithType": "Huyện Hải Lăng, Tỉnh Quảng Trị, Việt Nam"
+        },
+        {
+            "index": 8,
+            "code": "",
+            "type": "district",
+            "name": "Hướng Hóa",
+            "slug": "huong hoa",
+            "nameWithType": "Huyện Hướng Hóa",
+            "path": "Hướng Hóa, Quảng Trị, Việt Nam",
+            "pathWithType": "Huyện Hướng Hóa, Tỉnh Quảng Trị, Việt Nam"
+        },
+        {
+            "index": 9,
+            "code": "",
+            "type": "district",
+            "name": "Triệu Phong",
+            "slug": "trieu phong",
+            "nameWithType": "Huyện Triệu Phong",
+            "path": "Triệu Phong, Quảng Trị, Việt Nam",
+            "pathWithType": "Huyện Triệu Phong, Tỉnh Quảng Trị, Việt Nam"
+        },
+        {
+            "index": 10,
+            "code": "",
+            "type": "district",
+            "name": "Vĩnh Linh",
+            "slug": "vinh linh",
+            "nameWithType": "Huyện Vĩnh Linh",
+            "path": "Vĩnh Linh, Quảng Trị, Việt Nam",
+            "pathWithType": "Huyện Vĩnh Linh, Tỉnh Quảng Trị, Việt Nam"
+        }
+    ]
+}

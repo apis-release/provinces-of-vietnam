@@ -1,0 +1,118 @@
+{
+    "description": "Tính đến tháng 06 năm 2021 - Tỉnh Sóc Trăng bao gồm 1 Thành phố trực thuộc, 2 Thị xã và 8 Huyện",
+    "lastUpdatedAt": "2021-06-28T17:41:42.383047111+07:00",
+    "type": "province",
+    "name": "Sóc Trăng",
+    "districts": [
+        {
+            "index": 1,
+            "code": "",
+            "type": "district",
+            "name": "Tp. Sóc Trăng",
+            "slug": "tp. soc trang",
+            "nameWithType": "Thành phố Sóc Trăng",
+            "path": "Tp. Sóc Trăng, Sóc Trăng, Việt Nam",
+            "pathWithType": "Thành phố Sóc Trăng, Tỉnh Sóc Trăng, Việt Nam"
+        },
+        {
+            "index": 2,
+            "code": "",
+            "type": "district",
+            "name": "Tx. Vĩnh Châu",
+            "slug": "tx. vinh chau",
+            "nameWithType": "Thị xã Vĩnh Châu",
+            "path": "Tx. Vĩnh Châu, Sóc Trăng, Việt Nam",
+            "pathWithType": "Thị xã Vĩnh Châu, Tỉnh Sóc Trăng, Việt Nam"
+        },
+        {
+            "index": 3,
+            "code": "",
+            "type": "district",
+            "name": "Tx. Ngã Năm",
+            "slug": "tx. nga nam",
+            "nameWithType": "Thị xã Ngã Năm",
+            "path": "Tx. Ngã Năm, Sóc Trăng, Việt Nam",
+            "pathWithType": "Thị xã Ngã Năm, Tỉnh Sóc Trăng, Việt Nam"
+        },
+        {
+            "index": 4,
+            "code": "",
+            "type": "district",
+            "name": "Mỹ Xuyên",
+            "slug": "my xuyen",
+            "nameWithType": "Huyện Mỹ Xuyên",
+            "path": "Mỹ Xuyên, Sóc Trăng, Việt Nam",
+            "pathWithType": "HUyện Mỹ Xuyên, Tỉnh Sóc Trăng, Việt Nam"
+        },
+        {
+            "index": 5,
+            "code": "",
+            "type": "district",
+            "name": "Trần Đề",
+            "slug": "tran de",
+            "nameWithType": "Huyện Trần Đề",
+            "path": "Trần Đề, Sóc Trăng, Việt Nam",
+            "pathWithType": "Huyện Trần Đề, Tỉnh Sóc Trăng, Việt Nam"
+        },
+        {
+            "index": 6,
+            "code": "",
+            "type": "district",
+            "name": "Long Phú",
+            "slug": "long phu",
+            "nameWithType": "Huyện Long Phú",
+            "path": "Long phú, Sóc Trăng, Việt Nam",
+            "pathWithType": "Huyên Long Phú, Tỉnh Sóc Trăng, Việt Nam"
+        },
+        {
+            "index": 7,
+            "code": "",
+            "type": "district",
+            "name": "Kế Sách",
+            "slug": "ke sach",
+            "nameWithType": "Huyện Kế Sách",
+            "path": "Kế Sách, Sóc Trăng, Việt Nam",
+            "pathWithType": "Huyện Kế Sách, Tỉnh Sóc Trăng, Việt Nam"
+        },
+        {
+            "index": 8,
+            "code": "",
+            "type": "district",
+            "name": "Cù Lao Dung",
+            "slug": "cu lao dung",
+            "nameWithType": "Huyện Cù Lao Dung",
+            "path": "Cù Lao Dung, Sóc Trăng, Việt Nam",
+            "pathWithType": "Huyện Cù Lao Dung, Tỉnh Sóc Trăng, Việt Nam"
+        },
+        {
+            "index": 9,
+            "code": "",
+            "type": "district",
+            "name": "Châu Thành",
+            "slug": "chau thanh",
+            "nameWithType": "Huyện Châu Thành",
+            "path": "Châu Thành, Sóc Trăng, Việt Nam",
+            "pathWithType": "Huyện Châu Thành, Tỉnh Sóc Trăng, Việt Nam"
+        },
+        {
+            "index": 10,
+            "code": "",
+            "type": "district",
+            "name": "Mỹ Tú",
+            "slug": "my tu",
+            "nameWithType": "Huyện Mỹ Tú",
+            "path": "Mỹ Tú, Sóc Trăng, Việt Nam",
+            "pathWithType": "Huyện Mỹ Tú, Tỉnh Sóc Trăng, Việt Nam"
+        },
+        {
+            "index": 11,
+            "code": "",
+            "type": "district",
+            "name": "Thạnh Trị",
+            "slug": "thanh tri",
+            "nameWithType": "Huyện Thạnh Trị",
+            "path": "Thạnh Trị, Sóc Trăng, Việt Nam",
+            "pathWithType": "Huyện Thạnh Trị, Tỉnh Sóc Trăng, Việt Nam"
+        }
+    ]
+}

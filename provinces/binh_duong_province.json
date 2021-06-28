@@ -1,0 +1,98 @@
+{
+    "description": "Tính đến tháng 06 năm 2021 - Tỉnh Bình Dương bao gồm 3 Thành phố trực thuộc, 2 Thị xã và 4 Huyện",
+    "lastUpdatedAt": "2021-06-28T17:41:42.38169041+07:00",
+    "type": "province",
+    "name": "Bình Dương",
+    "districts": [
+        {
+            "index": 1,
+            "code": "",
+            "type": "district",
+            "name": "Tp. Thủ Dầu Một",
+            "slug": "tp. thu dau mot",
+            "nameWithType": "Thành phố Thủ Dầu Một",
+            "path": "Tp. Thủ Dầu Một, Bình Dương, Việt Nam",
+            "pathWithType": "Thành phố Thủ Dầu Một, Tỉnh Bình Dương, Việt Nam"
+        },
+        {
+            "index": 2,
+            "code": "",
+            "type": "district",
+            "name": "Tp. Dĩ An",
+            "slug": "tp. di an",
+            "nameWithType": "Thành phó Dĩ An",
+            "path": "Tp. Dĩ An, Bình Dương, Việt Nam",
+            "pathWithType": "Thành phố Dĩ An, Tỉnh Bình Dương, Việt Nam"
+        },
+        {
+            "index": 3,
+            "code": "",
+            "type": "district",
+            "name": "Tp. Thuận An",
+            "slug": "tp. thuan an",
+            "nameWithType": "Thành phố Thuận An",
+            "path": "Tp. Thuận An, Bình Dương, Việt Nam",
+            "pathWithType": "Thành phố Thuận An, Tỉnh Bình Dương, Việt Nam"
+        },
+        {
+            "index": 4,
+            "code": "",
+            "type": "district",
+            "name": "Tx. Bến Cát",
+            "slug": "tx. ben cat",
+            "nameWithType": "Thị xã Bến Cát",
+            "path": "Tx. Bến Cát, Bình Dương, Việt Nam",
+            "pathWithType": "Thị xã Bến Cát, Tỉnh Bình Dương, Việt Nam"
+        },
+        {
+            "index": 5,
+            "code": "",
+            "type": "district",
+            "name": "Tx. Tân Uyên",
+            "slug": "tx. tan uyen",
+            "nameWithType": "Thị xã Tân Uyên",
+            "path": "Tx. Tân Uyên, Bình Dương, Việt Nam",
+            "pathWithType": "Thị xã Tân Uyên, Tỉnh Bình Dương, Việt Nam"
+        },
+        {
+            "index": 6,
+            "code": "",
+            "type": "district",
+            "name": "Bắc Tân Uyên",
+            "slug": "bac tan uyen",
+            "nameWithType": "Huyện Bắc Tân Uyên",
+            "path": "Bắc Tân Uyên, Bình Dương, Việt Nam",
+            "pathWithType": "Huyện Bắc Tân Uyên, Tỉnh Bình Dương, Việt Nam"
+        },
+        {
+            "index": 7,
+            "code": "",
+            "type": "district",
+            "name": "Bàu Bàng",
+            "slug": "bau bang",
+            "nameWithType": "Huyện Bàu Bàng",
+            "path": "Bàu Bàng, Bình Dương, Việt Nam",
+            "pathWithType": "Huyện Bàu Bàng, Tỉnh Bình Dương, Việt Nam"
+        },
+        {
+            "index": 8,
+            "code": "",
+            "type": "district",
+            "name": "Dầu Tiếng",
+            "slug": "dau tieng",
+            "nameWithType": "Huyện Dầu Tiếng",
+            "path": "Dầu Tiếng, Bình Dương, Việt Nam",
+            "pathWithType": "Huyện Dầu Tiếng, Tỉnh Bình Dương, Việt Nam"
+        },
+        {
+            "index": 9,
+            "code": "",
+            "type": "district",
+            "name": "Phú Giáo",
+            "slug": "phu giao",
+            "nameWithType": "Huyện Phú Giáo",
+            "path": "Phú Giáo, Bình Dương, Việt Nam",
+            "pathWithType": "Huyện Phú Giáo, Tỉnh Bình Dương, Việt Nam"
+        }
+    ]
+}

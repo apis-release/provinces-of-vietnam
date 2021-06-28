@@ -1,0 +1,78 @@
+{
+    "description": "Tính đến tháng 06 năm 2021 - Tỉnh Ninh Thuận bao gồm 1 Thành phố trực thuộc và 6 Huyện",
+    "lastUpdatedAt": "2021-06-28T17:41:42.382830469+07:00",
+    "type": "province",
+    "name": "Ninh Thuận",
+    "districts": [
+        {
+            "index": 1,
+            "code": "",
+            "type": "district",
+            "name": "Tp. Phan Rang - Tháp Chàm",
+            "slug": "tp phan rang thap cham",
+            "nameWithType": "Thành phố Phan Rang - Tháp Chàm",
+            "path": "Tp. Phan Rang - Tháp Chàm, Ninh Thuận, Việt Nam",
+            "pathWithType": "Thành phố Phan Rang - Tháp Chàm, Tỉnh Ninh Thuận, Việt Nam"
+        },
+        {
+            "index": 2,
+            "code": "",
+            "type": "district",
+            "name": "Bác Ái",
+            "slug": "bac ai",
+            "nameWithType": "Huyện Bác Ái",
+            "path": "Bác Ái, Ninh Thuận, Việt Nam",
+            "pathWithType": "Huyện Bác Ái, Tỉnh Ninh Thuận, Việt Nam"
+        },
+        {
+            "index": 3,
+            "code": "",
+            "type": "district",
+            "name": "Ninh Hải",
+            "slug": "ninh hai",
+            "nameWithType": "Huyện Ninh Hải",
+            "path": "Ninh Hải, Ninh Thuận, Việt Nam",
+            "pathWithType": "Huyện Ninh Hải, Tỉnh Ninh Thuận, Việt Nam"
+        },
+        {
+            "index": 4,
+            "code": "",
+            "type": "district",
+            "name": "Ninh Phước",
+            "slug": "ninh phuoc",
+            "nameWithType": "Huyện Ninh Phước",
+            "path": "Ninh Phước, Ninh Thuận, Việt Nam",
+            "pathWithType": "Huyện Ninh Phước, Tỉnh Ninh Thuận, Việt Nam"
+        },
+        {
+            "index": 5,
+            "code": "",
+            "type": "district",
+            "name": "Ninh Sơn",
+            "slug": "ninh son",
+            "nameWithType": "Huyện Ninh Sơn",
+            "path": "Ninh Sơn, Ninh Thuận, Việt Nam",
+            "pathWithType": "Huyện Ninh Sơn, Tỉnh Ninh Thuận, Việt Nam"
+        },
+        {
+            "index": 6,
+            "code": "",
+            "type": "district",
+            "name": "Thuận Bắc",
+            "slug": "thuan bac",
+            "nameWithType": "Huyện Thuận Bắc",
+            "path": "Thuận Bắc, Ninh Thuận, Việt Nam",
+            "pathWithType": "Huyện Thuận Bắc, Tỉnh Ninh Thuận, Việt Nam"
+        },
+        {
+            "index": 7,
+            "code": "",
+            "type": "district",
+            "name": "Thuận Nam",
+            "slug": "thuan nam",
+            "nameWithType": "Huyện Thuận Nam",
+            "path": "Thuận Nam, Ninh Thuận, Việt Nam",
+            "pathWithType": "Huyện Thuận Nam, Tỉnh Ninh Thuận, Việt Nam"
+        }
+    ]
+}

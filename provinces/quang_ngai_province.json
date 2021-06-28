@@ -1,0 +1,138 @@
+{
+    "description": "Tính đến tháng 06 năm 2021 - Tỉnh Quảng Ngãi bao gồm 1 Thành phố trực thuộc, 1 Thị xã và 11 Huyện",
+    "lastUpdatedAt": "2021-06-28T17:41:42.382967747+07:00",
+    "type": "province",
+    "name": "Quảng Ngãi",
+    "districts": [
+        {
+            "index": 1,
+            "code": "",
+            "type": "district",
+            "name": "Tp. Quảng Ngãi",
+            "slug": "tp. quang ngai",
+            "nameWithType": "Thành phố Quảng Ngãi",
+            "path": "Tp. Quảng Ngãi, Quảng Ngãi, Việt Nam",
+            "pathWithType": "Thành phố Quảng Ngãi, Tỉnh Quảng Ngãi, Việt Nam"
+        },
+        {
+            "index": 2,
+            "code": "",
+            "type": "district",
+            "name": "Đức Phổ",
+            "slug": "Đức pho",
+            "nameWithType": "Huyện Đức Phổ",
+            "path": "TĐức Phổ, Quảng Ngãi, Việt Nam",
+            "pathWithType": "Huyện Đức Phổ, Tỉnh Quảng Ngãi, Việt Nam"
+        },
+        {
+            "index": 3,
+            "code": "",
+            "type": "district",
+            "name": "Ba Tơ",
+            "slug": "ba to",
+            "nameWithType": "Huyện Ba Tơ",
+            "path": "Ba Tơ, Quảng Ngãi, Việt Nam",
+            "pathWithType": "Huyện Ba Tơ, Tỉnh Quảng Ngãi, Việt Nam"
+        },
+        {
+            "index": 4,
+            "code": "",
+            "type": "district",
+            "name": "Bình Sơn",
+            "slug": "binh son",
+            "nameWithType": "Huyện Bình Sơn",
+            "path": "Bình Sơn, Quảng Ngãi, Việt Nam",
+            "pathWithType": "Huyên Bình Sơn, Tỉnh Quảng Ngãi, Việt Nam"
+        },
+        {
+            "index": 5,
+            "code": "",
+            "type": "district",
+            "name": "Lý Sơn",
+            "slug": "ly son",
+            "nameWithType": "Huyện Lý Sơn",
+            "path": "Lý Sơn, Quảng Ngãi, Việt Nam",
+            "pathWithType": "Huyện Lý Sơn, Tỉnh Quảng Ngãi, Việt Nam"
+        },
+        {
+            "index": 6,
+            "code": "",
+            "type": "district",
+            "name": "Minh Long",
+            "slug": "minh long",
+            "nameWithType": "Huyện Minh Long",
+            "path": "Minh Long, Quảng Ngãi, Việt Nam",
+            "pathWithType": "Huyện Minh Long, Tỉnh Quảng Ngãi, Việt Nam"
+        },
+        {
+            "index": 7,
+            "code": "",
+            "type": "district",
+            "name": "Mộ Đức",
+            "slug": "mo duc",
+            "nameWithType": "Huyện Mộ Đức",
+            "path": "Mộ Đức, Quảng Ngãi, Việt Nam",
+            "pathWithType": "Huyện Mộ Đức, Tỉnh Quảng Ngãi, Việt Nam"
+        },
+        {
+            "index": 8,
+            "code": "",
+            "type": "district",
+            "name": "Nghĩa Hành",
+            "slug": "nghia hanh",
+            "nameWithType": "Huyện Nghĩa Hành",
+            "path": "Nghĩa Hành, Quảng Ngãi, Việt Nam",
+            "pathWithType": "Huyện Nghĩa Hành, Tỉnh Quảng Ngãi, Việt Nam"
+        },
+        {
+            "index": 9,
+            "code": "",
+            "type": "district",
+            "name": "Sơn Hà",
+            "slug": "son ha",
+            "nameWithType": "Huyện Sơn Hà",
+            "path": "Sơn Hà, Quảng Ngãi, Việt Nam",
+            "pathWithType": "Huyện Sơn Hà, Tỉnh Quảng Ngãi, Việt Nam"
+        },
+        {
+            "index": 10,
+            "code": "",
+            "type": "district",
+            "name": "Sơn Tây",
+            "slug": "son tay",
+            "nameWithType": "Huyện Sơn Tây",
+            "path": "Sơn Tây, Quảng Ngãi, Việt Nam",
+            "pathWithType": "Huyện Sơn Tây, Tỉnh Quảng Ngãi, Việt Nam"
+        },
+        {
+            "index": 11,
+            "code": "",
+            "type": "district",
+            "name": "Sơn Tịnh",
+            "slug": "son tinh",
+            "nameWithType": "Huyện Sơn Tịnh",
+            "path": "Sơn Tịnh, Quảng Ngãi, Việt Nam",
+            "pathWithType": "Huyện Sơn Tịnh, Tỉnh Quảng Ngãi, Việt Nam"
+        },
+        {
+            "index": 12,
+            "code": "",
+            "type": "district",
+            "name": "Trà Bồng",
+            "slug": "tra bong",
+            "nameWithType": "Huyện Trà Bồng",
+            "path": "Trà Bồng, Quảng Ngãi, Việt Nam",
+            "pathWithType": "Huyện Trà Bồng, Tỉnh Quảng Ngãi, Việt Nam"
+        },
+        {
+            "index": 13,
+            "code": "",
+            "type": "district",
+            "name": "Tư Nghĩa",
+            "slug": "tu nghia",
+            "nameWithType": "Huyện Tư Nghĩa",
+            "path": "Tư Nghĩa, Quảng Ngãi, Việt Nam",
+            "pathWithType": "Huyện Tư Nghĩa, Tỉnh Quảng Ngãi, Việt Nam"
+        }
+    ]
+}

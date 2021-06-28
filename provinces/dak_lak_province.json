@@ -1,0 +1,158 @@
+{
+    "description": "Tính đến tháng 06 năm 2021 - Tỉnh Đắk Lắk bao gồm 1 Thành phố trực thuộc, 1 Thị xã và 13 Huyện",
+    "lastUpdatedAt": "2021-06-28T17:41:42.382016519+07:00",
+    "type": "province",
+    "name": "Đắk Lắk",
+    "districts": [
+        {
+            "index": 1,
+            "code": "",
+            "type": "district",
+            "name": "Tp. Buôn Ma Thuột",
+            "slug": "tp. buon ma thuot",
+            "nameWithType": "Thành phố Buôn Ma Thuột",
+            "path": "Buôn Ma Thuột, Đắk Lắk, Việt Nam",
+            "pathWithType": "Thành phố Buôn Ma Thuột, Tỉnh Đắk Lắk, Việt Nam"
+        },
+        {
+            "index": 2,
+            "code": "",
+            "type": "district",
+            "name": "Tx. Buôn Hồ",
+            "slug": "tx. buon ho",
+            "nameWithType": "Thị xã Buôn Hồ",
+            "path": "Tx. Buôn Hồ, Đắk Lắk, Việt Nam",
+            "pathWithType": "Thị xã Buôn Hồ, Tỉnh Đắk Lắk, Việt Nam"
+        },
+        {
+            "index": 3,
+            "code": "",
+            "type": "district",
+            "name": "Buôn Đôn",
+            "slug": "buon don",
+            "nameWithType": "Huyện Buôn Đôn",
+            "path": "Buôn Đôn, Đắk Lắk, Việt Nam",
+            "pathWithType": "Huyện Buôn Đôn, Tỉnh Đắk Lắk, Việt Nam"
+        },
+        {
+            "index": 4,
+            "code": "",
+            "type": "district",
+            "name": "Cư Kuin",
+            "slug": "cu kuin",
+            "nameWithType": "Huyện Cư Kuin",
+            "path": "Cư Kuin, Đắk Lắk, Việt Nam",
+            "pathWithType": "Huyện Cư Kuin, Tỉnh Đắk Lắk, Việt Nam"
+        },
+        {
+            "index": 5,
+            "code": "",
+            "type": "district",
+            "name": "Cư M'gar",
+            "slug": "cu m'gar",
+            "nameWithType": "Huyện Cư M'gar",
+            "path": "Cư M'gar, Đắk Lắk, Việt Nam",
+            "pathWithType": "Huyện Cư M'gar, Tỉnh Đắk Lắk, Việt Nam"
+        },
+        {
+            "index": 6,
+            "code": "",
+            "type": "district",
+            "name": "Ea H'leo",
+            "slug": "ea h'leo",
+            "nameWithType": "Huyện Ea H'leo",
+            "path": "Ea H'leo, Đắk Lắk, Việt Nam",
+            "pathWithType": "Huyện Ea H'leo, Tỉnh Đắk Lắk, Việt Nam"
+        },
+        {
+            "index": 7,
+            "code": "",
+            "type": "district",
+            "name": "Ea Kar",
+            "slug": "ea kar",
+            "nameWithType": "Huyện Ea Kar",
+            "path": "Ea Kar, Đắk Lắk, Việt Nam",
+            "pathWithType": "Huyện Ea Kar, Tỉnh Đắk Lắk, Việt Nam"
+        },
+        {
+            "index": 8,
+            "code": "",
+            "type": "district",
+            "name": "Ea Súp",
+            "slug": "ea sup",
+            "nameWithType": "Huyện Ea Súp",
+            "path": "Ea Súp, Đắk Lắk, Việt Nam",
+            "pathWithType": "Huyện Ea Súp, Tỉnh Đắk Lắk, Việt Nam"
+        },
+        {
+            "index": 9,
+            "code": "",
+            "type": "district",
+            "name": "Krông Ana",
+            "slug": "kron ana",
+            "nameWithType": "Huyện Krông Ana",
+            "path": "Krông Ana, Đắk Lắk, Việt Nam",
+            "pathWithType": "Huyện Krông Ana, Tỉnh Đắk Lắk, Việt Nam"
+        },
+        {
+            "index": 10,
+            "code": "",
+            "type": "district",
+            "name": "Krông Bông",
+            "slug": "krong bong",
+            "nameWithType": "Huyện Krông Bông",
+            "path": "Krông Bông, Đắk Lắk, Việt Nam",
+            "pathWithType": "Huyện Krông Bông, Tỉnh Đắk Lắk, Việt Nam"
+        },
+        {
+            "index": 11,
+            "code": "",
+            "type": "district",
+            "name": "Krông Búk",
+            "slug": "krong buk",
+            "nameWithType": "Huyện Krông BúK",
+            "path": "Krông Búk, Đắk Lắk, Việt Nam",
+            "pathWithType": "Huyện Krông Búk, Tỉnh Đắk Lắk, Việt Nam"
+        },
+        {
+            "index": 12,
+            "code": "",
+            "type": "district",
+            "name": "Krông Năng",
+            "slug": "krong nang",
+            "nameWithType": "Huyện Krông Năng",
+            "path": "Krông Năng, Đắk Lắk, Việt Nam",
+            "pathWithType": "Huyện Krông Năng, Tỉnh Đắk Lắk, Việt Nam"
+        },
+        {
+            "index": 13,
+            "code": "",
+            "type": "district",
+            "name": "Krông Pắc",
+            "slug": "krong pac",
+            "nameWithType": "Huyện Krông Pắc",
+            "path": "Krông Pắc, Đắk Lắk, Việt Nam",
+            "pathWithType": "Huyện Krông Pắc, Tỉnh Đắk Lắk, Việt Nam"
+        },
+        {
+            "index": 14,
+            "code": "",
+            "type": "district",
+            "name": "Lắk",
+            "slug": "lak",
+            "nameWithType": "Huyện Lắk",
+            "path": "Lắk, Đắk Lắk, Việt Nam",
+            "pathWithType": "Huyện Lắk, Tỉnh Đắk Lắk, Việt Nam"
+        },
+        {
+            "index": 15,
+            "code": "",
+            "type": "district",
+            "name": "M'Đrắk",
+            "slug": "m'drak",
+            "nameWithType": "Huyện M'Đrắk",
+            "path": "M'Đrắk, Đắk Lắk, Việt Nam",
+            "pathWithType": "Huyện M'Đrắk, Tỉnh Đắk Lắk, Việt Nam"
+        }
+    ]
+}

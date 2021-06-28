@@ -1,0 +1,128 @@
+{
+    "description": "Tính đến tháng 06 năm 2021 - Tỉnh Hải Dương bao gồm 2 Thành phố trực thuộc, 1 Thị xã và 9 Huyện",
+    "lastUpdatedAt": "2021-06-28T17:41:42.382328084+07:00",
+    "type": "province",
+    "name": "Hải Dương",
+    "districts": [
+        {
+            "index": 1,
+            "code": "",
+            "type": "district",
+            "name": "Tp. Hải Dương",
+            "slug": "tp. hai duong",
+            "nameWithType": "Thành phố Hải Dương",
+            "path": "Tp. Hải Dương, Hải Dương, Việt Nam",
+            "pathWithType": "Thành phố Hải Dương, Tỉnh Hải Dương, Việt Nam"
+        },
+        {
+            "index": 2,
+            "code": "",
+            "type": "district",
+            "name": "Tp. Chí Linh",
+            "slug": "tp. chi linh",
+            "nameWithType": "Thành phố Chí Linh",
+            "path": "Tp. Chí Linh, Hải Dương, Việt Nam",
+            "pathWithType": "Thành phố Chí Linh, Tỉnh Hải Dương, Việt Nam"
+        },
+        {
+            "index": 3,
+            "code": "",
+            "type": "district",
+            "name": "Tx. Kinh Môn",
+            "slug": "tx. kinh mon",
+            "nameWithType": "Thị xã Kinh Môn",
+            "path": "Tx. Kinh Môn, Hải Dương, Việt Nam",
+            "pathWithType": "Thị xã Kinh Môn, Tỉnh Hải Dương, Việt Nam"
+        },
+        {
+            "index": 4,
+            "code": "",
+            "type": "district",
+            "name": "Bình Giang",
+            "slug": "binh giang",
+            "nameWithType": "Huyện Bình Giang",
+            "path": "Bình Giang, Hải Dương, Việt Nam",
+            "pathWithType": "Huyện Bình Giang, Tỉnh Hải Dương, Việt Nam"
+        },
+        {
+            "index": 5,
+            "code": "",
+            "type": "district",
+            "name": "Cẩm Giàng",
+            "slug": "cam giang",
+            "nameWithType": "Huyện Cẩm Giàng",
+            "path": "Cẩm Giàng, Hải Dương, Việt Nam",
+            "pathWithType": "Huyện Cẩm Giàng, Tỉnh Hải Dương, Việt Nam"
+        },
+        {
+            "index": 6,
+            "code": "",
+            "type": "district",
+            "name": "Gia Lộc",
+            "slug": "gia loc",
+            "nameWithType": "Huyện Gia Lộc",
+            "path": "Gia Lộc, Hải Dương, Việt Nam",
+            "pathWithType": "Huyện Gia Lộc, Tỉnh Hải Dương, Việt Nam"
+        },
+        {
+            "index": 7,
+            "code": "",
+            "type": "district",
+            "name": "Kim Thành",
+            "slug": "kim thanh",
+            "nameWithType": "Huyện Kim Thành",
+            "path": "Kim Thành, Hải Dương, Việt Nam",
+            "pathWithType": "Huyện Kim Thành, Tỉnh Hải Dương, Việt Nam"
+        },
+        {
+            "index": 8,
+            "code": "",
+            "type": "district",
+            "name": "Nam Sách",
+            "slug": "nam sach",
+            "nameWithType": "Huyện Nam Sách",
+            "path": "Nam Sách, Hải Dương, Việt Nam",
+            "pathWithType": "Huyện Nam Sách, Tỉnh Hải Dương, Việt Nam"
+        },
+        {
+            "index": 9,
+            "code": "",
+            "type": "district",
+            "name": "Ninh Giang",
+            "slug": "ninh giang",
+            "nameWithType": "Huyện Ninh Giang",
+            "path": "Ninh Giang, Hải Dương, Việt Nam",
+            "pathWithType": "Huyện Ninh Giang, Tỉnh Hải Dương, Việt Nam"
+        },
+        {
+            "index": 10,
+            "code": "",
+            "type": "district",
+            "name": "Thanh Hà",
+            "slug": "thanh ha",
+            "nameWithType": "Huyện Thanh Hà",
+            "path": "Thanh Hà, Hải Dương, Việt Nam",
+            "pathWithType": "Huyện Thanh Hà, Tỉnh Hải Dương, Việt Nam"
+        },
+        {
+            "index": 11,
+            "code": "",
+            "type": "district",
+            "name": "Thanh Miện",
+            "slug": "thanh mien",
+            "nameWithType": "Huyện Thanh Miện",
+            "path": "Thanh Miện, Hải Dương, Việt Nam",
+            "pathWithType": "Huyện Thanh Miện, Tỉnh Hải Dương, Việt Nam"
+        },
+        {
+            "index": 12,
+            "code": "",
+            "type": "district",
+            "name": "Tứ Kỳ",
+            "slug": "tu ky",
+            "nameWithType": "Huyện Tứ Kỳ",
+            "path": "Tứ Kỳ, Hải Dương, Việt Nam",
+            "pathWithType": "Huyện Tứ Kỳ, Tỉnh Hải Dương, Việt Nam"
+        }
+    ]
+}

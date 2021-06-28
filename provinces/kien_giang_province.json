@@ -1,0 +1,158 @@
+{
+    "description": "Tính đến tháng 06 năm 2021 - Tỉnh Kiên Giang bao gồm 3 Thành phố trực thuộc và 12 Huyện",
+    "lastUpdatedAt": "2021-06-28T17:41:42.382552441+07:00",
+    "type": "province",
+    "name": "Kiên Giang",
+    "districts": [
+        {
+            "index": 1,
+            "code": "",
+            "type": "district",
+            "name": "Tp. Rạch Giá",
+            "slug": "tp. rach gia",
+            "nameWithType": "Thành phố Rạch Giá",
+            "path": "Tp. Rạch Giá, Kiên Giang, Việt Nam",
+            "pathWithType": "Thành phố Rạch Giá, Tỉnh Kiên Giang, Việt Nam"
+        },
+        {
+            "index": 2,
+            "code": "",
+            "type": "district",
+            "name": "Tp. Hà Tiên",
+            "slug": "tp. ha tien",
+            "nameWithType": "Thành phố Hà Tiên",
+            "path": "Tp. Hà Tiên, Kiên Giang, Việt Nam",
+            "pathWithType": "Thành phố Hà Tiên, Tỉnh Kiên Giang, Việt Nam"
+        },
+        {
+            "index": 3,
+            "code": "",
+            "type": "district",
+            "name": "Tp. Phú Quốc",
+            "slug": "tp. phu quoc",
+            "nameWithType": "Thành phố Phú Quốc",
+            "path": "Tp. Phú Quốc, Kiên Giang, Việt Nam",
+            "pathWithType": "Thành phố Phú Quốc, Tỉnh Kiên Giang, Việt Nam"
+        },
+        {
+            "index": 4,
+            "code": "",
+            "type": "district",
+            "name": "An Biên",
+            "slug": "an bien",
+            "nameWithType": "Huyện An Biên",
+            "path": "An Biên, Kiên Giang, Việt Nam",
+            "pathWithType": "Huyện An Biên, Tỉnh Kiên Giang, Việt Nam"
+        },
+        {
+            "index": 5,
+            "code": "",
+            "type": "district",
+            "name": "An Minh",
+            "slug": "an minh",
+            "nameWithType": "Huyện An Minh",
+            "path": "An Minh, Kiên Giang, Việt Nam",
+            "pathWithType": "Huyện An Minh, Tỉnh Kiên Giang, Việt Nam"
+        },
+        {
+            "index": 6,
+            "code": "",
+            "type": "district",
+            "name": "Châu Thành",
+            "slug": "chau thanh",
+            "nameWithType": "Huyện Châu Thành",
+            "path": "Châu Thành, Kiên Giang, Việt Nam",
+            "pathWithType": "Huyện Châu Thành, Tỉnh Kiên Giang, Việt Nam"
+        },
+        {
+            "index": 7,
+            "code": "",
+            "type": "district",
+            "name": "Giang Thành",
+            "slug": "giang thanh",
+            "nameWithType": "Huyện Giang Thành",
+            "path": "Giang Thành, Kiên Giang, Việt Nam",
+            "pathWithType": "Huyện Giang Thành, Tỉnh Kiên Giang, Việt Nam"
+        },
+        {
+            "index": 8,
+            "code": "",
+            "type": "district",
+            "name": "Giồng Riềng",
+            "slug": "giong rieng",
+            "nameWithType": "Huyện Giồng Riềng",
+            "path": "Giồng Riềng, Kiên Giang, Việt Nam",
+            "pathWithType": "Huyện Giồng Riềng, Tỉnh Kiên Giang, Việt Nam"
+        },
+        {
+            "index": 9,
+            "code": "",
+            "type": "district",
+            "name": "Gò Quao",
+            "slug": "go quao",
+            "nameWithType": "Huyện Gò Quao",
+            "path": "Gò Quao, Kiên Giang, Việt Nam",
+            "pathWithType": "Huyện Gò Quao, Tỉnh Kiên Giang, Việt Nam"
+        },
+        {
+            "index": 10,
+            "code": "",
+            "type": "district",
+            "name": "Hòn Đất",
+            "slug": "hon dat",
+            "nameWithType": "Huyện Hòn Đất",
+            "path": "Hòn Đất, Kiên Giang, Việt Nam",
+            "pathWithType": "Huyện Hòn Đất, Tỉnh Kiên Giang, Việt Nam"
+        },
+        {
+            "index": 11,
+            "code": "",
+            "type": "district",
+            "name": "Kiên Hải",
+            "slug": "kien hai",
+            "nameWithType": "Huyện Kiên Hải",
+            "path": "Kiên Hải, Kiên Giang, Việt Nam",
+            "pathWithType": "Huyện Kiên Hải, Tỉnh Kiên Giang, Việt Nam"
+        },
+        {
+            "index": 12,
+            "code": "",
+            "type": "district",
+            "name": "Kiên Lương",
+            "slug": "kien luong",
+            "nameWithType": "Huyện Kiên Lương",
+            "path": "Kiên Lương, Kiên Giang, Việt Nam",
+            "pathWithType": "Huyện Kiên Lương, Tỉnh Kiên Giang, Việt Nam"
+        },
+        {
+            "index": 13,
+            "code": "",
+            "type": "district",
+            "name": "Tân Hiệp",
+            "slug": "tan hiep",
+            "nameWithType": "Huyện Tân Hiệp",
+            "path": "Tân Hiệp, Kiên Giang, Việt Nam",
+            "pathWithType": "Huyện Tân Hiệp, Tỉnh Kiên Giang, Việt Nam"
+        },
+        {
+            "index": 14,
+            "code": "",
+            "type": "district",
+            "name": "U Minh Thượng",
+            "slug": "u minh thuong",
+            "nameWithType": "Huyện U Minh Thượng",
+            "path": "U Minh Thượng, Kiên Giang, Việt Nam",
+            "pathWithType": "Huyện U Minh Thượng, Tỉnh Kiên Giang, Việt Nam"
+        },
+        {
+            "index": 15,
+            "code": "",
+            "type": "district",
+            "name": "Vĩnh Thuận",
+            "slug": "vinh thuan",
+            "nameWithType": "Huyện Vĩnh Thuận",
+            "path": "Vĩnh Thuận, Kiên Giang, Việt Nam",
+            "pathWithType": "Huyện Vĩnh Thuận, Tỉnh Kiên Giang, Việt Nam"
+        }
+    ]
+}

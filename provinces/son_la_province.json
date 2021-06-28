@@ -1,0 +1,128 @@
+{
+    "description": "Tính đến tháng 06 năm 2021 - Tỉnh Sơn La bao gồm 1 Thành phố trực thuộc và 11 Huyện",
+    "lastUpdatedAt": "2021-06-28T17:41:42.3830764+07:00",
+    "type": "province",
+    "name": "Sơn La",
+    "districts": [
+        {
+            "index": 1,
+            "code": "",
+            "type": "district",
+            "name": "Tp. Sơn La",
+            "slug": "tp. son la",
+            "nameWithType": "Thành phố Sơn La",
+            "path": "Tp. Sơn La, Sơn La, Việt Nam",
+            "pathWithType": "Thành phố Sơn La, Tỉnh Sơn La, Việt Nam"
+        },
+        {
+            "index": 2,
+            "code": "",
+            "type": "district",
+            "name": "Bắc Yên",
+            "slug": "bac yen",
+            "nameWithType": "Huyện Bắc Yên",
+            "path": "Bắc Yên, Sơn La, Việt Nam",
+            "pathWithType": "Huyện Bắc Yên, Tỉnh Sơn La, Việt Nam"
+        },
+        {
+            "index": 3,
+            "code": "",
+            "type": "district",
+            "name": "Mai Sơn",
+            "slug": "mai son",
+            "nameWithType": "Huyện Mai Sơn",
+            "path": "Mai Sơn, Sơn La, Việt Nam",
+            "pathWithType": "Huyện Mai Sơn, Tỉnh Sơn La, Việt Nam"
+        },
+        {
+            "index": 4,
+            "code": "",
+            "type": "district",
+            "name": "Mộc Châu",
+            "slug": "moc chau",
+            "nameWithType": "Huyện Mộc Châu",
+            "path": "Mộc Châu, Sơn La, Việt Nam",
+            "pathWithType": "Huyện Mộc Châu, Tỉnh Sơn La, Việt Nam"
+        },
+        {
+            "index": 5,
+            "code": "",
+            "type": "district",
+            "name": "Mường La",
+            "slug": "muong la",
+            "nameWithType": "Huyện Mường La",
+            "path": "Mường La, Sơn La, Việt Nam",
+            "pathWithType": "Huyện Mường La, Tỉnh Sơn La, Việt Nam"
+        },
+        {
+            "index": 6,
+            "code": "",
+            "type": "district",
+            "name": "Phù Yên",
+            "slug": "phu yen",
+            "nameWithType": "Huyện Phù Yên",
+            "path": "Phù Yên, Sơn La, Việt Nam",
+            "pathWithType": "Huyện Phù Yên, Tỉnh Sơn La, Việt Nam"
+        },
+        {
+            "index": 7,
+            "code": "",
+            "type": "district",
+            "name": "Quỳnh Nhai",
+            "slug": "quynh nhai",
+            "nameWithType": "Huyện Quỳnh Nhai",
+            "path": "Quỳnh Nhai, Sơn La, Việt Nam",
+            "pathWithType": "Huyện Quỳnh Nhai, Tỉnh Sơn La, Việt Nam"
+        },
+        {
+            "index": 8,
+            "code": "",
+            "type": "district",
+            "name": "Sông Mã",
+            "slug": "song ma",
+            "nameWithType": "Huyện Sông Mã",
+            "path": "Sông Mã, Sơn La, Việt Nam",
+            "pathWithType": "Huyện Sông Mã, Tỉnh Sơn La, Việt Nam"
+        },
+        {
+            "index": 9,
+            "code": "",
+            "type": "district",
+            "name": "Sốp Cộp",
+            "slug": "sop cop",
+            "nameWithType": "Huyện Sốp Cộp",
+            "path": "Sốp Cộp, Sơn La, Việt Nam",
+            "pathWithType": "Huyện Sốp Cộp, Tỉnh Sơn La, Việt Nam"
+        },
+        {
+            "index": 10,
+            "code": "",
+            "type": "district",
+            "name": "Thuận Châu",
+            "slug": "thuan chau",
+            "nameWithType": "Huyện Thuận Châu",
+            "path": "Thuận Châu, Sơn La, Việt Nam",
+            "pathWithType": "Huyện Thuận Châu, Tỉnh Sơn La, Việt Nam"
+        },
+        {
+            "index": 11,
+            "code": "",
+            "type": "district",
+            "name": "Vân Hồ",
+            "slug": "van ho",
+            "nameWithType": "Huyện Vân Hồ",
+            "path": "Vân Hồ, Sơn La, Việt Nam",
+            "pathWithType": "Huyện Vân Hồ, Tỉnh Sơn La, Việt Nam"
+        },
+        {
+            "index": 12,
+            "code": "",
+            "type": "district",
+            "name": "Yên Châu",
+            "slug": "yen chau",
+            "nameWithType": "Huyện Yên Châu",
+            "path": "Yên Châu, Sơn La, Việt Nam",
+            "pathWithType": "Huyện Yên Châu, Tỉnh Sơn La, Việt Nam"
+        }
+    ]
+}

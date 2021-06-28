@@ -1,0 +1,118 @@
+{
+    "description": "Tính đến tháng 06 năm 2021 - Tỉnh Đồng Nai bao gồm 2 Thành phố trực thuộc và 9 Huyện",
+    "lastUpdatedAt": "2021-06-28T17:41:42.382093307+07:00",
+    "type": "province",
+    "name": "Đồng Nai",
+    "districts": [
+        {
+            "index": 1,
+            "code": "",
+            "type": "district",
+            "name": "Tp. Biên Hòa",
+            "slug": "tp. bien hoa",
+            "nameWithType": "Thành phố Biên Hòa",
+            "path": "Tp. Biên Hòa, Đồng Nai, Việt Nam",
+            "pathWithType": "Thành phố Biên Hòa, Tỉnh Đồng Nai, Việt Nam"
+        },
+        {
+            "index": 2,
+            "code": "",
+            "type": "district",
+            "name": "Tp. Long Khánh",
+            "slug": "tp. long khanh",
+            "nameWithType": "Thành phố Long Khánh",
+            "path": "Tp. Long Khánh, Đồng Nai, Việt Nam",
+            "pathWithType": "Thành phố Long Khánh, Tỉnh Đồng Nai, Việt Nam"
+        },
+        {
+            "index": 3,
+            "code": "",
+            "type": "district",
+            "name": "Cẩm Mỹ",
+            "slug": "cam my",
+            "nameWithType": "Huyện Cẩm Mỹ",
+            "path": "Cẩm Mỹ, Đồng Nai, Việt Nam",
+            "pathWithType": "Huyện Cẩm Mỹ, Tỉnh Đồng Nai, Việt Nam"
+        },
+        {
+            "index": 4,
+            "code": "",
+            "type": "district",
+            "name": "Định Quán",
+            "slug": "dinh quan",
+            "nameWithType": "Huyện Định Quán",
+            "path": "Định Quán, Đồng Nai, Việt Nam",
+            "pathWithType": "Huyện Định Quán, Tỉnh Đồng Nai, Việt Nam"
+        },
+        {
+            "index": 5,
+            "code": "",
+            "type": "district",
+            "name": "Long Thành",
+            "slug": "long thanh",
+            "nameWithType": "Huyện Long Thành",
+            "path": "Long Thành, Đồng Nai, Việt Nam",
+            "pathWithType": "Huyện Long Thành, Tỉnh Đồng Nai, Việt Nam"
+        },
+        {
+            "index": 6,
+            "code": "",
+            "type": "district",
+            "name": "Nhơn Trạch",
+            "slug": "nhon trach",
+            "nameWithType": "Huyện Nhơn Trạch",
+            "path": "Nhơn Trạch, Đồng Nai, Việt Nam",
+            "pathWithType": "Huyện nhơn Trạch, Tỉnh Đồng Nai, Việt Nam"
+        },
+        {
+            "index": 7,
+            "code": "",
+            "type": "district",
+            "name": "Tân Phú",
+            "slug": "tan phu",
+            "nameWithType": "Huyện Tân Phú",
+            "path": "Tân Phú, Đồng Nai, Việt Nam",
+            "pathWithType": "Huyện Tân Phú, Tỉnh Đồng Nai, Việt Nam"
+        },
+        {
+            "index": 8,
+            "code": "",
+            "type": "district",
+            "name": "Thông Nhất",
+            "slug": "thong nhat",
+            "nameWithType": "Huyện Thông Nhất",
+            "path": "Thống Nhất, Đồng Nai, Việt Nam",
+            "pathWithType": "Huyện Thống Nhất, Tỉnh Đồng Nai, Việt Nam"
+        },
+        {
+            "index": 9,
+            "code": "",
+            "type": "district",
+            "name": "Trảng Bom",
+            "slug": "trang bom",
+            "nameWithType": "Huyện Trảng Bom",
+            "path": "Trảng Bom, Đồng Nai, Việt Nam",
+            "pathWithType": "Huyện Trảng Bom, Tỉnh Đồng Nai, Việt Nam"
+        },
+        {
+            "index": 10,
+            "code": "",
+            "type": "district",
+            "name": "Vĩnh Cửu",
+            "slug": "vinh cuu",
+            "nameWithType": "Huyện Vĩnh Cửu",
+            "path": "Vĩnh Cửu, Đồng Nai, Việt Nam",
+            "pathWithType": "Huyện Vĩnh Cửu, Tỉnh Đồng Nai, Việt Nam"
+        },
+        {
+            "index": 11,
+            "code": "",
+            "type": "district",
+            "name": "Xuân Lộc",
+            "slug": "xuan loc",
+            "nameWithType": "Huyện Xuân Lộc",
+            "path": "Xuân Lộc, Đồng Nai, Việt Nam",
+            "pathWithType": "Huyện Xuân Lộc, Tỉnh Đồng Nai, Việt Nam"
+        }
+    ]
+}

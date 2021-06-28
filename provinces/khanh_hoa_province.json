@@ -1,0 +1,98 @@
+{
+    "description": "Tính đến tháng 06 năm 2021 - Tỉnh An Giang bao gồm 2 Thành phố trực thuộc, 1 Thị xã và 6 Huyện",
+    "lastUpdatedAt": "2021-06-28T17:41:42.382512839+07:00",
+    "type": "province",
+    "name": "Khánh Hòa",
+    "districts": [
+        {
+            "index": 1,
+            "code": "",
+            "type": "district",
+            "name": "Tp. Nha Trang",
+            "slug": "tp. nha trang",
+            "nameWithType": "Thành phố Nha Trang",
+            "path": "Tp. Nha Trang, Khánh Hòa, Việt Nam",
+            "pathWithType": "Thành phố Nha Trang, Tỉnh Khánh Hòa, Việt Nam"
+        },
+        {
+            "index": 2,
+            "code": "",
+            "type": "district",
+            "name": "Tp. Cam Ranh",
+            "slug": "tp. cam ranh",
+            "nameWithType": "Thành phố Cam Ranh",
+            "path": "Tp. Cam Ranh, Khánh Hòa, Việt Nam",
+            "pathWithType": "Thành phố Cam Ranh, Tỉnh Khánh Hòa, Việt Nam"
+        },
+        {
+            "index": 3,
+            "code": "",
+            "type": "district",
+            "name": "Tx. Ninh Hòa",
+            "slug": "tx. ninh hoa",
+            "nameWithType": "Thị xã Ninh Hòa",
+            "path": "Tx. Ninh Hòa, Khánh Hòa, Việt Nam",
+            "pathWithType": "Thị xã Ninh Hòa, Tỉnh Khánh Hòa, Việt Nam"
+        },
+        {
+            "index": 4,
+            "code": "",
+            "type": "district",
+            "name": "Vạn Ninh",
+            "slug": "van ninh",
+            "nameWithType": "Huyện Vạn Ninh",
+            "path": "Vạn Ninh, Khánh Hòa, Việt Nam",
+            "pathWithType": "Huyện Vạn Ninh, Tỉnh Khánh Hòa, Việt Nam"
+        },
+        {
+            "index": 5,
+            "code": "",
+            "type": "district",
+            "name": "Diên Khánh",
+            "slug": "dien khanh",
+            "nameWithType": "Huyện Diên Khánh",
+            "path": "Diên Khánh, Khánh Hòa, Việt Nam",
+            "pathWithType": "Huyện Diên Khánh, Tỉnh Khánh Hòa, Việt Nam"
+        },
+        {
+            "index": 6,
+            "code": "",
+            "type": "district",
+            "name": "Khánh Vĩnh",
+            "slug": "khanh vinh",
+            "nameWithType": "Huyên Khánh Vĩnh",
+            "path": "Khánh Vĩnh, Khánh Hòa, Việt Nam",
+            "pathWithType": "Huyện Khánh Vĩnh, Tỉnh Khánh Hòa, Việt Nam"
+        },
+        {
+            "index": 7,
+            "code": "",
+            "type": "district",
+            "name": "Khánh Sơn",
+            "slug": "khanh son",
+            "nameWithType": "Huyện Khánh Sơn",
+            "path": "Khánh Sơn, Khánh Hòa, Việt Nam",
+            "pathWithType": "Huyện Khánh Sơn, Tỉnh Khánh Hòa, Việt Nam"
+        },
+        {
+            "index": 8,
+            "code": "",
+            "type": "district",
+            "name": "Cam Lâm",
+            "slug": "cam lam",
+            "nameWithType": "Huyện Cam Lâm",
+            "path": "Cam Lâm, Khánh Hòa, Việt Nam",
+            "pathWithType": "Huyện Cam Lâm, Tỉnh Khánh Hòa, Việt Nam"
+        },
+        {
+            "index": 9,
+            "code": "",
+            "type": "district",
+            "name": "Trường Sa",
+            "slug": "truong sa",
+            "nameWithType": "Huyện đảo Trường Sa",
+            "path": "Trường Sa, Khánh Hòa, Việt Nam",
+            "pathWithType": "Huyện đảo Trường Sa, Tỉnh Khánh Hòa, Việt Nam"
+        }
+    ]
+}

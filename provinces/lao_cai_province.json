@@ -1,0 +1,98 @@
+{
+    "description": "Tính đến tháng 06 năm 2021 - Tỉnh Lào Cai bao gồm 1 Thành phố trực thuộc, 1 Thị xã và 7 Huyện",
+    "lastUpdatedAt": "2021-06-28T17:41:42.382661991+07:00",
+    "type": "province",
+    "name": "Lào Cai",
+    "districts": [
+        {
+            "index": 1,
+            "code": "",
+            "type": "district",
+            "name": "Tp. Lào Cai",
+            "slug": "tp. lao cai",
+            "nameWithType": "Thành phố Lào Cai",
+            "path": "Tp. Lào Cai, Lào Cai, Việt Nam",
+            "pathWithType": "Thành phố Lào Cai, Tỉnh Lào Cai, Việt Nam"
+        },
+        {
+            "index": 2,
+            "code": "",
+            "type": "district",
+            "name": "Sa Pa",
+            "slug": "sa pa",
+            "nameWithType": "Huyện Sa Pa",
+            "path": "Sa Pa, Lào Cai, Việt Nam",
+            "pathWithType": "Huyện Sa Pa, Tỉnh Lào Cai, Việt Nam"
+        },
+        {
+            "index": 3,
+            "code": "",
+            "type": "district",
+            "name": "Bát Xát",
+            "slug": "bat xat",
+            "nameWithType": "Huyện Bát Xát",
+            "path": "Bát Xát, Lào Cai, Việt Nam",
+            "pathWithType": "Huyện Bát Xát, Tỉnh Lào Cai, Việt Nam"
+        },
+        {
+            "index": 4,
+            "code": "",
+            "type": "district",
+            "name": "Bảo Thắng",
+            "slug": "bao thang",
+            "nameWithType": "Huyện Bảo Thắng",
+            "path": "Bảo Thắng, Lào Cai, Việt Nam",
+            "pathWithType": "Huyện Bảo Thắng, Tỉnh Lào Cai, Việt Nam"
+        },
+        {
+            "index": 5,
+            "code": "",
+            "type": "district",
+            "name": "Bảo Yên",
+            "slug": "bao yen",
+            "nameWithType": "Huyện Bảo Yên",
+            "path": "Bảo Yên, Lào Cai, Việt Nam",
+            "pathWithType": "Huyện Bảo Yên, Tỉnh Lào Cai, Việt Nam"
+        },
+        {
+            "index": 6,
+            "code": "",
+            "type": "district",
+            "name": "Bắc Hà",
+            "slug": "bac ha",
+            "nameWithType": "Huyện Bắc Hà",
+            "path": "Bắc Hà, Lào Cai, Việt Nam",
+            "pathWithType": "Huyện Bắc Hà, Tỉnh Lào Cai, Việt Nam"
+        },
+        {
+            "index": 7,
+            "code": "",
+            "type": "district",
+            "name": "Mường Khương",
+            "slug": "muong khuong",
+            "nameWithType": "Huyện Mường Khương",
+            "path": "Mường Khương, Lào Cai, Việt Nam",
+            "pathWithType": "Huyện Mường Khương, Tỉnh Lào Cai, Việt Nam"
+        },
+        {
+            "index": 8,
+            "code": "",
+            "type": "district",
+            "name": "Si Ma Cai",
+            "slug": "si ma cai",
+            "nameWithType": "Huyện Si Ma Cai",
+            "path": "Si Ma Cai, Lào Cai, Việt Nam",
+            "pathWithType": "Huyện Si Ma Cai, Tỉnh Lào Cai, Việt Nam"
+        },
+        {
+            "index": 9,
+            "code": "",
+            "type": "district",
+            "name": "Văn Bàn",
+            "slug": "van ban",
+            "nameWithType": "Huyện Văn Bàn",
+            "path": "Văn Bàn, Lào Cai, Việt Nam",
+            "pathWithType": "Huyện Văn Bàn, Tỉnh Lào Cai, Việt Nam"
+        }
+    ]
+}

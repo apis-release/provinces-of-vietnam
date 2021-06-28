@@ -1,0 +1,98 @@
+{
+    "description": "Tính đến tháng 06 năm 2021 - Tỉnh Vĩnh Phúc bao gồm 2 Thành phố trực thuộc và 7 Huyện",
+    "lastUpdatedAt": "2021-06-28T17:41:42.383358183+07:00",
+    "type": "province",
+    "name": "Vĩnh Phúc",
+    "districts": [
+        {
+            "index": 1,
+            "code": "",
+            "type": "district",
+            "name": "Tp. Vĩnh Yên",
+            "slug": "tp. vinh yen",
+            "nameWithType": "Thành phố Vĩnh Yên",
+            "path": "Tp. Vĩnh Yên, Vĩnh Phúc, Việt Nam",
+            "pathWithType": "Thành phố Vĩnh Yên, Tỉnh Vĩnh Phúc, Việt Nam"
+        },
+        {
+            "index": 2,
+            "code": "",
+            "type": "district",
+            "name": "Tp. Phúc Yên",
+            "slug": "tp. phuc yen",
+            "nameWithType": "Thành phố Phúc Yên",
+            "path": "Tp. Phúc Yên, Vĩnh Phúc, Việt Nam",
+            "pathWithType": "Thành phố Phúc Yên, Tỉnh Vĩnh Phúc, Việt Nam"
+        },
+        {
+            "index": 3,
+            "code": "",
+            "type": "district",
+            "name": "Bình Xuyên",
+            "slug": "binh xuyen",
+            "nameWithType": "Huyện Bình Xuyên",
+            "path": "Bình Xuyên, Vĩnh Phúc, Việt Nam",
+            "pathWithType": "Huyện Bình Xuyên, Tỉnh Vĩnh Phúc, Việt Nam"
+        },
+        {
+            "index": 4,
+            "code": "",
+            "type": "district",
+            "name": "Lập Thạch",
+            "slug": "lap thach",
+            "nameWithType": "Huyện Lập Thạch",
+            "path": "Lập Thạch, Vĩnh Phúc, Việt Nam",
+            "pathWithType": "Huyện Lập Thạch, Tỉnh Vĩnh Phúc, Việt Nam"
+        },
+        {
+            "index": 5,
+            "code": "",
+            "type": "district",
+            "name": "Sông Lô",
+            "slug": "song lo",
+            "nameWithType": "Huyện Sông Lô",
+            "path": "Sông Lô, Vĩnh Phúc, Việt Nam",
+            "pathWithType": "Huyện Sông Lô, Tỉnh Vĩnh Phúc, Việt Nam"
+        },
+        {
+            "index": 6,
+            "code": "",
+            "type": "district",
+            "name": "Tam Đảo",
+            "slug": "tam dao",
+            "nameWithType": "Huyện Tam Đảo",
+            "path": "Tam Đảo, Vĩnh Phúc, Việt Nam",
+            "pathWithType": "Huyện Tam Đảo, Tỉnh Vĩnh Phúc, Việt Nam"
+        },
+        {
+            "index": 7,
+            "code": "",
+            "type": "district",
+            "name": "Tam Dương",
+            "slug": "tam duong",
+            "nameWithType": "Huyện Tam Dương",
+            "path": "Tam Dương, Vĩnh Phúc, Việt Nam",
+            "pathWithType": "Huyện Tam Dương, Tỉnh Vĩnh Phúc, Việt Nam"
+        },
+        {
+            "index": 8,
+            "code": "",
+            "type": "district",
+            "name": "Vĩnh Tường",
+            "slug": "vinh tuong",
+            "nameWithType": "Huyện Vĩnh Tường",
+            "path": "Vĩnh Tường, Vĩnh Phúc, Việt Nam",
+            "pathWithType": "Huyện Vĩnh Tường, Tỉnh Vĩnh Phúc, Việt Nam"
+        },
+        {
+            "index": 9,
+            "code": "",
+            "type": "district",
+            "name": "Yên Lạc",
+            "slug": "yen lac",
+            "nameWithType": "Huyện Yên Lạc",
+            "path": "Yên Lạc, Vĩnh Phúc, Việt Nam",
+            "pathWithType": "Huyện Yên Lạc, Tỉnh Vĩnh Phúc, Việt Nam"
+        }
+    ]
+}

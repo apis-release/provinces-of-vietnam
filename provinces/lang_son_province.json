@@ -1,0 +1,118 @@
+{
+    "description": "Tính đến tháng 06 năm 2021 - Tỉnh Lạng Sơn bao gồm 1 Thành phố trực thuộc và 10 Huyện",
+    "lastUpdatedAt": "2021-06-28T17:41:42.382636252+07:00",
+    "type": "province",
+    "name": "Lạng Sơn",
+    "districts": [
+        {
+            "index": 1,
+            "code": "",
+            "type": "district",
+            "name": "Tp. Lạng Sơn, Việt Nam",
+            "slug": "tp. lang son",
+            "nameWithType": "Thành Phố Lạng Sơn, Việt Nam",
+            "path": "Tp. Lạng Sơn, Lạng Sơn, Việt Nam",
+            "pathWithType": "Thành phố Lạng Sơn, Tỉnh Lạng Sơn, Việt Nam"
+        },
+        {
+            "index": 2,
+            "code": "",
+            "type": "district",
+            "name": "Bắc Sơn",
+            "slug": "bac son",
+            "nameWithType": "Huyện Bắc Sơn",
+            "path": "Bắc Sơn, Lạng Sơn, Việt Nam",
+            "pathWithType": "Huyện Bắc Sơn, Tỉnh Lạng Sơn, Việt Nam"
+        },
+        {
+            "index": 3,
+            "code": "",
+            "type": "district",
+            "name": "Bình Gia",
+            "slug": "binh gia",
+            "nameWithType": "Huyện Bình Gia",
+            "path": "Bình Gia, Lạng Sơn, Việt Nam",
+            "pathWithType": "Huyện Bình Gia, Tỉnh Lạng Sơn, Việt Nam"
+        },
+        {
+            "index": 4,
+            "code": "",
+            "type": "district",
+            "name": "Cao Lộc",
+            "slug": "cao loc",
+            "nameWithType": "Huyện Cao Lộc",
+            "path": "Cao Lộc, Lạng Sơn, Việt Nam",
+            "pathWithType": "Huyện Cao Lộc, Tỉnh Lạng Sơn, Việt Nam"
+        },
+        {
+            "index": 5,
+            "code": "",
+            "type": "district",
+            "name": "Chi Lăng",
+            "slug": "chi lang",
+            "nameWithType": "Huyện Chi Lăng",
+            "path": "Chi Lăng, Lạng Sơn, Việt Nam",
+            "pathWithType": "Huyện Chi Lăng, Tỉnh Lạng Sơn, Việt Nam"
+        },
+        {
+            "index": 6,
+            "code": "",
+            "type": "district",
+            "name": "Đình Lập",
+            "slug": "dinh lap",
+            "nameWithType": "Huyện Đình Lập",
+            "path": "Đình Lập, Lạng Sơn, Việt Nam",
+            "pathWithType": "Huyện Đình Lập, Tỉnh Lạng Sơn, Việt Nam"
+        },
+        {
+            "index": 7,
+            "code": "",
+            "type": "district",
+            "name": "Hữu Lũng",
+            "slug": "huu lung",
+            "nameWithType": "Huyện Hữu Lũng",
+            "path": "Hữu Lũng, Lạng Sơn, Việt Nam",
+            "pathWithType": "Huyện Hữu Lũng, Tỉnh Lạng Sơn, Việt Nam"
+        },
+        {
+            "index": 8,
+            "code": "",
+            "type": "district",
+            "name": "Lộc Bình",
+            "slug": "loc binh",
+            "nameWithType": "Huyện Lộc Bình",
+            "path": "Lộc Bình, Lạng Sơn, Việt Nam",
+            "pathWithType": "Huyên Lộc Bình, Tỉnh Lạng Sơn, Việt Nam"
+        },
+        {
+            "index": 9,
+            "code": "",
+            "type": "district",
+            "name": "Tràng Định",
+            "slug": "trang dinh",
+            "nameWithType": "Huyện Tràng Định",
+            "path": "Tràng Định, Lạng Sơn, Việt Nam",
+            "pathWithType": "Huyện Tràng Định, Tỉnh Lạng Sơn, Việt Nam"
+        },
+        {
+            "index": 10,
+            "code": "",
+            "type": "district",
+            "name": "Văn Lãng",
+            "slug": "van lang",
+            "nameWithType": "Huyện Văn Lãng",
+            "path": "Văn Lãng, Lạng Sơn, Việt Nam",
+            "pathWithType": "Huyện Văn Lãng, Tỉnh Lạng Sơn, Việt Nam"
+        },
+        {
+            "index": 11,
+            "code": "",
+            "type": "district",
+            "name": "Văn Quan",
+            "slug": "van quan",
+            "nameWithType": "Huyện Văn QUan",
+            "path": "Văn Quan, Lạng Sơn, Việt Nam",
+            "pathWithType": "Huyện Văn Quan, Tỉnh Lạng Sơn, Việt Nam"
+        }
+    ]
+}

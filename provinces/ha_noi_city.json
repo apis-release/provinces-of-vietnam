@@ -1,0 +1,308 @@
+{
+    "description": "Thành vô Hà Nội là Thủ Đô, là trung tâm văn hóa - kinh tế - chính trị quan trọng nhất. Tính đến tháng 06 năm 2021 - Thủ đô Hà Nội bao gồm 12 Quận, 1 Thị xã và 17 Huyện",
+    "lastUpdatedAt": "2021-06-28T17:41:42.382252237+07:00",
+    "type": "city",
+    "name": "Tp. Hà Nội",
+    "districts": [
+        {
+            "index": 1,
+            "code": "",
+            "type": "district",
+            "name": "Ba Đình",
+            "slug": "ba dinh",
+            "nameWithType": "Quận Ba Đình",
+            "path": "Ba Đình, Tp. Hà Nội, Việt Nam",
+            "pathWithType": "Quận Ba Đình, Thành phố Hà Nội, Việt Nam"
+        },
+        {
+            "index": 2,
+            "code": "",
+            "type": "district",
+            "name": "Bắc Từ Liêm",
+            "slug": "bac tu liem",
+            "nameWithType": "Quận Bắc Từ Liêm",
+            "path": "Bắc Từ Liêm, Tp. Hà Nội, Việt Nam",
+            "pathWithType": "Quận Bắc Từ Liêm, Thành phố Hà Nội, Việt Nam"
+        },
+        {
+            "index": 3,
+            "code": "",
+            "type": "district",
+            "name": "Cầu Giấy",
+            "slug": "cau giay",
+            "nameWithType": "Quận Cầu Giấy",
+            "path": "Cầu Giấy, Tp. Hà Nội, Việt Nam",
+            "pathWithType": "Quận Cầu Giấy, Thành phố Hà Nội, Việt Nam"
+        },
+        {
+            "index": 4,
+            "code": "",
+            "type": "district",
+            "name": "Đống Đa",
+            "slug": "dong da",
+            "nameWithType": "Quận Đống Đa",
+            "path": "Đống Đa, Tp. Hà Nội, Việt Nam",
+            "pathWithType": "Quận Đống Đa, Thành phố Hà Nội, Việt Nam"
+        },
+        {
+            "index": 5,
+            "code": "",
+            "type": "district",
+            "name": "Hà Đông",
+            "slug": "ha dong",
+            "nameWithType": "Quận Hà Đông",
+            "path": "Hà Đông, Tp. Hà Nội, Việt Nam",
+            "pathWithType": "Quận Hà Đông, Thành phố Hà Nội, Việt Nam"
+        },
+        {
+            "index": 6,
+            "code": "",
+            "type": "district",
+            "name": "Hai Bà Trưng",
+            "slug": "hai ba trung",
+            "nameWithType": "Quận Hai Bà Trưng",
+            "path": "Hai Bà Trưng, Tp. Hà Nội, Việt Nam",
+            "pathWithType": "Quận Hai Bà Trưng, Thành phố Hà Nội, Việt Nam"
+        },
+        {
+            "index": 7,
+            "code": "",
+            "type": "district",
+            "name": "Hoàn Kiếm",
+            "slug": "hoan kiem",
+            "nameWithType": "Quận Hoàng Kiếm",
+            "path": "Hoàn Kiếm, Tp. Hà Nội, Việt Nam",
+            "pathWithType": "Quận Hoàn Kiếm, Thành phố Hà Nội, Việt Nam"
+        },
+        {
+            "index": 8,
+            "code": "",
+            "type": "district",
+            "name": "Hoàng Mai",
+            "slug": "hoang mai",
+            "nameWithType": "Quận Hoàng Mai",
+            "path": "Hoàng Mai, Tp. Hà Nội, Việt Nam",
+            "pathWithType": "Quận Hoàng Mai, Thành phố Hà Nội, Việt Nam"
+        },
+        {
+            "index": 9,
+            "code": "",
+            "type": "district",
+            "name": "Long Biên",
+            "slug": "long bien",
+            "nameWithType": "Quận Long Biên",
+            "path": "Long Biên, Tp. Hà Nội, Việt Nam",
+            "pathWithType": "Quận Long Biên, Thành phố Hà Nội, Việt Nam"
+        },
+        {
+            "index": 10,
+            "code": "",
+            "type": "district",
+            "name": "Nam Từ Liêm",
+            "slug": "nam tu liem",
+            "nameWithType": "Quận Nam Từ Liêm",
+            "path": "Nam Từ Liêm, Tp. Hà Nội, Việt Nam",
+            "pathWithType": "Quận Nam Từ Liêm, Thành phố Hà Nội, Việt Nam"
+        },
+        {
+            "index": 11,
+            "code": "",
+            "type": "district",
+            "name": "Tây Hồ",
+            "slug": "tay ho",
+            "nameWithType": "Quận Tây Hồ",
+            "path": "Tây Hồ, Tp. Hà Nội, Việt Nam",
+            "pathWithType": "Quận Tây Hồ, Thành phố Hà Nội, Việt Nam"
+        },
+        {
+            "index": 12,
+            "code": "",
+            "type": "district",
+            "name": "Thanh Xuân",
+            "slug": "thanh xuan",
+            "nameWithType": "Quận Thanh Xuân",
+            "path": "Thanh Xuân, Tp. Hà Nội, Việt Nam",
+            "pathWithType": "Quận Thanh Xuân, Thành phố Hà Nội, Việt Nam"
+        },
+        {
+            "index": 13,
+            "code": "",
+            "type": "district",
+            "name": "Tx. Sơn Tây",
+            "slug": "tx. son tay",
+            "nameWithType": "Thị xã Sơn Tây",
+            "path": "Tx. Sơn Tây, Tp. Hà Nội, Việt Nam",
+            "pathWithType": "Thị xã Sơn Tây, Thành phố Hà Nội, Việt Nam"
+        },
+        {
+            "index": 14,
+            "code": "",
+            "type": "district",
+            "name": "Ba Vì",
+            "slug": "ba vi",
+            "nameWithType": "Huyện Ba Vì",
+            "path": "Ba Vì, Tp. Hà Nội, Việt Nam",
+            "pathWithType": "Huyện Ba Vì, Thành phố Hà Nội, Việt Nam"
+        },
+        {
+            "index": 15,
+            "code": "",
+            "type": "district",
+            "name": "Chương Mỹ",
+            "slug": "chuong my",
+            "nameWithType": "Huyện Chương Mỹ",
+            "path": "Chương Mỹ, Tp. Hà Nội, Việt Nam",
+            "pathWithType": "Huyện Chương Mỹ, Thành phố Hà Nội, Việt Nam"
+        },
+        {
+            "index": 16,
+            "code": "",
+            "type": "district",
+            "name": "Đan Phượng",
+            "slug": "dan phuong",
+            "nameWithType": "Huyện Đan Phượng",
+            "path": "Đan Phượng, Tp. Hà Nội, Việt Nam",
+            "pathWithType": "Huyện Đan Phượng, Thành phố Hà Nội, Việt Nam"
+        },
+        {
+            "index": 17,
+            "code": "",
+            "type": "district",
+            "name": "Đông Anh",
+            "slug": "dong anh",
+            "nameWithType": "Huyện Đông Anh",
+            "path": "Đông Anh, Tp. Hà Nội, Việt Nam",
+            "pathWithType": "Huyện Đông Anh, Thành phố Hà Nội, Việt Nam"
+        },
+        {
+            "index": 18,
+            "code": "",
+            "type": "district",
+            "name": "Gia Lâm",
+            "slug": "gia lam",
+            "nameWithType": "Huyên Gia Lâm",
+            "path": "Gia Lâm, Tp. Hà Nội, Việt Nam",
+            "pathWithType": "Huyện Gia Lâm, Thành phố Hà Nội, Việt Nam"
+        },
+        {
+            "index": 19,
+            "code": "",
+            "type": "district",
+            "name": "Hoài Đức",
+            "slug": "hoai duc",
+            "nameWithType": "Huyện Hoài Đức",
+            "path": "Hoài Đức, Tp. Hà Nội, Việt Nam",
+            "pathWithType": "Huyện Hoài Đưc, Thành phố Hà Nội, Việt Nam"
+        },
+        {
+            "index": 20,
+            "code": "",
+            "type": "district",
+            "name": "Mê Linh",
+            "slug": "me linh",
+            "nameWithType": "Huyện Mê Linh",
+            "path": "Mê Linh, Tp. Hà Nội, Việt Nam",
+            "pathWithType": "Huyện Mê Linh, Thành phố Hà Nội, Việt Nam"
+        },
+        {
+            "index": 21,
+            "code": "",
+            "type": "district",
+            "name": "Mỹ Đức",
+            "slug": "my duc",
+            "nameWithType": "Huyện Mỹ Đức",
+            "path": "Mỹ Đức, Tp. Hà Nội, Việt Nam",
+            "pathWithType": "Huyện Mỹ Đức, Thành phố Hà Nội, Việt Nam"
+        },
+        {
+            "index": 22,
+            "code": "",
+            "type": "district",
+            "name": "Phú Xuyên",
+            "slug": "phu xuyen",
+            "nameWithType": "Huyện Phú Xuyên",
+            "path": "Phú Xuyên, Tp. Hà Nội, Việt Nam",
+            "pathWithType": "Huyện Phú Xuyên, Thành phố Hà Nội, Việt Nam"
+        },
+        {
+            "index": 23,
+            "code": "",
+            "type": "district",
+            "name": "Phúc Thọ",
+            "slug": "phuc tho",
+            "nameWithType": "Huyện Phúc Thọ",
+            "path": "Phúc Thọ, Tp. Hà Nội, Việt Nam",
+            "pathWithType": "Huyện Phúc Thọ, Thành phố Hà Nội, Việt Nam"
+        },
+        {
+            "index": 24,
+            "code": "",
+            "type": "district",
+            "name": "Quốc Oai",
+            "slug": "quoc oai",
+            "nameWithType": "Huyện Quốc Oai",
+            "path": "Quốc Oai, Tp. Hà Nội, Việt Nam",
+            "pathWithType": "Huyện Quốc Oai, Thành phố Hà Nội, Việt Nam"
+        },
+        {
+            "index": 25,
+            "code": "",
+            "type": "district",
+            "name": "Sóc Sơn",
+            "slug": "soc son",
+            "nameWithType": "Huyện Sóc Sơn",
+            "path": "Sóc Sơn, Tp. Hà Nội, Việt Nam",
+            "pathWithType": "Huyện Sóc Sơn, Thành phố Hà Nội, Việt Nam"
+        },
+        {
+            "index": 26,
+            "code": "",
+            "type": "district",
+            "name": "Thạch Thất",
+            "slug": "thach that",
+            "nameWithType": "Huyện Thạch Thất",
+            "path": "Thạch Thất, Tp. Hà Nội, Việt Nam",
+            "pathWithType": "Huyện Thạch Thất, Thành phố Hà Nội, Việt Nam"
+        },
+        {
+            "index": 27,
+            "code": "",
+            "type": "district",
+            "name": "Thanh Oai",
+            "slug": "thanh oai",
+            "nameWithType": "Huyện Thanh Oai",
+            "path": "Thanh Oai, Tp. Hà Nội, Việt Nam",
+            "pathWithType": "Huyện Thanh Oai, Thành phố Hà Nội, Việt Nam"
+        },
+        {
+            "index": 28,
+            "code": "",
+            "type": "district",
+            "name": "Thanh Trì",
+            "slug": "thanh tri",
+            "nameWithType": "Huyện Thanh Trì",
+            "path": "Thanh Trì, Tp. Hà Nội, Việt Nam",
+            "pathWithType": "Huyện Thanh Trì, Thành phố Hà Nội, Việt Nam"
+        },
+        {
+            "index": 29,
+            "code": "",
+            "type": "district",
+            "name": "Thường Tín",
+            "slug": "thuong tin",
+            "nameWithType": "Huyện Thường Tín",
+            "path": "Thường Tín, Tp. Hà Nội, Việt Nam",
+            "pathWithType": "Huyện Thường Tín, Thành phố Hà Nội, Việt Nam"
+        },
+        {
+            "index": 30,
+            "code": "",
+            "type": "district",
+            "name": "Ứng Hòa",
+            "slug": "ung hoa",
+            "nameWithType": "Huyện Ứng Hòa",
+            "path": "Ứng Hòa, Tp. Hà Nội, Việt Nam",
+            "pathWithType": "Huyện Ứng Hòa, Thành phố Hà Nội, Việt Nam"
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "description": "Tính đến tháng 06 năm 2021 - Tỉnh Hậu Giang bao gồm 2 Thành phố trực thuộc, 1 Thị xã và 5 Huyện",
+    "lastUpdatedAt": "2021-06-28T17:41:42.382386819+07:00",
+    "type": "province",
+    "name": "Hậu Giang",
+    "districts": [
+        {
+            "index": 1,
+            "code": "",
+            "type": "district",
+            "name": "Tp. Vị Thanh",
+            "slug": "tp. vi thanh",
+            "nameWithType": "Thành phố Vị Thanh",
+            "path": "Tp. Vị Thanh, Hậu Giang, Việt Nam",
+            "pathWithType": "Thành phố Vị Thanh, Tỉnh Hậu Giang, Việt Nam"
+        },
+        {
+            "index": 2,
+            "code": "",
+            "type": "district",
+            "name": "Tp. Ngã Bảy",
+            "slug": "tp. nga bay",
+            "nameWithType": "Thành phố Ngã Bảy",
+            "path": "Tp. Ngã Bảy, Hậu Giang, Việt Nam",
+            "pathWithType": "Thành phố Ngã Bảy, Tỉnh Hậu Giang, Việt Nam"
+        },
+        {
+            "index": 3,
+            "code": "",
+            "type": "district",
+            "name": "Tx. Long Mỹ",
+            "slug": "tx. long my",
+            "nameWithType": "Thị xã Long Mỹ",
+            "path": "Tx. Long Mỹ, Hậu Giang, Việt Nam",
+            "pathWithType": "Thị xã Long Mỹ, Tỉnh Hậu Giang, Việt Nam"
+        },
+        {
+            "index": 4,
+            "code": "",
+            "type": "district",
+            "name": "Châu Thành",
+            "slug": "chau thanh",
+            "nameWithType": "Huyện Châu Thành",
+            "path": "Châu Thành, Hậu Giang, Việt Nam",
+            "pathWithType": "Huyện Châu Thành, Tỉnh Hậu Giang, Việt Nam"
+        },
+        {
+            "index": 5,
+            "code": "",
+            "type": "district",
+            "name": "Châu Thành A",
+            "slug": "chau thanh a",
+            "nameWithType": "Huyện Châu Thành A",
+            "path": "Châu Thành A, Hậu Giang, Việt Nam",
+            "pathWithType": "Huyện Châu Thành A, Tỉnh Hậu Giang, Việt Nam"
+        },
+        {
+            "index": 6,
+            "code": "",
+            "type": "district",
+            "name": "H. Long Mỹ",
+            "slug": "h. long my",
+            "nameWithType": "Huyện Long Mỹ",
+            "path": "H. Long Mỹ, Hậu Giang, Việt Nam",
+            "pathWithType": "Huyện Long Mỹ, Tỉnh Hậu Giang, Việt Nam"
+        },
+        {
+            "index": 7,
+            "code": "",
+            "type": "district",
+            "name": "Phụng Hiệp",
+            "slug": "phung hiep",
+            "nameWithType": "Huyện Phụng Hiệp",
+            "path": "Phụng Hiệp, Hậu Giang, Việt Nam",
+            "pathWithType": "Huyện Phụng Hiệp, Tỉnh Hậu Giang, Việt Nam"
+        },
+        {
+            "index": 8,
+            "code": "",
+            "type": "district",
+            "name": "Vị Thủy",
+            "slug": "vi thuy",
+            "nameWithType": "Huyện Vị Thủy",
+            "path": "Vị Thủy, Hậu Giang, Việt Nam",
+            "pathWithType": "Huyện Vị Thủy, Tỉnh Hậu Giang, Việt Nam"
+        }
+    ]
+}

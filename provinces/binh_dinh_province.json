@@ -1,0 +1,118 @@
+{
+    "description": "Tính đến tháng 06 năm 2021 - Tỉnh Bình Định bao gồm 1 Thành phố trực thuộc, 2 Thị xã và 8 Huyện",
+    "lastUpdatedAt": "2021-06-28T17:41:42.381812631+07:00",
+    "type": "province",
+    "name": "Bình Định",
+    "districts": [
+        {
+            "index": 1,
+            "code": "",
+            "type": "district",
+            "name": "Tp. Quy Nhơn",
+            "slug": "tp. quy nhon",
+            "nameWithType": "Thành phố Quy Nhơn",
+            "path": "Tp. Quy Nhơn, Bình Định, Việt Nam",
+            "pathWithType": "Thành phố Quy Nhơn, Tỉnh Bình Định, Việt Nam"
+        },
+        {
+            "index": 2,
+            "code": "",
+            "type": "district",
+            "name": "Tx. An Nhơn",
+            "slug": "tx. an nhon",
+            "nameWithType": "Thị xã An Nhơn",
+            "path": "Tx. An Nhơn, Bình Định, Việt Nam",
+            "pathWithType": "Thị xã An Nhơn, Tỉnh Bình Định, Việt Nam"
+        },
+        {
+            "index": 3,
+            "code": "",
+            "type": "district",
+            "name": "Tx. Hoài Nhơn",
+            "slug": "tx. hoai nhon",
+            "nameWithType": "Thị xã Hoài Nhơn",
+            "path": "Tx. Hoài Nhơn, Bình Định, Việt Nam",
+            "pathWithType": "Thị xã Hoài Nhơn, Tỉnh Bình Định, Việt Nam"
+        },
+        {
+            "index": 4,
+            "code": "",
+            "type": "district",
+            "name": "An Lão",
+            "slug": "an lao",
+            "nameWithType": "Huyện An Lão",
+            "path": "An Lão, Bình Định, Việt Nam",
+            "pathWithType": "Huyện An Lão, Tỉnh Bình Định, Việt Nam"
+        },
+        {
+            "index": 5,
+            "code": "",
+            "type": "district",
+            "name": "Hoài Ân",
+            "slug": "hoai an",
+            "nameWithType": "Huyện Hoài Ân",
+            "path": "Hoài Ân, Bình Định, Việt Nam",
+            "pathWithType": "Huyện Hoài Ân, Tỉnh Bình Định, Việt Nam"
+        },
+        {
+            "index": 6,
+            "code": "",
+            "type": "district",
+            "name": "Phù Cát",
+            "slug": "phu cat",
+            "nameWithType": "Huyện Phù Cát",
+            "path": "Phù Cát, Bình Định, Việt Nam",
+            "pathWithType": "Huyện Phù Cát, Tỉnh Bình Định, Việt Nam"
+        },
+        {
+            "index": 7,
+            "code": "",
+            "type": "district",
+            "name": "Phù Mỹ",
+            "slug": "phu my",
+            "nameWithType": "Huyện Phù Mỹ",
+            "path": "Phù Mỹ, Bình Định, Việt Nam",
+            "pathWithType": "Huyện Phù Mỹ, Tỉnh Bình Định, Việt Nam"
+        },
+        {
+            "index": 8,
+            "code": "",
+            "type": "district",
+            "name": "Tây Sơn",
+            "slug": "tay son",
+            "nameWithType": "Huyện Tây Sơn",
+            "path": "Tây Sơn, Bình Định, Việt Nam",
+            "pathWithType": "Huyện Tây Sơn, Tỉnh Bình Định, Việt Nam"
+        },
+        {
+            "index": 9,
+            "code": "",
+            "type": "district",
+            "name": "Tuy Phước",
+            "slug": "tuy phuoc",
+            "nameWithType": "Huyện Tuy Phước",
+            "path": "Tuy Phước, Bình Định, Việt Nam",
+            "pathWithType": "Huyện Tuy Phước, Tỉnh Bình Định, Việt Nam"
+        },
+        {
+            "index": 10,
+            "code": "",
+            "type": "district",
+            "name": "Vân Canh",
+            "slug": "van canh",
+            "nameWithType": "Huyện Vân Canh",
+            "path": "Vân Canh, Bình Định, Việt Nam",
+            "pathWithType": "Huyện Vân Canh, Tỉnh Bình Định, Việt Nam"
+        },
+        {
+            "index": 11,
+            "code": "",
+            "type": "district",
+            "name": "Vĩnh Thạnh",
+            "slug": "vinh thanh",
+            "nameWithType": "Huyện Vĩnh Thạnh",
+            "path": "Vĩnh Thạnh, Bình Định, Việt Nam",
+            "pathWithType": "Huyện Vĩnh Thạnh, Tỉnh Bình Định, Việt Nam"
+        }
+    ]
+}

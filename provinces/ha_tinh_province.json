@@ -1,0 +1,138 @@
+{
+    "description": "Tính đến tháng 06 năm 2021 - Tỉnh Hà Tĩnh bao gồm 1 Thành phố trực thuộc, 2 Thị xã và 10 Huyện",
+    "lastUpdatedAt": "2021-06-28T17:41:42.38230051+07:00",
+    "type": "province",
+    "name": "Hà Tĩnh",
+    "districts": [
+        {
+            "index": 1,
+            "code": "",
+            "type": "district",
+            "name": "Tp. Hà Tĩnh",
+            "slug": "tp. ha tinh",
+            "nameWithType": "Thành phố Hà Tĩnh",
+            "path": "Tp. Hà Tĩnh, Hà Tĩnh, Việt Nam",
+            "pathWithType": "Thành phố Hà Tĩnh, Tỉnh Hà Tĩnh, Việt Nam"
+        },
+        {
+            "index": 2,
+            "code": "",
+            "type": "district",
+            "name": "Tx. Hồng Lĩnh",
+            "slug": "tx. hong linh",
+            "nameWithType": "Thị xã Hồng Lĩnh",
+            "path": "Tx. Hồng Lĩnh, Hà Tĩnh, Việt Nam",
+            "pathWithType": "Thị xã Hồng Lĩnh, Tỉnh Hà Tĩnh, Việt Nam"
+        },
+        {
+            "index": 3,
+            "code": "",
+            "type": "district",
+            "name": "Tx. Kỳ Anh",
+            "slug": "tx. ky anh",
+            "nameWithType": "Thị xã Kỳ Anh",
+            "path": "Tx. Kỳ Anh, Hà Tĩnh, Việt Nam",
+            "pathWithType": "Thị xã Kỳ Anh, Tỉnh Hà Tĩnh, Việt Nam"
+        },
+        {
+            "index": 4,
+            "code": "",
+            "type": "district",
+            "name": "Can Lộc",
+            "slug": "can loc",
+            "nameWithType": "Huyện Can Lộc",
+            "path": "Can Lộc, Hà Tĩnh, Việt Nam",
+            "pathWithType": "Huyện Can Lộc, Tỉnh Hà Tĩnh, Việt Nam"
+        },
+        {
+            "index": 5,
+            "code": "",
+            "type": "district",
+            "name": "Cẩm Xuyên",
+            "slug": "cam xuyen",
+            "nameWithType": "Huyện Cẩm Xuyên",
+            "path": "Cẩm Xuyên, Hà Tĩnh, Việt Nam",
+            "pathWithType": "Huyện Cẩm Xuyên, Tỉnh Hà Tĩnh, Việt Nam"
+        },
+        {
+            "index": 6,
+            "code": "",
+            "type": "district",
+            "name": "Đức Thọ",
+            "slug": "duc tho",
+            "nameWithType": "Huyện Đức Thọ",
+            "path": "Đức Thọ, Hà Tĩnh, Việt Nam",
+            "pathWithType": "Huyện Đức Thọ, Tỉnh Hà Tĩnh, Việt Nam"
+        },
+        {
+            "index": 7,
+            "code": "",
+            "type": "district",
+            "name": "Hương Khê",
+            "slug": "huong khe",
+            "nameWithType": "Huyện Hương Khê",
+            "path": "Hương Khê, Hà Tĩnh, Việt Nam",
+            "pathWithType": "Huyện Hương Khê, Tỉnh Hà Tĩnh, Việt Nam"
+        },
+        {
+            "index": 8,
+            "code": "",
+            "type": "district",
+            "name": "Hương Sơn",
+            "slug": "huong son",
+            "nameWithType": "Huyện Hương Sơn",
+            "path": "Hương Sơn, Hà Tĩnh, Việt Nam",
+            "pathWithType": "Huyện Hương Sơn, Tỉnh Hà Tĩnh, Việt Nam"
+        },
+        {
+            "index": 9,
+            "code": "",
+            "type": "district",
+            "name": "H. Kỳ Anh",
+            "slug": "h. ky anh",
+            "nameWithType": "Huyện Kỳ Anh",
+            "path": "H. Kỳ Anh, Hà Tĩnh, Việt Nam",
+            "pathWithType": "Huyện Kỳ Anh, Tỉnh Hà Tĩnh, Việt Nam"
+        },
+        {
+            "index": 10,
+            "code": "",
+            "type": "district",
+            "name": "Lộc Hà",
+            "slug": "loc ha",
+            "nameWithType": "Huyện Lộc Hà",
+            "path": "Lộc Hà, Hà Tĩnh, Việt Nam",
+            "pathWithType": "Huyện Lộc Hà, Tỉnh Hà Tĩnh, Việt Nam"
+        },
+        {
+            "index": 11,
+            "code": "",
+            "type": "district",
+            "name": "Nghi Xuân",
+            "slug": "nghi xuan",
+            "nameWithType": "Huyện Nghi Xuân",
+            "path": "Nghi Xuân, Hà Tĩnh, Việt Nam",
+            "pathWithType": "Huyện Nghi Xuân, Tỉnh Hà Tĩnh, Việt Nam"
+        },
+        {
+            "index": 12,
+            "code": "",
+            "type": "district",
+            "name": "Thạch Hà",
+            "slug": "thach ha",
+            "nameWithType": "Huyện Thạch Hà",
+            "path": "Thạch Hà, Hà Tĩnh, Việt Nam",
+            "pathWithType": "Huyện Thạch Hà, Tỉnh Hà Tĩnh, Việt Nam"
+        },
+        {
+            "index": 13,
+            "code": "",
+            "type": "district",
+            "name": "Vũ Quang",
+            "slug": "vu quang",
+            "nameWithType": "Huyện Vũ Quang",
+            "path": "Vũ Quang, Hà Tĩnh, Việt Nam",
+            "pathWithType": "Huyện Vũ Quang, Tỉnh Hà Tĩnh, Việt Nam"
+        }
+    ]
+}

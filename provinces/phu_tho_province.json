@@ -1,0 +1,138 @@
+{
+    "description": "Tính đến tháng 06 năm 2021 - Tỉnh Phú Thọ bao gồm 1 Thành phố trực thuộc, 1 Thị xã và 11 Huyện",
+    "lastUpdatedAt": "2021-06-28T17:41:42.382854158+07:00",
+    "type": "province",
+    "name": "Phú Thọ",
+    "districts": [
+        {
+            "index": 1,
+            "code": "",
+            "type": "district",
+            "name": "Tp. Việt Trì",
+            "slug": "tp. viet tri",
+            "nameWithType": "Thành phố Việt Trì",
+            "path": "Tp. Việt Trì, Phú Thọ, Việt Nam",
+            "pathWithType": "Thành phố Việt Trì, Tỉnh Phú Thọ, Việt Nam"
+        },
+        {
+            "index": 2,
+            "code": "",
+            "type": "district",
+            "name": "Tx. Phú Thọ",
+            "slug": "tphu tho",
+            "nameWithType": "Thị xã Phú Thọ",
+            "path": "Tx. Phú Thọ, Phú Thọ, Việt Nam",
+            "pathWithType": "Thị xã Phú Thọ, Tỉnh Phú Thọ, Việt Nam"
+        },
+        {
+            "index": 3,
+            "code": "",
+            "type": "district",
+            "name": "Cẩm Khê",
+            "slug": "cam khe",
+            "nameWithType": "Huyện Cẩm Khê",
+            "path": "Cẩm Khê, Phú Thọ, Việt Nam",
+            "pathWithType": "Huyện Cẩm Khê, Tỉnh Phú Thọ, Việt Nam"
+        },
+        {
+            "index": 4,
+            "code": "",
+            "type": "district",
+            "name": "Đoan Hùng",
+            "slug": "doan hung",
+            "nameWithType": "Huyện Đoan Hùng",
+            "path": "Đoan Hùng, Phú Thọ, Việt Nam",
+            "pathWithType": "Huyện Đoan Hùng, Tỉnh Phú Thọ, Việt Nam"
+        },
+        {
+            "index": 5,
+            "code": "",
+            "type": "district",
+            "name": "Hạ Hòa ",
+            "slug": "ha hoa",
+            "nameWithType": "Huyện Hạ Hòa",
+            "path": "Hạ Hòa, Phú Thọ, Việt Nam",
+            "pathWithType": "Huyện Hạ Hòa, Tỉnh Phú Thọ, Việt Nam"
+        },
+        {
+            "index": 6,
+            "code": "",
+            "type": "district",
+            "name": "Lâm Thao",
+            "slug": "lam thao",
+            "nameWithType": "Huyện Lâm Thao",
+            "path": "Lâm Thao, Phú Thọ, Việt Nam",
+            "pathWithType": "Huyện Lâm Thao, Tỉnh Phú Thọ, Việt Nam"
+        },
+        {
+            "index": 7,
+            "code": "",
+            "type": "district",
+            "name": "Phù Ninh",
+            "slug": "phu ninh",
+            "nameWithType": "Huyện Phù Ninh",
+            "path": "Phù Ninh, Phú Thọ, Việt Nam",
+            "pathWithType": "Huyện Phù Ninh, Tỉnh Phú Thọ, Việt Nam"
+        },
+        {
+            "index": 8,
+            "code": "",
+            "type": "district",
+            "name": "Tam Nông",
+            "slug": "tam nong",
+            "nameWithType": "Huyện Tam Nông",
+            "path": "Tam Nông, Phú Thọ, Việt Nam",
+            "pathWithType": "Huyện Tam Nông, Tỉnh Phú Thọ, Việt Nam"
+        },
+        {
+            "index": 9,
+            "code": "",
+            "type": "district",
+            "name": "Tân Sơn",
+            "slug": "tan son",
+            "nameWithType": "Huyện Tân Sơn",
+            "path": "Tân Sơn, Phú Thọ, Việt Nam",
+            "pathWithType": "Huyện Tân Sơn, Tỉnh Phú Thọ, Việt Nam"
+        },
+        {
+            "index": 10,
+            "code": "",
+            "type": "district",
+            "name": "Thanh Ba",
+            "slug": "thanh ba",
+            "nameWithType": "Huyện Thanh Ba",
+            "path": "Thanh Ba, Phú Thọ, Việt Nam",
+            "pathWithType": "Huyện Thanh Ba, Tỉnh Phú Thọ, Việt Nam"
+        },
+        {
+            "index": 11,
+            "code": "",
+            "type": "district",
+            "name": "Thanh Sơn",
+            "slug": "thanh son",
+            "nameWithType": "Huyện Thanh Sơn",
+            "path": "Thanh Sơn, Phú Thọ, Việt Nam",
+            "pathWithType": "Huyện Thanh Sơn, Tỉnh Phú Thọ, Việt Nam"
+        },
+        {
+            "index": 12,
+            "code": "",
+            "type": "district",
+            "name": "Thanh Thủy",
+            "slug": "thanh thuy",
+            "nameWithType": "Huyện Thanh Thủy",
+            "path": "Thanh Thủy, Phú Thọ, Việt Nam",
+            "pathWithType": "Huyện Thanh Thủy, Tỉnh Phú Thọ, Việt Nam"
+        },
+        {
+            "index": 13,
+            "code": "",
+            "type": "district",
+            "name": "Yên Lập",
+            "slug": "yen lap",
+            "nameWithType": "Huyện Yên Lập",
+            "path": "Yên Lập, Phú Thọ, Việt Nam",
+            "pathWithType": "Huyện Yên Lập, Tỉnh Phú Thọ, Việt Nam"
+        }
+    ]
+}

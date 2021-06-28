@@ -1,0 +1,88 @@
+{
+    "description": "Tính đến tháng 06 năm 2021 - Tỉnh Đắk Nông bao gồm 1 Thành phố trực thuộc và 7 Huyện",
+    "lastUpdatedAt": "2021-06-28T17:41:42.382045183+07:00",
+    "type": "province",
+    "name": "Đắk Nông",
+    "districts": [
+        {
+            "index": 1,
+            "code": "",
+            "type": "district",
+            "name": "Tp. Gia Nghĩa",
+            "slug": "tp. gia nghia",
+            "nameWithType": "Thành phố Gia Nghĩa",
+            "path": "Tp. Gia Nghĩa, Đắk Nông, Việt Nam",
+            "pathWithType": "Thành phố Gia Nghĩa, Tỉnh Đắk Nông, Việt Nam"
+        },
+        {
+            "index": 2,
+            "code": "",
+            "type": "district",
+            "name": "Cư Jút",
+            "slug": "cu jut",
+            "nameWithType": "Huyện Cư Jút",
+            "path": "Cư Jút, Đắk Nông, Việt Nam",
+            "pathWithType": "Huyện Cư Jút, Tỉnh Đắk Nông, Việt Nam"
+        },
+        {
+            "index": 3,
+            "code": "",
+            "type": "district",
+            "name": "Đắk Glong",
+            "slug": "dak glong",
+            "nameWithType": "Huyện Đắk Glong",
+            "path": "Đắk Glong, Đắk Nông, Việt Nam",
+            "pathWithType": "Huyện Đắk Glong, Tỉnh Đắk Nông, Việt Nam"
+        },
+        {
+            "index": 4,
+            "code": "",
+            "type": "district",
+            "name": "Đắk Mil",
+            "slug": "dak mil",
+            "nameWithType": "Huyện Đắk Mil",
+            "path": "Đắk Mil, Đắk Nông, Việt Nam",
+            "pathWithType": "Huyện Đắk Mil, Tỉnh Đắk Nông, Việt Nam"
+        },
+        {
+            "index": 5,
+            "code": "",
+            "type": "district",
+            "name": "Đắk R'lắp",
+            "slug": "dak r'lap",
+            "nameWithType": "Huyện Đắk R'lấp",
+            "path": "Đắk R'lấp, Đắk Nông, Việt Nam",
+            "pathWithType": "Huyện Đắk R'lấp, Tỉnh Đắk Nông, Việt Nam"
+        },
+        {
+            "index": 6,
+            "code": "",
+            "type": "district",
+            "name": "Đắk Song",
+            "slug": "dak song",
+            "nameWithType": "Huyện Đắk Song",
+            "path": "Đắk Song, Đắk Nông, Việt Nam",
+            "pathWithType": "Huyện Đắk Song, Tỉnh Đắk Nông, Việt Nam"
+        },
+        {
+            "index": 7,
+            "code": "",
+            "type": "district",
+            "name": "Krông Nô",
+            "slug": "krong no",
+            "nameWithType": "Huyện Krông Nô",
+            "path": "Krông Nô, Đắk Nông, Việt Nam",
+            "pathWithType": "Huyện Krông Nô, Tỉnh Đắk Nông, Việt Nam"
+        },
+        {
+            "index": 8,
+            "code": "",
+            "type": "district",
+            "name": "Tuy Đức",
+            "slug": "tuy duc",
+            "nameWithType": "Huyện Tuy Đức",
+            "path": "Tuy Đức, Đắk Nông, Việt Nam",
+            "pathWithType": "Huyện Tuy Đức, Tỉnh Đắk Nông, Việt Nam"
+        }
+    ]
+}

@@ -1,0 +1,218 @@
+{
+    "description": "Tính đến tháng 06 năm 2021 - Tỉnh Nghệ An bao gồm 1 Thành phố trực thuộc, 3 Thị xã và 17 Huyện",
+    "lastUpdatedAt": "2021-06-28T17:41:42.382770732+07:00",
+    "type": "province",
+    "name": "Nghệ An",
+    "districts": [
+        {
+            "index": 1,
+            "code": "",
+            "type": "district",
+            "name": "Tp. Vinh",
+            "slug": "tp. vinh",
+            "nameWithType": "Thành phố Vinh",
+            "path": "Tp. Vinh, Nghệ An, Việt Nam",
+            "pathWithType": "Thành phố Vinh, Tỉnh Nghệ An, Việt Nam"
+        },
+        {
+            "index": 2,
+            "code": "",
+            "type": "district",
+            "name": "Tx. Cửa Lò",
+            "slug": "tx. cua lo",
+            "nameWithType": "Thị xã Cửa Lò",
+            "path": "Tx. Cửa Lò, Nghệ An, Việt Nam",
+            "pathWithType": "Thị xã Cửa Lò, Tỉnh Nghệ An, Việt Nam"
+        },
+        {
+            "index": 3,
+            "code": "",
+            "type": "district",
+            "name": "Tx. Hoàng Mai",
+            "slug": "thoang mai",
+            "nameWithType": "Thị xã Hoàng Mai",
+            "path": "Tx. Hoàng Mai, Nghệ An, Việt Nam",
+            "pathWithType": "Thị xã Hoàng Mai, Tỉnh Nghệ An, Việt Nam"
+        },
+        {
+            "index": 4,
+            "code": "",
+            "type": "district",
+            "name": "Tx. Thái Hòa",
+            "slug": "tx. thai hoa",
+            "nameWithType": "Thị xã Thái Hòa",
+            "path": "Tx. Thái Hòa, Nghệ An, Việt Nam",
+            "pathWithType": "Thị xã Thái Hòa, Tỉnh Nghệ An, Việt Nam"
+        },
+        {
+            "index": 5,
+            "code": "",
+            "type": "district",
+            "name": "Anh Sơn",
+            "slug": "anh son",
+            "nameWithType": "Huyện Anh SƠn",
+            "path": "Anh Sơn, Nghệ An, Việt Nam",
+            "pathWithType": "Huyện Anh Sơn, Tỉnh Nghệ An, Việt Nam"
+        },
+        {
+            "index": 6,
+            "code": "",
+            "type": "district",
+            "name": "Con Cuông",
+            "slug": "con cuong",
+            "nameWithType": "Huyện Con Cuông",
+            "path": "Con Cuông, Nghệ An, Việt Nam",
+            "pathWithType": "Huyện Con Cuông, Tỉnh Nghệ An, Việt Nam"
+        },
+        {
+            "index": 7,
+            "code": "",
+            "type": "district",
+            "name": "Diễn Châu",
+            "slug": "dien chau",
+            "nameWithType": "Huyện Diễn Châu",
+            "path": "Diễn Châu, Nghệ An, Việt Nam",
+            "pathWithType": "Huyện Diễn Châu, Tỉnh Nghệ An, Việt Nam"
+        },
+        {
+            "index": 8,
+            "code": "",
+            "type": "district",
+            "name": "Đô Lương",
+            "slug": "do luong",
+            "nameWithType": "Huyện Đô Lương",
+            "path": "Đô Lương, Nghệ An, Việt Nam",
+            "pathWithType": "Huyện Đô Lương, Tỉnh Nghệ An, Việt Nam"
+        },
+        {
+            "index": 9,
+            "code": "",
+            "type": "district",
+            "name": "Hưng Nguyên",
+            "slug": "hung nguyen",
+            "nameWithType": "Huyện Hưng Nguyên",
+            "path": "Hưng Nguyên, Nghệ An, Việt Nam",
+            "pathWithType": "Huyện Hưng Nguyên, Tỉnh Nghệ An, Việt Nam"
+        },
+        {
+            "index": 10,
+            "code": "",
+            "type": "district",
+            "name": "Kỳ Sơn",
+            "slug": "ky son",
+            "nameWithType": "Huyện Kỳ Sơn",
+            "path": "Kỳ Sơn, Nghệ An, Việt Nam",
+            "pathWithType": "Huyện Kỳ Sơn, Tỉnh Nghệ An, Việt Nam"
+        },
+        {
+            "index": 11,
+            "code": "",
+            "type": "district",
+            "name": "Nam Đàn",
+            "slug": "nam dan",
+            "nameWithType": "Huyện Nam Đàn",
+            "path": "Nam Đàn, Nghệ An, Việt Nam",
+            "pathWithType": "Huyện Nam Đàn, Tỉnh Nghệ An, Việt Nam"
+        },
+        {
+            "index": 12,
+            "code": "",
+            "type": "district",
+            "name": "Nghi Lộc",
+            "slug": "nghi loc",
+            "nameWithType": "Huyện Nghi Lộc",
+            "path": "Nghi Lộc, Nghệ An, Việt Nam",
+            "pathWithType": "Huyện Nghi Lộc, Tỉnh Nghệ An, Việt Nam"
+        },
+        {
+            "index": 13,
+            "code": "",
+            "type": "district",
+            "name": "Nghĩa Đàn",
+            "slug": "nghia dan",
+            "nameWithType": "Huyện Nghĩa Đàn",
+            "path": "Nghĩa Đàn, Nghệ An, Việt Nam",
+            "pathWithType": "Huyện Nghĩa Đàn, Tỉnh Nghệ An, Việt Nam"
+        },
+        {
+            "index": 14,
+            "code": "",
+            "type": "district",
+            "name": "Quế Phong",
+            "slug": "que phong",
+            "nameWithType": "Huyện Quế Phong",
+            "path": "Quế Phong, Nghệ An, Việt Nam",
+            "pathWithType": "Huyện Quế Phong, Tỉnh Nghệ An, Việt Nam"
+        },
+        {
+            "index": 15,
+            "code": "",
+            "type": "district",
+            "name": "Quỳ Châu",
+            "slug": "quy chau",
+            "nameWithType": "Huyện Quỳ Châu",
+            "path": "Quỳ Châu, Nghệ An, Việt Nam",
+            "pathWithType": "Huyện Quỳ Châu, Tỉnh Nghệ An, Việt Nam"
+        },
+        {
+            "index": 16,
+            "code": "",
+            "type": "district",
+            "name": "Quỳ Hợp",
+            "slug": "quy hop",
+            "nameWithType": "Huyện Quỳ Hợp",
+            "path": "Quỳ Hợp, Nghệ An, Việt Nam",
+            "pathWithType": "Huyện Quỳ Hợp, Tỉnh Nghệ An, Việt Nam"
+        },
+        {
+            "index": 17,
+            "code": "",
+            "type": "district",
+            "name": "Quỳnh Lưu",
+            "slug": "quynh luu",
+            "nameWithType": "Huyện Quỳnh Lưu",
+            "path": "Quỳnh Lưu, Nghệ An, Việt Nam",
+            "pathWithType": "Huyện Quỳnh Lưu, Tỉnh Nghệ An, Việt Nam"
+        },
+        {
+            "index": 18,
+            "code": "",
+            "type": "district",
+            "name": "Tân Kỳ",
+            "slug": "tan ky",
+            "nameWithType": "Huyện Tân Kỳ",
+            "path": "Tân Kỳ, Nghệ An, Việt Nam",
+            "pathWithType": "Huyện Tân Kỳ, Tỉnh Nghệ An, Việt Nam"
+        },
+        {
+            "index": 19,
+            "code": "",
+            "type": "district",
+            "name": "Thanh Chương",
+            "slug": "thanh chuong",
+            "nameWithType": "Huyện Thanh Chương",
+            "path": "Thanh Chương, Nghệ An, Việt Nam",
+            "pathWithType": "Huyện Thanh Chương, Tỉnh Nghệ An, Việt Nam"
+        },
+        {
+            "index": 20,
+            "code": "",
+            "type": "district",
+            "name": "Tương Dương",
+            "slug": "tuong duong",
+            "nameWithType": "Huyện Tương Dương",
+            "path": "Tương Dương, Nghệ An, Việt Nam",
+            "pathWithType": "Huyện Tương Dương, Tỉnh Nghệ An, Việt Nam"
+        },
+        {
+            "index": 21,
+            "code": "",
+            "type": "district",
+            "name": "Yên Thành",
+            "slug": "yen thanh",
+            "nameWithType": "Huyện Yên Thành",
+            "path": "Yên Thành, Nghệ An, Việt Nam",
+            "pathWithType": "Huyện Yên Thành, Tỉnh Nghệ An, Việt Nam"
+        }
+    ]
+}

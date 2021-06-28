@@ -1,0 +1,108 @@
+{
+    "description": "Tính đến tháng 06 năm 2021 - Tỉnh Điện Biên bao gồm 1 Thành phố trực thuộc, 1 Thị xã và 8 Huyện",
+    "lastUpdatedAt": "2021-06-28T17:41:42.382066775+07:00",
+    "type": "province",
+    "name": "Điện Biên",
+    "districts": [
+        {
+            "index": 1,
+            "code": "",
+            "type": "district",
+            "name": "Tp. Điện Biên Phủ",
+            "slug": "tp. dien bien phu",
+            "nameWithType": "Thành phố Điện Biên Phủ",
+            "path": "Tp. Điện Biên Phủ, Điện Biên, Việt Nam",
+            "pathWithType": "Thành phố Điện Biên Phủ, Tỉnh Điện Biên, Việt Nam"
+        },
+        {
+            "index": 2,
+            "code": "",
+            "type": "district",
+            "name": "Tx. Mường Lay",
+            "slug": "tx. muong lay",
+            "nameWithType": "Thị xã Mường Lay",
+            "path": "Tx. Mường Lay, Điện Biên, Việt Nam",
+            "pathWithType": "Thị xã Mường Lay, Tỉnh Điện Biên, Việt Nam"
+        },
+        {
+            "index": 3,
+            "code": "",
+            "type": "district",
+            "name": "Điện Biên",
+            "slug": "dien bien",
+            "nameWithType": "Huyện Điện Biên",
+            "path": "Điện Biên, Điện Biên, Việt Nam",
+            "pathWithType": "Huyện Điện Biên, Tỉnh Điện Biên, Việt Nam"
+        },
+        {
+            "index": 4,
+            "code": "",
+            "type": "district",
+            "name": "Điện Biên Đông",
+            "slug": "dien bien dong",
+            "nameWithType": "Huyện Điện Biên Đông",
+            "path": "Điện Biên Đông, Điện Biên, Việt Nam",
+            "pathWithType": "Huyện Điện Biên Đông, Tỉnh Điện Biên, Việt Nam"
+        },
+        {
+            "index": 5,
+            "code": "",
+            "type": "district",
+            "name": "Mường Ảng",
+            "slug": "muong ang",
+            "nameWithType": "Huyện Mường Ảng",
+            "path": "Mường Ảng, Điện Biên, Việt Nam",
+            "pathWithType": "Huyện Mường Ảng, Tỉnh Điện Biên, Việt Nam"
+        },
+        {
+            "index": 6,
+            "code": "",
+            "type": "district",
+            "name": "Mường Chà",
+            "slug": "muong cha",
+            "nameWithType": "Huyện Mường Chà",
+            "path": "Mường Chà, Điện Biên, Việt Nam",
+            "pathWithType": "Huyện Mường Chà, Tỉnh Điện Biên, Việt Nam"
+        },
+        {
+            "index": 7,
+            "code": "",
+            "type": "district",
+            "name": "Mường Nhé",
+            "slug": "muong nhe",
+            "nameWithType": "Huyện Mường Nhé",
+            "path": "Mường Nhé, Điện Biên, Việt Nam",
+            "pathWithType": "Huyện Mường Nhé, Tỉnh Điện Biên, Việt Nam"
+        },
+        {
+            "index": 8,
+            "code": "",
+            "type": "district",
+            "name": "Nậm Pồ",
+            "slug": "nam po",
+            "nameWithType": "Huyện Nậm Pồ",
+            "path": "Nậm Pồ, Điện Biên, Việt Nam",
+            "pathWithType": "Huyện Nậm Pồ, Tỉnh Điện Biên, Việt Nam"
+        },
+        {
+            "index": 9,
+            "code": "",
+            "type": "district",
+            "name": "Tủa Chùa",
+            "slug": "tua chua",
+            "nameWithType": "Huyện Tủa Chùa",
+            "path": "Tủa Chùa, Điện Biên, Việt Nam",
+            "pathWithType": "Huyện Tủa Chùa, Tỉnh Điện Biên, Việt Nam"
+        },
+        {
+            "index": 10,
+            "code": "",
+            "type": "district",
+            "name": "Tuần Giáo",
+            "slug": "tuan giao",
+            "nameWithType": "Huyện Tuần Giáo",
+            "path": "Tuần Giáo, Điện Biên, Việt Nam",
+            "pathWithType": "Huyện Tuần Giáo, Tỉnh Điện Biên, Việt Nam"
+        }
+    ]
+}

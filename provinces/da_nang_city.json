@@ -1,0 +1,88 @@
+{
+    "description": "Tính đến tháng 06 năm 2021 - Tp. Đà Nẵng bao gồm 6 Quận và 2 Huyện",
+    "lastUpdatedAt": "2021-06-28T17:41:42.381992007+07:00",
+    "type": "city",
+    "name": "Tp. Đà Nẵng",
+    "districts": [
+        {
+            "index": 1,
+            "code": "",
+            "type": "district",
+            "name": "Cẩm Lệ",
+            "slug": "cam le",
+            "nameWithType": "Quận Cẩm Lệ",
+            "path": "Cẩm Lệ, Tp. Đà Nẵng, Việt Nam",
+            "pathWithType": "Quận Cẩm Lệ, Thành phố Đà Nẵng, Việt Nam"
+        },
+        {
+            "index": 2,
+            "code": "",
+            "type": "district",
+            "name": "Hải Châu",
+            "slug": "hai chau",
+            "nameWithType": "Quận Hải Châu",
+            "path": "Hải Châu, Tp. Đà Nẵng, Việt Nam",
+            "pathWithType": "Quận Hải Châu, Thành phố Đà Nẵng, Việt Nam"
+        },
+        {
+            "index": 3,
+            "code": "",
+            "type": "district",
+            "name": "Liên Chiểu",
+            "slug": "lien chieu",
+            "nameWithType": "Quận Liên Chiểu",
+            "path": "Liên Chiểu, Tp. Đà Nẵng, Việt Nam",
+            "pathWithType": "QUận Liên Chiểu, Thành phố Đà Nẵng, Việt Nam"
+        },
+        {
+            "index": 4,
+            "code": "",
+            "type": "district",
+            "name": "Ngũ Hành Sơn",
+            "slug": "ngu hanh son",
+            "nameWithType": "Quận Ngũ Hành Sơn",
+            "path": "Ngũ Hành Sơn, Tp. Đà Nẵng, Việt Nam",
+            "pathWithType": "Quận Ngũ Hành Sơn, Thành phố Đà Nẵng, Việt Nam"
+        },
+        {
+            "index": 5,
+            "code": "",
+            "type": "district",
+            "name": "Sơn Trà",
+            "slug": "son tra",
+            "nameWithType": "Quận Sơn Trà",
+            "path": "Sơn Trà, Tp. Đà Nẵng, Việt Nam",
+            "pathWithType": "Quận Sơn Trà, Thành phố Đà Nẵng, Việt Nam"
+        },
+        {
+            "index": 6,
+            "code": "",
+            "type": "district",
+            "name": "Thanh Khê",
+            "slug": "thanh khe",
+            "nameWithType": "Quận Thanh Khê",
+            "path": "Thanh Khê, Tp. Đà Nẵng, Việt Nam",
+            "pathWithType": "Quận Thanh Khê, Thành phố Đà Nẵng, Việt Nam"
+        },
+        {
+            "index": 7,
+            "code": "",
+            "type": "district",
+            "name": "Hòa Vang",
+            "slug": "hoa vang",
+            "nameWithType": "Huyện Hòa Vang",
+            "path": "Hòa Vang, Tp. Đà Nẵng, Việt Nam",
+            "pathWithType": "Huyện Hòa Vang, Thành phố Đà Nẵng, Việt Nam"
+        },
+        {
+            "index": 8,
+            "code": "",
+            "type": "district",
+            "name": "Hoàng Sa",
+            "slug": "hoang sa",
+            "nameWithType": "Huyện Hoàng Sa",
+            "path": "Hoàng Sa, Tp. Đà Nẵng, Việt Nam",
+            "pathWithType": "Huyện Hoàng Sa, Thành phố Đà Nẵng, Việt Nam"
+        }
+    ]
+}

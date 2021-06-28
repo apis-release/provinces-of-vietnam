@@ -1,0 +1,118 @@
+{
+    "description": "Tính đến tháng 06 năm 2021 - Tỉnh Tiền Giang bao gồm 1 Thành phố trực thuộc, 2 Thị xã và 8 Huyện",
+    "lastUpdatedAt": "2021-06-28T17:41:42.383245721+07:00",
+    "type": "province",
+    "name": "Tiền Giang",
+    "districts": [
+        {
+            "index": 1,
+            "code": "",
+            "type": "district",
+            "name": "Tp. Mỹ Tho",
+            "slug": "tp. my tho",
+            "nameWithType": "Thành phố Mỹ Tho",
+            "path": "Tp. Mỹ Tho, Tiền Giang, Việt Nam",
+            "pathWithType": "Thành phố Mỹ Tho, Tỉnh Tiền Giang, Việt Nam"
+        },
+        {
+            "index": 2,
+            "code": "",
+            "type": "district",
+            "name": "Cai Lậy",
+            "slug": "tx. cai lay",
+            "nameWithType": "Thị xã Cai Lậy",
+            "path": "Cai Lậy, Tiền Giang, Việt Nam",
+            "pathWithType": "Thị xã Cai Lậy, Tỉnh Tiền Giang, Việt Nam"
+        },
+        {
+            "index": 3,
+            "code": "",
+            "type": "district",
+            "name": "Tx. Gò Công",
+            "slug": "tx. go cong",
+            "nameWithType": "Thị xã Gò Công",
+            "path": "Tx. Gò Công, Tiền Giang, Việt Nam",
+            "pathWithType": "Thị xã Gò Công, Tỉnh Tiền Giang, Việt Nam"
+        },
+        {
+            "index": 4,
+            "code": "",
+            "type": "district",
+            "name": "Cái Bè",
+            "slug": "cai be",
+            "nameWithType": "Huyện Cái Bè",
+            "path": "Cái Bè, Tiền Giang, Việt Nam",
+            "pathWithType": "Huyện Cái Bè, Tỉnh Tiền Giang, Việt Nam"
+        },
+        {
+            "index": 5,
+            "code": "",
+            "type": "district",
+            "name": "H. Cai Lậy",
+            "slug": "h. cai lay",
+            "nameWithType": "Huyện Cai Lậy",
+            "path": "Cai Lậy, Tiền Giang, Việt Nam",
+            "pathWithType": "Huyện Cai Lậy, Tỉnh Tiền Giang, Việt Nam"
+        },
+        {
+            "index": 6,
+            "code": "",
+            "type": "district",
+            "name": "Châu Thành",
+            "slug": "chau thanh",
+            "nameWithType": "Huyện Châu Thành",
+            "path": "Châu Thành, Tiền Giang, Việt Nam",
+            "pathWithType": "Huyện Châu Thành, Tỉnh Tiền Giang, Việt Nam"
+        },
+        {
+            "index": 7,
+            "code": "",
+            "type": "district",
+            "name": "Chợ Gạo",
+            "slug": "cho gao",
+            "nameWithType": "Huyện Chợ Gạo",
+            "path": "Chợ Gạo, Tiền Giang, Việt Nam",
+            "pathWithType": "Huyện Chợ Gạo, Tỉnh Tiền Giang, Việt Nam"
+        },
+        {
+            "index": 8,
+            "code": "",
+            "type": "district",
+            "name": "Gò Công Đông",
+            "slug": "go cong dong",
+            "nameWithType": "Huyện Gò Công Đông",
+            "path": "Gò Công Đông, Tiền Giang, Việt Nam",
+            "pathWithType": "Huyện Gò Công Đông, Tỉnh Tiền Giang, Việt Nam"
+        },
+        {
+            "index": 9,
+            "code": "",
+            "type": "district",
+            "name": "Gò Công Tây",
+            "slug": "go cong tay",
+            "nameWithType": "Huyện Gò Công Tây",
+            "path": "Gò Công Tây, Tiền Giang, Việt Nam",
+            "pathWithType": "Huyện Gò Công Tây, Tỉnh Tiền Giang, Việt Nam"
+        },
+        {
+            "index": 10,
+            "code": "",
+            "type": "district",
+            "name": "Tân Phú Đông",
+            "slug": "tan phu dong",
+            "nameWithType": "Huyện Tân Phú Đông",
+            "path": "Tân Phú Đông, Tiền Giang, Việt Nam",
+            "pathWithType": "Huyện Tân Phú Đông, Tỉnh Tiền Giang, Việt Nam"
+        },
+        {
+            "index": 11,
+            "code": "",
+            "type": "district",
+            "name": "Tân Phước",
+            "slug": "tan phuoc",
+            "nameWithType": "Huyện Tân Phước",
+            "path": "Tân Phước, Tiền Giang, Việt Nam",
+            "pathWithType": "Huyện Tân Phước, Tỉnh Tiền Giang, Việt Nam"
+        }
+    ]
+}

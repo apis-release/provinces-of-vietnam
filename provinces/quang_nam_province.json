@@ -1,0 +1,188 @@
+{
+    "description": "Tính đến tháng 06 năm 2021 - Tỉnh Quảng Nam bao gồm 2 Thành phố trực thuộc, 1 Thị xã và 15 Huyện",
+    "lastUpdatedAt": "2021-06-28T17:41:42.382933348+07:00",
+    "type": "province",
+    "name": "Quảng Nam",
+    "districts": [
+        {
+            "index": 1,
+            "code": "",
+            "type": "district",
+            "name": "Tp. Tam Kỳ",
+            "slug": "tp. tam ky",
+            "nameWithType": "Thành phố Tam Kỳ",
+            "path": "Tp. Tam Kỳ, Quảng Nam, Việt Nam",
+            "pathWithType": "Thành phố Tam Kỳ, Tỉnh Quảng Nam, Việt Nam"
+        },
+        {
+            "index": 2,
+            "code": "",
+            "type": "district",
+            "name": "Tp. Hội An",
+            "slug": "tp. hoi an",
+            "nameWithType": "Thành phố Hội An",
+            "path": "Tp. Hội An, Quảng Nam, Việt Nam",
+            "pathWithType": "Thành phố Hội An, Tỉnh Quảng Nam, Việt Nam"
+        },
+        {
+            "index": 3,
+            "code": "",
+            "type": "district",
+            "name": "Tx. Điện Bàn",
+            "slug": "tx. dien ban",
+            "nameWithType": "Thị xã Điện Bàn",
+            "path": "Tx. Điện Bàn, Quảng Nam, Việt Nam",
+            "pathWithType": "Thị xã Điện Bàn, Tỉnh Quảng Nam, Việt Nam"
+        },
+        {
+            "index": 4,
+            "code": "",
+            "type": "district",
+            "name": "Bắc Trà My",
+            "slug": "bac tra my",
+            "nameWithType": "Huyện Bắc Trà My",
+            "path": "Bắc Trà My, Quảng Nam, Việt Nam",
+            "pathWithType": "Huyện Bắc Trà My, Tỉnh Quảng Nam, Việt Nam"
+        },
+        {
+            "index": 5,
+            "code": "",
+            "type": "district",
+            "name": "Đại Lộc",
+            "slug": "dai loc",
+            "nameWithType": "Huyện Đại Lộc",
+            "path": "Đại Lộc, Quảng Nam, Việt Nam",
+            "pathWithType": "Huyện Đại Lộc, Tỉnh Quảng Nam, Việt Nam"
+        },
+        {
+            "index": 6,
+            "code": "",
+            "type": "district",
+            "name": "Đông Giang",
+            "slug": "dong giang",
+            "nameWithType": "Huyện Đông Giang",
+            "path": "Đông Giang, Quảng Nam, Việt Nam",
+            "pathWithType": "Huyenj Đông Giang, Tỉnh Quảng Nam, Việt Nam"
+        },
+        {
+            "index": 7,
+            "code": "",
+            "type": "district",
+            "name": "Duy Xuyên",
+            "slug": "duy xuyen",
+            "nameWithType": "Huyện Duy Xuyên",
+            "path": "Duy Xuyên, Quảng Nam, Việt Nam",
+            "pathWithType": "Huyện Duy Xuyên, Tỉnh Quảng Nam, Việt Nam"
+        },
+        {
+            "index": 8,
+            "code": "",
+            "type": "district",
+            "name": "Hiệp Đức",
+            "slug": "hiep duc",
+            "nameWithType": "Huyện Hiệp Đức",
+            "path": "Hiệp Đức, Quảng Nam, Việt Nam",
+            "pathWithType": "Huyện Hiệp Đức, Tỉnh Quảng Nam, Việt Nam"
+        },
+        {
+            "index": 9,
+            "code": "",
+            "type": "district",
+            "name": "Nam Giang",
+            "slug": "nam giang",
+            "nameWithType": "Huyện Nam Giang",
+            "path": "Nam Giang, Quảng Nam, Việt Nam",
+            "pathWithType": "Huyện Nam Giang, Tỉnh Quảng Nam, Việt Nam"
+        },
+        {
+            "index": 10,
+            "code": "",
+            "type": "district",
+            "name": "Nam Trà My",
+            "slug": "nam tra my",
+            "nameWithType": "Huyện Nam Trà My",
+            "path": "Nam Trà My, Quảng Nam, Việt Nam",
+            "pathWithType": "Huyện Nam Trà My, Tỉnh Quảng Nam, Việt Nam"
+        },
+        {
+            "index": 11,
+            "code": "",
+            "type": "district",
+            "name": "Nông Sơn",
+            "slug": "nong son",
+            "nameWithType": "Huyện Nông Sơn",
+            "path": "Nông Sơn, Quảng Nam, Việt Nam",
+            "pathWithType": "Huyện Nông Sơn, Tỉnh Quảng Nam, Việt Nam"
+        },
+        {
+            "index": 12,
+            "code": "",
+            "type": "district",
+            "name": "Núi Thành",
+            "slug": "nui thanh",
+            "nameWithType": "Huyện Núi Thành",
+            "path": "Núi Thành, Quảng Nam, Việt Nam",
+            "pathWithType": "Huyện Núi Thành, Tỉnh Quảng Nam, Việt Nam"
+        },
+        {
+            "index": 13,
+            "code": "",
+            "type": "district",
+            "name": "Phú Ninh",
+            "slug": "phu ninh",
+            "nameWithType": "Huyện Phú Ninh",
+            "path": "Phú Ninh, Quảng Nam, Việt Nam",
+            "pathWithType": "Huyện Phú Ninh, Tỉnh Quảng Nam, Việt Nam"
+        },
+        {
+            "index": 14,
+            "code": "",
+            "type": "district",
+            "name": "Phước Sơn",
+            "slug": "phuoc son",
+            "nameWithType": "Huyện Phước Sơn",
+            "path": "Phước Sơn, Quảng Nam, Việt Nam",
+            "pathWithType": "Huyện Phước Sơn, Tỉnh Quảng Nam, Việt Nam"
+        },
+        {
+            "index": 15,
+            "code": "",
+            "type": "district",
+            "name": "Quế Sơn",
+            "slug": "que son",
+            "nameWithType": "Huyện Quế Sơn",
+            "path": "Quế Sơn, Quảng Nam, Việt Nam",
+            "pathWithType": "Huyện Quế Sơn, Tỉnh Quảng Nam, Việt Nam"
+        },
+        {
+            "index": 16,
+            "code": "",
+            "type": "district",
+            "name": "Tây Giang",
+            "slug": "tay giang",
+            "nameWithType": "Huyện Tây Giang",
+            "path": "Tây Giang, Quảng Nam, Việt Nam",
+            "pathWithType": "Huyện Tây Giang, Tỉnh Quảng Nam, Việt Nam"
+        },
+        {
+            "index": 17,
+            "code": "",
+            "type": "district",
+            "name": "Thăng Bình",
+            "slug": "thang binh",
+            "nameWithType": "Huyện Thăng Bình",
+            "path": "Thăng Bình, Quảng Nam, Việt Nam",
+            "pathWithType": "Huyện Thăng Bình, Tỉnh Quảng Nam, Việt Nam"
+        },
+        {
+            "index": 18,
+            "code": "",
+            "type": "district",
+            "name": "Tiên Phước",
+            "slug": "tien phuoc",
+            "nameWithType": "Huyện Tiên Phước",
+            "path": "Tiên Phước, Quảng Nam, Việt Nam",
+            "pathWithType": "Huyện Tiên Phước, Tỉnh Quảng Nam, Việt Nam"
+        }
+    ]
+}

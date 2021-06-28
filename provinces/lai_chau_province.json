@@ -1,0 +1,88 @@
+{
+    "description": "Tính đến tháng 06 năm 2021 - Tỉnh Lai Châu bao gồm 1 Thành phố trực thuộc và 7 Huyện",
+    "lastUpdatedAt": "2021-06-28T17:41:42.382610876+07:00",
+    "type": "province",
+    "name": "Lai Châu",
+    "districts": [
+        {
+            "index": 1,
+            "code": "",
+            "type": "district",
+            "name": "Tp. Lai Châu",
+            "slug": "tp. lai chau",
+            "nameWithType": "Thành phố Lai Châu",
+            "path": "Tp. Lai Châu, Lai Châu, Việt Nam",
+            "pathWithType": "Thành phố Lai Châu, Tỉnh Lai Châu, Việt Nam"
+        },
+        {
+            "index": 2,
+            "code": "",
+            "type": "district",
+            "name": "Mường Tè",
+            "slug": "muong te",
+            "nameWithType": "Huyện Mường Tè",
+            "path": "Mường Tè, Lai Châu, Việt Nam",
+            "pathWithType": "Huyện Mường tè, Tỉnh Lai Châu, Việt Nam"
+        },
+        {
+            "index": 3,
+            "code": "",
+            "type": "district",
+            "name": "Nậm Nhùn",
+            "slug": "nam nhun",
+            "nameWithType": "Huyện Nậm Nhùn",
+            "path": "Nậm Nhùn, Lai Châu, Việt Nam",
+            "pathWithType": "Huyện Nậm Nhùn, Tỉnh Lai Châu, Việt Nam"
+        },
+        {
+            "index": 4,
+            "code": "",
+            "type": "district",
+            "name": "Phong Thổ",
+            "slug": "phong tho",
+            "nameWithType": "Huyện Phong Thổ",
+            "path": "Phong Thổ, Lai Châu, Việt Nam",
+            "pathWithType": "Huyện Phong Thổ, Tỉnh Lai Châu, Việt Nam"
+        },
+        {
+            "index": 5,
+            "code": "",
+            "type": "district",
+            "name": "Sìn Hồ",
+            "slug": "sin ho",
+            "nameWithType": "Huyện Sìn Hồ",
+            "path": "Sìn Hồ, Lai Châu, Việt Nam",
+            "pathWithType": "Huyện Sìn Hồ, Tỉnh Lai Châu, Việt Nam"
+        },
+        {
+            "index": 6,
+            "code": "",
+            "type": "district",
+            "name": "Tam Đường",
+            "slug": "tam duong",
+            "nameWithType": "Huyện Tam Đường",
+            "path": "Tam Đường, Lai Châu, Việt Nam",
+            "pathWithType": "Huyện Tam Đường, Tỉnh Lai Châu, Việt Nam"
+        },
+        {
+            "index": 7,
+            "code": "",
+            "type": "district",
+            "name": "Tân Uyên",
+            "slug": "tan uyen",
+            "nameWithType": "Huyện Tân Uyên",
+            "path": "Tân Uyên, Lai Châu, Việt Nam",
+            "pathWithType": "Huyện Tân Uyên, Tỉnh Lai Châu, Việt Nam"
+        },
+        {
+            "index": 8,
+            "code": "",
+            "type": "district",
+            "name": "Than Uyên",
+            "slug": "than uyen",
+            "nameWithType": "Huyện Than Uyên",
+            "path": "Than Uyên, Lai Châu, Việt Nam",
+            "pathWithType": "Huyện Than Uyên, Tỉnh Lai Châu, Việt Nam"
+        }
+    ]
+}

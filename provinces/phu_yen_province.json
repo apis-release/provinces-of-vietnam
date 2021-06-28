@@ -1,0 +1,98 @@
+{
+    "description": "Tính đến tháng 06 năm 2021 - Tỉnh Phú Yên bao gồm 1 Thành phố trực thuộc, 2 Thị xã và 6 Huyện",
+    "lastUpdatedAt": "2021-06-28T17:41:42.382880749+07:00",
+    "type": "province",
+    "name": "Phú Yên",
+    "districts": [
+        {
+            "index": 1,
+            "code": "",
+            "type": "district",
+            "name": "Tp. Tuy Hòa",
+            "slug": "tp. tuy hoa",
+            "nameWithType": "Thành phố Tuy Hòa",
+            "path": ", Phú Yên, Việt Nam",
+            "pathWithType": ", Tỉnh Phú Yên, Việt Nam"
+        },
+        {
+            "index": 2,
+            "code": "",
+            "type": "district",
+            "name": "Đông Hòa",
+            "slug": "dong hoa",
+            "nameWithType": "Đông Hòa",
+            "path": "Đông Hòa, Phú Yên, Việt Nam",
+            "pathWithType": "Đông Hòa, Tỉnh Phú Yên, Việt Nam"
+        },
+        {
+            "index": 3,
+            "code": "",
+            "type": "district",
+            "name": "Tx. Sông Cầu",
+            "slug": "tx. song cau",
+            "nameWithType": "Thị xã Sông Cầu",
+            "path": "Tx. Sông Cầu, Phú Yên, Việt Nam",
+            "pathWithType": "Thị xã Sông Cầu, Tỉnh Phú Yên, Việt Nam"
+        },
+        {
+            "index": 4,
+            "code": "",
+            "type": "district",
+            "name": "Đồng Xuân",
+            "slug": "dong xuan",
+            "nameWithType": "Huyện Đồng Xuân",
+            "path": "Đồng Xuân, Phú Yên, Việt Nam",
+            "pathWithType": "Huyện Đồng Xuân, Tỉnh Phú Yên, Việt Nam"
+        },
+        {
+            "index": 5,
+            "code": "",
+            "type": "district",
+            "name": "Phú Hòa",
+            "slug": "phu hoa",
+            "nameWithType": "Huyện Phú Hòa",
+            "path": "Phú Hòa, Phú Yên, Việt Nam",
+            "pathWithType": "Huyện Phú Hòa, Tỉnh Phú Yên, Việt Nam"
+        },
+        {
+            "index": 6,
+            "code": "",
+            "type": "district",
+            "name": "Sơn Hòa",
+            "slug": "son hoa",
+            "nameWithType": "Huyện Sơn Hòa",
+            "path": "Sơn Hòa, Phú Yên, Việt Nam",
+            "pathWithType": "Huyện Sơn Hòa, Tỉnh Phú Yên, Việt Nam"
+        },
+        {
+            "index": 7,
+            "code": "",
+            "type": "district",
+            "name": "Sông Hinh",
+            "slug": "song hinh",
+            "nameWithType": "Huyện Sông Hinh",
+            "path": "Sông Hinh, Phú Yên, Việt Nam",
+            "pathWithType": "Huyện Sông Hinh, Tỉnh Phú Yên, Việt Nam"
+        },
+        {
+            "index": 8,
+            "code": "",
+            "type": "district",
+            "name": "Tây Hòa",
+            "slug": "tay hoa",
+            "nameWithType": "Huyện Tây Hòa",
+            "path": "Tây Hòa, Phú Yên, Việt Nam",
+            "pathWithType": "Huyện Tây Hòa, Tỉnh Phú Yên, Việt Nam"
+        },
+        {
+            "index": 9,
+            "code": "",
+            "type": "district",
+            "name": "Tuy An",
+            "slug": "tuy an",
+            "nameWithType": "Huyện Tuy An",
+            "path": "Tuy An, Phú Yên, Việt Nam",
+            "pathWithType": "Huyện Tuy An, Tỉnh Phú Yên, Việt Nam"
+        }
+    ]
+}

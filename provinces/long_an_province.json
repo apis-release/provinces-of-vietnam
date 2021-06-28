@@ -1,0 +1,158 @@
+{
+    "description": "Tính đến tháng 06 năm 2021 - Tỉnh Long An bao gồm 1 Thành phố trực thuộc, 1 Thị xã và 13 Huyện",
+    "lastUpdatedAt": "2021-06-28T17:41:42.382717861+07:00",
+    "type": "province",
+    "name": "Long An",
+    "districts": [
+        {
+            "index": 1,
+            "code": "",
+            "type": "district",
+            "name": "Tp. Tân An",
+            "slug": "tp. tan an",
+            "nameWithType": "Thành phố Tân An",
+            "path": "Tp. Tân An, Long An, Việt Nam",
+            "pathWithType": "Thành phố Tân An, Tỉnh Long An, Việt Nam"
+        },
+        {
+            "index": 2,
+            "code": "",
+            "type": "district",
+            "name": "Tx. Kiến Tường",
+            "slug": "tx. kien tuong",
+            "nameWithType": "Thị xã Kiến Tường",
+            "path": "Tx. Kiến Tường, Long An, Việt Nam",
+            "pathWithType": "Thị xã Kiến Tường, Tỉnh Long An, Việt Nam"
+        },
+        {
+            "index": 3,
+            "code": "",
+            "type": "district",
+            "name": "Bến Lức",
+            "slug": "ben luc",
+            "nameWithType": "Huyện Bến Lức",
+            "path": "Bến Lức, Long An, Việt Nam",
+            "pathWithType": "Huyện Bến Lức, Tỉnh Long An, Việt Nam"
+        },
+        {
+            "index": 4,
+            "code": "",
+            "type": "district",
+            "name": "Cần Đước",
+            "slug": "can duoc",
+            "nameWithType": "Huyện Cần Đước",
+            "path": "Cần Đước, Long An, Việt Nam",
+            "pathWithType": "Huyện Cần Đước, Tỉnh Long An, Việt Nam"
+        },
+        {
+            "index": 5,
+            "code": "",
+            "type": "district",
+            "name": "Châu Thành",
+            "slug": "chau thanh",
+            "nameWithType": "Huyện Châu Thành",
+            "path": "Châu Thành, Long An, Việt Nam",
+            "pathWithType": "Huyện Châu Thành, Tỉnh Long An, Việt Nam"
+        },
+        {
+            "index": 6,
+            "code": "",
+            "type": "district",
+            "name": "Đức Hòa",
+            "slug": "duc hoa",
+            "nameWithType": "Huyện Đức Hòa",
+            "path": "Đức Hòa, Long An, Việt Nam",
+            "pathWithType": "Huyện Đức Hòa, Tỉnh Long An, Việt Nam"
+        },
+        {
+            "index": 7,
+            "code": "",
+            "type": "district",
+            "name": "Đức Huệ",
+            "slug": "duc hue",
+            "nameWithType": "Huyện Đức Huệ",
+            "path": ", Long An, Việt Nam",
+            "pathWithType": ", Tỉnh Long An, Việt Nam"
+        },
+        {
+            "index": 8,
+            "code": "",
+            "type": "district",
+            "name": "Mộc Hóa",
+            "slug": "moc hoa",
+            "nameWithType": "Huyện Mộc Hóa",
+            "path": "Mộc Hóa, Long An, Việt Nam",
+            "pathWithType": "Huyện Mộc Hóa, Tỉnh Long An, Việt Nam"
+        },
+        {
+            "index": 9,
+            "code": "",
+            "type": "district",
+            "name": "Tân Hưng",
+            "slug": "tan hung",
+            "nameWithType": "Huyện Tân Hưng",
+            "path": "Tân Hưng, Long An, Việt Nam",
+            "pathWithType": "Huyện Tân Hưng, Tỉnh Long An, Việt Nam"
+        },
+        {
+            "index": 10,
+            "code": "",
+            "type": "district",
+            "name": "Tân Thạnh",
+            "slug": "tan thanh",
+            "nameWithType": "Huyện Tân Thạnh",
+            "path": "Tân Thạnh, Long An, Việt Nam",
+            "pathWithType": "Huyện Tân Thạnh, Tỉnh Long An, Việt Nam"
+        },
+        {
+            "index": 11,
+            "code": "",
+            "type": "district",
+            "name": "Tân Trụ",
+            "slug": "tan tru",
+            "nameWithType": "Huyện Tân Trụ",
+            "path": "Tân Trụ, Long An, Việt Nam",
+            "pathWithType": "Huyện Tân Trụ, Tỉnh Long An, Việt Nam"
+        },
+        {
+            "index": 12,
+            "code": "",
+            "type": "district",
+            "name": "Thạnh Hóa",
+            "slug": "thanh hoa",
+            "nameWithType": "Huyện Thạnh Hóa",
+            "path": "Thạnh Hóa, Long An, Việt Nam",
+            "pathWithType": "Huyện Thạnh Hóa, Tỉnh Long An, Việt Nam"
+        },
+        {
+            "index": 13,
+            "code": "",
+            "type": "district",
+            "name": "Thủ Thừa",
+            "slug": "thu thua",
+            "nameWithType": "Huyện Thủ Thừa",
+            "path": "Thủ Thừa, Long An, Việt Nam",
+            "pathWithType": "Huyện Thủ Thừa, Tỉnh Long An, Việt Nam"
+        },
+        {
+            "index": 14,
+            "code": "",
+            "type": "district",
+            "name": "Vĩnh Hưng",
+            "slug": "vinh hung",
+            "nameWithType": "Huyện Vĩnh Hưng",
+            "path": "Vĩnh Hưng, Long An, Việt Nam",
+            "pathWithType": "Huyện Vĩnh Hưng, Tỉnh Long An, Việt Nam"
+        },
+        {
+            "index": 15,
+            "code": "",
+            "type": "district",
+            "name": "Cần Giuộc",
+            "slug": "can giuoc",
+            "nameWithType": "Huyện Cần Giuộc",
+            "path": "Cần Giuộc, Long An, Việt Nam",
+            "pathWithType": "Huyện Cần Giuộc, Tỉnh Long An, Việt Nam"
+        }
+    ]
+}

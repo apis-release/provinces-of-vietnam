@@ -1,0 +1,118 @@
+{
+    "description": "Tính đến tháng 06 năm 2021 - Tỉnh Hà Giang bao gồm 1 Thành phố trực thuộc và 10 Huyện",
+    "lastUpdatedAt": "2021-06-28T17:41:42.382176521+07:00",
+    "type": "province",
+    "name": "Hà Giang",
+    "districts": [
+        {
+            "index": 1,
+            "code": "",
+            "type": "district",
+            "name": "Tp. Hà Giang",
+            "slug": "tp. ha giang",
+            "nameWithType": "Thành phố Hà Giang",
+            "path": "Tp. Hà Giang, Hà Giang, Việt Nam",
+            "pathWithType": "Thành phố Hà Giang, Tỉnh Hà Giang, Việt Nam"
+        },
+        {
+            "index": 2,
+            "code": "",
+            "type": "district",
+            "name": "Bắc Mê",
+            "slug": "bac me",
+            "nameWithType": "Huyện Bắc Mê",
+            "path": "Bắc Mê, Hà Giang, Việt Nam",
+            "pathWithType": "Huyện Bắc Mê, Tỉnh Hà Giang, Việt Nam"
+        },
+        {
+            "index": 3,
+            "code": "",
+            "type": "district",
+            "name": "Bắc Quang",
+            "slug": "bac quang",
+            "nameWithType": "Huyện Bắc Quang",
+            "path": "Bắc Quang, Hà Giang, Việt Nam",
+            "pathWithType": "Huyện Bắc Quang, Tỉnh Hà Giang, Việt Nam"
+        },
+        {
+            "index": 4,
+            "code": "",
+            "type": "district",
+            "name": "Đồng văn",
+            "slug": "dong van",
+            "nameWithType": "Huyện Đồng Văn",
+            "path": "Đồng Văn, Hà Giang, Việt Nam",
+            "pathWithType": "Huyện Đồng Văn, Tỉnh Hà Giang, Việt Nam"
+        },
+        {
+            "index": 5,
+            "code": "",
+            "type": "district",
+            "name": "Hoàng Su Phì",
+            "slug": "hoang su phi",
+            "nameWithType": "Huyện Hoàng Su Phì",
+            "path": "Hoàng Su Phì, Hà Giang, Việt Nam",
+            "pathWithType": "Huyện Hoàng Su Phì, Tỉnh Hà Giang, Việt Nam"
+        },
+        {
+            "index": 6,
+            "code": "",
+            "type": "district",
+            "name": "Mèo Vạc",
+            "slug": "meo vac",
+            "nameWithType": "Huyện Mèo Vạc",
+            "path": "Mèo Vạc, Hà Giang, Việt Nam",
+            "pathWithType": "Huyện Mèo Vạc, Tỉnh Hà Giang, Việt Nam"
+        },
+        {
+            "index": 7,
+            "code": "",
+            "type": "district",
+            "name": "Quản Bạ",
+            "slug": "quan ba",
+            "nameWithType": "Huyện Quản Bạ",
+            "path": "Quản Bạ, Hà Giang, Việt Nam",
+            "pathWithType": "Huyện Quản Bạ, Tỉnh Hà Giang, Việt Nam"
+        },
+        {
+            "index": 8,
+            "code": "",
+            "type": "district",
+            "name": "Quang Bình",
+            "slug": "quang binh",
+            "nameWithType": "Huyện Quang Bình",
+            "path": "Quang Bình, Hà Giang, Việt Nam",
+            "pathWithType": "Huyện Quang Bình, Tỉnh Hà Giang, Việt Nam"
+        },
+        {
+            "index": 9,
+            "code": "",
+            "type": "district",
+            "name": "Vị Xuyện",
+            "slug": "vi xuyen",
+            "nameWithType": "Huyện Vị Xuyên",
+            "path": "Vị Xuyên, Hà Giang, Việt Nam",
+            "pathWithType": "Huyện Vị Xuyên, Tỉnh Hà Giang, Việt Nam"
+        },
+        {
+            "index": 10,
+            "code": "",
+            "type": "district",
+            "name": "Xín Mần",
+            "slug": "xin man",
+            "nameWithType": "Huyện Xín Mần",
+            "path": "Xín Mần, Hà Giang, Việt Nam",
+            "pathWithType": "Huyện Xín Mần, Tỉnh Hà Giang, Việt Nam"
+        },
+        {
+            "index": 11,
+            "code": "",
+            "type": "district",
+            "name": "Yên Minh",
+            "slug": "yen minh",
+            "nameWithType": "Huyện Yên Minh",
+            "path": "Yên Minh, Hà Giang, Việt Nam",
+            "pathWithType": "Huyện Yên Minh, Tỉnh Hà Giang, Việt Nam"
+        }
+    ]
+}

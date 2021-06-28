@@ -1,0 +1,158 @@
+{
+    "description": "Tính đến tháng 06 năm 2021 - Tp. Hải Phòng bao gồm 7 Quận và 8 Huyện",
+    "lastUpdatedAt": "2021-06-28T17:41:42.382355148+07:00",
+    "type": "city",
+    "name": "Tp. Hải Phòng",
+    "districts": [
+        {
+            "index": 1,
+            "code": "",
+            "type": "district",
+            "name": "Đồ Sơn",
+            "slug": "do son",
+            "nameWithType": "Quận Đồ  Sơn",
+            "path": "Đồ Sơn, Tp. Hải Phòng, Việt Nam",
+            "pathWithType": "Quận Đồ Sơn, Thành phố Hải Phòng, Việt Nam"
+        },
+        {
+            "index": 2,
+            "code": "",
+            "type": "district",
+            "name": "Dương Kinh",
+            "slug": "duong kinh",
+            "nameWithType": "Quận Dương Kinh",
+            "path": "Dương Kinh, Tp. Hải Phòng, Việt Nam",
+            "pathWithType": "Quận Dương Kinh, Thành phố Hải Phòng, Việt Nam"
+        },
+        {
+            "index": 3,
+            "code": "",
+            "type": "district",
+            "name": "Hải An",
+            "slug": "hai an",
+            "nameWithType": "Quận Hải An",
+            "path": "Hải An, Tp. Hải Phòng, Việt Nam",
+            "pathWithType": "Quận Hải An, Thành phố Hải Phòng, Việt Nam"
+        },
+        {
+            "index": 4,
+            "code": "",
+            "type": "district",
+            "name": "Hồng Bàng",
+            "slug": "hong bang",
+            "nameWithType": "Quận Hồng Bàng",
+            "path": "Hồng Bàng, Tp. Hải Phòng, Việt Nam",
+            "pathWithType": "Quận Hồng Bàng, Thành phố Hải Phòng, Việt Nam"
+        },
+        {
+            "index": 5,
+            "code": "",
+            "type": "district",
+            "name": "Kiến An",
+            "slug": "kien an",
+            "nameWithType": "Quận Kiến An",
+            "path": "Kiến An, Tp. Hải Phòng, Việt Nam",
+            "pathWithType": "Quận Kiến An, Thành phố Hải Phòng, Việt Nam"
+        },
+        {
+            "index": 6,
+            "code": "",
+            "type": "district",
+            "name": "Lê Chân",
+            "slug": "le chan",
+            "nameWithType": "Quận Lê Chân",
+            "path": "Lê Chân, Tp. Hải Phòng, Việt Nam",
+            "pathWithType": "Quận Lê Chân, Thành phố Hải Phòng, Việt Nam"
+        },
+        {
+            "index": 7,
+            "code": "",
+            "type": "district",
+            "name": "Ngô Quyền",
+            "slug": "ngo nquyen",
+            "nameWithType": "Quận Ngô Quyền",
+            "path": "Ngô Quyền, Tp. Hải Phòng, Việt Nam",
+            "pathWithType": "Quận Ngô Quyền, Thành phố Hải Phòng, Việt Nam"
+        },
+        {
+            "index": 8,
+            "code": "",
+            "type": "district",
+            "name": "An Dương",
+            "slug": "an duong",
+            "nameWithType": "Huyện An Dương",
+            "path": "An Dương, Tp. Hải Phòng, Việt Nam",
+            "pathWithType": "Huyện An Dương, Thành phố Hải Phòng, Việt Nam"
+        },
+        {
+            "index": 9,
+            "code": "",
+            "type": "district",
+            "name": "An Lão",
+            "slug": "an lao",
+            "nameWithType": "Huyện An Lão",
+            "path": "An Lão, Tp. Hải Phòng, Việt Nam",
+            "pathWithType": "Huyện An Lão, Thành phố Hải Phòng, Việt Nam"
+        },
+        {
+            "index": 10,
+            "code": "",
+            "type": "district",
+            "name": "Bạch Long Vĩ",
+            "slug": "bach long vi",
+            "nameWithType": "Huyện Bạch Long Vĩ",
+            "path": "Bạch Long Vĩ, Tp. Hải Phòng, Việt Nam",
+            "pathWithType": "Huyện Bạch Long Vĩ, Thành phố Hải Phòng, Việt Nam"
+        },
+        {
+            "index": 11,
+            "code": "",
+            "type": "district",
+            "name": "Cát Hải",
+            "slug": "cat hai",
+            "nameWithType": "Huyện Cát Hải",
+            "path": "Cát Hải, Tp. Hải Phòng, Việt Nam",
+            "pathWithType": "Huyện Cát Hải, Thành phố Hải Phòng, Việt Nam"
+        },
+        {
+            "index": 12,
+            "code": "",
+            "type": "district",
+            "name": "Kiến Thụy",
+            "slug": "kien thuy",
+            "nameWithType": "Huyện Kiến Thụy",
+            "path": "Kiến Thụy, Tp. Hải Phòng, Việt Nam",
+            "pathWithType": "Huyện Kiến Thụy, Thành phố Hải Phòng, Việt Nam"
+        },
+        {
+            "index": 13,
+            "code": "",
+            "type": "district",
+            "name": "Thủy Nguyên",
+            "slug": "thuy nguyen",
+            "nameWithType": "Huyện Thủy Nguyên",
+            "path": "Thủy Nguyên, Tp. Hải Phòng, Việt Nam",
+            "pathWithType": "Huyện Thủy Nguyên, Thành phố Hải Phòng, Việt Nam"
+        },
+        {
+            "index": 14,
+            "code": "",
+            "type": "district",
+            "name": "Tiên Lãng",
+            "slug": "tien lang",
+            "nameWithType": "Huyện Tiên Lãng",
+            "path": "Tiên Lãng, Tp. Hải Phòng, Việt Nam",
+            "pathWithType": "Huyện Tiên Lãng, Thành phố Hải Phòng, Việt Nam"
+        },
+        {
+            "index": 15,
+            "code": "",
+            "type": "district",
+            "name": "Vĩnh Bảo",
+            "slug": "vinh bao",
+            "nameWithType": "Huyện Vĩnh Bảo",
+            "path": "Vĩnh Bảo, Tp. Hải Phòng, Việt Nam",
+            "pathWithType": "Huyện Vĩnh Bảo, Thành phố Hải Phòng, Việt Nam"
+        }
+    ]
+}

@@ -1,0 +1,128 @@
+{
+    "description": "Tính đến tháng 06 năm 2021 - Tỉnh Lâm Đồng bao gồm 2 Thành phố trực thuộc và 10 Huyện",
+    "lastUpdatedAt": "2021-06-28T17:41:42.382691138+07:00",
+    "type": "province",
+    "name": "Lâm Đồng",
+    "districts": [
+        {
+            "index": 1,
+            "code": "",
+            "type": "district",
+            "name": "Tp. Đà Lạt",
+            "slug": "tp. da lat",
+            "nameWithType": "Thành phố Đà Lạt",
+            "path": "Tp. Đà Lạt, Lâm Đồng, Việt Nam",
+            "pathWithType": "Thành phố Đà Lạt, Tỉnh Lâm Đồng, Việt Nam"
+        },
+        {
+            "index": 2,
+            "code": "",
+            "type": "district",
+            "name": "Tp. Bảo Lộc",
+            "slug": "tp. bao loc",
+            "nameWithType": "Thành phố Bảo Lộc",
+            "path": "Tp. Bảo Lộc, Lâm Đồng, Việt Nam",
+            "pathWithType": "Thành Phố Bảo Lộc, Tỉnh Lâm Đồng, Việt Nam"
+        },
+        {
+            "index": 3,
+            "code": "",
+            "type": "district",
+            "name": "Bảo Lâm",
+            "slug": "bao lam",
+            "nameWithType": "Huyện Bảo Lâm",
+            "path": "Bảo Lâm, Lâm Đồng, Việt Nam",
+            "pathWithType": "Huyện Bảo Lâm, Tỉnh Lâm Đồng, Việt Nam"
+        },
+        {
+            "index": 4,
+            "code": "",
+            "type": "district",
+            "name": "Cát Tiên",
+            "slug": "cat tien",
+            "nameWithType": "Huyện Cát Tiên",
+            "path": "Cát Tiên, Lâm Đồng, Việt Nam",
+            "pathWithType": "Huyện Cát Tiên, Tỉnh Lâm Đồng, Việt Nam"
+        },
+        {
+            "index": 5,
+            "code": "",
+            "type": "district",
+            "name": "Di Linh",
+            "slug": "di linh",
+            "nameWithType": "Huyện Di Linh",
+            "path": "Di Linh, Lâm Đồng, Việt Nam",
+            "pathWithType": "Huyện Di Linh, Tỉnh Lâm Đồng, Việt Nam"
+        },
+        {
+            "index": 6,
+            "code": "",
+            "type": "district",
+            "name": "Đạ Huoai",
+            "slug": "da huoai",
+            "nameWithType": "Huyện Đạ Huoai",
+            "path": "Đạ Huoai, Lâm Đồng, Việt Nam",
+            "pathWithType": "Huyện Đạ Huoai, Tỉnh Lâm Đồng, Việt Nam"
+        },
+        {
+            "index": 7,
+            "code": "",
+            "type": "district",
+            "name": "Đạ Tẻh",
+            "slug": "da teh",
+            "nameWithType": "Huyện Đạ Tẻh",
+            "path": "Đạ Tẻh, Lâm Đồng, Việt Nam",
+            "pathWithType": "Huyện Đạ Tẻh, Tỉnh Lâm Đồng, Việt Nam"
+        },
+        {
+            "index": 8,
+            "code": "",
+            "type": "district",
+            "name": "Đam Rông",
+            "slug": "dam rong",
+            "nameWithType": "Huyện Đam Rông",
+            "path": "Đam Rông, Lâm Đồng, Việt Nam",
+            "pathWithType": "Huyện Đam Rông, Tỉnh Lâm Đồng, Việt Nam"
+        },
+        {
+            "index": 9,
+            "code": "",
+            "type": "district",
+            "name": "Đơn Dương",
+            "slug": "don duong",
+            "nameWithType": "Huyện Đơn Dương",
+            "path": "Đơn Dương, Lâm Đồng, Việt Nam",
+            "pathWithType": "Huyện Đơn Dương, Tỉnh Lâm Đồng, Việt Nam"
+        },
+        {
+            "index": 10,
+            "code": "",
+            "type": "district",
+            "name": "Đức Trọng",
+            "slug": "duc trong",
+            "nameWithType": "Huyện Đức Trọng",
+            "path": "Đức Trọng, Lâm Đồng, Việt Nam",
+            "pathWithType": "Huyện Đức Trọng, Tỉnh Lâm Đồng, Việt Nam"
+        },
+        {
+            "index": 11,
+            "code": "",
+            "type": "district",
+            "name": "Lạc Dương",
+            "slug": "lac duong",
+            "nameWithType": "Huyện Lạc Dương",
+            "path": "Lạc Dương, Lâm Đồng, Việt Nam",
+            "pathWithType": "Huyện Lạc Dương, Tỉnh Lâm Đồng, Việt Nam"
+        },
+        {
+            "index": 12,
+            "code": "",
+            "type": "district",
+            "name": "Lâm Hà",
+            "slug": "lam ha",
+            "nameWithType": "Huyện Lâm Hà",
+            "path": "Lâm Hà, Lâm Đồng, Việt Nam",
+            "pathWithType": "Huyện Lâm Hà, Tỉnh Lâm Đồng, Việt Nam"
+        }
+    ]
+}

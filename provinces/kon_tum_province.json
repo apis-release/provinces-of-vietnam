@@ -1,0 +1,108 @@
+{
+    "description": "Tính đến tháng 06 năm 2021 - Tỉnh Kon Tum bao gồm 2 Thành phố trực thuộc và 9 Huyện",
+    "lastUpdatedAt": "2021-06-28T17:41:42.382585415+07:00",
+    "type": "province",
+    "name": "Kon Tum",
+    "districts": [
+        {
+            "index": 1,
+            "code": "",
+            "type": "district",
+            "name": "Tp. Kon Tum",
+            "slug": "tp. kon tum",
+            "nameWithType": "Thành phố Kon Tum",
+            "path": "Tp. Kon Tum, Kon Tum, Việt Nam",
+            "pathWithType": "Thành phố Kon Tum, Tỉnh Kon Tum, Việt Nam"
+        },
+        {
+            "index": 2,
+            "code": "",
+            "type": "district",
+            "name": "Đăk Glei",
+            "slug": "dak glei",
+            "nameWithType": "Huyện Đăk Glei",
+            "path": "Đăk Glei, Kon Tum, Việt Nam",
+            "pathWithType": "Huyện Đăk Glei, Tỉnh Kon Tum, Việt Nam"
+        },
+        {
+            "index": 3,
+            "code": "",
+            "type": "district",
+            "name": "Đăk Hà",
+            "slug": "dak ha",
+            "nameWithType": "Huyện Đăk Hà",
+            "path": "Đăk Hà, Kon Tum, Việt Nam",
+            "pathWithType": "Huyên Đăk Hà, Tỉnh Kon Tum, Việt Nam"
+        },
+        {
+            "index": 4,
+            "code": "",
+            "type": "district",
+            "name": "Đắk Tô",
+            "slug": "dak to",
+            "nameWithType": "Huyện Đắk Tô",
+            "path": "Đắk Tô, Kon Tum, Việt Nam",
+            "pathWithType": "Huyện Đắk Tô, Tỉnh Kon Tum, Việt Nam"
+        },
+        {
+            "index": 5,
+            "code": "",
+            "type": "district",
+            "name": "Ia H'Drai",
+            "slug": "ia h'drai",
+            "nameWithType": "Huyện Ia H'Drai",
+            "path": "Ia H'Drai, Kon Tum, Việt Nam",
+            "pathWithType": "Huyện Ia H'Drai, Tỉnh Kon Tum, Việt Nam"
+        },
+        {
+            "index": 6,
+            "code": "",
+            "type": "district",
+            "name": "Kon Plông",
+            "slug": "kon plong",
+            "nameWithType": "Huyện Kon Plông",
+            "path": "Kon Plông, Kon Tum, Việt Nam",
+            "pathWithType": "Huyện Kon Plông, Tỉnh Kon Tum, Việt Nam"
+        },
+        {
+            "index": 7,
+            "code": "",
+            "type": "district",
+            "name": "Kon Rẫy",
+            "slug": "kon ray",
+            "nameWithType": "Huyện Kon Rẫy",
+            "path": "Kon Rẫy, Kon Tum, Việt Nam",
+            "pathWithType": "Huyện Kon Rẫy, Tỉnh Kon Tum, Việt Nam"
+        },
+        {
+            "index": 8,
+            "code": "",
+            "type": "district",
+            "name": "Ngọc Hồi",
+            "slug": "ngoc hoi",
+            "nameWithType": "Huyện Ngọc Hồi",
+            "path": "Ngọc Hồi, Kon Tum, Việt Nam",
+            "pathWithType": "Huyện Ngọc Hồi, Tỉnh Kon Tum, Việt Nam"
+        },
+        {
+            "index": 9,
+            "code": "",
+            "type": "district",
+            "name": "Sa Thầy",
+            "slug": "sa thay",
+            "nameWithType": "Huyện Sa Thầy",
+            "path": "Sa Thầy, Kon Tum, Việt Nam",
+            "pathWithType": "Huyện Sa Thầy, Tỉnh Kon Tum, Việt Nam"
+        },
+        {
+            "index": 10,
+            "code": "",
+            "type": "district",
+            "name": "Tu Mơ Rông",
+            "slug": "tu mo rong",
+            "nameWithType": "Huyện Tu Mơ Rông",
+            "path": "Tu Mơ Rông, Kon Tum, Việt Nam",
+            "pathWithType": "Huyện Tu Mơ Rông, Tỉnh Kon Tum, Việt Nam"
+        }
+    ]
+}

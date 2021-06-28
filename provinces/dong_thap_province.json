@@ -1,0 +1,128 @@
+{
+    "description": "Tính đến tháng 06 năm 2021 - Tỉnh Đồng Tháp bao gồm 3 Thành phố trực thuộc và 9 Huyện",
+    "lastUpdatedAt": "2021-06-28T17:41:42.382121827+07:00",
+    "type": "province",
+    "name": "Đồng Tháp",
+    "districts": [
+        {
+            "index": 1,
+            "code": "",
+            "type": "district",
+            "name": "Tp. Cao Lãnh",
+            "slug": "tp. cao lanh",
+            "nameWithType": "Thành phố Cao Lãnh",
+            "path": "Tp. Cao Lãnh, Đồng Tháp, Việt Nam",
+            "pathWithType": "Thành phố Cao Lãnh, Tỉnh Đồng Tháp, Việt Nam"
+        },
+        {
+            "index": 2,
+            "code": "",
+            "type": "district",
+            "name": "Tp. Sa Đéc",
+            "slug": "tp. sa dec",
+            "nameWithType": "Thành Phố Sa Đéc",
+            "path": "Tp. Sa Đéc, Đồng Tháp, Việt Nam",
+            "pathWithType": "Thành phố Sa Đéc, Tỉnh Đồng Tháp, Việt Nam"
+        },
+        {
+            "index": 3,
+            "code": "",
+            "type": "district",
+            "name": "Tp. Hồng Ngự",
+            "slug": "tp. hong ngu",
+            "nameWithType": "Thành phố Hồng Ngự",
+            "path": "Tp. Hồng Ngự, Đồng Tháp, Việt Nam",
+            "pathWithType": "Thành phố Hồng Ngự, Tỉnh Đồng Tháp, Việt Nam"
+        },
+        {
+            "index": 4,
+            "code": "",
+            "type": "district",
+            "name": "H. Cao Lãnh",
+            "slug": "h. cao lanh",
+            "nameWithType": "Huyện Cao Lãnh",
+            "path": "H. Cao Lãnh, Đồng Tháp, Việt Nam",
+            "pathWithType": "Huyện Cao Lãnh, Tỉnh Đồng Tháp, Việt Nam"
+        },
+        {
+            "index": 5,
+            "code": "",
+            "type": "district",
+            "name": "Châu Thành",
+            "slug": "chau thanh",
+            "nameWithType": "Huyện Châu Thành",
+            "path": "Châu Thành, Đồng Tháp, Việt Nam",
+            "pathWithType": "Huyện Châu Thành, Tỉnh Đồng Tháp, Việt Nam"
+        },
+        {
+            "index": 6,
+            "code": "",
+            "type": "district",
+            "name": "H. Hồng Ngự",
+            "slug": "h. hong ngu",
+            "nameWithType": "Huyện Hồng Ngự",
+            "path": "H. Hồng Ngự, Đồng Tháp, Việt Nam",
+            "pathWithType": "Huyện Hồng Ngự, Tỉnh Đồng Tháp, Việt Nam"
+        },
+        {
+            "index": 7,
+            "code": "",
+            "type": "district",
+            "name": "Lai Vung",
+            "slug": "lai vung",
+            "nameWithType": "Huyện Lai Vung",
+            "path": "Lai Vung, Đồng Tháp, Việt Nam",
+            "pathWithType": "Huyện Lai Vung, Tỉnh Đồng Tháp, Việt Nam"
+        },
+        {
+            "index": 8,
+            "code": "",
+            "type": "district",
+            "name": "Lấp Vò",
+            "slug": "lap vo",
+            "nameWithType": "Huyện Lấp Vò",
+            "path": "Lấp Vò, Đồng Tháp, Việt Nam",
+            "pathWithType": "Huyện Lấp Vò, Tỉnh Đồng Tháp, Việt Nam"
+        },
+        {
+            "index": 9,
+            "code": "",
+            "type": "district",
+            "name": "Tam Nông",
+            "slug": "tam nong",
+            "nameWithType": "Huyện Tam Nông",
+            "path": "Tam Nông, Đồng Tháp, Việt Nam",
+            "pathWithType": "Huyện Tam Nông, Tỉnh Đồng Tháp, Việt Nam"
+        },
+        {
+            "index": 10,
+            "code": "",
+            "type": "district",
+            "name": "Tân Hồng",
+            "slug": "tan hong",
+            "nameWithType": "Huyện Tân Hồng",
+            "path": "Tân Hồng, Đồng Tháp, Việt Nam",
+            "pathWithType": "Huyện Tân Hồng, Tỉnh Đồng Tháp, Việt Nam"
+        },
+        {
+            "index": 11,
+            "code": "",
+            "type": "district",
+            "name": "Thanh Bình",
+            "slug": "thanh binh",
+            "nameWithType": "Huyện Thanh Bình",
+            "path": "Thanh Bình, Đồng Tháp, Việt Nam",
+            "pathWithType": "Huyện Thanh Bình, Tỉnh Đồng Tháp, Việt Nam"
+        },
+        {
+            "index": 12,
+            "code": "",
+            "type": "district",
+            "name": "Tháp Mười",
+            "slug": "thap muoi",
+            "nameWithType": "Huyện Tháp Mười",
+            "path": "Tháp Mười, Đồng Tháp, Việt Nam",
+            "pathWithType": "Huyện Tháp Mười, Tỉnh Đồng Tháp, Việt Nam"
+        }
+    ]
+}

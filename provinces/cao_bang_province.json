@@ -1,0 +1,108 @@
+{
+    "description": "Tính đến tháng 06 năm 2021 - Tỉnh Cao Bằng bao gồm 2 Thành phố trực thuộc và 9 Huyện",
+    "lastUpdatedAt": "2021-06-28T17:41:42.38192906+07:00",
+    "type": "province",
+    "name": "Cao Bằng",
+    "districts": [
+        {
+            "index": 1,
+            "code": "",
+            "type": "district",
+            "name": "Tp. Cao Bằng",
+            "slug": "tp. cao bang",
+            "nameWithType": "Thành phố Cao Bằng",
+            "path": "Tp. Cao Bằng, Cao Bằng, Việt Nam",
+            "pathWithType": "Thành phố Cao Bằng, Tỉnh Cao Bằng, Việt Nam"
+        },
+        {
+            "index": 2,
+            "code": "",
+            "type": "district",
+            "name": "Bảo Lạc",
+            "slug": "bao lac",
+            "nameWithType": "Huyện Bảo Lạc",
+            "path": "Bảo Lạc, Cao Bằng, Việt Nam",
+            "pathWithType": "Huyện Bảo Lạc, Tỉnh Cao Bằng, Việt Nam"
+        },
+        {
+            "index": 3,
+            "code": "",
+            "type": "district",
+            "name": "Bảo Lâm",
+            "slug": "bao lam",
+            "nameWithType": "Huyện Bảo Lâm",
+            "path": "Bảo Lâm, Cao Bằng, Việt Nam",
+            "pathWithType": "Huyện Bảo Lâm, Tỉnh Cao Bằng, Việt Nam"
+        },
+        {
+            "index": 4,
+            "code": "",
+            "type": "district",
+            "name": "Hạ Lang",
+            "slug": "ha lang",
+            "nameWithType": "Huyện Hạ Lang",
+            "path": "Hạ Lang, Cao Bằng, Việt Nam",
+            "pathWithType": "Huyện Hạ Lang, Tỉnh Cao Bằng, Việt Nam"
+        },
+        {
+            "index": 5,
+            "code": "",
+            "type": "district",
+            "name": "Hà Quảng",
+            "slug": "ha quang",
+            "nameWithType": "Huyện Hà Quảng",
+            "path": "Hà Quảng, Cao Bằng, Việt Nam",
+            "pathWithType": "Huyện Hà Quảng, Tỉnh Cao Bằng, Việt Nam"
+        },
+        {
+            "index": 6,
+            "code": "",
+            "type": "district",
+            "name": "Hòa An",
+            "slug": "hao an",
+            "nameWithType": "Huyện Hòa An",
+            "path": "Hòa An, Cao Bằng, Việt Nam",
+            "pathWithType": "Huyện Hòa An, Tỉnh Cao Bằng, Việt Nam"
+        },
+        {
+            "index": 7,
+            "code": "",
+            "type": "district",
+            "name": "Nguyên Bình",
+            "slug": "nguyen binh",
+            "nameWithType": "Huyện Nguyên Bình",
+            "path": "Nguyên Bình, Cao Bằng, Việt Nam",
+            "pathWithType": "Huyện Nguyên Bình, Tỉnh Cao Bằng, Việt Nam"
+        },
+        {
+            "index": 8,
+            "code": "",
+            "type": "district",
+            "name": "QUảng Hà",
+            "slug": "quang ha",
+            "nameWithType": "Huyện Quảng Hà",
+            "path": "Quảng Hà, Cao Bằng, Việt Nam",
+            "pathWithType": "Huyện Quảng Hà, Tỉnh Cao Bằng, Việt Nam"
+        },
+        {
+            "index": 9,
+            "code": "",
+            "type": "district",
+            "name": "Thạch An",
+            "slug": "thach an",
+            "nameWithType": "Huyện Thạch An",
+            "path": "Thạch An, Cao Bằng, Việt Nam",
+            "pathWithType": "Huyện Thạch An, Tỉnh Cao Bằng, Việt Nam"
+        },
+        {
+            "index": 10,
+            "code": "",
+            "type": "district",
+            "name": "Trùng Khánh",
+            "slug": "trung khanh",
+            "nameWithType": "Huyện Trùng Khánh",
+            "path": "Trùng Khánh, Cao Bằng, Việt Nam",
+            "pathWithType": "Huyện Trùng Khánh, Tỉnh Cao Bằng, Việt Nam"
+        }
+    ]
+}

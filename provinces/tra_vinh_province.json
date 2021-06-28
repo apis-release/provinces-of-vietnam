@@ -1,0 +1,98 @@
+{
+    "description": "Tính đến tháng 06 năm 2021 - Tỉnh Trà Vinh bao gồm 1 Thành phố trực thuộc, 1 Thị xã và 7 Huyện",
+    "lastUpdatedAt": "2021-06-28T17:41:42.383271113+07:00",
+    "type": "province",
+    "name": "Trà Vinh",
+    "districts": [
+        {
+            "index": 1,
+            "code": "",
+            "type": "district",
+            "name": "Tp. Trà Vinh",
+            "slug": "tp. tra vinh",
+            "nameWithType": "Thành phố Trà Vinh",
+            "path": "Tp. Trà Vinh, Trà Vinh, Việt Nam",
+            "pathWithType": "Thành phố Trà Vinh, Tỉnh Trà Vinh, Việt Nam"
+        },
+        {
+            "index": 2,
+            "code": "",
+            "type": "district",
+            "name": "Tx. Duyên Hải",
+            "slug": "tx. duyen hai",
+            "nameWithType": "Thị xã Duyên Hải",
+            "path": "Tx. Duyên Hải, Trà Vinh, Việt Nam",
+            "pathWithType": "Thị xã Duyên Hải, Tỉnh Trà Vinh, Việt Nam"
+        },
+        {
+            "index": 3,
+            "code": "",
+            "type": "district",
+            "name": "Càng Long",
+            "slug": "cang long",
+            "nameWithType": "Huyện Càng Long",
+            "path": "Càng Long, Trà Vinh, Việt Nam",
+            "pathWithType": "Huyện Càng Long, Tỉnh Trà Vinh, Việt Nam"
+        },
+        {
+            "index": 4,
+            "code": "",
+            "type": "district",
+            "name": "Cầu Kè",
+            "slug": "cau ke",
+            "nameWithType": "Huyện Cầu Kè",
+            "path": "Cầu Kè, Trà Vinh, Việt Nam",
+            "pathWithType": "Huyện Cầu Kè, Tỉnh Trà Vinh, Việt Nam"
+        },
+        {
+            "index": 5,
+            "code": "",
+            "type": "district",
+            "name": "Cầu Ngang",
+            "slug": "cau ngang",
+            "nameWithType": "Huyện Cầu Ngang",
+            "path": "Cầu Ngang, Trà Vinh, Việt Nam",
+            "pathWithType": "Huyện Cầu Ngang, Tỉnh Trà Vinh, Việt Nam"
+        },
+        {
+            "index": 6,
+            "code": "",
+            "type": "district",
+            "name": "Châu Thành",
+            "slug": "chau thanh",
+            "nameWithType": "Huyện Châu Thành",
+            "path": "Châu Thành, Trà Vinh, Việt Nam",
+            "pathWithType": "Huyện Châu Thành, Tỉnh Trà Vinh, Việt Nam"
+        },
+        {
+            "index": 7,
+            "code": "",
+            "type": "district",
+            "name": "H. Duyên Hải",
+            "slug": "h. duyen hai",
+            "nameWithType": "Huyện Duyên Hải",
+            "path": "H. Duyên Hải, Trà Vinh, Việt Nam",
+            "pathWithType": "Huyện Duyên Hải, Tỉnh Trà Vinh, Việt Nam"
+        },
+        {
+            "index": 8,
+            "code": "",
+            "type": "district",
+            "name": "Tiểu Cần",
+            "slug": "tieu can",
+            "nameWithType": "Huyện Tiểu Cần",
+            "path": "Tiểu Cần, Trà Vinh, Việt Nam",
+            "pathWithType": "Huyện Tiểu Cần, Tỉnh Trà Vinh, Việt Nam"
+        },
+        {
+            "index": 9,
+            "code": "",
+            "type": "district",
+            "name": "Trà Cú",
+            "slug": "tra cu",
+            "nameWithType": "Huyện Trà Cú",
+            "path": "Trà Cú, Trà Vinh, Việt Nam",
+            "pathWithType": "Huyện Trà Cú, Tỉnh Trà Vinh, Việt Nam"
+        }
+    ]
+}

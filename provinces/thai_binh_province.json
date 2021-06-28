@@ -1,0 +1,88 @@
+{
+    "description": "Tính đến tháng 06 năm 2021 - Tỉnh Thái Bình bao gồm 1 Thành phố trực thuộc và 7 Huyện",
+    "lastUpdatedAt": "2021-06-28T17:41:42.383131087+07:00",
+    "type": "province",
+    "name": "Thái Bình",
+    "districts": [
+        {
+            "index": 1,
+            "code": "",
+            "type": "district",
+            "name": "Tp. Thái Bình",
+            "slug": "tp. thai binh",
+            "nameWithType": "Thành phố Thái Bình",
+            "path": "Tp. Thái Bình, Thái Bình, Việt Nam",
+            "pathWithType": "Thành phố Thái Bình, Tỉnh Thái Bình, Việt Nam"
+        },
+        {
+            "index": 2,
+            "code": "",
+            "type": "district",
+            "name": "Đông Hưng",
+            "slug": "dong hung",
+            "nameWithType": "Huyện Đông Hưng",
+            "path": "Đông Hưng, Thái Bình, Việt Nam",
+            "pathWithType": "Huyện Đông Hưng, Tỉnh Thái Bình, Việt Nam"
+        },
+        {
+            "index": 3,
+            "code": "",
+            "type": "district",
+            "name": "Hưng Hà",
+            "slug": "hung ha",
+            "nameWithType": "Huyện Hưng Hà",
+            "path": "Hưng Hà, Thái Bình, Việt Nam",
+            "pathWithType": "Huyện Hưng Hà, Tỉnh Thái Bình, Việt Nam"
+        },
+        {
+            "index": 4,
+            "code": "",
+            "type": "district",
+            "name": "Kiến Xương",
+            "slug": "kien xuong",
+            "nameWithType": "Huyện Kiến Xương",
+            "path": "Kiến Xương, Thái Bình, Việt Nam",
+            "pathWithType": "Huyện Kiến Xương, Tỉnh Thái Bình, Việt Nam"
+        },
+        {
+            "index": 5,
+            "code": "",
+            "type": "district",
+            "name": "Quỳnh Phụ",
+            "slug": "quynh phu",
+            "nameWithType": "Huyện Quỳnh Phụ",
+            "path": "Quỳnh Phụ, Thái Bình, Việt Nam",
+            "pathWithType": "Huyện Quỳnh Phụ, Tỉnh Thái Bình, Việt Nam"
+        },
+        {
+            "index": 6,
+            "code": "",
+            "type": "district",
+            "name": "Thái Thụy",
+            "slug": "thai thuy",
+            "nameWithType": "Huyện Thái Thụy",
+            "path": "Thái Thụy, Thái Bình, Việt Nam",
+            "pathWithType": "Huyện Thái Thụy, Tỉnh Thái Bình, Việt Nam"
+        },
+        {
+            "index": 7,
+            "code": "",
+            "type": "district",
+            "name": "Tiền Hải",
+            "slug": "tien hai",
+            "nameWithType": "Huyện Tiền Hải",
+            "path": "Tiền Hải, Thái Bình, Việt Nam",
+            "pathWithType": "Huyện Tiền Hải, Tỉnh Thái Bình, Việt Nam"
+        },
+        {
+            "index": 8,
+            "code": "",
+            "type": "district",
+            "name": "Vũ Thư",
+            "slug": "vu thu",
+            "nameWithType": "Huyện Vũ Thư",
+            "path": "Vũ Thư, Thái Bình, Việt Nam",
+            "pathWithType": "Huyện Vũ Thư, Tỉnh Thái Bình, Việt Nam"
+        }
+    ]
+}

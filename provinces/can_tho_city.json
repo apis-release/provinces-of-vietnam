@@ -1,0 +1,98 @@
+{
+    "description": "Tính đến tháng 06 năm 2021 - Tp. Cần Thơ bao gồm 5 Quận và 4 Huyện",
+    "lastUpdatedAt": "2021-06-28T17:41:42.381966803+07:00",
+    "type": "city",
+    "name": "Tp. Cần Thơ",
+    "districts": [
+        {
+            "index": 1,
+            "code": "",
+            "type": "district",
+            "name": "Bình Thủy",
+            "slug": "binh thuy",
+            "nameWithType": "Quận Bình Thủy",
+            "path": "Bình Thủy, Cần Thơ, Việt Nam",
+            "pathWithType": "Quận Bình Thủy, Tỉnh Cần Thơ, Việt Nam"
+        },
+        {
+            "index": 2,
+            "code": "",
+            "type": "district",
+            "name": "Cái Răng",
+            "slug": "cai rang",
+            "nameWithType": "Quận Cái Răng",
+            "path": "Cái Răng, Cần Thơ, Việt Nam",
+            "pathWithType": "Quận Cái Răng, Tỉnh Cần Thơ, Việt Nam"
+        },
+        {
+            "index": 3,
+            "code": "",
+            "type": "district",
+            "name": "Ninh Kiều",
+            "slug": "ninh kieu",
+            "nameWithType": "Quận Ninh Kiều",
+            "path": "Ninh Kiều, Cần Thơ, Việt Nam",
+            "pathWithType": "Quận Ninh Kiều, Tỉnh Cần Thơ, Việt Nam"
+        },
+        {
+            "index": 4,
+            "code": "",
+            "type": "district",
+            "name": "Ô Môn",
+            "slug": "o mon",
+            "nameWithType": "Quận Ô Môn",
+            "path": "Ô Môn, Cần Thơ, Việt Nam",
+            "pathWithType": "Quận Ô Môn, Tỉnh Cần Thơ, Việt Nam"
+        },
+        {
+            "index": 5,
+            "code": "",
+            "type": "district",
+            "name": "Thốt Nốt",
+            "slug": "thot not",
+            "nameWithType": "Quận Thốt Nốt",
+            "path": "Thốt Nốt, Cần Thơ, Việt Nam",
+            "pathWithType": "Quận Thốt Nốt, Tỉnh Cần Thơ, Việt Nam"
+        },
+        {
+            "index": 6,
+            "code": "",
+            "type": "district",
+            "name": "Cờ Đỏ",
+            "slug": "co do",
+            "nameWithType": "Huyện Cờ Đỏ",
+            "path": "Cờ Đỏ, Cần Thơ, Việt Nam",
+            "pathWithType": "Huyện Cờ Đỏ, Tỉnh Cần Thơ, Việt Nam"
+        },
+        {
+            "index": 7,
+            "code": "",
+            "type": "district",
+            "name": "Phong Điền",
+            "slug": "phong dien",
+            "nameWithType": "Huyện Phong Điền",
+            "path": "Phong Điền, Cần Thơ, Việt Nam",
+            "pathWithType": "Huyện Phong Điền, Tỉnh Cần Thơ, Việt Nam"
+        },
+        {
+            "index": 8,
+            "code": "",
+            "type": "district",
+            "name": "Thới Lai",
+            "slug": "thoi lai",
+            "nameWithType": "Huyện Thới Lai",
+            "path": "Thới Lai, Cần Thơ, Việt Nam",
+            "pathWithType": "Huyện Thới Lai, Tỉnh Cần Thơ, Việt Nam"
+        },
+        {
+            "index": 9,
+            "code": "",
+            "type": "district",
+            "name": "Vĩnh Thạnh",
+            "slug": "vinh thanh",
+            "nameWithType": "Huyện Vĩnh Thạnh",
+            "path": "Vĩnh Thạnh, Cần Thơ, Việt Nam",
+            "pathWithType": "Huyện Vĩnh Thạnh, Tỉnh Cần Thơ, Việt Nam"
+        }
+    ]
+}

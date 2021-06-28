@@ -1,0 +1,108 @@
+{
+    "description": "Tính đến tháng 06 năm 2021 - Tỉnh Nam Định bao gồm 1 Thành phố trực thuộc và 9 Huyện",
+    "lastUpdatedAt": "2021-06-28T17:41:42.382745932+07:00",
+    "type": "province",
+    "name": "Nam Định",
+    "districts": [
+        {
+            "index": 1,
+            "code": "",
+            "type": "district",
+            "name": "Tp. Nam Định",
+            "slug": "tp. nam dinh",
+            "nameWithType": "Thành phố Nam Định",
+            "path": "Tp. Nam Định, Nam Định, Việt Nam",
+            "pathWithType": "Thành phố Nam Định, Tỉnh Nam Định, Việt Nam"
+        },
+        {
+            "index": 2,
+            "code": "",
+            "type": "district",
+            "name": "Giao Thủy",
+            "slug": "giao thuy",
+            "nameWithType": "HUyện Giao Thủy",
+            "path": "Giao Thủy, Nam Định, Việt Nam",
+            "pathWithType": "Huyện Giao Thủy, Tỉnh Nam Định, Việt Nam"
+        },
+        {
+            "index": 3,
+            "code": "",
+            "type": "district",
+            "name": "Hải Hậu",
+            "slug": "hai hau",
+            "nameWithType": "Huyện Hải Hậu",
+            "path": "Hải Hậu, Nam Định, Việt Nam",
+            "pathWithType": "HUyện Hải Hậu, Tỉnh Nam Định, Việt Nam"
+        },
+        {
+            "index": 4,
+            "code": "",
+            "type": "district",
+            "name": "Mỹ Lộc",
+            "slug": "my loc",
+            "nameWithType": "Huyện Mỹ Lộc",
+            "path": "Mỹ Lộc, Nam Định, Việt Nam",
+            "pathWithType": "Huyện Mỹ Lộc, Tỉnh Nam Định, Việt Nam"
+        },
+        {
+            "index": 5,
+            "code": "",
+            "type": "district",
+            "name": "Nam Trực",
+            "slug": "nam truc",
+            "nameWithType": "Huyện Nam Trực",
+            "path": "Nam Trực, Nam Định, Việt Nam",
+            "pathWithType": "Huyện Nam Trực, Tỉnh Nam Định, Việt Nam"
+        },
+        {
+            "index": 6,
+            "code": "",
+            "type": "district",
+            "name": "Nghĩa Hưng",
+            "slug": "nghia hung",
+            "nameWithType": "Huyện Nghĩa Hưng",
+            "path": "Nghĩa Hưng, Nam Định, Việt Nam",
+            "pathWithType": "Huyện Nghĩa Hưng, Tỉnh Nam Định, Việt Nam"
+        },
+        {
+            "index": 7,
+            "code": "",
+            "type": "district",
+            "name": "Trực Ninh",
+            "slug": "truc ninh",
+            "nameWithType": "Huyện Trực Ninh",
+            "path": "Trực Ninh, Nam Định, Việt Nam",
+            "pathWithType": "Huyện Trực Ninh, Tỉnh Nam Định, Việt Nam"
+        },
+        {
+            "index": 8,
+            "code": "",
+            "type": "district",
+            "name": "Vụ Bản",
+            "slug": "vu ban",
+            "nameWithType": "Huyện Vụ Bản",
+            "path": "Vụ Bản, Nam Định, Việt Nam",
+            "pathWithType": "Huyện Vụ Bản, Tỉnh Nam Định, Việt Nam"
+        },
+        {
+            "index": 9,
+            "code": "",
+            "type": "district",
+            "name": "Xuân Trường",
+            "slug": "xuan truong",
+            "nameWithType": "Huyện Xuân Trường",
+            "path": "Xuân Trường, Nam Định, Việt Nam",
+            "pathWithType": "Huyện Xuân Trường, Tỉnh Nam Định, Việt Nam"
+        },
+        {
+            "index": 10,
+            "code": "",
+            "type": "district",
+            "name": "Ý Yên",
+            "slug": "y yen",
+            "nameWithType": "Huyện Ý Yên",
+            "path": "Ý Yên, Nam Định, Việt Nam",
+            "pathWithType": "Huyện Ý Yên, Tỉnh Nam Định, Việt Nam"
+        }
+    ]
+}

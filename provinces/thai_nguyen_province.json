@@ -1,0 +1,98 @@
+{
+    "description": "Tính đến tháng 06 năm 2021 - Tỉnh Thái Nguyên bao gồm 2 Thành phố trực thuộc, 1 Thị xã và 6 Huyện",
+    "lastUpdatedAt": "2021-06-28T17:41:42.383153327+07:00",
+    "type": "province",
+    "name": "Thái Nguyên",
+    "districts": [
+        {
+            "index": 1,
+            "code": "",
+            "type": "district",
+            "name": "Tp. Thái Nguyên",
+            "slug": "tp. thai nguyen",
+            "nameWithType": "Thành phố Thái Nguyên",
+            "path": "Tp. Thái Nguyên, Thái Nguyên, Việt Nam",
+            "pathWithType": "Thành phố Thái Nguyên, Tỉnh Thái Nguyên, Việt Nam"
+        },
+        {
+            "index": 2,
+            "code": "",
+            "type": "district",
+            "name": "Tp. Sông Công",
+            "slug": "tp. song cong",
+            "nameWithType": "Thành phố Sông Công",
+            "path": "Tp. Sông Công, Thái Nguyên, Việt Nam",
+            "pathWithType": "Thành phố Sông Công, Tỉnh Thái Nguyên, Việt Nam"
+        },
+        {
+            "index": 3,
+            "code": "",
+            "type": "district",
+            "name": "Tx. Phổ Yên",
+            "slug": "tpho yen",
+            "nameWithType": "Thị xã Phổ Yên",
+            "path": "Tx. Phổ Yên, Thái Nguyên, Việt Nam",
+            "pathWithType": "Thị xã Phổ Yên, Tỉnh Thái Nguyên, Việt Nam"
+        },
+        {
+            "index": 4,
+            "code": "",
+            "type": "district",
+            "name": "Đại Từ",
+            "slug": "dai tu",
+            "nameWithType": "Huyện Đại Từ",
+            "path": "Đại Từ, Thái Nguyên, Việt Nam",
+            "pathWithType": "Huyện Đại Từ, Tỉnh Thái Nguyên, Việt Nam"
+        },
+        {
+            "index": 5,
+            "code": "",
+            "type": "district",
+            "name": "Định Hóa",
+            "slug": "dinh hoa",
+            "nameWithType": "Huyện Định Hóa",
+            "path": "Định Hóa, Thái Nguyên, Việt Nam",
+            "pathWithType": "Huyện Định Hóa, Tỉnh Thái Nguyên, Việt Nam"
+        },
+        {
+            "index": 6,
+            "code": "",
+            "type": "district",
+            "name": "Đồng Hỷ",
+            "slug": "dong hy",
+            "nameWithType": "Huyện Đồng Hỷ",
+            "path": "Đồng Hỷ, Thái Nguyên, Việt Nam",
+            "pathWithType": "Huyện Đồng Hỷ, Tỉnh Thái Nguyên, Việt Nam"
+        },
+        {
+            "index": 7,
+            "code": "",
+            "type": "district",
+            "name": "Phú Bình",
+            "slug": "phu binh",
+            "nameWithType": "Huyện Phú Bình",
+            "path": "Phú Bình, Thái Nguyên, Việt Nam",
+            "pathWithType": "Huyện Phú Bình, Tỉnh Thái Nguyên, Việt Nam"
+        },
+        {
+            "index": 8,
+            "code": "",
+            "type": "district",
+            "name": "Phú Lương",
+            "slug": "phu luong",
+            "nameWithType": "Huyện Phú Lương",
+            "path": "Phú Lương, Thái Nguyên, Việt Nam",
+            "pathWithType": "Huyện Phú Lương, Tỉnh Thái Nguyên, Việt Nam"
+        },
+        {
+            "index": 9,
+            "code": "",
+            "type": "district",
+            "name": "Võ Nhai",
+            "slug": "vo nhai",
+            "nameWithType": "Huyện Võ Nhai",
+            "path": "Võ Nhai, Thái Nguyên, Việt Nam",
+            "pathWithType": "Huyện Võ Nhai, Tỉnh Thái Nguyên, Việt Nam"
+        }
+    ]
+}

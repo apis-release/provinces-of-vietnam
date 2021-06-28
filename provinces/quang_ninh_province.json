@@ -1,0 +1,138 @@
+{
+    "description": "Tính đến tháng 06 năm 2021 - Tỉnh Quảng Ninh bao gồm 4 Thành phố trực thuộc, 2 Thị xã và 7 Huyện",
+    "lastUpdatedAt": "2021-06-28T17:41:42.382997474+07:00",
+    "type": "province",
+    "name": "Quảng Ninh",
+    "districts": [
+        {
+            "index": 1,
+            "code": "",
+            "type": "district",
+            "name": "Tp. Hạ Long",
+            "slug": "tp. ha long",
+            "nameWithType": "Thành phố Hạ Long",
+            "path": "Tp. Hạ Long, Quảng Ninh, Việt Nam",
+            "pathWithType": "Thành phố Hạ Long, Tỉnh Quảng Ninh, Việt Nam"
+        },
+        {
+            "index": 2,
+            "code": "",
+            "type": "district",
+            "name": "Tp. Cẩm Phả",
+            "slug": "tp. cam pha",
+            "nameWithType": "Thành phố Cẩm Phả",
+            "path": "Tp. Cẩm Phả, Quảng Ninh, Việt Nam",
+            "pathWithType": "Thành phố Cẩm Phả, Tỉnh Quảng Ninh, Việt Nam"
+        },
+        {
+            "index": 3,
+            "code": "",
+            "type": "district",
+            "name": "Tp. Móng Cái",
+            "slug": "tp. mong cai",
+            "nameWithType": "Thành phố Móng Cái",
+            "path": "Tp. Móng Cái, Quảng Ninh, Việt Nam",
+            "pathWithType": "Thành phố Móng Cái, Tỉnh Quảng Ninh, Việt Nam"
+        },
+        {
+            "index": 4,
+            "code": "",
+            "type": "district",
+            "name": "Tp. Uông Bí",
+            "slug": "tp. uong bi",
+            "nameWithType": "Thành phố Uông Bí",
+            "path": "Tp. Uông Bí, Quảng Ninh, Việt Nam",
+            "pathWithType": "Thành phố Uông Bí, Tỉnh Quảng Ninh, Việt Nam"
+        },
+        {
+            "index": 5,
+            "code": "",
+            "type": "district",
+            "name": "Tx. Đông Triều",
+            "slug": "tx. dong trieu",
+            "nameWithType": "Thị xã Đông Triều",
+            "path": "Tx. Đông Triều, Quảng Ninh, Việt Nam",
+            "pathWithType": "Thị xã Đông Triều, Tỉnh Quảng Ninh, Việt Nam"
+        },
+        {
+            "index": 6,
+            "code": "",
+            "type": "district",
+            "name": "Tx. Quảng Yên",
+            "slug": "tx. quang yen",
+            "nameWithType": "Thị xã Quảng Yên",
+            "path": "Tx. Quảng Yên, Quảng Ninh, Việt Nam",
+            "pathWithType": "Thị xã Quảng Yên, Tỉnh Quảng Ninh, Việt Nam"
+        },
+        {
+            "index": 7,
+            "code": "",
+            "type": "district",
+            "name": "Vân Đồn",
+            "slug": "van don",
+            "nameWithType": "Huyện Vân Đồn",
+            "path": "Vân Đồn, Quảng Ninh, Việt Nam",
+            "pathWithType": "Huyện Vân Đòn, Tỉnh Quảng Ninh, Việt Nam"
+        },
+        {
+            "index": 8,
+            "code": "",
+            "type": "district",
+            "name": "Tiên Yên",
+            "slug": "tien yen",
+            "nameWithType": "Huyện Tiên Yên",
+            "path": "Tiên Yên, Quảng Ninh, Việt Nam",
+            "pathWithType": "Huyện Tiên Yên, Tỉnh Quảng Ninh, Việt Nam"
+        },
+        {
+            "index": 9,
+            "code": "",
+            "type": "district",
+            "name": "Hải Hà",
+            "slug": "hai ha",
+            "nameWithType": "Huyện Hải Hà",
+            "path": "Hải Hà, Quảng Ninh, Việt Nam",
+            "pathWithType": "Huyện Hải Hà, Tỉnh Quảng Ninh, Việt Nam"
+        },
+        {
+            "index": 10,
+            "code": "",
+            "type": "district",
+            "name": "Cô Tô",
+            "slug": "co to",
+            "nameWithType": "Huyện Cô Tô",
+            "path": "Cô Tô, Quảng Ninh, Việt Nam",
+            "pathWithType": "Huyện Cô Tô, Tỉnh Quảng Ninh, Việt Nam"
+        },
+        {
+            "index": 11,
+            "code": "",
+            "type": "district",
+            "name": "Đầm Hà",
+            "slug": "dam ha",
+            "nameWithType": "Huyện Đầm Hà",
+            "path": "Đầm Hà, Quảng Ninh, Việt Nam",
+            "pathWithType": "Huyện Đầm Hà, Tỉnh Quảng Ninh, Việt Nam"
+        },
+        {
+            "index": 12,
+            "code": "",
+            "type": "district",
+            "name": "Bình Liêu",
+            "slug": "binh lieu",
+            "nameWithType": "Huyện Bình Liêu",
+            "path": "Bình Liêu, Quảng Ninh, Việt Nam",
+            "pathWithType": "Huyện Bình Liêu, Tỉnh Quảng Ninh, Việt Nam"
+        },
+        {
+            "index": 13,
+            "code": "",
+            "type": "district",
+            "name": "Ba Chẽ",
+            "slug": "ba che",
+            "nameWithType": "Huyện Ba Chẽ",
+            "path": "Ba Chẽ, Quảng Ninh, Việt Nam",
+            "pathWithType": "Huyện Ba Chẽ, Tỉnh Quảng Ninh, Việt Nam"
+        }
+    ]
+}

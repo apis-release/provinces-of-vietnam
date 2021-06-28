@@ -1,0 +1,228 @@
+{
+    "description": "Thành phố Hồ Chí Minh là trung tâm kinh tế lớn nhất cả nước. Tính đến tháng 06 năm 2021 - Tp. Hồ Chí Minh bao gồm 1 Thành phố trực thuộc, 16 Quận và 8 Huyện",
+    "lastUpdatedAt": "2021-06-28T17:41:42.382449631+07:00",
+    "type": "city",
+    "name": "Tp. Hồ Chí Minh",
+    "districts": [
+        {
+            "index": 1,
+            "code": "",
+            "type": "district",
+            "name": "Tp. Thủ Đức",
+            "slug": "tp. thu duc",
+            "nameWithType": "Thành phố Thủ Đức",
+            "path": "Tp. Thủ Đức, Tp. Hồ Chí Minh, Việt Nam",
+            "pathWithType": "Thành phố Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam"
+        },
+        {
+            "index": 2,
+            "code": "",
+            "type": "district",
+            "name": "Q.1",
+            "slug": "q.1",
+            "nameWithType": "Quận 1",
+            "path": "Q.1, Tp. Hồ Chí Minh, Việt Nam",
+            "pathWithType": "Quận 1, Thành phố Hồ Chí Minh, Việt Nam"
+        },
+        {
+            "index": 3,
+            "code": "",
+            "type": "district",
+            "name": "Q.3",
+            "slug": "q.3",
+            "nameWithType": "Quận 3",
+            "path": "Q.3, Tp. Hồ Chí Minh, Việt Nam",
+            "pathWithType": "Quận 3, Thành phố Hồ Chí Minh, Việt Nam"
+        },
+        {
+            "index": 4,
+            "code": "",
+            "type": "district",
+            "name": "Q.4",
+            "slug": "q.4",
+            "nameWithType": "Quận 4",
+            "path": "Q.4, Tp. Hồ Chí Minh, Việt Nam",
+            "pathWithType": "Quận 4, Thành phố Hồ Chí Minh, Việt Nam"
+        },
+        {
+            "index": 5,
+            "code": "",
+            "type": "district",
+            "name": "Q.5",
+            "slug": "q.5",
+            "nameWithType": "Quận 5",
+            "path": "Q.5, Tp. Hồ Chí Minh, Việt Nam",
+            "pathWithType": "Quận 5, Thành phố Hồ Chí Minh, Việt Nam"
+        },
+        {
+            "index": 6,
+            "code": "",
+            "type": "district",
+            "name": "Q.6",
+            "slug": "q.6",
+            "nameWithType": "Quận 6",
+            "path": "Q.6, Tp. Hồ Chí Minh, Việt Nam",
+            "pathWithType": "Quận 6, Thành phố Hồ Chí Minh, Việt Nam"
+        },
+        {
+            "index": 7,
+            "code": "",
+            "type": "district",
+            "name": "Q.7",
+            "slug": "q.7",
+            "nameWithType": "Quận 7",
+            "path": "Q.7, Tp. Hồ Chí Minh, Việt Nam",
+            "pathWithType": "Quận 7, Thành phố Hồ Chí Minh, Việt Nam"
+        },
+        {
+            "index": 8,
+            "code": "",
+            "type": "district",
+            "name": "Q.8",
+            "slug": "q.8",
+            "nameWithType": "Quận 8",
+            "path": "Q.8, Tp. Hồ Chí Minh, Việt Nam",
+            "pathWithType": "Quận 8, Thành phố Hồ Chí Minh, Việt Nam"
+        },
+        {
+            "index": 9,
+            "code": "",
+            "type": "district",
+            "name": "Q.10",
+            "slug": "q.10",
+            "nameWithType": "Quận 10",
+            "path": "Q.10, Tp. Hồ Chí Minh, Việt Nam",
+            "pathWithType": "Quận 10, Thành phố Hồ Chí Minh, Việt Nam"
+        },
+        {
+            "index": 10,
+            "code": "",
+            "type": "district",
+            "name": "Q.11",
+            "slug": "q.11",
+            "nameWithType": "Quận 11",
+            "path": "Q.11, Tp. Hồ Chí Minh, Việt Nam",
+            "pathWithType": "Quận 11, Thành phố Hồ Chí Minh, Việt Nam"
+        },
+        {
+            "index": 11,
+            "code": "",
+            "type": "district",
+            "name": "Q.12",
+            "slug": "q.12",
+            "nameWithType": "Quận 12",
+            "path": "Q.12, Tp. Hồ Chí Minh, Việt Nam",
+            "pathWithType": "Quận 12, Thành phố Hồ Chí Minh, Việt Nam"
+        },
+        {
+            "index": 12,
+            "code": "",
+            "type": "district",
+            "name": "Bình Tân",
+            "slug": "binh tan",
+            "nameWithType": "Quận Bình Tân",
+            "path": "Bình Tân, Tp. Hồ Chí Minh, Việt Nam",
+            "pathWithType": "Quận Bình Tân, Thành phố Hồ Chí Minh, Việt Nam"
+        },
+        {
+            "index": 13,
+            "code": "",
+            "type": "district",
+            "name": "Bình Thạnh",
+            "slug": "binh thanh",
+            "nameWithType": "Quận Bình Thạnh",
+            "path": "Bình Thạnh, Tp. Hồ Chí Minh, Việt Nam",
+            "pathWithType": "Quận Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam"
+        },
+        {
+            "index": 14,
+            "code": "",
+            "type": "district",
+            "name": "Gò Vấp",
+            "slug": "go vap",
+            "nameWithType": "Quận Gò Vấp",
+            "path": "Gò Vấp, Tp. Hồ Chí Minh, Việt Nam",
+            "pathWithType": "Quận Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam"
+        },
+        {
+            "index": 15,
+            "code": "",
+            "type": "district",
+            "name": "Phú Nhuận",
+            "slug": "phu nhuan",
+            "nameWithType": "Quận Phú Nhuận",
+            "path": "Phú Nhuận, Tp. Hồ Chí Minh, Việt Nam",
+            "pathWithType": "Quận Phú Nhuận, Thành phố Hồ Chí Minh, Việt Nam"
+        },
+        {
+            "index": 16,
+            "code": "",
+            "type": "district",
+            "name": "Tân Bình",
+            "slug": "tan binh",
+            "nameWithType": "Quận Tân Bình",
+            "path": "Tân Bình, Tp. Hồ Chí Minh, Việt Nam",
+            "pathWithType": "Quận Tân Bình, Thành phố Hồ Chí Minh, Việt Nam"
+        },
+        {
+            "index": 17,
+            "code": "",
+            "type": "district",
+            "name": "Tân Phú",
+            "slug": "tan phu",
+            "nameWithType": "Quận Tân Phú",
+            "path": "Tân Phú, Tp. Hồ Chí Minh, Việt Nam",
+            "pathWithType": "Quận Tân Phú, Thành phố Hồ Chí Minh, Việt Nam"
+        },
+        {
+            "index": 18,
+            "code": "",
+            "type": "district",
+            "name": "Bình Chánh",
+            "slug": "binh chanh",
+            "nameWithType": "Huyện Bình Chánh",
+            "path": "Bình Chánh, Tp. Hồ Chí Minh, Việt Nam",
+            "pathWithType": "Huyện Bình Chánh, Thành phố Hồ Chí Minh, Việt Nam"
+        },
+        {
+            "index": 19,
+            "code": "",
+            "type": "district",
+            "name": "Cần Giờ",
+            "slug": "can gio",
+            "nameWithType": "Huyện Cần Giờ",
+            "path": "Cần Giờ, Tp. Hồ Chí Minh, Việt Nam",
+            "pathWithType": "Huyện Cần Giờ, Thành phố Hồ Chí Minh, Việt Nam"
+        },
+        {
+            "index": 20,
+            "code": "",
+            "type": "district",
+            "name": "Củ Chi",
+            "slug": "cu chi",
+            "nameWithType": "Huyện Củ Chi",
+            "path": "Củ Chi, Tp. Hồ Chí Minh, Việt Nam",
+            "pathWithType": "Huyện Củ Chi, Thành phố Hồ Chí Minh, Việt Nam"
+        },
+        {
+            "index": 21,
+            "code": "",
+            "type": "district",
+            "name": "Hóc Môn",
+            "slug": "hoc mon",
+            "nameWithType": "Huyện Hóc Môn",
+            "path": "Hóc Môn, Tp. Hồ Chí Minh, Việt Nam",
+            "pathWithType": "Huyện Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam"
+        },
+        {
+            "index": 22,
+            "code": "",
+            "type": "district",
+            "name": "Nhà Bè",
+            "slug": "nha be",
+            "nameWithType": "Huyện Nhà Bè",
+            "path": "Nhà Bè, Tp. Hồ Chí Minh, Việt Nam",
+            "pathWithType": "Huyện Nhà Bè, Thành phố Hồ Chí Minh, Việt Nam"
+        }
+    ]
+}

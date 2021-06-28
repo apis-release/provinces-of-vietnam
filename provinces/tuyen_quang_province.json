@@ -1,0 +1,78 @@
+{
+    "description": "Tính đến tháng 06 năm 2021 - Tỉnh Tuyên Quang bao gồm 1 Thành phố trực thuộc và 6 Huyện",
+    "lastUpdatedAt": "2021-06-28T17:41:42.383303155+07:00",
+    "type": "province",
+    "name": "Tuyên Quang",
+    "districts": [
+        {
+            "index": 1,
+            "code": "",
+            "type": "district",
+            "name": "Tp. Tuyên Quang",
+            "slug": "tp. tuyen quang",
+            "nameWithType": "Thành phố Tuyên Quang",
+            "path": "Tp. Tuyên Quang, Tuyên Quang, Việt Nam",
+            "pathWithType": "Thành phố Tuyên Quang, Tỉnh Tuyên Quang, Việt Nam"
+        },
+        {
+            "index": 2,
+            "code": "",
+            "type": "district",
+            "name": "Chiêm Hóa",
+            "slug": "chiem hoa",
+            "nameWithType": "Huyện Chiêm Hóa",
+            "path": "Chiêm Hóa, Tuyên Quang, Việt Nam",
+            "pathWithType": "Huyện Chiêm Hóa, Tỉnh Tuyên Quang, Việt Nam"
+        },
+        {
+            "index": 3,
+            "code": "",
+            "type": "district",
+            "name": "Hàm Yên",
+            "slug": "ham yen",
+            "nameWithType": "Huyện Hàm Yên",
+            "path": "Hàm Yên, Tuyên Quang, Việt Nam",
+            "pathWithType": "Huyện Hàm Yên, Tỉnh Tuyên Quang, Việt Nam"
+        },
+        {
+            "index": 4,
+            "code": "",
+            "type": "district",
+            "name": "Lâm Bình",
+            "slug": "lam binh",
+            "nameWithType": "Huyện Lâm Bình",
+            "path": "Lâm Bình, Tuyên Quang, Việt Nam",
+            "pathWithType": "Huyện Lâm Bình, Tỉnh Tuyên Quang, Việt Nam"
+        },
+        {
+            "index": 5,
+            "code": "",
+            "type": "district",
+            "name": "Na Hang",
+            "slug": "na hang",
+            "nameWithType": "Huyện Na Hang",
+            "path": "Na Hang, Tuyên Quang, Việt Nam",
+            "pathWithType": "Huyện Na Hang, Tỉnh Tuyên Quang, Việt Nam"
+        },
+        {
+            "index": 6,
+            "code": "",
+            "type": "district",
+            "name": "Sơn Dương",
+            "slug": "son duong",
+            "nameWithType": "Huyện Sơn Dương",
+            "path": "Sơn Dương, Tuyên Quang, Việt Nam",
+            "pathWithType": "Huyện Sơn Dương, Tỉnh Tuyên Quang, Việt Nam"
+        },
+        {
+            "index": 7,
+            "code": "",
+            "type": "district",
+            "name": "Yên Sơn",
+            "slug": "yen son",
+            "nameWithType": "Huyện Yên Sơn",
+            "path": "Yên Sơn, Tuyên Quang, Việt Nam",
+            "pathWithType": "Huyện Yên Sơn, Tỉnh Tuyên Quang, Việt Nam"
+        }
+    ]
+}

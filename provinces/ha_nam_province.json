@@ -1,0 +1,68 @@
+{
+    "description": "Tính đến tháng 06 năm 2021 - Tỉnh Hà Nam bao gồm 1 Thành phố trực thuộc, 1 Thị xã và 4 Huyện",
+    "lastUpdatedAt": "2021-06-28T17:41:42.382222019+07:00",
+    "type": "province",
+    "name": "Hà Nam",
+    "districts": [
+        {
+            "index": 1,
+            "code": "",
+            "type": "district",
+            "name": "Tp. Phủ Lý",
+            "slug": "tp. phu ly",
+            "nameWithType": "Thành phố Phủ Lý",
+            "path": "Tp. Phủ Lý, Hà Nam, Việt Nam",
+            "pathWithType": "Thành phố Phủ Lý, Tỉnh Hà Nam, Việt Nam"
+        },
+        {
+            "index": 2,
+            "code": "",
+            "type": "district",
+            "name": "Tx. Duy Tiên",
+            "slug": "tx. duy tien",
+            "nameWithType": "Thị xã Duy Tiên",
+            "path": "Tx. Duy Tiên, Hà Nam, Việt Nam",
+            "pathWithType": "Thị xã Duy Tiên, Tỉnh Hà Nam, Việt Nam"
+        },
+        {
+            "index": 3,
+            "code": "",
+            "type": "district",
+            "name": "Bình Lục",
+            "slug": "binh luc",
+            "nameWithType": "Huyện Bình Lục",
+            "path": "Bình Lục, Hà Nam, Việt Nam",
+            "pathWithType": "Huyện Bình Lục, Tỉnh Hà Nam, Việt Nam"
+        },
+        {
+            "index": 4,
+            "code": "",
+            "type": "district",
+            "name": "Kim Bảng",
+            "slug": "kim bang",
+            "nameWithType": "Huyện Kim Bảng",
+            "path": "Kim Bảng, Hà Nam, Việt Nam",
+            "pathWithType": "Huyện Kim Bảng, Tỉnh Hà Nam, Việt Nam"
+        },
+        {
+            "index": 5,
+            "code": "",
+            "type": "district",
+            "name": "Lý Nhân",
+            "slug": "ly nhan",
+            "nameWithType": "Huyện Lý Nhân",
+            "path": "Lý Nhân, Hà Nam, Việt Nam",
+            "pathWithType": "Huyện Lý Nhân, Tỉnh Hà Nam, Việt Nam"
+        },
+        {
+            "index": 6,
+            "code": "",
+            "type": "district",
+            "name": "Thanh Liêm",
+            "slug": "thanh liem",
+            "nameWithType": "Huyện Thanh Liêm",
+            "path": "Thanh Liêm, Hà Nam, Việt Nam",
+            "pathWithType": "Huyện Thanh Liêm, Tỉnh Hà Nam, Việt Nam"
+        }
+    ]
+}
