@@ -1,0 +1,88 @@
+{
+    "description": "Tính đến tháng 06 năm 2021 - Tp. Bắc Kạn bao gồm 6 Phường và 2 Xã",
+    "lastUpdatedAt": "2021-06-29T11:10:41.346692228+07:00",
+    "type": "district",
+    "name": "Tp. Bắc Kạn",
+    "wards": [
+        {
+            "index": 1,
+            "code": "",
+            "type": "ward",
+            "name": "Đức Xuân",
+            "slug": "duc xuan",
+            "nameWithType": "Phường Đức Xuân",
+            "path": "Đức Xuân, Tp. Bắc Kạn, Bắc Kạn, Việt Nam",
+            "pathWithType": "Phường Đức Xuân, Thành phố Bắc Kạn, Tỉnh Bắc Kạn, Việt Nam"
+        },
+        {
+            "index": 2,
+            "code": "",
+            "type": "ward",
+            "name": "Huyền Tụng",
+            "slug": "huyen tung",
+            "nameWithType": "Phường Huyền Tụng",
+            "path": "Huyền Tụng, Tp. Bắc Kạn, Bắc Kạn, Việt Nam",
+            "pathWithType": "Phường Huyền Tụng, Thành phố Bắc Kạn, Tỉnh Bắc Kạn, Việt Nam"
+        },
+        {
+            "index": 3,
+            "code": "",
+            "type": "ward",
+            "name": "Nguyễn Thị Minh Khai",
+            "slug": "nguyen thi minh khai",
+            "nameWithType": "Phường Nguyễn Thị Minh Khai",
+            "path": "Nguyễn Thị Minh Khai, Tp. Bắc Kạn, Bắc Kạn, Việt Nam",
+            "pathWithType": "Phường Nguyễn Thị Minh Khai, Thành phố Bắc Kạn, Tỉnh Bắc Kạn, Việt Nam"
+        },
+        {
+            "index": 4,
+            "code": "",
+            "type": "ward",
+            "name": "Phùng Chí Kiên",
+            "slug": "phung chi kien",
+            "nameWithType": "Phường Phùng Chí Kiên",
+            "path": "Phùng Chí Kiên, Tp. Bắc Kạn, Bắc Kạn, Việt Nam",
+            "pathWithType": "Phường Phùng Chí Kiên, Thành phố Bắc Kạn, Tỉnh Bắc Kạn, Việt Nam"
+        },
+        {
+            "index": 5,
+            "code": "",
+            "type": "ward",
+            "name": "Sông Cầu",
+            "slug": "song cau",
+            "nameWithType": "Phường Sông Cầu",
+            "path": "Sông Cầu, Tp. Bắc Kạn, Bắc Kạn, Việt Nam",
+            "pathWithType": "Phường Sông Cầu, Thành phố Bắc Kạn, Tỉnh Bắc Kạn, Việt Nam"
+        },
+        {
+            "index": 6,
+            "code": "",
+            "type": "ward",
+            "name": "Xuất Hóa",
+            "slug": "xuat hoa",
+            "nameWithType": "Phường Xuất Hóa",
+            "path": "Xuất Hóa, Tp. Bắc Kạn, Bắc Kạn, Việt Nam",
+            "pathWithType": "Phường Xuất Hòa, Thành phố Bắc Kạn, Tỉnh Bắc Kạn, Việt Nam"
+        },
+        {
+            "index": 7,
+            "code": "",
+            "type": "ward",
+            "name": "Dương Quang",
+            "slug": "duong quang",
+            "nameWithType": "Xã Dương Quang",
+            "path": "Dương Quang, Tp. Bắc Kạn, Bắc Kạn, Việt Nam",
+            "pathWithType": "Xã Dương Quang, Thành phố Bắc Kạn, Tỉnh Bắc Kạn, Việt Nam"
+        },
+        {
+            "index": 8,
+            "code": "",
+            "type": "ward",
+            "name": "Nông Thượng",
+            "slug": "nong thuong",
+            "nameWithType": "Xã Nông Thượng",
+            "path": "Nông Thượng, Tp. Bắc Kạn, Bắc Kạn, Việt Nam",
+            "pathWithType": "Xã Nông Thượng, Thành phố Bắc Kạn, Tỉnh Bắc Kạn, Việt Nam"
+        }
+    ]
+}

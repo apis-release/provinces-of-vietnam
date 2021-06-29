@@ -1,0 +1,148 @@
+{
+    "description": "Tính đến tháng 06 năm 2021 - Huyện Chợ Mới bao gồm 1 Thị trấn và 13 Xã",
+    "lastUpdatedAt": "2021-06-29T11:10:41.346941566+07:00",
+    "type": "district",
+    "name": "Chợ Mới",
+    "wards": [
+        {
+            "index": 1,
+            "code": "",
+            "type": "ward",
+            "name": "TT. Đồng Tâm",
+            "slug": "tt. dong tam",
+            "nameWithType": "Thị trấn Đồng Tâm",
+            "path": "TT. Đồng Tâm, Chợ Mới, Bắc Kạn, Việt Nam",
+            "pathWithType": "Thị trấn Đồng Tâm, Huyện Chợ Mới, Tỉnh Bắc Kạn, Việt Nam"
+        },
+        {
+            "index": 2,
+            "code": "",
+            "type": "ward",
+            "name": "Bình Văn",
+            "slug": "binh van",
+            "nameWithType": "Xã Bình Văn",
+            "path": "Bình Văn, Chợ Mới, Bắc Kạn, Việt Nam",
+            "pathWithType": "Xã Bình Văn, Huyện Chợ Mới, Tỉnh Bắc Kạn, Việt Nam"
+        },
+        {
+            "index": 3,
+            "code": "",
+            "type": "ward",
+            "name": "Cao Kỳ",
+            "slug": "cao kỳ",
+            "nameWithType": "Xã Cao Kỳ",
+            "path": "Cao Kỳ, Chợ Mới, Bắc Kạn, Việt Nam",
+            "pathWithType": "Xã Cao Kỳ, Huyện Chợ Mới, Tỉnh Bắc Kạn, Việt Nam"
+        },
+        {
+            "index": 4,
+            "code": "",
+            "type": "ward",
+            "name": "Hòa Mục",
+            "slug": "hoa muc",
+            "nameWithType": "Xã Hòa Mục",
+            "path": "Hòa Mục, Chợ Mới, Bắc Kạn, Việt Nam",
+            "pathWithType": "Xã Hòa Mục, Huyện Chợ Mới, Tỉnh Bắc Kạn, Việt Nam"
+        },
+        {
+            "index": 5,
+            "code": "",
+            "type": "ward",
+            "name": "Mai Lạp",
+            "slug": "mai lap",
+            "nameWithType": "Xã Mai Lạp",
+            "path": "Mai Lạp, Chợ Mới, Bắc Kạn, Việt Nam",
+            "pathWithType": "Xã Mai Lạp, Huyện Chợ Mới, Tỉnh Bắc Kạn, Việt Nam"
+        },
+        {
+            "index": 6,
+            "code": "",
+            "type": "ward",
+            "name": "Như Cố",
+            "slug": "nhu co",
+            "nameWithType": "Xã Như Cố",
+            "path": "Như Cố, Chợ Mới, Bắc Kạn, Việt Nam",
+            "pathWithType": "Xã Như Cố, Huyện Chợ Mới, Tỉnh Bắc Kạn, Việt Nam"
+        },
+        {
+            "index": 7,
+            "code": "",
+            "type": "ward",
+            "name": "Nông Hạ",
+            "slug": "nong ha",
+            "nameWithType": "Xã Nông Hạ",
+            "path": "Nông Hạ, Chợ Mới, Bắc Kạn, Việt Nam",
+            "pathWithType": "Xã Nông Hạ, Huyện Chợ Mới, Tỉnh Bắc Kạn, Việt Nam"
+        },
+        {
+            "index": 8,
+            "code": "",
+            "type": "ward",
+            "name": "Quảng Chu",
+            "slug": "quang chu",
+            "nameWithType": "Xã Quảng Chu",
+            "path": "Quảng Chu, Chợ Mới, Bắc Kạn, Việt Nam",
+            "pathWithType": "Xã Quảng Chu, Huyện Chợ Mới, Tỉnh Bắc Kạn, Việt Nam"
+        },
+        {
+            "index": 9,
+            "code": "",
+            "type": "ward",
+            "name": "Tân Sơn",
+            "slug": "tan son",
+            "nameWithType": "Xã Tân Sơn",
+            "path": "Tân Sơn, Chợ Mới, Bắc Kạn, Việt Nam",
+            "pathWithType": "Xã Tân Sơn, Huyện Chợ Mới, Tỉnh Bắc Kạn, Việt Nam"
+        },
+        {
+            "index": 10,
+            "code": "",
+            "type": "ward",
+            "name": "Thanh Mai",
+            "slug": "thanh mai",
+            "nameWithType": "Xã Thanh Mai",
+            "path": "Thanh Mai, Chợ Mới, Bắc Kạn, Việt Nam",
+            "pathWithType": "Xã Thanh Mai, Huyện Chợ Mới, Tỉnh Bắc Kạn, Việt Nam"
+        },
+        {
+            "index": 11,
+            "code": "",
+            "type": "ward",
+            "name": "Thanh Thịnh",
+            "slug": "thanh thinh",
+            "nameWithType": "Xã Thanh Thịnh",
+            "path": "Thanh Thịnh, Chợ Mới, Bắc Kạn, Việt Nam",
+            "pathWithType": "Xã Thanh Thịnh, Huyện Chợ Mới, Tỉnh Bắc Kạn, Việt Nam"
+        },
+        {
+            "index": 12,
+            "code": "",
+            "type": "ward",
+            "name": "Thanh Vận",
+            "slug": "thanh van",
+            "nameWithType": "Xã Thanh Vận",
+            "path": "Thanh Vận, Chợ Mới, Bắc Kạn, Việt Nam",
+            "pathWithType": "Xã Thanh Vận, Huyện Chợ Mới, Tỉnh Bắc Kạn, Việt Nam"
+        },
+        {
+            "index": 13,
+            "code": "",
+            "type": "ward",
+            "name": "Yên Cư",
+            "slug": "yen cu",
+            "nameWithType": "Xã Yên Cư",
+            "path": "Yên Cư, Chợ Mới, Bắc Kạn, Việt Nam",
+            "pathWithType": "Xã Yên Cư, Huyện Chợ Mới, Tỉnh Bắc Kạn, Việt Nam"
+        },
+        {
+            "index": 14,
+            "code": "",
+            "type": "ward",
+            "name": "Yên Hân",
+            "slug": "yen han",
+            "nameWithType": "Xã Yên Hân",
+            "path": "Yên Hân, Chợ Mới, Bắc Kạn, Việt Nam",
+            "pathWithType": "Xã Yên Hân, Huyện Chợ Mới, Tỉnh Bắc Kạn, Việt Nam"
+        }
+    ]
+}

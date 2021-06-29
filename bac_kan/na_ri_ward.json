@@ -1,0 +1,178 @@
+{
+    "description": "Tính đến tháng 06 năm 2021 - Huyện Na Rì bao gồm 1 Thị trấn và 16 Xã",
+    "lastUpdatedAt": "2021-06-29T11:10:41.346977491+07:00",
+    "type": "district",
+    "name": "Na Rì",
+    "wards": [
+        {
+            "index": 1,
+            "code": "",
+            "type": "ward",
+            "name": "TT. Yến Lạc",
+            "slug": "tt. yen lac",
+            "nameWithType": "Thị trấn Yến Lạc",
+            "path": "TT. Yến Lạc, Na Rì, Bắc Kạn, Việt Nam",
+            "pathWithType": "Thị trấn Yến Lạc, Huyện Na Rì, Tỉnh Bắc Kạn, Việt Nam"
+        },
+        {
+            "index": 2,
+            "code": "",
+            "type": "ward",
+            "name": "Côn Minh",
+            "slug": "con minh",
+            "nameWithType": "Xã Côn Minh",
+            "path": "Côn Minh, Na Rì, Bắc Kạn, Việt Nam",
+            "pathWithType": "Xã Côn Minh, Huyện Na Rì, Tỉnh Bắc Kạn, Việt Nam"
+        },
+        {
+            "index": 3,
+            "code": "",
+            "type": "ward",
+            "name": "Cư Lễ",
+            "slug": "cu le",
+            "nameWithType": "Xã Cư Lễ",
+            "path": "Cư Lễ, Na Rì, Bắc Kạn, Việt Nam",
+            "pathWithType": "Xã Cư Lễ, Huyện Na Rì, Tỉnh Bắc Kạn, Việt Nam"
+        },
+        {
+            "index": 4,
+            "code": "",
+            "type": "ward",
+            "name": "Cường Lợi",
+            "slug": "cuong loi",
+            "nameWithType": "Xã Cường Lợi",
+            "path": "Cường Lợi, Na Rì, Bắc Kạn, Việt Nam",
+            "pathWithType": "Xã Cường Lợi, Huyện Na Rì, Tỉnh Bắc Kạn, Việt Nam"
+        },
+        {
+            "index": 5,
+            "code": "",
+            "type": "ward",
+            "name": "Dương Sơn",
+            "slug": "duong son",
+            "nameWithType": "Xã Dương Sơn",
+            "path": "Dương Sơn, Na Rì, Bắc Kạn, Việt Nam",
+            "pathWithType": "Xã Dương Sơn, Huyện Na Rì, Tỉnh Bắc Kạn, Việt Nam"
+        },
+        {
+            "index": 6,
+            "code": "",
+            "type": "ward",
+            "name": "Đổng Xá",
+            "slug": "dong xa",
+            "nameWithType": "Xã Đổng Xá",
+            "path": "Đổng Xá, Na Rì, Bắc Kạn, Việt Nam",
+            "pathWithType": "Xã Đổng Xá, Huyện Na Rì, Tỉnh Bắc Kạn, Việt Nam"
+        },
+        {
+            "index": 7,
+            "code": "",
+            "type": "ward",
+            "name": "Kim Hỷ",
+            "slug": "kim hy",
+            "nameWithType": "Xã Kim Hỷ",
+            "path": "Kim Hỷ, Na Rì, Bắc Kạn, Việt Nam",
+            "pathWithType": "Xã Kim Hỷ, Huyện Na Rì, Tỉnh Bắc Kạn, Việt Nam"
+        },
+        {
+            "index": 8,
+            "code": "",
+            "type": "ward",
+            "name": "Kim Lư",
+            "slug": "kim lu",
+            "nameWithType": "Xã Kim Lư",
+            "path": "Kim Lư, Na Rì, Bắc Kạn, Việt Nam",
+            "pathWithType": "Xã Kim Lư, Huyện Na Rì, Tỉnh Bắc Kạn, Việt Nam"
+        },
+        {
+            "index": 9,
+            "code": "",
+            "type": "ward",
+            "name": "Liêm Thủy",
+            "slug": "liem thuy",
+            "nameWithType": "Xã Liêm Thủy",
+            "path": "Liêm Thủy, Na Rì, Bắc Kạn, Việt Nam",
+            "pathWithType": "Xã Liêm Thủy, Huyện Na Rì, Tỉnh Bắc Kạn, Việt Nam"
+        },
+        {
+            "index": 10,
+            "code": "",
+            "type": "ward",
+            "name": "Lương Thượng",
+            "slug": "luong thuong",
+            "nameWithType": "Xã Lương Thượng",
+            "path": "Lương Thượng, Na Rì, Bắc Kạn, Việt Nam",
+            "pathWithType": "Xã Lương Thượng, Huyện Na Rì, Tỉnh Bắc Kạn, Việt Nam"
+        },
+        {
+            "index": 11,
+            "code": "",
+            "type": "ward",
+            "name": "Quang Phong",
+            "slug": "quang phong",
+            "nameWithType": "Xã Quang Phong",
+            "path": "Quang Phong, Na Rì, Bắc Kạn, Việt Nam",
+            "pathWithType": "Xã Quang Phong, Huyện Na Rì, Tỉnh Bắc Kạn, Việt Nam"
+        },
+        {
+            "index": 12,
+            "code": "",
+            "type": "ward",
+            "name": "Sơn Thành",
+            "slug": "son thanh",
+            "nameWithType": "Xã Sơn Thành",
+            "path": "Sơn Thành, Na Rì, Bắc Kạn, Việt Nam",
+            "pathWithType": "Xã Sơn Thành, Huyện Na Rì, Tỉnh Bắc Kạn, Việt Nam"
+        },
+        {
+            "index": 13,
+            "code": "",
+            "type": "ward",
+            "name": "Trần Phú",
+            "slug": "tran phu",
+            "nameWithType": "Xã Trần Phú",
+            "path": "Trần Phú, Na Rì, Bắc Kạn, Việt Nam",
+            "pathWithType": "Xã Trần Phú, Huyện Na Rì, Tỉnh Bắc Kạn, Việt Nam"
+        },
+        {
+            "index": 14,
+            "code": "",
+            "type": "ward",
+            "name": "Văn Lang",
+            "slug": "van lang",
+            "nameWithType": "Xã Văn Lang",
+            "path": "Văn Lang, Na Rì, Bắc Kạn, Việt Nam",
+            "pathWithType": "Xã Văn Lang, Huyện Na Rì, Tỉnh Bắc Kạn, Việt Nam"
+        },
+        {
+            "index": 15,
+            "code": "",
+            "type": "ward",
+            "name": "Văn Minh",
+            "slug": "van minh",
+            "nameWithType": "Xã Văn Minh",
+            "path": "Văn Minh, Na Rì, Bắc Kạn, Việt Nam",
+            "pathWithType": "Xã Văn Minh, Huyện Na Rì, Tỉnh Bắc Kạn, Việt Nam"
+        },
+        {
+            "index": 16,
+            "code": "",
+            "type": "ward",
+            "name": "Văn Vũ",
+            "slug": "van vu",
+            "nameWithType": "Xã Văn Vũ",
+            "path": "Văn Vũ, Na Rì, Bắc Kạn, Việt Nam",
+            "pathWithType": "Xã Văn Vũ, Huyện Na Rì, Tỉnh Bắc Kạn, Việt Nam"
+        },
+        {
+            "index": 17,
+            "code": "",
+            "type": "ward",
+            "name": "Xuân Dương",
+            "slug": "xuan duong",
+            "nameWithType": "Xã Xuân Dương",
+            "path": "Xuân Dương, Na Rì, Bắc Kạn, Việt Nam",
+            "pathWithType": "Xã Xuân Dương, Huyện Na Rì, Tỉnh Bắc Kạn, Việt Nam"
+        }
+    ]
+}

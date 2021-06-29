@@ -1,0 +1,148 @@
+{
+    "description": "Tính đến tháng 06 năm 2021 - Huyện Bạch Thông bao gồm 1 Thị trấn và 13 Xã",
+    "lastUpdatedAt": "2021-06-29T11:10:41.346843968+07:00",
+    "type": "district",
+    "name": "Bạch Thông",
+    "wards": [
+        {
+            "index": 1,
+            "code": "",
+            "type": "ward",
+            "name": "TT. Phú Thông",
+            "slug": "tt. phu thong",
+            "nameWithType": "Thị trấn Phú Thông",
+            "path": "TT. Phú Thông, Bạch Thông, Bắc Kạn, Việt Nam",
+            "pathWithType": "Thị trấn Phú Thông, Huyện Bạch Thông, Tỉnh Bắc Kạn, Việt Nam"
+        },
+        {
+            "index": 2,
+            "code": "",
+            "type": "ward",
+            "name": "Cẩm Giàng",
+            "slug": "cam giang",
+            "nameWithType": "Xã Cẩm Giàng",
+            "path": "Cẩm Giàng, Bạch Thông, Bắc Kạn, Việt Nam",
+            "pathWithType": "Xã Cẩm Giàng, Huyện Bạch Thông, Tỉnh Bắc Kạn, Việt Nam"
+        },
+        {
+            "index": 3,
+            "code": "",
+            "type": "ward",
+            "name": "Cao Sơn",
+            "slug": "cao son",
+            "nameWithType": "Xã Cao Sơn",
+            "path": "Cao Sơn, Bạch Thông, Bắc Kạn, Việt Nam",
+            "pathWithType": "Xã Cao Sơn, Huyện Bạch Thông, Tỉnh Bắc Kạn, Việt Nam"
+        },
+        {
+            "index": 4,
+            "code": "",
+            "type": "ward",
+            "name": "Đôn Phong",
+            "slug": "don phong",
+            "nameWithType": "Xa Đôn Phong",
+            "path": "Đôn Phong, Bạch Thông, Bắc Kạn, Việt Nam",
+            "pathWithType": "Xã Đôn Phong, Huyện Bạch Thông, Tỉnh Bắc Kạn, Việt Nam"
+        },
+        {
+            "index": 5,
+            "code": "",
+            "type": "ward",
+            "name": "Dương Phong",
+            "slug": "duong phong",
+            "nameWithType": "Xã Dương Phong",
+            "path": "Dương Phong, Bạch Thông, Bắc Kạn, Việt Nam",
+            "pathWithType": "Xã Dương Phong, Huyện Bạch Thông, Tỉnh Bắc Kạn, Việt Nam"
+        },
+        {
+            "index": 6,
+            "code": "",
+            "type": "ward",
+            "name": "Lục Bình",
+            "slug": "luc binh",
+            "nameWithType": "Xã Lục Bình",
+            "path": "Lục Bình, Bạch Thông, Bắc Kạn, Việt Nam",
+            "pathWithType": "Xã Lục Bình, Huyện Bạch Thông, Tỉnh Bắc Kạn, Việt Nam"
+        },
+        {
+            "index": 7,
+            "code": "",
+            "type": "ward",
+            "name": "Mỹ Thanh",
+            "slug": "mỹ thanh",
+            "nameWithType": "Xã Mỹ Thanh",
+            "path": "Mỹ Thanh, Bạch Thông, Bắc Kạn, Việt Nam",
+            "pathWithType": "Xã Mỹ Thanh, Huyện Bạch Thông, Tỉnh Bắc Kạn, Việt Nam"
+        },
+        {
+            "index": 8,
+            "code": "",
+            "type": "ward",
+            "name": "Nguyên Phúc",
+            "slug": "nguyen phuc",
+            "nameWithType": "Xã Nguyên Phúc",
+            "path": "Nguyên Phúc, Bạch Thông, Bắc Kạn, Việt Nam",
+            "pathWithType": "Xã Nguyên Phúc, Huyện Bạch Thông, Tỉnh Bắc Kạn, Việt Nam"
+        },
+        {
+            "index": 9,
+            "code": "",
+            "type": "ward",
+            "name": "Quân Hà",
+            "slug": "quan ha",
+            "nameWithType": "Xã Quân Hà",
+            "path": "Quân Hà, Bạch Thông, Bắc Kạn, Việt Nam",
+            "pathWithType": "Xã Quân Hà, Huyện Bạch Thông, Tỉnh Bắc Kạn, Việt Nam"
+        },
+        {
+            "index": 10,
+            "code": "",
+            "type": "ward",
+            "name": "Quang Thuận",
+            "slug": "quang thuan",
+            "nameWithType": "Xã Quang Thuận",
+            "path": "Quang Thuận, Bạch Thông, Bắc Kạn, Việt Nam",
+            "pathWithType": "Xã Quang Thuận, Huyện Bạch Thông, Tỉnh Bắc Kạn, Việt Nam"
+        },
+        {
+            "index": 11,
+            "code": "",
+            "type": "ward",
+            "name": "Sỹ Bình",
+            "slug": "sỹ binh",
+            "nameWithType": "Xã Sỹ Bình",
+            "path": "Sỹ Bình, Bạch Thông, Bắc Kạn, Việt Nam",
+            "pathWithType": "Xã Sỹ Bình, Huyện Bạch Thông, Tỉnh Bắc Kạn, Việt Nam"
+        },
+        {
+            "index": 12,
+            "code": "",
+            "type": "ward",
+            "name": "Tân Tú",
+            "slug": "tan tu",
+            "nameWithType": "Xã Tân Tú",
+            "path": "Tân Tú, Bạch Thông, Bắc Kạn, Việt Nam",
+            "pathWithType": "Xã Tân Tú, Huyện Bạch Thông, Tỉnh Bắc Kạn, Việt Nam"
+        },
+        {
+            "index": 13,
+            "code": "",
+            "type": "ward",
+            "name": "Vi Hương",
+            "slug": "vi huong",
+            "nameWithType": "Xã Vi Hương",
+            "path": "Vi Hương, Bạch Thông, Bắc Kạn, Việt Nam",
+            "pathWithType": "Xã Vi Hương, Huyện Bạch Thông, Tỉnh Bắc Kạn, Việt Nam"
+        },
+        {
+            "index": 14,
+            "code": "",
+            "type": "ward",
+            "name": "Vũ Muộn",
+            "slug": "vu muon",
+            "nameWithType": "Xã Vũ Muộn",
+            "path": "Vũ Muộn, Bạch Thông, Bắc Kạn, Việt Nam",
+            "pathWithType": "Xã Vũ Muộn, Huyện Bạch Thông, Tỉnh Bắc Kạn, Việt Nam"
+        }
+    ]
+}

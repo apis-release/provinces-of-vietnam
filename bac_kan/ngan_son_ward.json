@@ -1,0 +1,108 @@
+{
+    "description": "Tính đến tháng 06 năm 2021 - Huyện Ngân Sơn bao gồm 1 Thị trấn và 9 Xã",
+    "lastUpdatedAt": "2021-06-29T11:10:41.347021194+07:00",
+    "type": "district",
+    "name": "Ngân Sơn",
+    "wards": [
+        {
+            "index": 1,
+            "code": "",
+            "type": "ward",
+            "name": "TT. Nà Phặc",
+            "slug": "tt. na phac",
+            "nameWithType": "Thị trấn Nà Phặc",
+            "path": "TT. Nà Phặc, Ngân Sơn, Bắc Kạn, Việt Nam",
+            "pathWithType": "Thị trấn Nà Phặc, Huyện Ngân Sơn, Tỉnh Bắc Kạn, Việt Nam"
+        },
+        {
+            "index": 2,
+            "code": "",
+            "type": "ward",
+            "name": "Bằng Vân",
+            "slug": "bang van",
+            "nameWithType": "Xã Bằng Vân",
+            "path": "Bằng Vân, Ngân Sơn, Bắc Kạn, Việt Nam",
+            "pathWithType": "Xã Bằng Vân, Huyện Ngân Sơn, Tỉnh Bắc Kạn, Việt Nam"
+        },
+        {
+            "index": 3,
+            "code": "",
+            "type": "ward",
+            "name": "Cốc Đán",
+            "slug": "coc dan",
+            "nameWithType": "Xã Cốc Đán",
+            "path": "Cốc Đán, Ngân Sơn, Bắc Kạn, Việt Nam",
+            "pathWithType": "Xã Cốc Đán, Huyện Ngân Sơn, Tỉnh Bắc Kạn, Việt Nam"
+        },
+        {
+            "index": 4,
+            "code": "",
+            "type": "ward",
+            "name": "Đức Vân",
+            "slug": "duc van",
+            "nameWithType": "Xã Đức Vân",
+            "path": "Đức Vân, Ngân Sơn, Bắc Kạn, Việt Nam",
+            "pathWithType": "Xã Đức Vân, Huyện Ngân Sơn, Tỉnh Bắc Kạn, Việt Nam"
+        },
+        {
+            "index": 5,
+            "code": "",
+            "type": "ward",
+            "name": "Hiệp Lực",
+            "slug": "hiep luc",
+            "nameWithType": "Xã Hiệp Lực",
+            "path": "Hiệp Lực, Ngân Sơn, Bắc Kạn, Việt Nam",
+            "pathWithType": "Xã Hiệp Lực, Huyện Ngân Sơn, Tỉnh Bắc Kạn, Việt Nam"
+        },
+        {
+            "index": 6,
+            "code": "",
+            "type": "ward",
+            "name": "Thuần Mang",
+            "slug": "thuan mang",
+            "nameWithType": "Xã Thuần Mang",
+            "path": "Thuần Mang, Ngân Sơn, Bắc Kạn, Việt Nam",
+            "pathWithType": "Xã Thuần Mang, Huyện Ngân Sơn, Tỉnh Bắc Kạn, Việt Nam"
+        },
+        {
+            "index": 7,
+            "code": "",
+            "type": "ward",
+            "name": "Thượng Ân",
+            "slug": "thuong an",
+            "nameWithType": "Xã Thượng Ân",
+            "path": "Thượng Ân, Ngân Sơn, Bắc Kạn, Việt Nam",
+            "pathWithType": "Xã Thượng Ân, Huyện Ngân Sơn, Tỉnh Bắc Kạn, Việt Nam"
+        },
+        {
+            "index": 8,
+            "code": "",
+            "type": "ward",
+            "name": "Thượng Quan",
+            "slug": "thuong quan",
+            "nameWithType": "Xã Thượng Quan",
+            "path": "Thượng Quan, Ngân Sơn, Bắc Kạn, Việt Nam",
+            "pathWithType": "Xã Thượng Quan, Huyện Ngân Sơn, Tỉnh Bắc Kạn, Việt Nam"
+        },
+        {
+            "index": 9,
+            "code": "",
+            "type": "ward",
+            "name": "Trung Hòa",
+            "slug": "trung hoa",
+            "nameWithType": "Xã Trung Hòa",
+            "path": "Trung Hòa, Ngân Sơn, Bắc Kạn, Việt Nam",
+            "pathWithType": "Xã Trung Hòa, Huyện Ngân Sơn, Tỉnh Bắc Kạn, Việt Nam"
+        },
+        {
+            "index": 10,
+            "code": "",
+            "type": "ward",
+            "name": "Vân Tùng",
+            "slug": "van tung",
+            "nameWithType": "Xã Vân Tùng",
+            "path": "Vân Tùng, Ngân Sơn, Bắc Kạn, Việt Nam",
+            "pathWithType": "Xã Vân Tùng, Huyện Ngân Sơn, Tỉnh Bắc Kạn, Việt Nam"
+        }
+    ]
+}

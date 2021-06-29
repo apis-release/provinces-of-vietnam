@@ -1,0 +1,158 @@
+{
+    "description": "Tính đến tháng 06 năm 2021 - Huyện Ba Bể bao gồm 1 Thị trấn và 14 Xã",
+    "lastUpdatedAt": "2021-06-29T11:10:41.346797792+07:00",
+    "type": "district",
+    "name": "Ba Bể",
+    "wards": [
+        {
+            "index": 1,
+            "code": "",
+            "type": "ward",
+            "name": "TT. Chợ Rã",
+            "slug": "tt. cho ra",
+            "nameWithType": "Thị trấn Chợ Rã",
+            "path": "TT. Chợ Rã, Ba Bể, Bắc Kạn, Việt Nam",
+            "pathWithType": "Thị trấn Chợ Rã, Huyện Ba Bể, Tỉnh Bắc Kạn, Việt Nam"
+        },
+        {
+            "index": 2,
+            "code": "",
+            "type": "ward",
+            "name": "Bành Trạch",
+            "slug": "banh trach",
+            "nameWithType": "Xã Bành Trạch",
+            "path": "Bành Trạch, Ba Bể, Bắc Kạn, Việt Nam",
+            "pathWithType": "Xã Bành Trạch, Huyện Ba Bể, Tỉnh Bắc Kạn, Việt Nam"
+        },
+        {
+            "index": 3,
+            "code": "",
+            "type": "ward",
+            "name": "Cao Thượng",
+            "slug": "cao thuong",
+            "nameWithType": "Xã Cao Thượng",
+            "path": "Cao Thượng, Ba Bể, Bắc Kạn, Việt Nam",
+            "pathWithType": "Xã Cao Thượng, Huyện Ba Bể, Tỉnh Bắc Kạn, Việt Nam"
+        },
+        {
+            "index": 4,
+            "code": "",
+            "type": "ward",
+            "name": "Chu Hương",
+            "slug": "chu huong",
+            "nameWithType": "Xã Chu Hương",
+            "path": "Chu Hương, Ba Bể, Bắc Kạn, Việt Nam",
+            "pathWithType": "Xã Chu Hương, Huyện Ba Bể, Tỉnh Bắc Kạn, Việt Nam"
+        },
+        {
+            "index": 5,
+            "code": "",
+            "type": "ward",
+            "name": "Địa Linh",
+            "slug": "dia linh",
+            "nameWithType": "Xã Địa Linh",
+            "path": "Địa Linh, Ba Bể, Bắc Kạn, Việt Nam",
+            "pathWithType": "Xã Địa Linh, Huyện Ba Bể, Tỉnh Bắc Kạn, Việt Nam"
+        },
+        {
+            "index": 6,
+            "code": "",
+            "type": "ward",
+            "name": "Đồng Phúc",
+            "slug": "dong phuc",
+            "nameWithType": "Xã Đồng Phúc",
+            "path": "Đồng Phúc, Ba Bể, Bắc Kạn, Việt Nam",
+            "pathWithType": "Xã Đồng Phúc, Huyện Ba Bể, Tỉnh Bắc Kạn, Việt Nam"
+        },
+        {
+            "index": 7,
+            "code": "",
+            "type": "ward",
+            "name": "Hà Hiệu",
+            "slug": "ha hieu",
+            "nameWithType": "Xã Hà Hiệu",
+            "path": "Hà Hiệu, Ba Bể, Bắc Kạn, Việt Nam",
+            "pathWithType": "Xã Hà Hiệu, Huyện Ba Bể, Tỉnh Bắc Kạn, Việt Nam"
+        },
+        {
+            "index": 8,
+            "code": "",
+            "type": "ward",
+            "name": "Hoàng Trĩ",
+            "slug": "hoang tri",
+            "nameWithType": "Xã Hoàng Trĩ",
+            "path": "Hoàng Trĩ, Ba Bể, Bắc Kạn, Việt Nam",
+            "pathWithType": "Xã Hoàng Trĩ, Huyện Ba Bể, Tỉnh Bắc Kạn, Việt Nam"
+        },
+        {
+            "index": 9,
+            "code": "",
+            "type": "ward",
+            "name": "Khang Ninh",
+            "slug": "khang ninh",
+            "nameWithType": "Xã Khang Ninh",
+            "path": "Khang Ninh, Ba Bể, Bắc Kạn, Việt Nam",
+            "pathWithType": "Xã Khang Ninh, Huyện Ba Bể, Tỉnh Bắc Kạn, Việt Nam"
+        },
+        {
+            "index": 10,
+            "code": "",
+            "type": "ward",
+            "name": "Mỹ Phương",
+            "slug": "mỹ phuong",
+            "nameWithType": "Xã Mỹ Phương",
+            "path": "Mỹ Phương, Ba Bể, Bắc Kạn, Việt Nam",
+            "pathWithType": "Xã Mỹ Phương, Huyện Ba Bể, Tỉnh Bắc Kạn, Việt Nam"
+        },
+        {
+            "index": 11,
+            "code": "",
+            "type": "ward",
+            "name": "Nam Mẫu",
+            "slug": "nam mau",
+            "nameWithType": "Xã Nam Mẫu",
+            "path": "Nam Mẫu, Ba Bể, Bắc Kạn, Việt Nam",
+            "pathWithType": "Xã Nam Mẫu, Huyện Ba Bể, Tỉnh Bắc Kạn, Việt Nam"
+        },
+        {
+            "index": 12,
+            "code": "",
+            "type": "ward",
+            "name": "Phúc Lộc",
+            "slug": "phuc loc",
+            "nameWithType": "Xã Phúc Lộc",
+            "path": "Phúc Lộc, Ba Bể, Bắc Kạn, Việt Nam",
+            "pathWithType": "Xã Phúc Lộc, Huyện Ba Bể, Tỉnh Bắc Kạn, Việt Nam"
+        },
+        {
+            "index": 13,
+            "code": "",
+            "type": "ward",
+            "name": "Quảng Khê",
+            "slug": "quang khe",
+            "nameWithType": "Xã Quảng Khê",
+            "path": "Quảng Khê, Ba Bể, Bắc Kạn, Việt Nam",
+            "pathWithType": "Xã Quảng Khê, Huyện Ba Bể, Tỉnh Bắc Kạn, Việt Nam"
+        },
+        {
+            "index": 14,
+            "code": "",
+            "type": "ward",
+            "name": "Thượng Giáo",
+            "slug": "thuong giao",
+            "nameWithType": "Xã Thượng Giáo",
+            "path": "Thượng Giáo, Ba Bể, Bắc Kạn, Việt Nam",
+            "pathWithType": "Xã Thượng Giáo, Huyện Ba Bể, Tỉnh Bắc Kạn, Việt Nam"
+        },
+        {
+            "index": 15,
+            "code": "",
+            "type": "ward",
+            "name": "Yến Dương",
+            "slug": "yen duong",
+            "nameWithType": "Xã Yến Dương",
+            "path": "Yến Dương, Ba Bể, Bắc Kạn, Việt Nam",
+            "pathWithType": "Xã Yến Dương, Huyện Ba Bể, Tỉnh Bắc Kạn, Việt Nam"
+        }
+    ]
+}

@@ -1,0 +1,108 @@
+{
+    "description": "Tính đến tháng 06 năm 2021 - Huyện Pác Nặm bao gồm 10 Xã",
+    "lastUpdatedAt": "2021-06-29T11:10:41.347054876+07:00",
+    "type": "district",
+    "name": "Pác Nặm",
+    "wards": [
+        {
+            "index": 1,
+            "code": "",
+            "type": "ward",
+            "name": "An Thắng",
+            "slug": "an thang",
+            "nameWithType": "Xã An Thắng",
+            "path": "An Thắng, Pác Nặm, Bắc Kạn, Việt Nam",
+            "pathWithType": "Xã An Thắng, Huyện Pác Nặm, Tỉnh Bắc Kạn, Việt Nam"
+        },
+        {
+            "index": 2,
+            "code": "",
+            "type": "ward",
+            "name": "Bằng Thành",
+            "slug": "bang thanh",
+            "nameWithType": "Xã Bằng Thành",
+            "path": "Bằng Thành, Pác Nặm, Bắc Kạn, Việt Nam",
+            "pathWithType": "Xã Bằng Thành, Huyện Pác Nặm, Tỉnh Bắc Kạn, Việt Nam"
+        },
+        {
+            "index": 3,
+            "code": "",
+            "type": "ward",
+            "name": "Bộc Bố",
+            "slug": "boc bo",
+            "nameWithType": "Xã Bộc Bố",
+            "path": "Bộc Bố, Pác Nặm, Bắc Kạn, Việt Nam",
+            "pathWithType": "Xã Bộc Bố, Huyện Pác Nặm, Tỉnh Bắc Kạn, Việt Nam"
+        },
+        {
+            "index": 4,
+            "code": "",
+            "type": "ward",
+            "name": "Cao Tân",
+            "slug": "cao tan",
+            "nameWithType": "Xã Cao Tân",
+            "path": "Cao Tân, Pác Nặm, Bắc Kạn, Việt Nam",
+            "pathWithType": "Xã Cao Tân, Huyện Pác Nặm, Tỉnh Bắc Kạn, Việt Nam"
+        },
+        {
+            "index": 5,
+            "code": "",
+            "type": "ward",
+            "name": "Cổ Linh",
+            "slug": "co linh",
+            "nameWithType": "Xã Cổ Linh",
+            "path": "Cổ Linh, Pác Nặm, Bắc Kạn, Việt Nam",
+            "pathWithType": "Xã Cổ Linh, Huyện Pác Nặm, Tỉnh Bắc Kạn, Việt Nam"
+        },
+        {
+            "index": 6,
+            "code": "",
+            "type": "ward",
+            "name": "Công Bằng",
+            "slug": "cong bang",
+            "nameWithType": "Xã Công Bằng",
+            "path": "Công Bằng, Pác Nặm, Bắc Kạn, Việt Nam",
+            "pathWithType": "Xã Công Bằng, Huyện Pác Nặm, Tỉnh Bắc Kạn, Việt Nam"
+        },
+        {
+            "index": 7,
+            "code": "",
+            "type": "ward",
+            "name": "Giáo Hiệu",
+            "slug": "giao hieu",
+            "nameWithType": "Xã Giáo Hiệu",
+            "path": "Giáp Hiệu, Pác Nặm, Bắc Kạn, Việt Nam",
+            "pathWithType": "Xã Giáo Hiệu, Huyện Pác Nặm, Tỉnh Bắc Kạn, Việt Nam"
+        },
+        {
+            "index": 8,
+            "code": "",
+            "type": "ward",
+            "name": "Nghiên Loan",
+            "slug": "nghien loan",
+            "nameWithType": "Xã Nghiên Loan",
+            "path": "Nghiên Loan, Pác Nặm, Bắc Kạn, Việt Nam",
+            "pathWithType": "Xã Nghiên Loan, Huyện Pác Nặm, Tỉnh Bắc Kạn, Việt Nam"
+        },
+        {
+            "index": 9,
+            "code": "",
+            "type": "ward",
+            "name": "Nhạn Môn",
+            "slug": "nhan mon",
+            "nameWithType": "Xã Nhạn Môn",
+            "path": "Nhạn Môn, Pác Nặm, Bắc Kạn, Việt Nam",
+            "pathWithType": "Xã Nhạn Môn, Huyện Pác Nặm, Tỉnh Bắc Kạn, Việt Nam"
+        },
+        {
+            "index": 10,
+            "code": "",
+            "type": "ward",
+            "name": "Xuân La",
+            "slug": "xuan la",
+            "nameWithType": "Xã Xuân La",
+            "path": "Xuân La, Pác Nặm, Bắc Kạn, Việt Nam",
+            "pathWithType": "Xã Xuân La, Huyện Pác Nặm, Tỉnh Bắc Kạn, Việt Nam"
+        }
+    ]
+}
