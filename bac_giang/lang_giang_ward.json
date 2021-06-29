@@ -1,0 +1,218 @@
+{
+    "description": "Tính đến tháng 06 năm 2021 - Huyện Lạng Giang bao gồm 2 Thị trấn và 19 Xã",
+    "lastUpdatedAt": "2021-06-29T10:56:47.434026877+07:00",
+    "type": "district",
+    "name": "Lạng Giang",
+    "wards": [
+        {
+            "index": 1,
+            "code": "",
+            "type": "ward",
+            "name": "TT. Vôi",
+            "slug": "tt. voi",
+            "nameWithType": "Thị trấn Vôi",
+            "path": "TT. Vôi, Lạng Giang, Bắc Giang, Việt Nam",
+            "pathWithType": "Thị trấn Vôi, Huyện Lạng Giang, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 2,
+            "code": "",
+            "type": "ward",
+            "name": "TT. Kép",
+            "slug": "tt. kep",
+            "nameWithType": "Thị trấn Kép",
+            "path": "TT. Kép, Lạng Giang, Bắc Giang, Việt Nam",
+            "pathWithType": "Thị trấn Kép, Huyện Lạng Giang, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 3,
+            "code": "",
+            "type": "ward",
+            "name": "An Hà",
+            "slug": "an ha",
+            "nameWithType": "Xã An Hà",
+            "path": "An Hà, Lạng Giang, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã An Hà, Huyện Lạng Giang, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 4,
+            "code": "",
+            "type": "ward",
+            "name": "Dương Đức",
+            "slug": "duong duc",
+            "nameWithType": "Xã Dương Đức",
+            "path": "Dương Đức, Lạng Giang, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Dương Đức, Huyện Lạng Giang, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 5,
+            "code": "",
+            "type": "ward",
+            "name": "Đại Lâm",
+            "slug": "dai lam",
+            "nameWithType": "Xã Đại Lâm",
+            "path": "Đại Lâm, Lạng Giang, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Đại Lâm, Huyện Lạng Giang, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 6,
+            "code": "",
+            "type": "ward",
+            "name": "Đào Mỹ",
+            "slug": "dao mỹ",
+            "nameWithType": "Xã Đào Mỹ",
+            "path": "Đào Mỹ, Lạng Giang, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Đào Mỹ, Huyện Lạng Giang, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 7,
+            "code": "",
+            "type": "ward",
+            "name": "Hương Lạc",
+            "slug": "huong lac",
+            "nameWithType": "Xã Hương Lạc",
+            "path": "Hương Lạc, Lạng Giang, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Hương Lạc, Huyện Lạng Giang, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 8,
+            "code": "",
+            "type": "ward",
+            "name": "Hương Sơn",
+            "slug": "huong son",
+            "nameWithType": "Xã Hương Sơn",
+            "path": "Hương Sơn, Lạng Giang, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Hương Sơn, Huyện Lạng Giang, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 9,
+            "code": "",
+            "type": "ward",
+            "name": "Mỹ Hà",
+            "slug": "mỹ ha",
+            "nameWithType": "Xã Mỹ Hà",
+            "path": "Mỹ Hà, Lạng Giang, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Mỹ Hà, Huyện Lạng Giang, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 10,
+            "code": "",
+            "type": "ward",
+            "name": "Mỹ Thái",
+            "slug": "mỹ thai",
+            "nameWithType": "Xã Mỹ Thái",
+            "path": "Mỹ Thái, Lạng Giang, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Mỹ Thái, Huyện Lạng Giang, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 11,
+            "code": "",
+            "type": "ward",
+            "name": "Nghĩa Hòa",
+            "slug": "nghia hoa",
+            "nameWithType": "Xã Nghĩa Hòa",
+            "path": "Nghĩa Hòa, Lạng Giang, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Nghĩa Hòa, Huyện Lạng Giang, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 12,
+            "code": "",
+            "type": "ward",
+            "name": "Nghĩa Hưng",
+            "slug": "nghia hung",
+            "nameWithType": "Xã Nghĩa Hưng",
+            "path": "Nghĩa Hưng, Lạng Giang, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Nghĩa Hưng, Huyện Lạng Giang, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 13,
+            "code": "",
+            "type": "ward",
+            "name": "Quang Thịnh",
+            "slug": "quang thinh",
+            "nameWithType": "Xã Quang Thịnh",
+            "path": "Quang Thịnh, Lạng Giang, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã QUang Thịnh, Huyện Lạng Giang, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 14,
+            "code": "",
+            "type": "ward",
+            "name": "Tân Dĩnh",
+            "slug": "tan dinh",
+            "nameWithType": "Xã Tân Dĩnh",
+            "path": "Tân Dĩnh, Lạng Giang, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Tân Dĩnh, Huyện Lạng Giang, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 15,
+            "code": "",
+            "type": "ward",
+            "name": "Tân Hưng",
+            "slug": "tan hung",
+            "nameWithType": "Xã Tân Hưng",
+            "path": "Tân Hưng, Lạng Giang, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Tân Hưng, Huyện Lạng Giang, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 16,
+            "code": "",
+            "type": "ward",
+            "name": "Tân Thanh",
+            "slug": "tan thanh",
+            "nameWithType": "Xã Tân Thanh",
+            "path": "Tân Thanh, Lạng Giang, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Tân Thanh, Huyện Lạng Giang, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 17,
+            "code": "",
+            "type": "ward",
+            "name": "Thái Đào",
+            "slug": "thai dao",
+            "nameWithType": "Xã Thái Đào",
+            "path": "Thái Đào, Lạng Giang, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Thái Đào, Huyện Lạng Giang, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 18,
+            "code": "",
+            "type": "ward",
+            "name": "Tiên Lục",
+            "slug": "tien luc",
+            "nameWithType": "Xã Tiên Lục",
+            "path": "Tiên Lục, Lạng Giang, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Tiên Lục, Huyện Lạng Giang, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 19,
+            "code": "",
+            "type": "ward",
+            "name": "Xuân Hương",
+            "slug": "xuan huong",
+            "nameWithType": "Xã Xuân Hương",
+            "path": "Xuân Hương, Lạng Giang, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Xuân Hương, Huyện Lạng Giang, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 20,
+            "code": "",
+            "type": "ward",
+            "name": "Xương Lâm",
+            "slug": "xuong lam",
+            "nameWithType": "Xã Xương Lâm",
+            "path": "Xương Lâm, Lạng Giang, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Xương Lâm, Huyện Lạng Giang, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 21,
+            "code": "",
+            "type": "ward",
+            "name": "Yên Mỹ",
+            "slug": "yen mỹ",
+            "nameWithType": "Xã Yên Mỹ",
+            "path": "Yên Mỹ, Lạng Giang, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Yên Mỹ, Huyện Lạng Giang, Tỉnh Bắc Giang, Việt Nam"
+        }
+    ]
+}

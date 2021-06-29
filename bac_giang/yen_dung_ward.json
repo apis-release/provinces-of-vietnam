@@ -1,0 +1,188 @@
+{
+    "description": "Tính đến tháng 06 năm 2021 - Huyện Yên Dũng bao gồm 2 Thị trấn và 16 Xã",
+    "lastUpdatedAt": "2021-06-29T10:56:47.434380501+07:00",
+    "type": "district",
+    "name": "Yên Dũng",
+    "wards": [
+        {
+            "index": 1,
+            "code": "",
+            "type": "ward",
+            "name": "TT. Nham Biền",
+            "slug": "tt. nham bien",
+            "nameWithType": "Thị trấn Nham Biền",
+            "path": "TT. Nham Biền, Yên Dũng, Bắc Giang, Việt Nam",
+            "pathWithType": "Thị trấn Nham Biền, Huyện Yên Dũng, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 2,
+            "code": "",
+            "type": "ward",
+            "name": "TT. Tân An",
+            "slug": "tt. tan an",
+            "nameWithType": "Thị trấn Tân An",
+            "path": "TT. Tân An, Yên Dũng, Bắc Giang, Việt Nam",
+            "pathWithType": "Thị trấn Tân An, Huyện Yên Dũng, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 3,
+            "code": "",
+            "type": "ward",
+            "name": "Cảnh Thụy",
+            "slug": "canh thuy",
+            "nameWithType": "Xã Cảnh Thụy",
+            "path": "Cảnh Thụy, Yên Dũng, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Cảnh Thụy, Huyện Yên Dũng, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 4,
+            "code": "",
+            "type": "ward",
+            "name": "Đồng Phúc",
+            "slug": "dong phuc",
+            "nameWithType": "Xã Đồng Phúc",
+            "path": "Đồng Phúc, Yên Dũng, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Đồng Phúc, Huyện Yên Dũng, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 5,
+            "code": "",
+            "type": "ward",
+            "name": "Đồng Việt",
+            "slug": "dong viet",
+            "nameWithType": "Xã Đồng Việt",
+            "path": "Đồng Việt, Yên Dũng, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Đồng Việt, Huyện Yên Dũng, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 6,
+            "code": "",
+            "type": "ward",
+            "name": "Đức Giang",
+            "slug": "duc giang",
+            "nameWithType": "Xã Đức Giang",
+            "path": "Đức Giang, Yên Dũng, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Đức Giang, Huyện Yên Dũng, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 7,
+            "code": "",
+            "type": "ward",
+            "name": "Hương Gián",
+            "slug": "huong gian",
+            "nameWithType": "Xã Hương Gián",
+            "path": "Hương Gián, Yên Dũng, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Hương Gián, Huyện Yên Dũng, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 8,
+            "code": "",
+            "type": "ward",
+            "name": "Lãng Sơn",
+            "slug": "lang son",
+            "nameWithType": "Xã Lãng Sơn",
+            "path": "Lãng Sơn, Yên Dũng, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Lãng Sơn, Huyện Yên Dũng, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 9,
+            "code": "",
+            "type": "ward",
+            "name": "Lão Hộ",
+            "slug": "lao ho",
+            "nameWithType": "Xã Lão Hộ",
+            "path": "Lão Hộ, Yên Dũng, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Lão Hộ, Huyện Yên Dũng, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 10,
+            "code": "",
+            "type": "ward",
+            "name": "Nội Hoàng",
+            "slug": "noi hoang",
+            "nameWithType": "Xã Nội Hoàng",
+            "path": "Nội Hoàng, Yên Dũng, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Nội Hoàng, Huyện Yên Dũng, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 11,
+            "code": "",
+            "type": "ward",
+            "name": "Quỳnh Sơn",
+            "slug": "quỳnh son",
+            "nameWithType": "Xã Quỳnh Sơn",
+            "path": "Quỳnh Sơn, Yên Dũng, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Quỳnh Sơn, Huyện Yên Dũng, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 12,
+            "code": "",
+            "type": "ward",
+            "name": "Tân Liễu",
+            "slug": "tan lieu",
+            "nameWithType": "Xã Tân Liễu",
+            "path": "Tân Liễu, Yên Dũng, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Tân Liễu, Huyện Yên Dũng, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 13,
+            "code": "",
+            "type": "ward",
+            "name": "Tiến Dũng",
+            "slug": "tien dung",
+            "nameWithType": "Xã Tiến Dũng",
+            "path": "Tiến Dũng, Yên Dũng, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Tiến Dũng, Huyện Yên Dũng, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 14,
+            "code": "",
+            "type": "ward",
+            "name": "Tiền Phong",
+            "slug": "tien phong",
+            "nameWithType": "Xã Tiền Phong",
+            "path": "Tiền Phong, Yên Dũng, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Tiền Phong, Huyện Yên Dũng, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 15,
+            "code": "",
+            "type": "ward",
+            "name": "Trí Yên",
+            "slug": "tri yen",
+            "nameWithType": "Xã Trí Yên",
+            "path": "Trí Yên, Yên Dũng, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Trí Yên, Huyện Yên Dũng, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 16,
+            "code": "",
+            "type": "ward",
+            "name": "Tư Mại",
+            "slug": "tu mai",
+            "nameWithType": "Xã Tư Mại",
+            "path": "Tư Mại, Yên Dũng, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Tư Mại, Huyện Yên Dũng, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 17,
+            "code": "",
+            "type": "ward",
+            "name": "Xuân Phú",
+            "slug": "xuan phu",
+            "nameWithType": "Xã Xuân Phú",
+            "path": "Xuân Phú, Yên Dũng, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Xuân Phú, Huyện Yên Dũng, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 18,
+            "code": "",
+            "type": "ward",
+            "name": "Yên Lư",
+            "slug": "yen lu",
+            "nameWithType": "Xã Yên Lư",
+            "path": "Yên Lư, Yên Dũng, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Yên Lư, Huyện Yên Dũng, Tỉnh Bắc Giang, Việt Nam"
+        }
+    ]
+}

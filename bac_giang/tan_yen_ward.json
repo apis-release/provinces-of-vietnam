@@ -1,0 +1,228 @@
+{
+    "description": "Tính đến tháng 06 năm 2021 - Huyện Tân Yên bao gồm 2 Thị trấn và 20 Xã",
+    "lastUpdatedAt": "2021-06-29T10:56:47.434266176+07:00",
+    "type": "district",
+    "name": "Tân Yên",
+    "wards": [
+        {
+            "index": 1,
+            "code": "",
+            "type": "ward",
+            "name": "TT. Cao Thượng",
+            "slug": "tt. cao thuong",
+            "nameWithType": "Thị trấn Cao Thượng",
+            "path": "TT. Cao Thượng, Tân Yên, Bắc Giang, Việt Nam",
+            "pathWithType": "Thị trấn Cao Thượng, Huyện Tân Yên, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 2,
+            "code": "",
+            "type": "ward",
+            "name": "TT. Nhã Nam",
+            "slug": "tt. nha nam",
+            "nameWithType": "Thị trấn Nhã Nam",
+            "path": "TT. Nhã Nam, Tân Yên, Bắc Giang, Việt Nam",
+            "pathWithType": "Thị trấn Nhã Nam, Huyện Tân Yên, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 3,
+            "code": "",
+            "type": "ward",
+            "name": "An Dương",
+            "slug": "an duong",
+            "nameWithType": "Xã An Dương",
+            "path": "An Dương, Tân Yên, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã An Dương, Huyện Tân Yên, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 4,
+            "code": "",
+            "type": "ward",
+            "name": "Cao Xá",
+            "slug": "cao xa",
+            "nameWithType": "Xã Cao Xá",
+            "path": "Cao Xá, Tân Yên, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Cao Xá, Huyện Tân Yên, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 5,
+            "code": "",
+            "type": "ward",
+            "name": "Đại Hóa",
+            "slug": "dai hoa",
+            "nameWithType": "Xã Đại Hóa",
+            "path": "Đại Hóa, Tân Yên, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Đại Hóa, Huyện Tân Yên, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 6,
+            "code": "",
+            "type": "ward",
+            "name": "Hợp Đức",
+            "slug": "hop duc",
+            "nameWithType": "Xã Hợp Đức",
+            "path": "Hợp Đức, Tân Yên, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Hợp Đức, Huyện Tân Yên, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 7,
+            "code": "",
+            "type": "ward",
+            "name": "Lam Cốt",
+            "slug": "lam cot",
+            "nameWithType": "Xã Lam Cốt",
+            "path": "Lam Cốt, Tân Yên, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Lam Cốt, Huyện Tân Yên, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 8,
+            "code": "",
+            "type": "ward",
+            "name": "Lan Giới",
+            "slug": "lan gioi",
+            "nameWithType": "Xã Lan Giới",
+            "path": "Lan Giới, Tân Yên, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Lan Giới, Huyện Tân Yên, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 9,
+            "code": "",
+            "type": "ward",
+            "name": "Liên Chung",
+            "slug": "lien chung",
+            "nameWithType": "Xã Liên Chung",
+            "path": "Liên Chung, Tân Yên, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Liên Chung, Huyện Tân Yên, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 10,
+            "code": "",
+            "type": "ward",
+            "name": "Liên Sơn",
+            "slug": "lien son",
+            "nameWithType": "Xã Liên Sơn",
+            "path": "Liên Sơn, Tân Yên, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Liên Sơn, Huyện Tân Yên, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 11,
+            "code": "",
+            "type": "ward",
+            "name": "Ngọc Châu",
+            "slug": "ngoc chau",
+            "nameWithType": "Xã Ngọc Châu",
+            "path": "Ngọc Châu, Tân Yên, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Ngọc Châu, Huyện Tân Yên, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 12,
+            "code": "",
+            "type": "ward",
+            "name": "Ngọc Lý",
+            "slug": "ngoc ly",
+            "nameWithType": "Xã Ngọc Lý",
+            "path": "Ngọc Lý, Tân Yên, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Ngọc Lý, Huyện Tân Yên, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 13,
+            "code": "",
+            "type": "ward",
+            "name": "Ngọc Thiện",
+            "slug": "ngoc thien",
+            "nameWithType": "Xã Ngọc Thiện",
+            "path": "Ngọc Thiện, Tân Yên, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Ngọc Thiện, Huyện Tân Yên, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 14,
+            "code": "",
+            "type": "ward",
+            "name": "Ngọc Vân",
+            "slug": "ngoc van",
+            "nameWithType": "Xã Ngọc Vân",
+            "path": "Ngọc Vân, Tân Yên, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Ngọc Vân, Huyện Tân Yên, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 15,
+            "code": "",
+            "type": "ward",
+            "name": "Phúc Hòa",
+            "slug": "phuc hoa",
+            "nameWithType": "Xã Phúc Hòa",
+            "path": "Phúc Hòa, Tân Yên, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Phúc Hòa, Huyện Tân Yên, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 16,
+            "code": "",
+            "type": "ward",
+            "name": "Phúc Sơn",
+            "slug": "phuc son",
+            "nameWithType": "Xã Phúc Sơn",
+            "path": "Phúc Sơn, Tân Yên, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Phúc Sơn, Huyện Tân Yên, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 17,
+            "code": "",
+            "type": "ward",
+            "name": "Quang Tiến",
+            "slug": "quang tien",
+            "nameWithType": "Xã Quang Tiến",
+            "path": "Quang Tiến, Tân Yên, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Quang Tiến, Huyện Tân Yên, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 18,
+            "code": "",
+            "type": "ward",
+            "name": "Quế Nham",
+            "slug": "que nham",
+            "nameWithType": "Xã Quế Nham",
+            "path": "Quế Nham, Tân Yên, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Quế Nham, Huyện Tân Yên, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 19,
+            "code": "",
+            "type": "ward",
+            "name": "Song vân",
+            "slug": "song van",
+            "nameWithType": "Xã Song Vân",
+            "path": "Song Vân, Tân Yên, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Song Vân, Huyện Tân Yên, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 20,
+            "code": "",
+            "type": "ward",
+            "name": "Tân Trung",
+            "slug": "tan trung",
+            "nameWithType": "Xã Tân Trung",
+            "path": "Tân Trung, Tân Yên, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Tân Trung, Huyện Tân Yên, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 21,
+            "code": "",
+            "type": "ward",
+            "name": "Việt Lập",
+            "slug": "viet lap",
+            "nameWithType": "Xã Việt Lập",
+            "path": "Việt Lập, Tân Yên, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Việt Lập, Huyện Tân Yên, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 22,
+            "code": "",
+            "type": "ward",
+            "name": "Việt Ngọc",
+            "slug": "viet ngoc",
+            "nameWithType": "Xã Viêt Ngọc",
+            "path": "Việt Ngọc, Tân Yên, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Việt Ngọc, Huyện Tân Yên, Tỉnh Bắc Giang, Việt Nam"
+        }
+    ]
+}

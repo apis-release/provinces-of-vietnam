@@ -1,0 +1,198 @@
+{
+    "description": "Tính đến tháng 06 năm 2021 - Huyện Yên Thế bao gồm 2 Thị trấn và 17 Xã",
+    "lastUpdatedAt": "2021-06-29T10:56:47.434426686+07:00",
+    "type": "district",
+    "name": "Yên Thế",
+    "wards": [
+        {
+            "index": 1,
+            "code": "",
+            "type": "ward",
+            "name": "TT. Phồn Xương",
+            "slug": "tt. phon xuong",
+            "nameWithType": "Thị trấn Phồn Xương",
+            "path": "TT. Phồn Xương, Yên Thế, Bắc Giang, Việt Nam",
+            "pathWithType": "Thị trấn Phồn Xương, Huyện Yên Thế, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 2,
+            "code": "",
+            "type": "ward",
+            "name": "TT. Bố Hạ",
+            "slug": "tt. bo ha",
+            "nameWithType": "Thị trấn Bố Hạ",
+            "path": "TT. Bố Hạ, Yên Thế, Bắc Giang, Việt Nam",
+            "pathWithType": "Thị trấn Bố Hạ, Huyện Yên Thế, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 3,
+            "code": "",
+            "type": "ward",
+            "name": "An Thượng",
+            "slug": "an thuong",
+            "nameWithType": "Xã An Thượng",
+            "path": "An Thượng, Yên Thế, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã An Thượng, Huyện Yên Thế, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 4,
+            "code": "",
+            "type": "ward",
+            "name": "Canh Nậu",
+            "slug": "canh nau",
+            "nameWithType": "Xã Canh Nậu",
+            "path": "Canh Nậu, Yên Thế, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Canh Nậu, Huyện Yên Thế, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 5,
+            "code": "",
+            "type": "ward",
+            "name": "Đông Sơn",
+            "slug": "dong son",
+            "nameWithType": "Xã Đông Sơn",
+            "path": "Đông Sơn, Yên Thế, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Đông Sơn, Huyện Yên Thế, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 6,
+            "code": "",
+            "type": "ward",
+            "name": "Đồng Hưu",
+            "slug": "dong huu",
+            "nameWithType": "Xã Đồng Hưu",
+            "path": "Đồng Hưu, Yên Thế, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Đồng Hưu, Huyện Yên Thế, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 7,
+            "code": "",
+            "type": "ward",
+            "name": "Đồng Kỳ",
+            "slug": "dong kỳ",
+            "nameWithType": "Xã Đồng Kỳ",
+            "path": "Đồng Kỳ, Yên Thế, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Đồng Kỳ, Huyện Yên Thế, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 8,
+            "code": "",
+            "type": "ward",
+            "name": "Đồng Lạc",
+            "slug": "dong lac",
+            "nameWithType": "Xã Đồng Lạc",
+            "path": "Đồng Lạc, Yên Thế, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Đồng Lạc, Huyện Yên Thế, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 9,
+            "code": "",
+            "type": "ward",
+            "name": "Đồng Tâm",
+            "slug": "dong tam",
+            "nameWithType": "Xã Đồng Tâm",
+            "path": "Đồng Tâm, Yên Thế, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Đồng Tâm, Huyện Yên Thế, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 10,
+            "code": "",
+            "type": "ward",
+            "name": "Đồng Tiến",
+            "slug": "dong tien",
+            "nameWithType": "Xã Đồng Tiến",
+            "path": "Đồng Tiến, Yên Thế, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Đồng Tiến, Huyện Yên Thế, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 11,
+            "code": "",
+            "type": "ward",
+            "name": "Đồng Vương",
+            "slug": "dong vuong",
+            "nameWithType": "Xã Đồng Vương",
+            "path": "Đồng Vương, Yên Thế, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Đồng Vương, Huyện Yên Thế, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 12,
+            "code": "",
+            "type": "ward",
+            "name": "Hồng Kỳ",
+            "slug": "hong kỳ",
+            "nameWithType": "Xã Hồng Kỳ",
+            "path": "Hồng Kỳ, Yên Thế, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Hồng Kỳ, Huyện Yên Thế, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 13,
+            "code": "",
+            "type": "ward",
+            "name": "Hương Vỹ",
+            "slug": "huong vỹ",
+            "nameWithType": "Xã Hương Vỹ",
+            "path": "Hương vỹ, Yên Thế, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Hương Vỹ, Huyện Yên Thế, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 14,
+            "code": "",
+            "type": "ward",
+            "name": "Tam Hiệp",
+            "slug": "tam hiep",
+            "nameWithType": "Xã Tam Hiệp",
+            "path": "Tam Hiệp, Yên Thế, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Tam Hiệp, Huyện Yên Thế, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 15,
+            "code": "",
+            "type": "ward",
+            "name": "Tam Tiến",
+            "slug": "tam tien",
+            "nameWithType": "Xã Tam Tiến",
+            "path": "Tam Tiến, Yên Thế, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Tam Tiến, Huyện Yên Thế, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 16,
+            "code": "",
+            "type": "ward",
+            "name": "Tân Hiệp",
+            "slug": "tan hiep",
+            "nameWithType": "Xã Tân Hiệp",
+            "path": "Tân Hiệp, Yên Thế, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Tân Hiệp, Huyện Yên Thế, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 17,
+            "code": "",
+            "type": "ward",
+            "name": "Tân Sỏi",
+            "slug": "tan soi",
+            "nameWithType": "Xã Tân Sỏi",
+            "path": "Tân Sỏi, Yên Thế, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Tân Sỏi, Huyện Yên Thế, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 18,
+            "code": "",
+            "type": "ward",
+            "name": "Tiến Thắng",
+            "slug": "tien thang",
+            "nameWithType": "Xã Tiến Thắng",
+            "path": "Tiến Thắng, Yên Thế, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Tiến Thắng, Huyện Yên Thế, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 19,
+            "code": "",
+            "type": "ward",
+            "name": "Xuân Lương",
+            "slug": "xuan luong",
+            "nameWithType": "Xã Xuân Lương",
+            "path": "Xuân Lương, Yên Thế, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Xuân Lương, Huyện Yên Thế, Tỉnh Bắc Giang, Việt Nam"
+        }
+    ]
+}

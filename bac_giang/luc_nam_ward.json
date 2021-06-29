@@ -1,0 +1,258 @@
+{
+    "description": "Tính đến tháng 06 năm 2021 - Huyện Lục Nam bao gồm 1 Thị trấn và 24 Xã",
+    "lastUpdatedAt": "2021-06-29T10:56:47.434095599+07:00",
+    "type": "district",
+    "name": "Lục Nam",
+    "wards": [
+        {
+            "index": 1,
+            "code": "",
+            "type": "ward",
+            "name": "TT. Đồi Ngô",
+            "slug": "tt. doi ngo",
+            "nameWithType": "Thị trấn Đồi Ngô",
+            "path": "TT. Đồi Ngô, Lục Nam, Bắc Giang, Việt Nam",
+            "pathWithType": "Thị trấn Đồi Ngô, Huyện Lục Nam, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 2,
+            "code": "",
+            "type": "ward",
+            "name": "Bắc Lũng",
+            "slug": "bac lung",
+            "nameWithType": "Xã Bắc Lũng",
+            "path": "Bắc Lũng, Lục Nam, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Bắc Lũng, Huyện Lục Nam, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 3,
+            "code": "",
+            "type": "ward",
+            "name": "Bảo Đài",
+            "slug": "bao dai",
+            "nameWithType": "Xã Bảo Đài",
+            "path": "Bảo Đài, Lục Nam, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Bảo Đài, Huyện Lục Nam, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 4,
+            "code": "",
+            "type": "ward",
+            "name": "Bảo Sơn",
+            "slug": "bao son",
+            "nameWithType": "Xã Bảo Sơn",
+            "path": "Bảo Sơn, Lục Nam, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Bảo Sơn, Huyện Lục Nam, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 5,
+            "code": "",
+            "type": "ward",
+            "name": "Bĩnh Sơn",
+            "slug": "binh son",
+            "nameWithType": "Xã Bình Sơn",
+            "path": "Bình Sơn, Lục Nam, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Bình Sơn, Huyện Lục Nam, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 6,
+            "code": "",
+            "type": "ward",
+            "name": "Cẩm Lý",
+            "slug": "cam ly",
+            "nameWithType": "Xã Cẩm Lý",
+            "path": "Cẩm Lý, Lục Nam, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Cẩm Lý, Huyện Lục Nam, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 7,
+            "code": "",
+            "type": "ward",
+            "name": "Chu Điện",
+            "slug": "chu dien",
+            "nameWithType": "Xã Chu Điện",
+            "path": "Chu Điện, Lục Nam, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Chu Điện, Huyện Lục Nam, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 8,
+            "code": "",
+            "type": "ward",
+            "name": "Cương Sơn",
+            "slug": "cuong son",
+            "nameWithType": "Xã Cương Sơn",
+            "path": "Cương Sơn, Lục Nam, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Cương Sơn, Huyện Lục Nam, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 9,
+            "code": "",
+            "type": "ward",
+            "name": "Đan Hội",
+            "slug": "dan hoi",
+            "nameWithType": "Xã Đan Hội",
+            "path": "Đan Hội, Lục Nam, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Đan Hội, Huyện Lục Nam, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 10,
+            "code": "",
+            "type": "ward",
+            "name": "Đông Hưng",
+            "slug": "dong hung",
+            "nameWithType": "Xã Đông Hưng",
+            "path": "Đông Hưng, Lục Nam, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã ĐÔng Hưng, Huyện Lục Nam, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 11,
+            "code": "",
+            "type": "ward",
+            "name": "Đông Phú",
+            "slug": "dong phu",
+            "nameWithType": "Xã Đông Phú",
+            "path": "Đông Phú, Lục Nam, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Đông Phú, Huyện Lục Nam, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 12,
+            "code": "",
+            "type": "ward",
+            "name": "Huyền Sơn",
+            "slug": "huyen son",
+            "nameWithType": "Xã Huyền Sơn",
+            "path": "Huyền Sơn, Lục Nam, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Huyền Sơn, Huyện Lục Nam, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 13,
+            "code": "",
+            "type": "ward",
+            "name": "Khám Lạng",
+            "slug": "kham lang",
+            "nameWithType": "Xã Khám Lạng",
+            "path": "Khám Lạng, Lục Nam, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Khám Lạng, Huyện Lục Nam, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 14,
+            "code": "",
+            "type": "ward",
+            "name": "Lan Mẫu",
+            "slug": "lan mau",
+            "nameWithType": "Xã Lan Mẫu",
+            "path": "Lan Mẫu, Lục Nam, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Lan Mẫu, Huyện Lục Nam, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 15,
+            "code": "",
+            "type": "ward",
+            "name": "Lục Sơn",
+            "slug": "luc son",
+            "nameWithType": "Xã Lục Sơn",
+            "path": "Lục Sơn, Lục Nam, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Lục Sơn, Huyện Lục Nam, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 16,
+            "code": "",
+            "type": "ward",
+            "name": "Nghĩa Phương",
+            "slug": "nghia phuong",
+            "nameWithType": "Xã NGhĩa Phương",
+            "path": "Nghĩa Phương, Lục Nam, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Nghĩa Phương, Huyện Lục Nam, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 17,
+            "code": "",
+            "type": "ward",
+            "name": "Phương Sơn",
+            "slug": "phuong son",
+            "nameWithType": "Xã Phương Sơn",
+            "path": "Phương Sơn, Lục Nam, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Phương Sơn, Huyện Lục Nam, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 18,
+            "code": "",
+            "type": "ward",
+            "name": "Tam Dị",
+            "slug": "tam di",
+            "nameWithType": "Xã Tam Dị",
+            "path": "Tam Dị, Lục Nam, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Tam Dị, Huyện Lục Nam, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 19,
+            "code": "",
+            "type": "ward",
+            "name": "Thanh Lâm",
+            "slug": "thanh lam",
+            "nameWithType": "Xã Thanh Lâm",
+            "path": "Thanh Lâm, Lục Nam, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Thanh Lâm, Huyện Lục Nam, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 20,
+            "code": "",
+            "type": "ward",
+            "name": "Tiên Nha",
+            "slug": "tien nha",
+            "nameWithType": "Xã Tiên Nha",
+            "path": "Tiên Nha, Lục Nam, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Tiên Nha, Huyện Lục Nam, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 21,
+            "code": "",
+            "type": "ward",
+            "name": "Trường Giang",
+            "slug": "truong giang",
+            "nameWithType": "Xã Trường Giang",
+            "path": "Trường Giang, Lục Nam, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Trường Giang, Huyện Lục Nam, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 22,
+            "code": "",
+            "type": "ward",
+            "name": "Trường Sơn",
+            "slug": "truong son",
+            "nameWithType": "Xã Trường Sơn",
+            "path": "Trường Sơn, Lục Nam, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Trường Sơn, Huyện Lục Nam, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 23,
+            "code": "",
+            "type": "ward",
+            "name": "Vô Tranh",
+            "slug": "vo tranh",
+            "nameWithType": "Xã Vô Tranh",
+            "path": "Vô Tranh, Lục Nam, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Vô Tranh, Huyện Lục Nam, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 24,
+            "code": "",
+            "type": "ward",
+            "name": "Vũ Xã",
+            "slug": "vu xa",
+            "nameWithType": "Xã Vũ Xá",
+            "path": "Vũ Xá, Lục Nam, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Vũ Xá, Huyện Lục Nam, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 25,
+            "code": "",
+            "type": "ward",
+            "name": "Yên Sơn",
+            "slug": "yen son",
+            "nameWithType": "Xã Yên Sơn",
+            "path": "Yên Sơn, Lục Nam, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Yên Sơn, Huyện Lục Nam, Tỉnh Bắc Giang, Việt Nam"
+        }
+    ]
+}

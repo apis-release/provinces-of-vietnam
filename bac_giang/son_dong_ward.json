@@ -1,0 +1,178 @@
+{
+    "description": "Tính đến tháng 06 năm 2021 - Huyện Sơn Động bao gồm 2 Thị trấn và 15 Xã",
+    "lastUpdatedAt": "2021-06-29T10:56:47.434223886+07:00",
+    "type": "district",
+    "name": "Sơn Động",
+    "wards": [
+        {
+            "index": 1,
+            "code": "",
+            "type": "ward",
+            "name": "TT. An Châu",
+            "slug": "tt. an chau",
+            "nameWithType": "Thị trấn An Châu",
+            "path": "TT. An Châu, Sơn Động, Bắc Giang, Việt Nam",
+            "pathWithType": "Thị trấn An Châu, Huyện Sơn Động, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 2,
+            "code": "",
+            "type": "ward",
+            "name": "TT. Tây Yên Từ",
+            "slug": "tt. tay yen tu",
+            "nameWithType": "Thị trấn Tấy Yen Từ",
+            "path": "TT. Tây Yên Từ, Sơn Động, Bắc Giang, Việt Nam",
+            "pathWithType": "Thị trấn Tây Yên Từ, Huyện Sơn Động, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 3,
+            "code": "",
+            "type": "ward",
+            "name": "An Bá",
+            "slug": "an ba",
+            "nameWithType": "Xã An Bá",
+            "path": "An Bá, Sơn Động, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã An Bá, Huyện Sơn Động, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 4,
+            "code": "",
+            "type": "ward",
+            "name": "An Lạc",
+            "slug": "an lac",
+            "nameWithType": "Xã An Lạc",
+            "path": "An Lạc, Sơn Động, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã An Lạc, Huyện Sơn Động, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 5,
+            "code": "",
+            "type": "ward",
+            "name": "Cẩm Đàn",
+            "slug": "cam dan",
+            "nameWithType": "Xã Cẩm Đàn",
+            "path": "Cẩm Đàn, Sơn Động, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Cẩm Đàn, Huyện Sơn Động, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 6,
+            "code": "",
+            "type": "ward",
+            "name": "Dương Hưu",
+            "slug": "duong huu",
+            "nameWithType": "Xã Dương Hưu",
+            "path": "Dương Hưu, Sơn Động, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Dương Hưu, Huyện Sơn Động, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 7,
+            "code": "",
+            "type": "ward",
+            "name": "Đại Sơn",
+            "slug": "dai son",
+            "nameWithType": "Xã Đại Sơn",
+            "path": "Đại Sơn, Sơn Động, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Đại Sơn, Huyện Sơn Động, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 8,
+            "code": "",
+            "type": "ward",
+            "name": "Giáo Liêm",
+            "slug": "giao liem",
+            "nameWithType": "Xã Giáo Liêm",
+            "path": "Giáo Liêm, Sơn Động, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Giáo Liêm, Huyện Sơn Động, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 9,
+            "code": "",
+            "type": "ward",
+            "name": "Hữu Sản",
+            "slug": "huu san",
+            "nameWithType": "Xã Hữu Sản",
+            "path": "Hữu Sản, Sơn Động, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Hữu Sản, Huyện Sơn Động, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 10,
+            "code": "",
+            "type": "ward",
+            "name": "Lệ Viễn",
+            "slug": "le vien",
+            "nameWithType": "Xã Lệ Viễn",
+            "path": "Lệ Viễn, Sơn Động, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Lệ Viễn, Huyện Sơn Động, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 11,
+            "code": "",
+            "type": "ward",
+            "name": "Long Sơn",
+            "slug": "long son",
+            "nameWithType": "Xã Long Sơn",
+            "path": "Long Sơn, Sơn Động, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Long Sơn, Huyện Sơn Động, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 12,
+            "code": "",
+            "type": "ward",
+            "name": "Phúc Sơn",
+            "slug": "phuc son",
+            "nameWithType": "Xã Phúc Sơn",
+            "path": "Phúc Sơn, Sơn Động, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Phúc Sơn, Huyện Sơn Động, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 13,
+            "code": "",
+            "type": "ward",
+            "name": "Thanh Luận",
+            "slug": "thanh luan",
+            "nameWithType": "Xa Thanh Luận",
+            "path": "Thanh Luận, Sơn Động, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Thanh Luận, Huyện Sơn Động, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 14,
+            "code": "",
+            "type": "ward",
+            "name": "Tuấn Đạo",
+            "slug": "tuan dao",
+            "nameWithType": "Xã Tuấn Đạo",
+            "path": "Tuấn Đạo, Sơn Động, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Tuấn Đạo, Huyện Sơn Động, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 15,
+            "code": "",
+            "type": "ward",
+            "name": "Vân Sơn",
+            "slug": "van son",
+            "nameWithType": "Xã Vân Sơn",
+            "path": "Vân Sơn, Sơn Động, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Vân Sơn, Huyện Sơn Động, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 16,
+            "code": "",
+            "type": "ward",
+            "name": "Vĩnh An",
+            "slug": "vinh an",
+            "nameWithType": "Xã Vĩnh An",
+            "path": "Vĩnh An, Sơn Động, Bắc Giang, Việt Nam",
+            "pathWithType": "Xa Vĩnh An, Huyện Sơn Động, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 17,
+            "code": "",
+            "type": "ward",
+            "name": "Yên Định",
+            "slug": "yen dinh",
+            "nameWithType": "Xã Yên Định",
+            "path": "Yên Định, Sơn Động, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Yên Định, Huyện Sơn Động, Tỉnh Bắc Giang, Việt Nam"
+        }
+    ]
+}

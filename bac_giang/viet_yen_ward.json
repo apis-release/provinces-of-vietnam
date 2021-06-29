@@ -1,0 +1,178 @@
+{
+    "description": "Tính đến tháng 06 năm 2021 - Huyện Việt Yên bao gồm 2 Thị trấn và 15 Xã",
+    "lastUpdatedAt": "2021-06-29T10:56:47.434314809+07:00",
+    "type": "district",
+    "name": "Việt Yên",
+    "wards": [
+        {
+            "index": 1,
+            "code": "",
+            "type": "ward",
+            "name": "TT. Bích Động",
+            "slug": "tt. bich dong",
+            "nameWithType": "Thị trấn Bích Động",
+            "path": "TT. Bích Động, Việt Yên, Bắc Giang, Việt Nam",
+            "pathWithType": "Thị trấn Bích Động, Huyện Việt Yên, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 2,
+            "code": "",
+            "type": "ward",
+            "name": "TT. Nếnh",
+            "slug": "tt. nenh",
+            "nameWithType": "Thị trấn Nếnh",
+            "path": "TT. Nếnh, Việt Yên, Bắc Giang, Việt Nam",
+            "pathWithType": "Thị trấn Nếnh, Huyện Việt Yên, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 3,
+            "code": "",
+            "type": "ward",
+            "name": "Hồng Thái",
+            "slug": "hong thai",
+            "nameWithType": "Xã Hồng Thái",
+            "path": "Hồng Thái, Việt Yên, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Hồng Thái, Huyện Việt Yên, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 4,
+            "code": "",
+            "type": "ward",
+            "name": "Hương Mai",
+            "slug": "huong mai",
+            "nameWithType": "Xã Hương Mai",
+            "path": "Hương Mai, Việt Yên, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Hương Mai, Huyện Việt Yên, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 5,
+            "code": "",
+            "type": "ward",
+            "name": "Minh Đức",
+            "slug": "minh duc",
+            "nameWithType": "Xã Minh Đức",
+            "path": "Minh Đức, Việt Yên, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Minh Đức, Huyện Việt Yên, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 6,
+            "code": "",
+            "type": "ward",
+            "name": "Nghĩa Trung",
+            "slug": "nghia trung",
+            "nameWithType": "Xã Nghĩa Trung",
+            "path": "Nghĩa Trung, Việt Yên, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Nghĩa Trung, Huyện Việt Yên, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 7,
+            "code": "",
+            "type": "ward",
+            "name": "Ninh Sơn",
+            "slug": "ninh son",
+            "nameWithType": "Xã Ninh Sơn",
+            "path": "Ninh Sơn, Việt Yên, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Ninh Sơn, Huyện Việt Yên, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 8,
+            "code": "",
+            "type": "ward",
+            "name": "Quang Châu",
+            "slug": "quang chau",
+            "nameWithType": "Xã Quang Châu",
+            "path": "Quang Châu, Việt Yên, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Quang Châu, Huyện Việt Yên, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 9,
+            "code": "",
+            "type": "ward",
+            "name": "Quảng Minh",
+            "slug": "quang minh",
+            "nameWithType": "Xã Quảng Minh",
+            "path": "Quảng Minh, Việt Yên, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Quảng Minh, Huyện Việt Yên, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 10,
+            "code": "",
+            "type": "ward",
+            "name": "Tăng Tiến",
+            "slug": "tang tien",
+            "nameWithType": "Xã Tăng Tiến",
+            "path": "Tăng Tiến, Việt Yên, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Tăng Tiến, Huyện Việt Yên, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 11,
+            "code": "",
+            "type": "ward",
+            "name": "Thượng Lan",
+            "slug": "thuong lan",
+            "nameWithType": "Xã Thượng Lan",
+            "path": "Thượng Lan, Việt Yên, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Thượng Lan, Huyện Việt Yên, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 12,
+            "code": "",
+            "type": "ward",
+            "name": "Tiên Sơn",
+            "slug": "tien son",
+            "nameWithType": "Xã Tiên Sơn",
+            "path": "Tiên Sơn, Việt Yên, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Tiên Sơn, Huyện Việt Yên, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 13,
+            "code": "",
+            "type": "ward",
+            "name": "Trung Sơn",
+            "slug": "trung son",
+            "nameWithType": "Xã Trung Sơn",
+            "path": "Trung Sơn, Việt Yên, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Trung Sơn, Huyện Việt Yên, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 14,
+            "code": "",
+            "type": "ward",
+            "name": "Tự Lạn",
+            "slug": "tu lan",
+            "nameWithType": "Xã Tự Lạn",
+            "path": "Tự Lạn, Việt Yên, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Tự Lạn, Huyện Việt Yên, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 15,
+            "code": "",
+            "type": "ward",
+            "name": "Vân Hà",
+            "slug": "van ha",
+            "nameWithType": "Xã Vân Hà",
+            "path": "Vân Hà, Việt Yên, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Vân Hà, Huyện Việt Yên, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 16,
+            "code": "",
+            "type": "ward",
+            "name": "Vân Trung",
+            "slug": "van trung",
+            "nameWithType": "Xã Vân Trung",
+            "path": "Vân Trung, Việt Yên, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Vân Trung, Huyện Việt Yên, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 17,
+            "code": "",
+            "type": "ward",
+            "name": "Việt Tiến",
+            "slug": "viet tien",
+            "nameWithType": "Xã Việt Tiến",
+            "path": "Việt Tiến, Việt Yên, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Việt Tiến, Huyện Việt Yên, Tỉnh Bắc Giang, Việt Nam"
+        }
+    ]
+}

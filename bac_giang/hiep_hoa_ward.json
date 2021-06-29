@@ -1,0 +1,258 @@
+{
+    "description": "Tính đến tháng 06 năm 2021 - Huyện Hiệp Hòa bao gồm 1 Thị trấn và 24 Xã",
+    "lastUpdatedAt": "2021-06-29T10:56:47.433950738+07:00",
+    "type": "district",
+    "name": "Hiệp Hòa",
+    "wards": [
+        {
+            "index": 1,
+            "code": "",
+            "type": "ward",
+            "name": "TT. Thắng",
+            "slug": "tt. thang",
+            "nameWithType": "Thị trấn Thắng",
+            "path": "TT. Thắng, Hiệp Hòa, Bắc Giang, Việt Nam",
+            "pathWithType": "Thị trấn Thắng, Huyện Hiệp Hòa, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 2,
+            "code": "",
+            "type": "ward",
+            "name": "Bắc Lý",
+            "slug": "bac ly",
+            "nameWithType": "Xã Bắc Lý",
+            "path": "Bắc Lý, Hiệp Hòa, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Bắc Lý, Huyện Hiệp Hòa, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 3,
+            "code": "",
+            "type": "ward",
+            "name": "Châu Minh",
+            "slug": "chau minh",
+            "nameWithType": "Xã Châu Minh",
+            "path": "Châu Minh, Hiệp Hòa, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Châu Minh, Huyện Hiệp Hòa, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 4,
+            "code": "",
+            "type": "ward",
+            "name": "Danh Thắng",
+            "slug": "danh thang",
+            "nameWithType": "Xã Danh Thắng",
+            "path": "Danh Thắng, Hiệp Hòa, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Danh Thắng, Huyện Hiệp Hòa, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 5,
+            "code": "",
+            "type": "ward",
+            "name": "Đại Thành",
+            "slug": "dai thanh",
+            "nameWithType": "Xã Đại Thành",
+            "path": "Đại Thành, Hiệp Hòa, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Đại Thành, Huyện Hiệp Hòa, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 6,
+            "code": "",
+            "type": "ward",
+            "name": "Đoan Bái",
+            "slug": "doan bai",
+            "nameWithType": "Xã Đoan Bái",
+            "path": "Đoan Bái, Hiệp Hòa, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Đoan Bái, Huyện Hiệp Hòa, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 7,
+            "code": "",
+            "type": "ward",
+            "name": "Đông Lỗ",
+            "slug": "dong lo",
+            "nameWithType": "Xã Đông Lỗ",
+            "path": "Đông Lỗ, Hiệp Hòa, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Đông Lỗ, Huyện Hiệp Hòa, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 8,
+            "code": "",
+            "type": "ward",
+            "name": "Đồng Tân",
+            "slug": "dong tan",
+            "nameWithType": "Xã Đồng Tân",
+            "path": "Đồng Tân, Hiệp Hòa, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Đồng Tân, Huyện Hiệp Hòa, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 9,
+            "code": "",
+            "type": "ward",
+            "name": "Hòa Sơn",
+            "slug": "hoa son",
+            "nameWithType": "Xã Hòa Sơn",
+            "path": "Hòa Sơn, Hiệp Hòa, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Hòa Sơn, Huyện Hiệp Hòa, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 10,
+            "code": "",
+            "type": "ward",
+            "name": "Hoàng An",
+            "slug": "hoang an",
+            "nameWithType": "Xã Hoàng An",
+            "path": "Hoàng An, Hiệp Hòa, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Hoàng An, Huyện Hiệp Hòa, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 11,
+            "code": "",
+            "type": "ward",
+            "name": "Hoàng Lương",
+            "slug": "hoang luong",
+            "nameWithType": "Xã Hoàng Lương",
+            "path": "Hoàng Lương, Hiệp Hòa, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Hoàng Lương, Huyện Hiệp Hòa, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 12,
+            "code": "",
+            "type": "ward",
+            "name": "Hoàng Thanh",
+            "slug": "hoang thanh",
+            "nameWithType": "Xã Hoàng Thanh",
+            "path": "Hoàng Thanh, Hiệp Hòa, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Hoàng Thanh, Huyện Hiệp Hòa, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 13,
+            "code": "",
+            "type": "ward",
+            "name": "Hoàng Vân",
+            "slug": "hoang van",
+            "nameWithType": "Xã Hoàng Vân",
+            "path": "Hoàng Vân, Hiệp Hòa, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Hoàng Vân, Huyện Hiệp Hòa, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 14,
+            "code": "",
+            "type": "ward",
+            "name": "Hợp Thịnh",
+            "slug": "hop thinh",
+            "nameWithType": "Xã Hợp Thịnh",
+            "path": "Hợp Thịnh, Hiệp Hòa, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Hợp Thịnh, Huyện Hiệp Hòa, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 15,
+            "code": "",
+            "type": "ward",
+            "name": "Hùng Sơn",
+            "slug": "hung son",
+            "nameWithType": "Xã Hùng Sơn",
+            "path": "Hùng Sơn, Hiệp Hòa, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Hùng Sơn, Huyện Hiệp Hòa, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 16,
+            "code": "",
+            "type": "ward",
+            "name": "Hương Lâm",
+            "slug": "huong lam",
+            "nameWithType": "Xã Hương Lâm",
+            "path": "Hương Lâm, Hiệp Hòa, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Hương Lâm, Huyện Hiệp Hòa, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 17,
+            "code": "",
+            "type": "ward",
+            "name": "Lương Phong",
+            "slug": "luong phong",
+            "nameWithType": "Xã Lương Phong",
+            "path": "Lương Phong, Hiệp Hòa, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Lương Phong, Huyện Hiệp Hòa, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 18,
+            "code": "",
+            "type": "ward",
+            "name": "Mai Đình",
+            "slug": "mai dinh",
+            "nameWithType": "Xã Mai Đình",
+            "path": "Mai Đình, Hiệp Hòa, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Mai Đình, Huyện Hiệp Hòa, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 19,
+            "code": "",
+            "type": "ward",
+            "name": "Mai Trung",
+            "slug": "mai trung",
+            "nameWithType": "Xã Mai Trung",
+            "path": "Mai Trung, Hiệp Hòa, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Mai Trung, Huyện Hiệp Hòa, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 20,
+            "code": "",
+            "type": "ward",
+            "name": "Ngọc Sơn",
+            "slug": "ngoc son",
+            "nameWithType": "Xã Ngọc Sơn",
+            "path": "Ngọc Sơn, Hiệp Hòa, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Ngọc Sơn, Huyện Hiệp Hòa, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 21,
+            "code": "",
+            "type": "ward",
+            "name": "Quang Minh",
+            "slug": "quang minh",
+            "nameWithType": "Xã Quang Minh",
+            "path": "Quang Minh, Hiệp Hòa, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Quang Minh, Huyện Hiệp Hòa, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 22,
+            "code": "",
+            "type": "ward",
+            "name": "Thái SƠn",
+            "slug": "thai son",
+            "nameWithType": "Xã Thái Sơn",
+            "path": "Thái Sơn, Hiệp Hòa, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Thái Sơn, Huyện Hiệp Hòa, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 23,
+            "code": "",
+            "type": "ward",
+            "name": "Thanh Vân",
+            "slug": "thanh van",
+            "nameWithType": "Xã Thanh Vân",
+            "path": "Thanh Vân, Hiệp Hòa, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Thanh Vân, Huyện Hiệp Hòa, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 24,
+            "code": "",
+            "type": "ward",
+            "name": "Thường Thắng",
+            "slug": "thuong thang",
+            "nameWithType": "Xã Thường Thắng",
+            "path": "Thường Thắng, Hiệp Hòa, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Thường Thắng, Huyện Hiệp Hòa, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 25,
+            "code": "",
+            "type": "ward",
+            "name": "Xuân Cẩm",
+            "slug": "xuan cam",
+            "nameWithType": "Xã Xuân Cẩm",
+            "path": "Xuân Cẩm, Hiệp Hòa, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Xuân Cẩm, Huyện Hiệp Hòa, Tỉnh Bắc Giang, Việt Nam"
+        }
+    ]
+}

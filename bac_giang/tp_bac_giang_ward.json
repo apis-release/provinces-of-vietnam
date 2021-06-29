@@ -1,0 +1,168 @@
+{
+    "description": "Tính đến tháng 06 năm 2021 - Tp. Bắc Giang bao gồm 10 Thị trấn và 6 Xã",
+    "lastUpdatedAt": "2021-06-29T10:56:47.433826349+07:00",
+    "type": "district",
+    "name": "Tp. Bắc Giang",
+    "wards": [
+        {
+            "index": 1,
+            "code": "",
+            "type": "ward",
+            "name": "Đa Mai",
+            "slug": "da mai",
+            "nameWithType": "Phường Đa Mai",
+            "path": "Đa Mai, Tp. Bắc Giang, Bắc Giang, Việt Nam",
+            "pathWithType": "Phường Đa Mai, Thành phố Bắc Giang, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 2,
+            "code": "",
+            "type": "ward",
+            "name": "Dĩnh Kế",
+            "slug": "dinh ke",
+            "nameWithType": "Phường Dĩnh Kế",
+            "path": "Dĩnh Kế, Tp. Bắc Giang, Bắc Giang, Việt Nam",
+            "pathWithType": "Phường Dĩnh Kế, Thành phố Bắc Giang, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 3,
+            "code": "",
+            "type": "ward",
+            "name": "Hoàng Văn Thụ",
+            "slug": "hoang van thu",
+            "nameWithType": "Phường Hoàng Văn Thụ",
+            "path": "Hoàng Văn Thụ, Tp. Bắc Giang, Bắc Giang, Việt Nam",
+            "pathWithType": "Phường Hoàng Văn Thụ, Thành phố Bắc Giang, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 4,
+            "code": "",
+            "type": "ward",
+            "name": "Lê Lợi",
+            "slug": "le loi",
+            "nameWithType": "Phường Lê Lợi",
+            "path": "Lê Lọi, Tp. Bắc Giang, Bắc Giang, Việt Nam",
+            "pathWithType": "Phường Lê Lợi, Thành phố Bắc Giang, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 5,
+            "code": "",
+            "type": "ward",
+            "name": "Mỹ Độ",
+            "slug": "mỹ do",
+            "nameWithType": "Phường Mỹ Độ",
+            "path": "Mỹ Độ, Tp. Bắc Giang, Bắc Giang, Việt Nam",
+            "pathWithType": "Phường Mỹ Độ, Thành phố Bắc Giang, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 6,
+            "code": "",
+            "type": "ward",
+            "name": "Ngô Quyền",
+            "slug": "ngo quyen",
+            "nameWithType": "Phường Ngô Quyền",
+            "path": "Ngô Quyền, Tp. Bắc Giang, Bắc Giang, Việt Nam",
+            "pathWithType": "Phường Ngô Quyền, Thành phố Bắc Giang, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 7,
+            "code": "",
+            "type": "ward",
+            "name": "Thọ Xương",
+            "slug": "tho xuong",
+            "nameWithType": "Phường Thọ Xương",
+            "path": "Thọ Xương, Tp. Bắc Giang, Bắc Giang, Việt Nam",
+            "pathWithType": "Phường Thọ Xương, Thành phố Bắc Giang, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 8,
+            "code": "",
+            "type": "ward",
+            "name": "Trân Nguyên Hãn",
+            "slug": "tran nguyen han",
+            "nameWithType": "Phường Trần Nguyên Hãn",
+            "path": "Trần Nguyên Hãn, Tp. Bắc Giang, Bắc Giang, Việt Nam",
+            "pathWithType": "Phường Trần Nguyên Hãn, Thành phố Bắc Giang, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 9,
+            "code": "",
+            "type": "ward",
+            "name": "Trần Phú",
+            "slug": "tran phu",
+            "nameWithType": "Phường Trần Phú",
+            "path": "Trần Phú, Tp. Bắc Giang, Bắc Giang, Việt Nam",
+            "pathWithType": "Phường Trần Phú, Thành phố Bắc Giang, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 10,
+            "code": "",
+            "type": "ward",
+            "name": "Xương Giang",
+            "slug": "xuong giang",
+            "nameWithType": "Phường Xương Giang",
+            "path": "Xường Giang, Tp. Bắc Giang, Bắc Giang, Việt Nam",
+            "pathWithType": "Phường Xương Giang, Thành phố Bắc Giang, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 11,
+            "code": "",
+            "type": "ward",
+            "name": "Dĩnh Trì",
+            "slug": "dinh tri",
+            "nameWithType": "Xã Dĩnh Trì",
+            "path": "Dĩnh Trì, Tp. Bắc Giang, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Dĩnh Trì, Thành phố Bắc Giang, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 12,
+            "code": "",
+            "type": "ward",
+            "name": "Đồng Sơn",
+            "slug": "dong son",
+            "nameWithType": "Xã Đồng Sơn",
+            "path": "Đồng Sơn, Tp. Bắc Giang, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Đồng Sơn, Thành phố Bắc Giang, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 13,
+            "code": "",
+            "type": "ward",
+            "name": "Song Khê",
+            "slug": "song khe",
+            "nameWithType": "Xã Song Khê",
+            "path": "Song Khê, Tp. Bắc Giang, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Song Khê, Thành phố Bắc Giang, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 14,
+            "code": "",
+            "type": "ward",
+            "name": "Song Mai",
+            "slug": "song mai",
+            "nameWithType": "Xã Song Mai",
+            "path": "Xã Song Mai, Tp. Bắc Giang, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Song Mai, Thành phố Bắc Giang, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 15,
+            "code": "",
+            "type": "ward",
+            "name": "Tân Mỹ",
+            "slug": "tan mỹ",
+            "nameWithType": "Xã Tân Mỹ",
+            "path": "Tân Mỹ, Tp. Bắc Giang, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Tân Mỹ, Thành phố Bắc Giang, Tỉnh Bắc Giang, Việt Nam"
+        },
+        {
+            "index": 16,
+            "code": "",
+            "type": "ward",
+            "name": "Tân Tiền",
+            "slug": "tan tien",
+            "nameWithType": "Xã Tân Tiến",
+            "path": "Tân Tiến, Tp. Bắc Giang, Bắc Giang, Việt Nam",
+            "pathWithType": "Xã Tân Tiến, Thành phố Bắc Giang, Tỉnh Bắc Giang, Việt Nam"
+        }
+    ]
+}
