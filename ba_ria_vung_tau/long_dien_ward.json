@@ -1,0 +1,78 @@
+{
+    "description": "Tính đến tháng 06 năm 2021 - Huyện Long Điền bao gồm 2 Thị trấn và 5 Xã",
+    "lastUpdatedAt": "2021-06-29T10:21:25.611871406+07:00",
+    "type": "district",
+    "name": "Long Điền",
+    "wards": [
+        {
+            "index": 1,
+            "code": "",
+            "type": "ward",
+            "name": "TT. Long Điền",
+            "slug": "tt. long dien",
+            "nameWithType": "Thị trấn Long Điền",
+            "path": "TT. Long Điền, Long Điền, Tỉnh Bà Rịa - Vũng Tàu, Việt Nam",
+            "pathWithType": "Thị trấn Long Điền, Huyện Long Điền, Tỉnh Bà Rịa - Vũng Tàu, Việt Nam"
+        },
+        {
+            "index": 2,
+            "code": "",
+            "type": "ward",
+            "name": "TT. Long Hải",
+            "slug": "tt. long hai",
+            "nameWithType": "Thị trấn Long Hải",
+            "path": "TT. Long Hải, Long Điền, Tỉnh Bà Rịa - Vũng Tàu, Việt Nam",
+            "pathWithType": "Thị trấn Long Hải, Huyện Long Điền, Tỉnh Bà Rịa - Vũng Tàu, Việt Nam"
+        },
+        {
+            "index": 3,
+            "code": "",
+            "type": "ward",
+            "name": "An Nhứt",
+            "slug": "an nhut",
+            "nameWithType": "Xã An Nhứt",
+            "path": "An Nhứt, Long Điền, Tỉnh Bà Rịa - Vũng Tàu, Việt Nam",
+            "pathWithType": "Xã An Nhứt, Huyện Long Điền, Tỉnh Bà Rịa - Vũng Tàu, Việt Nam"
+        },
+        {
+            "index": 4,
+            "code": "",
+            "type": "ward",
+            "name": "An Ngãi",
+            "slug": "an ngai",
+            "nameWithType": "Xã An Ngãi",
+            "path": "An Ngãi, Long Điền, Tỉnh Bà Rịa - Vũng Tàu, Việt Nam",
+            "pathWithType": "Xã An Ngãi, Huyện Long Điền, Tỉnh Bà Rịa - Vũng Tàu, Việt Nam"
+        },
+        {
+            "index": 5,
+            "code": "",
+            "type": "ward",
+            "name": "Phước Hưng",
+            "slug": "phuoc hung",
+            "nameWithType": "Xã Phước Hưng",
+            "path": "Phước Hưng, Long Điền, Tỉnh Bà Rịa - Vũng Tàu, Việt Nam",
+            "pathWithType": "Xã Phước Hưng, Huyện Long Điền, Tỉnh Bà Rịa - Vũng Tàu, Việt Nam"
+        },
+        {
+            "index": 6,
+            "code": "",
+            "type": "ward",
+            "name": "Phước Tỉnh",
+            "slug": "phuoc tinh",
+            "nameWithType": "Xã Phước Tỉnh",
+            "path": "Phước Tỉnh, Long Điền, Tỉnh Bà Rịa - Vũng Tàu, Việt Nam",
+            "pathWithType": "Xã Phước Tỉnh, Huyện Long Điền, Tỉnh Bà Rịa - Vũng Tàu, Việt Nam"
+        },
+        {
+            "index": 7,
+            "code": "",
+            "type": "ward",
+            "name": "Tam Phước",
+            "slug": "tam phuoc",
+            "nameWithType": "Xã Tam Phước",
+            "path": "Tam Phước, Long Điền, Tỉnh Bà Rịa - Vũng Tàu, Việt Nam",
+            "pathWithType": "Xã Tam Phước, Huyện Long Điền, Tỉnh Bà Rịa - Vũng Tàu, Việt Nam"
+        }
+    ]
+}

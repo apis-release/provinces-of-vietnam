@@ -1,0 +1,88 @@
+{
+    "description": "Tính đến tháng 06 năm 2021 - Huyện Đất Đỏ bao gồm 2 Thị trấn và 6 Xã",
+    "lastUpdatedAt": "2021-06-29T10:21:25.611825788+07:00",
+    "type": "district",
+    "name": "Đất Đỏ",
+    "wards": [
+        {
+            "index": 1,
+            "code": "",
+            "type": "ward",
+            "name": "TT. Đất Đỏ",
+            "slug": "tt. dat do",
+            "nameWithType": "Thị trấn Đất Đỏ",
+            "path": "TT. Đất Đỏ, Đất Đỏ, Tỉnh Bà Rịa - Vũng Tàu, Việt Nam",
+            "pathWithType": "Thị Trấn Đất Đỏ, Huyện Đất Đỏ, Tỉnh Bà Rịa - Vũng Tàu, Việt Nam"
+        },
+        {
+            "index": 2,
+            "code": "",
+            "type": "ward",
+            "name": "TT. Phước Hải",
+            "slug": "tt. phuoc hai",
+            "nameWithType": "Thị trấn Phước Hải",
+            "path": "TT. Phước Hải, Đất Đỏ, Tỉnh Bà Rịa - Vũng Tàu, Việt Nam",
+            "pathWithType": "Thị trấn Phước Hải, Huyện Đất Đỏ, Tỉnh Bà Rịa - Vũng Tàu, Việt Nam"
+        },
+        {
+            "index": 3,
+            "code": "",
+            "type": "ward",
+            "name": "Láng Dài",
+            "slug": "lang dai",
+            "nameWithType": "Xã Láng Dài",
+            "path": "Láng Dài, Đất Đỏ, Tỉnh Bà Rịa - Vũng Tàu, Việt Nam",
+            "pathWithType": "Xã Láng Dài, Huyện Đất Đỏ, Tỉnh Bà Rịa - Vũng Tàu, Việt Nam"
+        },
+        {
+            "index": 4,
+            "code": "",
+            "type": "ward",
+            "name": "Lộc An",
+            "slug": "loc an",
+            "nameWithType": "Xã Lộc An",
+            "path": "Lộc An, Đất Đỏ, Tỉnh Bà Rịa - Vũng Tàu, Việt Nam",
+            "pathWithType": "Xã Lộc An, Huyện Đất Đỏ, Tỉnh Bà Rịa - Vũng Tàu, Việt Nam"
+        },
+        {
+            "index": 5,
+            "code": "",
+            "type": "ward",
+            "name": "Long Mỹ",
+            "slug": "long mỹ",
+            "nameWithType": "Xã Long Mỹ",
+            "path": "Long Mỹ, Đất Đỏ, Tỉnh Bà Rịa - Vũng Tàu, Việt Nam",
+            "pathWithType": "Xã Long Mỹ, Huyện Đất Đỏ, Tỉnh Bà Rịa - Vũng Tàu, Việt Nam"
+        },
+        {
+            "index": 6,
+            "code": "",
+            "type": "ward",
+            "name": "Long Tân",
+            "slug": "long tan",
+            "nameWithType": "Xã Long Tân",
+            "path": "Long Tân, Đất Đỏ, Tỉnh Bà Rịa - Vũng Tàu, Việt Nam",
+            "pathWithType": "Xã Long Tân, Huyện Đất Đỏ, Tỉnh Bà Rịa - Vũng Tàu, Việt Nam"
+        },
+        {
+            "index": 7,
+            "code": "",
+            "type": "ward",
+            "name": "Phước Hội",
+            "slug": "phuoc hoi",
+            "nameWithType": "Xã Phước Hội",
+            "path": "Phước Hội, Đất Đỏ, Tỉnh Bà Rịa - Vũng Tàu, Việt Nam",
+            "pathWithType": "Xã Phước Hội, Huyện Đất Đỏ, Tỉnh Bà Rịa - Vũng Tàu, Việt Nam"
+        },
+        {
+            "index": 8,
+            "code": "",
+            "type": "ward",
+            "name": "Phước Long Thọ",
+            "slug": "phuoc long tho",
+            "nameWithType": "Xã Phước Long Thọ",
+            "path": "Phước Long Thọ, Đất Đỏ, Tỉnh Bà Rịa - Vũng Tàu, Việt Nam",
+            "pathWithType": "Xã Phước Long Thọ, Huyện Đất Đỏ, Tỉnh Bà Rịa - Vũng Tàu, Việt Nam"
+        }
+    ]
+}

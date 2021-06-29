@@ -1,0 +1,179 @@
+{
+    "description": "Tính đến tháng 06 năm 2021 - Tp. Vũng Tàu bao gồm 16 Phường và 1 Xã",
+    "lastUpdatedAt": "2021-06-29T10:21:25.61160588+07:00",
+    "type": "district",
+    "name": "Tp. Vũng Tàu",
+    "wards": [
+        {
+            "index": 1,
+            "code": "",
+            "type": "ward",
+            "name": "P.1",
+            "slug": "p.1",
+            "nameWithType": "Phường 1",
+            "path": "P.1, Tp. Vũng Tàu, Bà Rịa - Vũng Tàu, Việt Nam",
+            "pathWithType": "Phường 1, Thành Phố Vũng Tàu, Tỉnh Bà Rịa - Vũng Tàu, Việt Nam"
+        },
+        {
+            "index": 2,
+            "code": "",
+            "type": "ward",
+            "name": "P.2",
+            "slug": "p.2",
+            "nameWithType": "Phường 2",
+            "path": "P.2, Tp. Vũng Tàu, Bà Rịa - Vũng Tàu, Việt Nam",
+            "pathWithType": "Phường 2, Thành Phố Vũng Tàu, Tỉnh Bà Rịa - Vũng Tàu, Việt Nam"
+        },
+        {
+            "index": 3,
+            "code": "",
+            "type": "ward",
+            "name": "P.3",
+            "slug": "p.3",
+            "nameWithType": "Phường 3",
+            "path": "P.3, Tp. Vũng Tàu, Bà Rịa - Vũng Tàu, Việt Nam",
+            "pathWithType": "Phường 3, Thành Phố Vũng Tàu, Tỉnh Bà Rịa - Vũng Tàu, Việt Nam"
+        },
+        {
+            "index": 4,
+            "code": "",
+            "type": "ward",
+            "name": "P.4",
+            "slug": "p.4",
+            "nameWithType": "Phường 4",
+            "path": "P.4, Tp. Vũng Tàu, Bà Rịa - Vũng Tàu, Việt Nam",
+            "pathWithType": "Phường 4, Thành Phố Vũng Tàu, Tỉnh Bà Rịa - Vũng Tàu, Việt Nam"
+        },
+        {
+            "index": 5,
+            "code": "",
+            "type": "ward",
+            "name": "P.5",
+            "slug": "p.5",
+            "nameWithType": "Phường 5",
+            "path": "P.5, Tp. Vũng Tàu, Bà Rịa - Vũng Tàu, Việt Nam",
+            "pathWithType": "Phường 5, Thành Phố Vũng Tàu, Tỉnh Bà Rịa - Vũng Tàu, Việt Nam"
+        },
+        {
+            "index": 6,
+            "code": "",
+            "type": "ward",
+            "name": "P.7",
+            "slug": "p.7",
+            "nameWithType": "Phường 7",
+            "path": "P.7, Tp. Vũng Tàu, Bà Rịa - Vũng Tàu, Việt Nam",
+            "pathWithType": "Phường 7, Thành Phố Vũng Tàu, Tỉnh Bà Rịa - Vũng Tàu, Việt Nam"
+        },
+        {
+            "index": 7,
+            "code": "",
+            "type": "ward",
+            "name": "P.8",
+            "slug": "p.8",
+            "nameWithType": "Phường 8",
+            "path": "P.8, Tp. Vũng Tàu, Bà Rịa - Vũng Tàu, Việt Nam",
+            "pathWithType": "Phường 8, Thành Phố Vũng Tàu, Tỉnh Bà Rịa - Vũng Tàu, Việt Nam"
+        },
+        {
+            "index": 8,
+            "code": "",
+            "type": "ward",
+            "name": "P.9",
+            "slug": "p.9",
+            "nameWithType": "Phường 9",
+            "path": "P.9, Tp. Vũng Tàu, Bà Rịa - Vũng Tàu, Việt Nam",
+            "pathWithType": "Phường 9, Thành Phố Vũng Tàu, Tỉnh Bà Rịa - Vũng Tàu, Việt Nam"
+        },
+        {
+            "index": 9,
+            "code": "",
+            "type": "ward",
+            "name": "P.10",
+            "slug": "p.10",
+            "nameWithType": "Phường 10",
+            "path": "P.10, Tp. Vũng Tàu, Bà Rịa - Vũng Tàu, Việt Nam",
+            "pathWithType": "Phường 10, Thành Phố Vũng Tàu, Tỉnh Bà Rịa - Vũng Tàu, Việt Nam"
+        },
+
+        {
+            "index": 10,
+            "code": "",
+            "type": "ward",
+            "name": "P.11",
+            "slug": "p.11",
+            "nameWithType": "Phường 11",
+            "path": "P.11, Tp. Vũng Tàu, Bà Rịa - Vũng Tàu, Việt Nam",
+            "pathWithType": "Phường 11, Thành Phố Vũng Tàu, Tỉnh Bà Rịa - Vũng Tàu, Việt Nam"
+        },
+        {
+            "index": 11,
+            "code": "",
+            "type": "ward",
+            "name": "P.12",
+            "slug": "p.12",
+            "nameWithType": "Phường 12",
+            "path": "P.12, Tp. Vũng Tàu, Bà Rịa - Vũng Tàu, Việt Nam",
+            "pathWithType": "Phường 12, Thành Phố Vũng Tàu, Tỉnh Bà Rịa - Vũng Tàu, Việt Nam"
+        },
+        {
+            "index": 12,
+            "code": "",
+            "type": "ward",
+            "name": "Thắng Nhất",
+            "slug": "thang nhat",
+            "nameWithType": "Phường Thắng Nhất",
+            "path": "Thắng Nhất, Tp. Vũng Tàu, Bà Rịa - Vũng Tàu, Việt Nam",
+            "pathWithType": "Phường Thắng Nhất, Thành Phố Vũng Tàu, Tỉnh Bà Rịa - Vũng Tàu, Việt Nam"
+        },
+        {
+            "index": 13,
+            "code": "",
+            "type": "ward",
+            "name": "Thắng Nhì",
+            "slug": "thang nhi",
+            "nameWithType": "Phường Thắng Nhì",
+            "path": "Thắng Nhì, Tp. Vũng Tàu, Bà Rịa - Vũng Tàu, Việt Nam",
+            "pathWithType": "Phường Thắng Nhì, Thành Phố Vũng Tàu, Tỉnh Bà Rịa - Vũng Tàu, Việt Nam"
+        },
+        {
+            "index": 14,
+            "code": "",
+            "type": "ward",
+            "name": "Thắng Tam",
+            "slug": "thang tam",
+            "nameWithType": "Phường Thắng Tam",
+            "path": "Thắng Tam, Tp. Vũng Tàu, Bà Rịa - Vũng Tàu, Việt Nam",
+            "pathWithType": "Phường Thắng Tam, Thành Phố Vũng Tàu, Tỉnh Bà Rịa - Vũng Tàu, Việt Nam"
+        },
+        {
+            "index": 15,
+            "code": "",
+            "type": "ward",
+            "name": "Nguyễn An Ninh",
+            "slug": "nguyen an ninh",
+            "nameWithType": "Phường Nguyễn An Ninh",
+            "path": "Nguyễn An Ninh, Tp. Vũng Tàu, Bà Rịa - Vũng Tàu, Việt Nam",
+            "pathWithType": "Phường Nguyễn An Ninh, Thành Phố Vũng Tàu, Tỉnh Bà Rịa - Vũng Tàu, Việt Nam"
+        },
+        {
+            "index": 16,
+            "code": "",
+            "type": "ward",
+            "name": "Rạch Dừa",
+            "slug": "rach dua",
+            "nameWithType": "Phường Rạch Dừa",
+            "path": "Rạch Dừa, Tp. Vũng Tàu, Bà Rịa - Vũng Tàu, Việt Nam",
+            "pathWithType": "Phường Rạch Dừa, Thành Phố Vũng Tàu, Tỉnh Bà Rịa - Vũng Tàu, Việt Nam"
+        },
+        {
+            "index": 17,
+            "code": "",
+            "type": "ward",
+            "name": "Long Sơn",
+            "slug": "long son",
+            "nameWithType": "Xã Long Sơn",
+            "path": "Long Sơn, Tp. Vũng Tàu, Bà Rịa - Vũng Tàu, Việt Nam",
+            "pathWithType": "Xã Long Sơn, Thành Phố Vũng Tàu, Tỉnh Bà Rịa - Vũng Tàu, Việt Nam"
+        }
+    ]
+}

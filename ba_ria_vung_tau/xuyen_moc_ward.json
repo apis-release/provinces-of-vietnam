@@ -1,0 +1,138 @@
+{
+    "description": "Tính đến tháng 06 năm 2021 - Huyện Xuyên Mộc bao gồm 1 Thị trấn và 12 Xã",
+    "lastUpdatedAt": "2021-06-29T10:21:25.61191614+07:00",
+    "type": "district",
+    "name": "Xuyên Mộc",
+    "wards": [
+        {
+            "index": 1,
+            "code": "",
+            "type": "ward",
+            "name": "TT. Phước Bửu",
+            "slug": "tt. phuoc buu",
+            "nameWithType": "Thị trấn Phước Bửu",
+            "path": "TT. Phước Bửu, Xuyên Mộc, Tỉnh Bà Rịa - Vũng Tàu, Việt Nam",
+            "pathWithType": "Thị trấn Phước Bửu, Huyện Xuyên Mộc, Tỉnh Bà Rịa - Vũng Tàu, Việt Nam"
+        },
+        {
+            "index": 2,
+            "code": "",
+            "type": "ward",
+            "name": "Bàu Lâm",
+            "slug": "bau lam",
+            "nameWithType": "Xã Bàu Lâm",
+            "path": "Bàu Lâm, Xuyên Mộc, Tỉnh Bà Rịa - Vũng Tàu, Việt Nam",
+            "pathWithType": "Xã Bàu Lâm, Huyện Xuyên Mộc, Tỉnh Bà Rịa - Vũng Tàu, Việt Nam"
+        },
+        {
+            "index": 3,
+            "code": "",
+            "type": "ward",
+            "name": "Bình Châu",
+            "slug": "binh chau",
+            "nameWithType": "Xã Bình Châu",
+            "path": "Bình Châu, Xuyên Mộc, Tỉnh Bà Rịa - Vũng Tàu, Việt Nam",
+            "pathWithType": "Xã Bình Châu, Huyện Xuyên Mộc, Tỉnh Bà Rịa - Vũng Tàu, Việt Nam"
+        },
+        {
+            "index": 4,
+            "code": "",
+            "type": "ward",
+            "name": "Bông Trang",
+            "slug": "bong trang",
+            "nameWithType": "Xã Bông Trang",
+            "path": "Bông Trang, Xuyên Mộc, Tỉnh Bà Rịa - Vũng Tàu, Việt Nam",
+            "pathWithType": "Xã Bông Trang, Huyện Xuyên Mộc, Tỉnh Bà Rịa - Vũng Tàu, Việt Nam"
+        },
+        {
+            "index": 5,
+            "code": "",
+            "type": "ward",
+            "name": "Bưng Riềng",
+            "slug": "bung rieng",
+            "nameWithType": "Xã Bưng Riềng",
+            "path": "Bưng Riềng, Xuyên Mộc, Tỉnh Bà Rịa - Vũng Tàu, Việt Nam",
+            "pathWithType": "Xã Bưng Riềng, Huyện Xuyên Mộc, Tỉnh Bà Rịa - Vũng Tàu, Việt Nam"
+        },
+        {
+            "index": 6,
+            "code": "",
+            "type": "ward",
+            "name": "Hòa Bình",
+            "slug": "hoa binh",
+            "nameWithType": "Xã Hòa Bình",
+            "path": "Hòa Bình, Xuyên Mộc, Tỉnh Bà Rịa - Vũng Tàu, Việt Nam",
+            "pathWithType": "Xã Hòa Bình, Huyện Xuyên Mộc, Tỉnh Bà Rịa - Vũng Tàu, Việt Nam"
+        },
+        {
+            "index": 7,
+            "code": "",
+            "type": "ward",
+            "name": "Hòa Hiệp",
+            "slug": "hoa hiep",
+            "nameWithType": "Xã Hòa Hiệp",
+            "path": "Hòa Hiệp, Xuyên Mộc, Tỉnh Bà Rịa - Vũng Tàu, Việt Nam",
+            "pathWithType": "Xã Hòa Hiệp, Huyện Xuyên Mộc, Tỉnh Bà Rịa - Vũng Tàu, Việt Nam"
+        },
+        {
+            "index": 8,
+            "code": "",
+            "type": "ward",
+            "name": "Hòa Hội",
+            "slug": "hoa hoi",
+            "nameWithType": "Xã Hòa Hội",
+            "path": "Hòa Hội, Xuyên Mộc, Tỉnh Bà Rịa - Vũng Tàu, Việt Nam",
+            "pathWithType": "Xã Hòa Hội, Huyện Xuyên Mộc, Tỉnh Bà Rịa - Vũng Tàu, Việt Nam"
+        },
+        {
+            "index": 9,
+            "code": "",
+            "type": "ward",
+            "name": "Hòa Hưng",
+            "slug": "hoa hung",
+            "nameWithType": "Xã Hòa Hưng",
+            "path": "Hòa Hưng, Xuyên Mộc, Tỉnh Bà Rịa - Vũng Tàu, Việt Nam",
+            "pathWithType": "Xã Hòa Hưng, Huyện Xuyên Mộc, Tỉnh Bà Rịa - Vũng Tàu, Việt Nam"
+        },
+        {
+            "index": 10,
+            "code": "",
+            "type": "ward",
+            "name": "Phước Tân",
+            "slug": "phuoc tan",
+            "nameWithType": "Xã Phước Tân",
+            "path": "Phước Tân, Xuyên Mộc, Tỉnh Bà Rịa - Vũng Tàu, Việt Nam",
+            "pathWithType": "Xã Phước Tân, Huyện Xuyên Mộc, Tỉnh Bà Rịa - Vũng Tàu, Việt Nam"
+        },
+        {
+            "index": 11,
+            "code": "",
+            "type": "ward",
+            "name": "Tân Lâm",
+            "slug": "tan lam",
+            "nameWithType": "Xã Tân Lâm",
+            "path": "Tân Lâm, Xuyên Mộc, Tỉnh Bà Rịa - Vũng Tàu, Việt Nam",
+            "pathWithType": "Xã Tân Lâm, Huyện Xuyên Mộc, Tỉnh Bà Rịa - Vũng Tàu, Việt Nam"
+        },
+        {
+            "index": 12,
+            "code": "",
+            "type": "ward",
+            "name": "Phước Thuận",
+            "slug": "phuoc thuan",
+            "nameWithType": "Xã Phước Thuân",
+            "path": "Phước Thuận, Xuyên Mộc, Tỉnh Bà Rịa - Vũng Tàu, Việt Nam",
+            "pathWithType": "Xã Phước Thuận, Huyện Xuyên Mộc, Tỉnh Bà Rịa - Vũng Tàu, Việt Nam"
+        },
+        {
+            "index": 13,
+            "code": "",
+            "type": "ward",
+            "name": "Xuyên Mộc",
+            "slug": "xuyen moc",
+            "nameWithType": "Xã Xuyên Mộc",
+            "path": "Xuyên Mộc, Xuyên Mộc, Tỉnh Bà Rịa - Vũng Tàu, Việt Nam",
+            "pathWithType": "Xã Xuyên Mộc, Huyện Xuyên Mộc, Tỉnh Bà Rịa - Vũng Tàu, Việt Nam"
+        }
+    ]
+}

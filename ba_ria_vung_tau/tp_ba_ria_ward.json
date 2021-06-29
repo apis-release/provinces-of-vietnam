@@ -1,0 +1,118 @@
+{
+    "description": "Tính đến tháng 06 năm 2021 - Tp. Bà Rịa bao gồm 8 Phường và 3 Xã",
+    "lastUpdatedAt": "2021-06-29T10:21:25.611463607+07:00",
+    "type": "district",
+    "name": "Tp. Bà Rịa",
+    "wards": [
+        {
+            "index": 1,
+            "code": "",
+            "type": "ward",
+            "name": "Kim Dinh",
+            "slug": "kim dinh",
+            "nameWithType": "Phường Kim Dinh",
+            "path": "Kim Dinh, Tp. Bà Rịa, Bà Rịa - Vũng Tàu, Việt Nam",
+            "pathWithType": "Phường Kim Dinh, Thành Phố Bà Rịa, Tỉnh Bà Rịa - Vũng Tàu, Việt Nam"
+        },
+        {
+            "index": 2,
+            "code": "",
+            "type": "ward",
+            "name": "Long Hương",
+            "slug": "long huong",
+            "nameWithType": "Phường Long Hương",
+            "path": "Long Hương, Tp. Bà Rịa, Bà Rịa - Vũng Tàu, Việt Nam",
+            "pathWithType": "Phường Long Hương, Thành Phố Bà Rịa, Tỉnh Bà Rịa - Vũng Tàu, Việt Nam"
+        },
+        {
+            "index": 3,
+            "code": "",
+            "type": "ward",
+            "name": "Long Tâm",
+            "slug": "long tam",
+            "nameWithType": "Phường Long Tâm",
+            "path": "Long Tâm, Tp. Bà Rịa, Bà Rịa - Vũng Tàu, Việt Nam",
+            "pathWithType": "Phường Long Tâm, Thành Phố Bà Rịa, Tỉnh Bà Rịa - Vũng Tàu, Việt Nam"
+        },
+        {
+            "index": 4,
+            "code": "",
+            "type": "ward",
+            "name": "Long Toàn",
+            "slug": "long toan",
+            "nameWithType": "Phường Long Toàn",
+            "path": "Long Toàn, Tp. Bà Rịa, Bà Rịa - Vũng Tàu, Việt Nam",
+            "pathWithType": "Phường Long Toàn, Thành Phố Bà Rịa, Tỉnh Bà Rịa - Vũng Tàu, Việt Nam"
+        },
+        {
+            "index": 5,
+            "code": "",
+            "type": "ward",
+            "name": "Phước Hiệp",
+            "slug": "phuoc hiep",
+            "nameWithType": "Phường Phước Hiệp",
+            "path": "Phước Hiệp, Tp. Bà Rịa, Bà Rịa - Vũng Tàu, Việt Nam",
+            "pathWithType": "Phường Phước Hiệp, Thành Phố Bà Rịa, Tỉnh Bà Rịa - Vũng Tàu, Việt Nam"
+        },
+        {
+            "index": 6,
+            "code": "",
+            "type": "ward",
+            "name": "Phước Hưng",
+            "slug": "phuoc hung",
+            "nameWithType": "Phường Phước Hưng",
+            "path": "Phước Hưng, Tp. Bà Rịa, Bà Rịa - Vũng Tàu, Việt Nam",
+            "pathWithType": "Phường Phước Hưng, Thành Phố Bà Rịa, Tỉnh Bà Rịa - Vũng Tàu, Việt Nam"
+        },
+        {
+            "index": 7,
+            "code": "",
+            "type": "ward",
+            "name": "Phước Nguyên",
+            "slug": "phuoc nguyen",
+            "nameWithType": "Phường Phước Nguyên",
+            "path": "Phước Nguyên, Tp. Bà Rịa, Bà Rịa - Vũng Tàu, Việt Nam",
+            "pathWithType": "Phường Phước Nguyên, Thành Phố Bà Rịa, Tỉnh Bà Rịa - Vũng Tàu, Việt Nam"
+        },
+        {
+            "index": 8,
+            "code": "",
+            "type": "ward",
+            "name": "Phước Trung",
+            "slug": "phuoc trung",
+            "nameWithType": "Phường Phước Trung",
+            "path": "Phước Trung, Tp. Bà Rịa, Bà Rịa - Vũng Tàu, Việt Nam",
+            "pathWithType": "Phường Phước Trung, Thành Phố Bà Rịa, Tỉnh Bà Rịa - Vũng Tàu, Việt Nam"
+        },
+        {
+            "index": 9,
+            "code": "",
+            "type": "ward",
+            "name": "Hòa Long",
+            "slug": "hoa long",
+            "nameWithType": "Xã Hòa Long",
+            "path": "Hòa Long, Tp. Bà Rịa, Bà Rịa - Vũng Tàu, Việt Nam",
+            "pathWithType": "Xã Hòa Long, Thành Phố Bà Rịa, Tỉnh Bà Rịa - Vũng Tàu, Việt Nam"
+        },
+        {
+            "index": 10,
+            "code": "",
+            "type": "ward",
+            "name": "Long Phước",
+            "slug": "long phuoc",
+            "nameWithType": "Xã Long Phước",
+            "path": "Long Phước, Tp. Bà Rịa, Bà Rịa - Vũng Tàu, Việt Nam",
+            "pathWithType": "Xã Long Phước, Thành Phố Bà Rịa, Tỉnh Bà Rịa - Vũng Tàu, Việt Nam"
+        },
+        {
+            "index": 11,
+            "code": "",
+            "type": "ward",
+            "name": "Tân Hưng",
+            "slug": "tan hung",
+            "nameWithType": "Xã Tân Hưng",
+            "path": "Tân HƯng, Tp. Bà Rịa, Bà Rịa - Vũng Tàu, Việt Nam",
+            "pathWithType": "Xã Tân Hưng, Thành Phố Bà Rịa, Tỉnh Bà Rịa - Vũng Tàu, Việt Nam"
+        }
+    ]
+}

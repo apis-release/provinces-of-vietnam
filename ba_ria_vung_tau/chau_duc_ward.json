@@ -1,0 +1,168 @@
+{
+    "description": "Tính đến tháng 06 năm 2021 - Huyện Châu Đức bao gồm 1 Thị trấn và 15 Xã",
+    "lastUpdatedAt": "2021-06-29T10:21:25.6117353+07:00",
+    "type": "district",
+    "name": "Châu Đức",
+    "wards": [
+        {
+            "index": 1,
+            "code": "",
+            "type": "ward",
+            "name": "TT. Ngãi Giao",
+            "slug": "tt. ngai giao",
+            "nameWithType": "Thị trấn Ngãi Giao",
+            "path": "TT. Ngãi Giao, Châu Dức, Bà Rịa - Vũng Tàu, Việt Nam",
+            "pathWithType": "Thị trấn Ngãi Giao, Huyện Châu Đức, Tỉnh Bà Rịa - Vũng Tàu, Việt Nam"
+        },
+        {
+            "index": 2,
+            "code": "",
+            "type": "ward",
+            "name": "Bàu Chinh",
+            "slug": "bau chinh",
+            "nameWithType": "Xã Bàu Chinh",
+            "path": "Bàu Chinh, Châu Dức, Bà Rịa - Vũng Tàu, Việt Nam",
+            "pathWithType": "Xã Bàu Chinh, Huyện Châu Đức, Tỉnh Bà Rịa - Vũng Tàu, Việt Nam"
+        },
+        {
+            "index": 3,
+            "code": "",
+            "type": "ward",
+            "name": "Bình Ba",
+            "slug": "binh ba",
+            "nameWithType": "Xã Bình Ba",
+            "path": "Bình Ba, Châu Dức, Bà Rịa - Vũng Tàu, Việt Nam",
+            "pathWithType": "Xã Bình Ba, Huyện Châu Đức, Tỉnh Bà Rịa - Vũng Tàu, Việt Nam"
+        },
+        {
+            "index": 4,
+            "code": "",
+            "type": "ward",
+            "name": "Bình Giã",
+            "slug": "binh gia",
+            "nameWithType": "Xã Bình Giã",
+            "path": "Bình Giã, Châu Dức, Bà Rịa - Vũng Tàu, Việt Nam",
+            "pathWithType": "Xã Bình Giã, Huyện Châu Đức, Tỉnh Bà Rịa - Vũng Tàu, Việt Nam"
+        },
+        {
+            "index": 5,
+            "code": "",
+            "type": "ward",
+            "name": "Bình Trung",
+            "slug": "binh trung",
+            "nameWithType": "Xã Bình Trung",
+            "path": "Bình Trung, Châu Dức, Bà Rịa - Vũng Tàu, Việt Nam",
+            "pathWithType": "Xã Bình Trung, Huyện Châu Đức, Tỉnh Bà Rịa - Vũng Tàu, Việt Nam"
+        },
+        {
+            "index": 6,
+            "code": "",
+            "type": "ward",
+            "name": "Cù Bị",
+            "slug": "cu bi",
+            "nameWithType": "Xã Cù Bị",
+            "path": "Cù Bị, Châu Dức, Bà Rịa - Vũng Tàu, Việt Nam",
+            "pathWithType": "Xã Cù Bị, Huyện Châu Đức, Tỉnh Bà Rịa - Vũng Tàu, Việt Nam"
+        },
+        {
+            "index": 7,
+            "code": "",
+            "type": "ward",
+            "name": "Đá Bạc",
+            "slug": "da bac",
+            "nameWithType": "Xã Đá Bạc",
+            "path": "Đá Bạc, Châu Dức, Bà Rịa - Vũng Tàu, Việt Nam",
+            "pathWithType": "Xã Đá Bạc, Huyện Châu Đức, Tỉnh Bà Rịa - Vũng Tàu, Việt Nam"
+        },
+        {
+            "index": 8,
+            "code": "",
+            "type": "ward",
+            "name": "Kim Long",
+            "slug": "kim long",
+            "nameWithType": "Xã Kim Long",
+            "path": "Kim Long, Châu Dức, Bà Rịa - Vũng Tàu, Việt Nam",
+            "pathWithType": "Xã Kim Long, Huyện Châu Đức, Tỉnh Bà Rịa - Vũng Tàu, Việt Nam"
+        },
+        {
+            "index": 9,
+            "code": "",
+            "type": "ward",
+            "name": "Láng Lớn",
+            "slug": "lang lon",
+            "nameWithType": "Xã Láng Lớn",
+            "path": "Láng Lớn, Châu Dức, Bà Rịa - Vũng Tàu, Việt Nam",
+            "pathWithType": "Xã Láng Lớn, Huyện Châu Đức, Tỉnh Bà Rịa - Vũng Tàu, Việt Nam"
+        },
+        {
+            "index": 10,
+            "code": "",
+            "type": "ward",
+            "name": "Nghĩa Thành",
+            "slug": "nghia thanh",
+            "nameWithType": "Xã Nghĩa Thành",
+            "path": "Nghĩa Thành, Châu Dức, Bà Rịa - Vũng Tàu, Việt Nam",
+            "pathWithType": "Xã Nghĩa Thành, Huyện Châu Đức, Tỉnh Bà Rịa - Vũng Tàu, Việt Nam"
+        },
+        {
+            "index": 11,
+            "code": "",
+            "type": "ward",
+            "name": "Quảng Thành",
+            "slug": "quang thanh",
+            "nameWithType": "Xã Quảng Thành",
+            "path": "Quảng Thành, Châu Dức, Bà Rịa - Vũng Tàu, Việt Nam",
+            "pathWithType": "Xã Quảng Thành, Huyện Châu Đức, Tỉnh Bà Rịa - Vũng Tàu, Việt Nam"
+        },
+        {
+            "index": 12,
+            "code": "",
+            "type": "ward",
+            "name": "Sơn Bình",
+            "slug": "son binh",
+            "nameWithType": "Xã Sơn Bình",
+            "path": "Sơn Bình, Châu Dức, Bà Rịa - Vũng Tàu, Việt Nam",
+            "pathWithType": "Xã Sơn Bình, Huyện Châu Đức, Tỉnh Bà Rịa - Vũng Tàu, Việt Nam"
+        },
+        {
+            "index": 13,
+            "code": "",
+            "type": "ward",
+            "name": "Suối Nghệ",
+            "slug": "suoi nghe",
+            "nameWithType": "Xã Suối Nghệ",
+            "path": "Suối Nghệ, Châu Dức, Bà Rịa - Vũng Tàu, Việt Nam",
+            "pathWithType": "Xã Suối Nghệ, Huyện Châu Đức, Tỉnh Bà Rịa - Vũng Tàu, Việt Nam"
+        },
+        {
+            "index": 14,
+            "code": "",
+            "type": "ward",
+            "name": "Suối Rao",
+            "slug": "suoi rao",
+            "nameWithType": "Xã Suối Rao",
+            "path": "Suối Rao, Châu Dức, Bà Rịa - Vũng Tàu, Việt Nam",
+            "pathWithType": "Xã Suối Rao, Huyện Châu Đức, Tỉnh Bà Rịa - Vũng Tàu, Việt Nam"
+        },
+        {
+            "index": 15,
+            "code": "",
+            "type": "ward",
+            "name": "Xà Bang",
+            "slug": "xa bang",
+            "nameWithType": "Xã Xà Bang",
+            "path": "Xà Bang, Châu Dức, Bà Rịa - Vũng Tàu, Việt Nam",
+            "pathWithType": "Xã Xà Bang, Huyện Châu Đức, Tỉnh Bà Rịa - Vũng Tàu, Việt Nam"
+        },
+        {
+            "index": 16,
+            "code": "",
+            "type": "ward",
+            "name": "Xuân Sơn",
+            "slug": "xuan son",
+            "nameWithType": "Xã Xuân Sơn",
+            "path": "Xuân Sơn, Châu Dức, Bà Rịa - Vũng Tàu, Việt Nam",
+            "pathWithType": "Xã Xuân Sơn, Huyện Châu Đức, Tỉnh Bà Rịa - Vũng Tàu, Việt Nam"
+        }
+    ]
+}

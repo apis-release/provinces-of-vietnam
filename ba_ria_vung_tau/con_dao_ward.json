@@ -1,0 +1,18 @@
+{
+    "description": "Tính đến tháng 06 năm 2021 - Huyện Côn Đảo không phân chia đơn vị hành chính cấp xã, Côn đảo là một huyện đảo nhỏ thường được gọi là Thị trấn Côn đảo",
+    "lastUpdatedAt": "2021-06-29T10:21:25.6117961+07:00",
+    "type": "district",
+    "name": "Côn Đảo",
+    "wards": [
+        {
+            "index": 1,
+            "code": "",
+            "type": "ward",
+            "name": "TT. Côn Đảo",
+            "slug": "tt. con dao",
+            "nameWithType": "Thị trấn Côn Đảo",
+            "path": "TT. Côn Đảo, Côn Đảo, Bà Rịa - Vũng Tàu, Việt Nam",
+            "pathWithType": "Thị trấn Côn Đảo, Huyện Côn Đảo, Tỉnh Bà Rịa - Vũng Tàu, Việt Nam"
+        }
+    ]
+}
