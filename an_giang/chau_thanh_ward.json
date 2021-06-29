@@ -1,0 +1,138 @@
+{
+    "description": "Tính đến tháng 06 năm 2021 - Huyện Châu Thành bao gồm 2 Thị trấn và 11 Xã",
+    "lastUpdatedAt": "2021-06-29T09:57:51.159787234+07:00",
+    "type": "district",
+    "name": "Châu Thành",
+    "wards": [
+        {
+            "index": 1,
+            "code": "",
+            "type": "ward",
+            "name": "TT. An Châu",
+            "slug": "tt. an chau",
+            "nameWithType": "Thị trấn An Châu",
+            "path": "TT. An Châu, Châu Thành, An Giang, Việt Nam",
+            "pathWithType": "Thị trấn An Châu, Huyện Châu Thành, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 2,
+            "code": "",
+            "type": "ward",
+            "name": "TT. Vĩnh Bình",
+            "slug": "tt. vinh binh",
+            "nameWithType": "Thị trấn Vĩnh Bình",
+            "path": "TT. Vĩnh Bình, Châu Thành, An Giang, Việt Nam",
+            "pathWithType": "Thị trấn Vĩnh Bình, Huyện Châu Thành, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 3,
+            "code": "",
+            "type": "ward",
+            "name": "An Hòa",
+            "slug": "an hoa",
+            "nameWithType": "Xã An Hòa",
+            "path": "An Hòa, Châu Thành, An Giang, Việt Nam",
+            "pathWithType": "Xã An Hòa, Huyện Châu Thành, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 4,
+            "code": "",
+            "type": "ward",
+            "name": "Bình Hòa",
+            "slug": "binh hoa",
+            "nameWithType": "Xã Bình Hòa",
+            "path": "Bình Hòa, Châu Thành, An Giang, Việt Nam",
+            "pathWithType": "Xã Bình Hòa, Huyện Châu Thành, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 5,
+            "code": "",
+            "type": "ward",
+            "name": "Bình Thạnh",
+            "slug": "binh thanh",
+            "nameWithType": "Xã Bình Thạnh",
+            "path": "Bình Thạnh, Châu Thành, An Giang, Việt Nam",
+            "pathWithType": "Xã Bình Thạnh, Huyện Châu Thành, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 6,
+            "code": "",
+            "type": "ward",
+            "name": "Cần Đăng",
+            "slug": "can dang",
+            "nameWithType": "Xã Cần Đăng",
+            "path": "Cần Đăng, Châu Thành, An Giang, Việt Nam",
+            "pathWithType": "Xã Cần Đăng, Huyện Châu Thành, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 7,
+            "code": "",
+            "type": "ward",
+            "name": "Hòa Bình Thạnh",
+            "slug": "hoa binh thanh",
+            "nameWithType": "Xã Hòa Bình Thạnh",
+            "path": "Hòa Bình Thạnh, Châu Thành, An Giang, Việt Nam",
+            "pathWithType": "Xã Hòa Bình Thạnh, Huyện Châu Thành, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 8,
+            "code": "",
+            "type": "ward",
+            "name": "Tân Phú",
+            "slug": "tan phu",
+            "nameWithType": "Xã Tân Phú",
+            "path": "Tân Phú, Châu Thành, An Giang, Việt Nam",
+            "pathWithType": "Xã Tân Phú, Huyện Châu Thành, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 9,
+            "code": "",
+            "type": "ward",
+            "name": "Vĩnh An",
+            "slug": "vinh an",
+            "nameWithType": "Xã Vĩnh An",
+            "path": "Vĩnh An, Châu Thành, An Giang, Việt Nam",
+            "pathWithType": "Xã Vĩnh An, Huyện Châu Thành, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 10,
+            "code": "",
+            "type": "ward",
+            "name": "Vĩnh Hanh",
+            "slug": "vinh hanh",
+            "nameWithType": "Xã Vĩnh Hanh",
+            "path": "Vĩnh Hanh, Châu Thành, An Giang, Việt Nam",
+            "pathWithType": "Xã Vĩnh Hanh, Huyện Châu Thành, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 11,
+            "code": "",
+            "type": "ward",
+            "name": "Vĩnh Lợi",
+            "slug": "vinh loi",
+            "nameWithType": "Xã Vĩnh Lợi",
+            "path": "Vĩnh Lợi, Châu Thành, An Giang, Việt Nam",
+            "pathWithType": "Xã Vĩnh Lợi, Huyện Châu Thành, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 12,
+            "code": "",
+            "type": "ward",
+            "name": "Vĩnh Nhuận",
+            "slug": "vinh nhuan",
+            "nameWithType": "Xã Vĩnh Nhuận",
+            "path": "Vĩnh Nhuận, Châu Thành, An Giang, Việt Nam",
+            "pathWithType": "Xã Vĩnh Nhuận, Huyện Châu Thành, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 13,
+            "code": "",
+            "type": "ward",
+            "name": "Vĩnh Thành",
+            "slug": "vinh thanh",
+            "nameWithType": "Xã Vĩnh Thành",
+            "path": "Vĩnh Thành, Châu Thành, An Giang, Việt Nam",
+            "pathWithType": "Xã Vĩnh Thành, Huyện Châu Thành, Tỉnh An Giang, Việt Nam"
+        }
+    ]
+}

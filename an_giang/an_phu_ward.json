@@ -1,0 +1,148 @@
+{
+    "description": "Tính đến tháng 06 năm 2021 - Huyện An Phú bao gồm 2 Thị trấn và 12 Xã",
+    "lastUpdatedAt": "2021-06-29T09:57:51.159712686+07:00",
+    "type": "district",
+    "name": "An Phú",
+    "wards": [
+        {
+            "index": 1,
+            "code": "",
+            "type": "ward",
+            "name": "TT. An Phú",
+            "slug": "tt. an phu",
+            "nameWithType": "Thị trấn An Phú",
+            "path": "TT. An Phú, An Phú, An Giang, Việt Nam",
+            "pathWithType": "Thị Trấn An Phú, Huyện An Phú, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 2,
+            "code": "",
+            "type": "ward",
+            "name": "TT. Long BÌnh",
+            "slug": "tt. long binh",
+            "nameWithType": "Thị trấn Long Bình",
+            "path": "TT. Long Bình, An Phú, An Giang, Việt Nam",
+            "pathWithType": "Thị trấn Long BÌnh, Huyện An Phú, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 3,
+            "code": "",
+            "type": "ward",
+            "name": "Đa Phước",
+            "slug": "da phuoc",
+            "nameWithType": "Xã Đa Phước",
+            "path": "Đa Phước, An Phú, An Giang, Việt Nam",
+            "pathWithType": "Xã Đa Phước, Huyện An Phú, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 4,
+            "code": "",
+            "type": "ward",
+            "name": "Khánh An",
+            "slug": "khanh an",
+            "nameWithType": "Xã Khánh An",
+            "path": "Khánh An, An Phú, An Giang, Việt Nam",
+            "pathWithType": "Xã Khánh An, Huyện An Phú, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 5,
+            "code": "",
+            "type": "ward",
+            "name": "Khánh Bình",
+            "slug": "khanh binh",
+            "nameWithType": "Xã Khánh Bình",
+            "path": "Khánh Bình, An Phú, An Giang, Việt Nam",
+            "pathWithType": "Xã Khánh Bình, Huyện An Phú, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 6,
+            "code": "",
+            "type": "ward",
+            "name": "Nhơn Hội",
+            "slug": "nhon hoi",
+            "nameWithType": "Xã Nhơn Hội",
+            "path": "Nhơn Hội, An Phú, An Giang, Việt Nam",
+            "pathWithType": "Xã Nhơn Hội, Huyện An Phú, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 7,
+            "code": "",
+            "type": "ward",
+            "name": "Phú Hội",
+            "slug": "phu hoi",
+            "nameWithType": "Xã Phú Hội",
+            "path": "Phú Hội, An Phú, An Giang, Việt Nam",
+            "pathWithType": "Xã Phú Hội, Huyện An Phú, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 8,
+            "code": "",
+            "type": "ward",
+            "name": "Phú Hữu",
+            "slug": "phu huu",
+            "nameWithType": "Xã Phú Hữu",
+            "path": "Phú Hữu, An Phú, An Giang, Việt Nam",
+            "pathWithType": "Xã Phú Hữu, Huyện An Phú, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 9,
+            "code": "",
+            "type": "ward",
+            "name": "Phước Hưng",
+            "slug": "phuoc hung",
+            "nameWithType": "Xã Phước Hưng",
+            "path": "Phước Hưng, An Phú, An Giang, Việt Nam",
+            "pathWithType": "Xã Phước Hưng, Huyện An Phú, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 10,
+            "code": "",
+            "type": "ward",
+            "name": "Quốc Thái",
+            "slug": "quoc thai",
+            "nameWithType": "Xã Quốc Thái",
+            "path": "Quốc Thái, An Phú, An Giang, Việt Nam",
+            "pathWithType": "Xã Quốc Thái, Huyện An Phú, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 11,
+            "code": "",
+            "type": "ward",
+            "name": "Vĩnh Hậu",
+            "slug": "vinh hau",
+            "nameWithType": "Xã Vĩnh Hậu",
+            "path": "VĨnh Hậu, An Phú, An Giang, Việt Nam",
+            "pathWithType": "Xã Vĩnh Hậu, Huyện An Phú, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 12,
+            "code": "",
+            "type": "ward",
+            "name": "Vĩnh Hội Đông",
+            "slug": "vinh hoi dong",
+            "nameWithType": "Xã Vĩnh Hội Đông",
+            "path": "Vĩnh Hội Đông, An Phú, An Giang, Việt Nam",
+            "pathWithType": "Xã Vĩnh Hội Đông, Huyện An Phú, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 13,
+            "code": "",
+            "type": "ward",
+            "name": "Vĩnh Lộc",
+            "slug": "vinh loc",
+            "nameWithType": "Xã Vĩnh Lộc",
+            "path": "Vĩnh Lộc, An Phú, An Giang, Việt Nam",
+            "pathWithType": "Xã Vĩnh Lộc, Huyện An Phú, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 14,
+            "code": "",
+            "type": "ward",
+            "name": "Vĩnh Trường",
+            "slug": "vinh truong",
+            "nameWithType": "Xã Vĩnh Trường",
+            "path": "Vĩnh Trường, An Phú, An Giang, Việt Nam",
+            "pathWithType": "Xã Vĩnh Trường, Huyện An Phú, Tỉnh An Giang, Việt Nam"
+        }
+    ]
+}

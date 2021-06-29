@@ -1,0 +1,148 @@
+{
+    "description": "Tính đến tháng 06 năm 2021 - Tx. Tân Châu bao gồm 5 Phường và 9 Xã",
+    "lastUpdatedAt": "2021-06-29T09:57:51.159674509+07:00",
+    "type": "district",
+    "name": "Tx. Tân Châu",
+    "wards": [
+        {
+            "index": 1,
+            "code": "",
+            "type": "ward",
+            "name": "Long Châu",
+            "slug": "long chau",
+            "nameWithType": "Phường Long Châu",
+            "path": "Long Châu, Tx. Tân Châu, An Giang, Việt Nam",
+            "pathWithType": "Phường Long Châu, Thị xã Tân Châu, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 2,
+            "code": "",
+            "type": "ward",
+            "name": "Long Hưng",
+            "slug": "long hung",
+            "nameWithType": "Phường Long Hưng",
+            "path": "Long Hưng, Tx. Tân Châu, An Giang, Việt Nam",
+            "pathWithType": "Phường Long Hưng, Thị xã Tân Châu, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 3,
+            "code": "",
+            "type": "ward",
+            "name": "Long Phú",
+            "slug": "long phu",
+            "nameWithType": "Phường Long Phú",
+            "path": "Long Phú, Tx. Tân Châu, An Giang, Việt Nam",
+            "pathWithType": "Phường Long Phú, Thị xã Tân Châu, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 4,
+            "code": "",
+            "type": "ward",
+            "name": "Long Sơn",
+            "slug": "long son",
+            "nameWithType": "Phường Long Sơn",
+            "path": "Long Sơn, Tx. Tân Châu, An Giang, Việt Nam",
+            "pathWithType": "Phường Long Sơn, Thị xã Tân Châu, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 5,
+            "code": "",
+            "type": "ward",
+            "name": "Long Thạnh",
+            "slug": "long thanh",
+            "nameWithType": "Phường Long Thạnh",
+            "path": "Long Thạnh, Tx. Tân Châu, An Giang, Việt Nam",
+            "pathWithType": "Phường Long Thạnh, Thị xã Tân Châu, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 6,
+            "code": "",
+            "type": "ward",
+            "name": "Châu Phong",
+            "slug": "chau phong",
+            "nameWithType": "Xã Châu Phong",
+            "path": "Châu Phong, Tx. Tân Châu, An Giang, Việt Nam",
+            "pathWithType": "Xã Châu Phong, Thị xã Tân Châu, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 7,
+            "code": "",
+            "type": "ward",
+            "name": "Lê Chánh",
+            "slug": "le chanh",
+            "nameWithType": "Xã Lê Chánh",
+            "path": "Lê Chánh, Tx. Tân Châu, An Giang, Việt Nam",
+            "pathWithType": "Xã Lê Chánh, Thị xã Tân Châu, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 8,
+            "code": "",
+            "type": "ward",
+            "name": "Long An",
+            "slug": "long an",
+            "nameWithType": "Xã Long An",
+            "path": "Long An, Tx. Tân Châu, An Giang, Việt Nam",
+            "pathWithType": "Xã Long An, Thị xã Tân Châu, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 9,
+            "code": "",
+            "type": "ward",
+            "name": "Phú Lộc",
+            "slug": "phu loc",
+            "nameWithType": "Xã Phú Lộc",
+            "path": "Phú Lộc, Tx. Tân Châu, An Giang, Việt Nam",
+            "pathWithType": "Xã Phú Lộc, Thị xã Tân Châu, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 10,
+            "code": "",
+            "type": "ward",
+            "name": "Phú Vĩnh",
+            "slug": "phu vinh",
+            "nameWithType": "Xã Phú Vĩnh",
+            "path": "Phú Vĩnh, Tx. Tân Châu, An Giang, Việt Nam",
+            "pathWithType": "Xã Phú Vĩnh, Thị xã Tân Châu, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 11,
+            "code": "",
+            "type": "ward",
+            "name": "Tân An",
+            "slug": "tan an",
+            "nameWithType": "Xã Tân An",
+            "path": "Tân An, Tx. Tân Châu, An Giang, Việt Nam",
+            "pathWithType": "Xã Tân An, Thị xã Tân Châu, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 12,
+            "code": "",
+            "type": "ward",
+            "name": "Tân Thạnh",
+            "slug": "tan thanh",
+            "nameWithType": "Xã Tân Thạnh",
+            "path": "Tân Thạnh, Tx. Tân Châu, An Giang, Việt Nam",
+            "pathWithType": "Xã Tân Thạnh, Thị xã Tân Châu, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 13,
+            "code": "",
+            "type": "ward",
+            "name": "Vĩnh Hòa",
+            "slug": "vinh hoa",
+            "nameWithType": "Xã Vĩnh Hòa",
+            "path": "Vĩnh Hòa, Tx. Tân Châu, An Giang, Việt Nam",
+            "pathWithType": "Xã Vĩnh Hòa, Thị xã Tân Châu, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 14,
+            "code": "",
+            "type": "ward",
+            "name": "Vĩnh Xương",
+            "slug": "vinh xuong",
+            "nameWithType": "Xã Vĩnh Xương",
+            "path": "Vĩnh Xương, Tx. Tân Châu, An Giang, Việt Nam",
+            "pathWithType": "Xã Vĩnh Xương, Thị xã Tân Châu, Tỉnh An Giang, Việt Nam"
+        }
+    ]
+}

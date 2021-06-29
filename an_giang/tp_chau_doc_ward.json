@@ -1,0 +1,78 @@
+{
+    "description": "Tính đến tháng 06 năm 2021 - Tp. Châu Đốc bao gồm 5 Phường và 2 Xã",
+    "lastUpdatedAt": "2021-06-29T09:57:51.159642422+07:00",
+    "type": "district",
+    "name": "Tp. Châu Đốc",
+    "wards": [
+        {
+            "index": 1,
+            "code": "",
+            "type": "ward",
+            "name": "Châu Phú A",
+            "slug": "chau phu a",
+            "nameWithType": "Phường Châu Phú A",
+            "path": "Châu Phú A, Tp. Châu Đốc, An Giang, Việt Nam",
+            "pathWithType": "Phường Châu Phú A, Thành phố Châu Đốc, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 2,
+            "code": "",
+            "type": "ward",
+            "name": "Châu Phú B",
+            "slug": "chau phu b",
+            "nameWithType": "Phường Châu Phú B",
+            "path": "Châu Phú B, Tp. Châu Đốc, An Giang, Việt Nam",
+            "pathWithType": "Phường Châu Phú B, Thành phố Châu Đốc, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 3,
+            "code": "",
+            "type": "ward",
+            "name": "Núi Sam",
+            "slug": "nui sam",
+            "nameWithType": "Phường Núi Sam",
+            "path": "Núi Sam, Tp. Châu Đốc, An Giang, Việt Nam",
+            "pathWithType": "Phường Núi Sam, Thành phố Châu Đốc, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 4,
+            "code": "",
+            "type": "ward",
+            "name": "Vĩnh Mỹ",
+            "slug": "vinh mỹ",
+            "nameWithType": "Phường Vĩnh Mỹ",
+            "path": "Vĩnh Mỹ, Tp. Châu Đốc, An Giang, Việt Nam",
+            "pathWithType": "Phường Vĩnh Mỹ, Thành phố Châu Đốc, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 5,
+            "code": "",
+            "type": "ward",
+            "name": "Vĩnh Ngươn",
+            "slug": "vinh nguon",
+            "nameWithType": "Phường Vĩnh Ngươn",
+            "path": "Vĩnh Ngươn, Tp. Châu Đốc, An Giang, Việt Nam",
+            "pathWithType": "Phường Vĩnh Ngươn, Thành phố Châu Đốc, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 6,
+            "code": "",
+            "type": "ward",
+            "name": "Vĩnh Tế",
+            "slug": "vinh te",
+            "nameWithType": "Xã Vĩnh Tế",
+            "path": "Vĩnh Tế, Tp. Châu Đốc, An Giang, Việt Nam",
+            "pathWithType": "Xã Vĩnh Tế, Thành phố Châu Đốc, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 7,
+            "code": "",
+            "type": "ward",
+            "name": "Vĩnh Châu",
+            "slug": "vinh chau",
+            "nameWithType": "Xã Vĩnh Châu",
+            "path": "Vĩnh Châu, Tp. Châu Đốc, An Giang, Việt Nam",
+            "pathWithType": "Xã Vĩnh Châu, Thành phố Châu Đốc, Tỉnh An Giang, Việt Nam"
+        }
+    ]
+}

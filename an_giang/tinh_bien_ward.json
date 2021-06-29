@@ -1,0 +1,148 @@
+{
+    "description": "Tính đến tháng 06 năm 2021 - Huyện Tịnh Biên bao gồm 3 Thị trấn và 11 Xã",
+    "lastUpdatedAt": "2021-06-29T09:57:51.159969751+07:00",
+    "type": "district",
+    "name": "Tịnh Biên",
+    "wards": [
+        {
+            "index": 1,
+            "code": "",
+            "type": "ward",
+            "name": "TT. Tịnh Biên",
+            "slug": "tt. tinh bien",
+            "nameWithType": "Thị trấn Tịnh Biên",
+            "path": "TT. Tịnh Biên, Tịnh Biên, An Giang, Việt Nam",
+            "pathWithType": "Thị trấn Tịnh Biên, Huyện Tịnh Biên, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 2,
+            "code": "",
+            "type": "ward",
+            "name": "TT. Chi Lăng",
+            "slug": "tt. chi lang",
+            "nameWithType": "Thị trấn Chi Lăng",
+            "path": "TT. Chi Lăng, Tịnh Biên, An Giang, Việt Nam",
+            "pathWithType": "Thị trấn Chi Lăng, Huyện Tịnh Biên, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 3,
+            "code": "",
+            "type": "ward",
+            "name": "TT. Nhà Bàng",
+            "slug": "tt. nha bang",
+            "nameWithType": "Thị trấn Nhà Bàng",
+            "path": "TT. Nhà Bàng, Tịnh Biên, An Giang, Việt Nam",
+            "pathWithType": "Thị Trấn Nhà Bàng, Huyện Tịnh Biên, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 4,
+            "code": "",
+            "type": "ward",
+            "name": "An Cư",
+            "slug": "an cu",
+            "nameWithType": "Xã An Cư",
+            "path": "An Cư, Tịnh Biên, An Giang, Việt Nam",
+            "pathWithType": "Xã An Cư, Huyện Tịnh Biên, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 5,
+            "code": "",
+            "type": "ward",
+            "name": "An Hảo",
+            "slug": "an hao",
+            "nameWithType": "Xã An Hảo",
+            "path": "An Hảo, Tịnh Biên, An Giang, Việt Nam",
+            "pathWithType": "Xã An Hảo, Huyện Tịnh Biên, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 6,
+            "code": "",
+            "type": "ward",
+            "name": "An Nông",
+            "slug": "an nong",
+            "nameWithType": "Xã An Nông",
+            "path": "An Nông, Tịnh Biên, An Giang, Việt Nam",
+            "pathWithType": "Xã An Nông, Huyện Tịnh Biên, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 7,
+            "code": "",
+            "type": "ward",
+            "name": "An Phú",
+            "slug": "an phu",
+            "nameWithType": "Xã An Phú",
+            "path": "An Phú, Tịnh Biên, An Giang, Việt Nam",
+            "pathWithType": "Xã An Phú, Huyện Tịnh Biên, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 8,
+            "code": "",
+            "type": "ward",
+            "name": "Nhơn Hưng",
+            "slug": "nhon hung",
+            "nameWithType": "Xã Nhơn Hưng",
+            "path": "Nhơn Hưng, Tịnh Biên, An Giang, Việt Nam",
+            "pathWithType": "Xã Nhơn Hưng, Huyện Tịnh Biên, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 9,
+            "code": "",
+            "type": "ward",
+            "name": "Núi VOi",
+            "slug": "nui voi",
+            "nameWithType": "Xã Núi Voi",
+            "path": "Núi Voi, Tịnh Biên, An Giang, Việt Nam",
+            "pathWithType": "Xã Núi Voi, Huyện Tịnh Biên, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 10,
+            "code": "",
+            "type": "ward",
+            "name": "Tân Lập",
+            "slug": "tan lap",
+            "nameWithType": "Xã Tân Lập",
+            "path": "Tân Lập, Tịnh Biên, An Giang, Việt Nam",
+            "pathWithType": "Xã Tân Lập, Huyện Tịnh Biên, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 11,
+            "code": "",
+            "type": "ward",
+            "name": "Tân Lợi",
+            "slug": "tan loi",
+            "nameWithType": "Xã Tân Lợi",
+            "path": "Tân Lợi, Tịnh Biên, An Giang, Việt Nam",
+            "pathWithType": "Xã Tân Lợi, Huyện Tịnh Biên, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 12,
+            "code": "",
+            "type": "ward",
+            "name": "Thới Sơn",
+            "slug": "thoi son",
+            "nameWithType": "Xã Thơi Sơn",
+            "path": "Thới Sơn, Tịnh Biên, An Giang, Việt Nam",
+            "pathWithType": "Xã Thới Sơn, Huyện Tịnh Biên, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 13,
+            "code": "",
+            "type": "ward",
+            "name": "Văn Giáo",
+            "slug": "van giao",
+            "nameWithType": "Xã Văn Giáo",
+            "path": "Văn Giáo, Tịnh Biên, An Giang, Việt Nam",
+            "pathWithType": "Xã Văn Giáo, Huyện Tịnh Biên, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 14,
+            "code": "",
+            "type": "ward",
+            "name": "Vĩnh Trung",
+            "slug": "vinh trung",
+            "nameWithType": "Xã Vĩnh Trung",
+            "path": "Vĩnh Trung, Tịnh Biên, An Giang, Việt Nam",
+            "pathWithType": "Xã Vĩnh Trung, Huyện Tịnh Biên, Tỉnh An Giang, Việt Nam"
+        }
+    ]
+}

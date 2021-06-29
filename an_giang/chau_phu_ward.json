@@ -1,0 +1,138 @@
+{
+    "description": "Tính đến tháng 06 năm 2021 - Huyện Châu Phú bao gồm 2 Thị trấn và 11 Xã",
+    "lastUpdatedAt": "2021-06-29T09:57:51.159748552+07:00",
+    "type": "district",
+    "name": "Châu Phú",
+    "wards": [
+        {
+            "index": 1,
+            "code": "",
+            "type": "ward",
+            "name": "TT. Cái Dầu",
+            "slug": "tt. cai dau",
+            "nameWithType": "Thị Trấn Cái Dầu",
+            "path": "TT. Cái Dầu, Châu Phú, An Giang, Việt Nam",
+            "pathWithType": "Thị trấn Cái Dầu, Huyện Châu Phú, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 2,
+            "code": "",
+            "type": "ward",
+            "name": "TT. Vĩnh Thạnh Trung",
+            "slug": "tt. vinh thanh trung",
+            "nameWithType": "Thị trấn Vĩnh Thạnh Trung",
+            "path": "TT. Vĩnh Thạnh Trung, Châu Phú, An Giang, Việt Nam",
+            "pathWithType": "Thị trấn Vĩnh Thạnh Trung, Huyện Châu Phú, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 3,
+            "code": "",
+            "type": "ward",
+            "name": "Bình Chánh",
+            "slug": "binh chanh",
+            "nameWithType": "Xã Bình Chánh",
+            "path": "Bình Chánh, Châu Phú, An Giang, Việt Nam",
+            "pathWithType": "Xã Bình Chánh, Huyện Châu Phú, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 4,
+            "code": "",
+            "type": "ward",
+            "name": "Bình Long",
+            "slug": "binh long",
+            "nameWithType": "Xã Bình Long",
+            "path": "Bình Long, Châu Phú, An Giang, Việt Nam",
+            "pathWithType": "Xã Bình Long, Huyện Châu Phú, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 5,
+            "code": "",
+            "type": "ward",
+            "name": "Bình Mỹ",
+            "slug": "binh mỹ",
+            "nameWithType": "Xã Bình Mỹ",
+            "path": "Bình Mỹ, Châu Phú, An Giang, Việt Nam",
+            "pathWithType": "Xã Bình Mỹ, Huyện Châu Phú, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 6,
+            "code": "",
+            "type": "ward",
+            "name": "Bình Phú",
+            "slug": "binh phu",
+            "nameWithType": "Xã Bình Phú",
+            "path": "Bình Phú, Châu Phú, An Giang, Việt Nam",
+            "pathWithType": "Xã Bình Phú, Huyện Châu Phú, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 7,
+            "code": "",
+            "type": "ward",
+            "name": "Bình Thủy",
+            "slug": "binh thuy",
+            "nameWithType": "Xã Bình Thủy",
+            "path": "Bình Thủy, Châu Phú, An Giang, Việt Nam",
+            "pathWithType": "Xã Bình Thủy, Huyện Châu Phú, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 8,
+            "code": "",
+            "type": "ward",
+            "name": "Đào Hữu Cảnh",
+            "slug": "dao huu canh",
+            "nameWithType": "Xã Đào Hữu Cảnh",
+            "path": "Đào Hữu Cảnh, Châu Phú, An Giang, Việt Nam",
+            "pathWithType": "Xã Đào Hữu Cảnh, Huyện Châu Phú, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 9,
+            "code": "",
+            "type": "ward",
+            "name": "Khánh Hòa",
+            "slug": "khanh hoa",
+            "nameWithType": "Xã Khánh Hòa",
+            "path": "Khánh Hòa, Châu Phú, An Giang, Việt Nam",
+            "pathWithType": "Xã Khánh Hòa, Huyện Châu Phú, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 10,
+            "code": "",
+            "type": "ward",
+            "name": "Mỹ Đức",
+            "slug": "mỹ duc",
+            "nameWithType": "Xã Mỹ Đức",
+            "path": "Mỹ Đức, Châu Phú, An Giang, Việt Nam",
+            "pathWithType": "Xã Mỹ Đức, Huyện Châu Phú, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 11,
+            "code": "",
+            "type": "ward",
+            "name": "Mỹ Phú",
+            "slug": "mỹ phu",
+            "nameWithType": "Xã Mỹ Phú",
+            "path": "Mỹ Phú, Châu Phú, An Giang, Việt Nam",
+            "pathWithType": "Xã Mỹ Phú, Huyện Châu Phú, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 12,
+            "code": "",
+            "type": "ward",
+            "name": "Ô Long Vỹ",
+            "slug": "o long vỹ",
+            "nameWithType": "Xã Ô Long Vỹ",
+            "path": "Ô Long Vỹ, Châu Phú, An Giang, Việt Nam",
+            "pathWithType": "Xã Ô Long Vỹ, Huyện Châu Phú, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 13,
+            "code": "",
+            "type": "ward",
+            "name": "Thạnh Mỹ Tây",
+            "slug": "thanh mỹ tay",
+            "nameWithType": "Xã Thạnh Mỹ Tây",
+            "path": "Thạnh Mỹ Tây, Châu Phú, An Giang, Việt Nam",
+            "pathWithType": "Xã Thạnh Mỹ Tây, Huyện Châu Phú, Tỉnh An Giang, Việt Nam"
+        }
+    ]
+}

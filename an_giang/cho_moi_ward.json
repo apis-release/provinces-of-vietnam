@@ -1,0 +1,188 @@
+{
+    "description": "Tính đến tháng 06 năm 2021 - Huyện Chợ Mới bao gồm 2 Thị trấn và 16 Xã",
+    "lastUpdatedAt": "2021-06-29T09:57:51.159823512+07:00",
+    "type": "district",
+    "name": "Chợ Mới",
+    "wards": [
+        {
+            "index": 1,
+            "code": "",
+            "type": "ward",
+            "name": "TT. Chợ Mới",
+            "slug": "tt. cho moi",
+            "nameWithType": "Thị trấn Chợ Mới",
+            "path": "TT. Chợ Mới, Chợ Mới, An Giang, Việt Nam",
+            "pathWithType": "Thị trấn Chợ mới, Huyện Chợ Mới, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 2,
+            "code": "",
+            "type": "ward",
+            "name": "TT. Mỹ Luông",
+            "slug": "tt. mỹ luong",
+            "nameWithType": "Thị trấn Mỹ Luông",
+            "path": "TT. Mỹ Luông, Chợ Mới, An Giang, Việt Nam",
+            "pathWithType": "Thị trấn Mỹ Luông, Huyện Chợ Mới, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 3,
+            "code": "",
+            "type": "ward",
+            "name": "An Thạnh Trung",
+            "slug": "an thanh trung",
+            "nameWithType": "Xã An Thạnh Trung",
+            "path": "An Thạnh Trung, Chợ Mới, An Giang, Việt Nam",
+            "pathWithType": "Xã An Thạnh Trung, Huyện Chợ Mới, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 4,
+            "code": "",
+            "type": "ward",
+            "name": "Bình Phước Xuân",
+            "slug": "binh phuoc xuan",
+            "nameWithType": "Xã Bình Phước Xuân",
+            "path": "Bình Phước Xuân, Chợ Mới, An Giang, Việt Nam",
+            "pathWithType": "Xã Bình Phước Xuân, Huyện Chợ Mới, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 5,
+            "code": "",
+            "type": "ward",
+            "name": "Hòa An",
+            "slug": "hoa an",
+            "nameWithType": "Xã Hòa An",
+            "path": "Hòa An, Chợ Mới, An Giang, Việt Nam",
+            "pathWithType": "Xã Hòa An, Huyện Chợ Mới, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 6,
+            "code": "",
+            "type": "ward",
+            "name": "Hòa Bình",
+            "slug": "hoa binh",
+            "nameWithType": "Xã Hòa Bình",
+            "path": "Hòa Bình, Chợ Mới, An Giang, Việt Nam",
+            "pathWithType": "Xã Hòa Bình, Huyện Chợ Mới, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 7,
+            "code": "",
+            "type": "ward",
+            "name": "Hội An",
+            "slug": "hoi an",
+            "nameWithType": "Xã Hội An",
+            "path": "Hội An, Chợ Mới, An Giang, Việt Nam",
+            "pathWithType": "Xã Hội An, Huyện Chợ Mới, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 8,
+            "code": "",
+            "type": "ward",
+            "name": "Kiến An",
+            "slug": "kien an",
+            "nameWithType": "Xã Kiến An",
+            "path": "Kiến An, Chợ Mới, An Giang, Việt Nam",
+            "pathWithType": "Xã Kiến An, Huyện Chợ Mới, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 9,
+            "code": "",
+            "type": "ward",
+            "name": "Kiến Thành",
+            "slug": "kien thanh",
+            "nameWithType": "Xã Kiến Thành",
+            "path": "Kiến Thành, Chợ Mới, An Giang, Việt Nam",
+            "pathWithType": "Xã Kiến Thành, Huyện Chợ Mới, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 10,
+            "code": "",
+            "type": "ward",
+            "name": "Long Điền A",
+            "slug": "long dien a",
+            "nameWithType": "Xã Long Điền A",
+            "path": "Long Điền A, Chợ Mới, An Giang, Việt Nam",
+            "pathWithType": "Xã Long Điền A, Huyện Chợ Mới, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 11,
+            "code": "",
+            "type": "ward",
+            "name": "Long Điền B",
+            "slug": "long dien b",
+            "nameWithType": "Xã Long Điền B",
+            "path": "Long Điền B, Chợ Mới, An Giang, Việt Nam",
+            "pathWithType": "Xã Long ĐIền B, Huyện Chợ Mới, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 12,
+            "code": "",
+            "type": "ward",
+            "name": "Long Giang",
+            "slug": "long giang",
+            "nameWithType": "Xã Long Giang",
+            "path": "Long Giang, Chợ Mới, An Giang, Việt Nam",
+            "pathWithType": "Xã Long Giang, Huyện Chợ Mới, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 13,
+            "code": "",
+            "type": "ward",
+            "name": "Long Kiến",
+            "slug": "long kien",
+            "nameWithType": "Xã Long Kiến",
+            "path": "Long Kiến, Chợ Mới, An Giang, Việt Nam",
+            "pathWithType": "Xã Long Kiến, Huyện Chợ Mới, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 14,
+            "code": "",
+            "type": "ward",
+            "name": "Mỹ An",
+            "slug": "mỹ an",
+            "nameWithType": "Xã Mỹ An",
+            "path": "Mỹ An, Chợ Mới, An Giang, Việt Nam",
+            "pathWithType": "Xã Mỹ An, Huyện Chợ Mới, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 15,
+            "code": "",
+            "type": "ward",
+            "name": "Mỹ Hiệp",
+            "slug": "mỹ hiep",
+            "nameWithType": "Xã Mỹ Hiệp",
+            "path": "Mỹ Hiệp, Chợ Mới, An Giang, Việt Nam",
+            "pathWithType": "Xã Mỹ Hiệp, Huyện Chợ Mới, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 16,
+            "code": "",
+            "type": "ward",
+            "name": "Mỹ Hội Đông",
+            "slug": "mỹ hoi dong",
+            "nameWithType": "Xã Mỹ Hội Đông",
+            "path": "Mỹ Hội ĐÔng, Chợ Mới, An Giang, Việt Nam",
+            "pathWithType": "Xã Mỹ Hội Đông, Huyện Chợ Mới, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 17,
+            "code": "",
+            "type": "ward",
+            "name": "Nhơn Mỹ",
+            "slug": "nhon mỹ",
+            "nameWithType": "Xã Nhơn Mỹ",
+            "path": "Nhơn Mỹ, Chợ Mới, An Giang, Việt Nam",
+            "pathWithType": "Xã Nhơn Mỹ, Huyện Chợ Mới, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 18,
+            "code": "",
+            "type": "ward",
+            "name": "Tấn Mỹ",
+            "slug": "tan mỹ",
+            "nameWithType": "Xã Tấn Mỹ",
+            "path": "Tấn Mỹ, Chợ Mới, An Giang, Việt Nam",
+            "pathWithType": "Xã Tấn Mỹ, Huyện Chợ Mới, Tỉnh An Giang, Việt Nam"
+        }
+    ]
+}

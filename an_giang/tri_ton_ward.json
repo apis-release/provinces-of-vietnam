@@ -1,0 +1,158 @@
+{
+    "description": "Tính đến tháng 06 năm 2021 - Huyện Tri Tôn bao gồm 3 Thị trấn và 12 Xã",
+    "lastUpdatedAt": "2021-06-29T09:57:51.160006331+07:00",
+    "type": "district",
+    "name": "Tri Tôn",
+    "wards": [
+        {
+            "index": 1,
+            "code": "",
+            "type": "ward",
+            "name": "TT. Tri Tôn",
+            "slug": "tt. tri ton",
+            "nameWithType": "Thị trấn Tri Tôn",
+            "path": "TT. Tri Tôn, Tri Tôn, An Giang, Việt Nam",
+            "pathWithType": "Thị trấn Tri Tôn, Huyện Tri Tôn, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 2,
+            "code": "",
+            "type": "ward",
+            "name": "TT. Ba Chúc",
+            "slug": "tt. ba chuc",
+            "nameWithType": "Thị trấn Ba Chúc",
+            "path": "TT. Ba Chúc, Tri Tôn, An Giang, Việt Nam",
+            "pathWithType": "Thị trấn Ba Chúc, Huyện Tri Tôn, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 3,
+            "code": "",
+            "type": "ward",
+            "name": "TT. Cô Tô",
+            "slug": "tt. co to",
+            "nameWithType": "Thị trấn Cô Tô",
+            "path": "TT. Cô Tô, Tri Tôn, An Giang, Việt Nam",
+            "pathWithType": "Thị trấn Cô Tô, Huyện Tri Tôn, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 4,
+            "code": "",
+            "type": "ward",
+            "name": "An Tức",
+            "slug": "an tuc",
+            "nameWithType": "Xã An Tức",
+            "path": "An Tức, Tri Tôn, An Giang, Việt Nam",
+            "pathWithType": "Xã An Tức, Huyện Tri Tôn, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 5,
+            "code": "",
+            "type": "ward",
+            "name": "Châu Lăng",
+            "slug": "chau lang",
+            "nameWithType": "Xã Châu Lăng",
+            "path": "Châu Lăng, Tri Tôn, An Giang, Việt Nam",
+            "pathWithType": "Xã Châu Lăng, Huyện Tri Tôn, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 6,
+            "code": "",
+            "type": "ward",
+            "name": "Lạc Quới",
+            "slug": "lac quoi",
+            "nameWithType": "Xã Lạc Quới",
+            "path": "Lạc Quới, Tri Tôn, An Giang, Việt Nam",
+            "pathWithType": "Xã Lạc Quới, Huyện Tri Tôn, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 7,
+            "code": "",
+            "type": "ward",
+            "name": "Lê Trì",
+            "slug": "le tri",
+            "nameWithType": "Xã Lê Trì",
+            "path": "Lê Trì, Tri Tôn, An Giang, Việt Nam",
+            "pathWithType": "Xã Lê Trì, Huyện Tri Tôn, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 8,
+            "code": "",
+            "type": "ward",
+            "name": "Lương An Trà",
+            "slug": "luong an tra",
+            "nameWithType": "Xã Lương An Trà",
+            "path": "Lương An Trà, Tri Tôn, An Giang, Việt Nam",
+            "pathWithType": "Xã Lương An Trà, Huyện Tri Tôn, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 9,
+            "code": "",
+            "type": "ward",
+            "name": "Lương Phi",
+            "slug": "luong phi",
+            "nameWithType": "Xã Lương Phi",
+            "path": "Lương Phi, Tri Tôn, An Giang, Việt Nam",
+            "pathWithType": "Xã Lương Phi, Huyện Tri Tôn, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 10,
+            "code": "",
+            "type": "ward",
+            "name": "Núi Tô",
+            "slug": "nui to",
+            "nameWithType": "Xã Núi Tô",
+            "path": "Núi Tô, Tri Tôn, An Giang, Việt Nam",
+            "pathWithType": "Xã Núi Tô, Huyện Tri Tôn, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 11,
+            "code": "",
+            "type": "ward",
+            "name": "Ô Lâm",
+            "slug": "o lam",
+            "nameWithType": "Xã Ô Lâm",
+            "path": "Ô Lâm, Tri Tôn, An Giang, Việt Nam",
+            "pathWithType": "Xã Ô Lâm, Huyện Tri Tôn, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 12,
+            "code": "",
+            "type": "ward",
+            "name": "Tà Đảnh",
+            "slug": "ta danh",
+            "nameWithType": "Xã Tà Đảnh",
+            "path": "Tà Đảnh, Tri Tôn, An Giang, Việt Nam",
+            "pathWithType": "Xã Tà Đảnh, Huyện Tri Tôn, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 13,
+            "code": "",
+            "type": "ward",
+            "name": "Tân Tuyến",
+            "slug": "tan tuyen",
+            "nameWithType": "Xã Tân Tuyên",
+            "path": "Tân Tuyến, Tri Tôn, An Giang, Việt Nam",
+            "pathWithType": "Xã Tân Tuyên, Huyện Tri Tôn, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 14,
+            "code": "",
+            "type": "ward",
+            "name": "Vĩnh Gia",
+            "slug": "vinh gia",
+            "nameWithType": "Xã Vĩnh Gia",
+            "path": "Vĩnh Gia, Tri Tôn, An Giang, Việt Nam",
+            "pathWithType": "Xã Vĩnh Gia, Huyện Tri Tôn, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 15,
+            "code": "",
+            "type": "ward",
+            "name": "Vĩnh Phước",
+            "slug": "vinh phuoc",
+            "nameWithType": "Xã Vĩnh Phước",
+            "path": "Vĩnh Phước, Tri Tôn, An Giang, Việt Nam",
+            "pathWithType": "Xã VĨnh Phước, Huyện Tri Tôn, Tỉnh An Giang, Việt Nam"
+        }
+    ]
+}

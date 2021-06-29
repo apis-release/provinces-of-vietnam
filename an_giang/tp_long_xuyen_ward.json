@@ -1,0 +1,138 @@
+{
+    "description": "Tính đến tháng 06 năm 2021 - Tp. Long Xuyên bao gồm 11 Phường và 2 Xã",
+    "lastUpdatedAt": "2021-06-29T09:57:51.159531253+07:00",
+    "type": "district",
+    "name": "Tp. Long Xuyên",
+    "wards": [
+        {
+            "index": 1,
+            "code": "",
+            "type": "ward",
+            "name": "Bình Đức",
+            "slug": "binh duc",
+            "nameWithType": "Phường Bình Đức",
+            "path": "Bình Đức, Tp. Long Xuyên, An Giang, Việt Nam",
+            "pathWithType": "Phường Bình Đức, Thành phố Long Xuyên, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 2,
+            "code": "",
+            "type": "ward",
+            "name": "Bình Khánh",
+            "slug": "binh khanh",
+            "nameWithType": "Phường Bình Khánh",
+            "path": "Bình Khánh, Tp. Long Xuyên, An Giang, Việt Nam",
+            "pathWithType": "Phường Bình Khánh, Thành phố Long Xuyên, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 3,
+            "code": "",
+            "type": "ward",
+            "name": "Đông Xuyên",
+            "slug": "dong xuyen",
+            "nameWithType": "Phường Đông Xuyên",
+            "path": "Đông Xuyên, Tp. Long Xuyên, An Giang, Việt Nam",
+            "pathWithType": "Phường Đông Xuyên, Thành phố Long Xuyên, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 4,
+            "code": "",
+            "type": "ward",
+            "name": "Mỹ Bình",
+            "slug": "mỹ binh",
+            "nameWithType": "Phường Mỹ Bình",
+            "path": "Mỹ Bình, Tp. Long Xuyên, An Giang, Việt Nam",
+            "pathWithType": "Phường Mỹ Bình, Thành phố Long Xuyên, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 5,
+            "code": "",
+            "type": "ward",
+            "name": "Mỹ Hòa",
+            "slug": "mỹ hoa",
+            "nameWithType": "Phường Mỹ Hòa",
+            "path": "Mỹ Hòa, Tp. Long Xuyên, An Giang, Việt Nam",
+            "pathWithType": "Phường Mỹ Hòa, Thành phố Long Xuyên, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 6,
+            "code": "",
+            "type": "ward",
+            "name": "Mỹ Long",
+            "slug": "mỹ long",
+            "nameWithType": "Phường Mỹ Long",
+            "path": "Mỹ Long, Tp. Long Xuyên, An Giang, Việt Nam",
+            "pathWithType": "Phường Mỹ Long, Thành phố Long Xuyên, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 7,
+            "code": "",
+            "type": "ward",
+            "name": "Mỹ Phước",
+            "slug": "mỹ phuoc",
+            "nameWithType": "Phường Mỹ Phước",
+            "path": "Mỹ Phước, Tp. Long Xuyên, An Giang, Việt Nam",
+            "pathWithType": "Phường Mỹ Phước, Thành phố Long Xuyên, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 8,
+            "code": "",
+            "type": "ward",
+            "name": "Mỹ Quý",
+            "slug": "mỹ quy",
+            "nameWithType": "Phường Mỹ Quý",
+            "path": "Mỹ Quý, Tp. Long Xuyên, An Giang, Việt Nam",
+            "pathWithType": "Phường Mỹ Quý, Thành phố Long Xuyên, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 9,
+            "code": "",
+            "type": "ward",
+            "name": "Mỹ Thạnh",
+            "slug": "mỹ thanh",
+            "nameWithType": "Phường Mỹ Thạnh",
+            "path": "Mỹ Thạnh, Tp. Long Xuyên, An Giang, Việt Nam",
+            "pathWithType": "Phường Mỹ Thạnh, Thành phố Long Xuyên, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 10,
+            "code": "",
+            "type": "ward",
+            "name": "Mỹ Thới",
+            "slug": "mỹ thoi",
+            "nameWithType": "Phường Mỹ Thới",
+            "path": "Mỹ thới, Tp. Long Xuyên, An Giang, Việt Nam",
+            "pathWithType": "Phường Mỹ thới, Thành phố Long Xuyên, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 11,
+            "code": "",
+            "type": "ward",
+            "name": "Mỹ Xuyên",
+            "slug": "mỹ xuyen",
+            "nameWithType": "Phường Mỹ Xuyên",
+            "path": "Mỹ Xuyên, Tp. Long Xuyên, An Giang, Việt Nam",
+            "pathWithType": "Phường Mỹ Xuyên, Thành phố Long Xuyên, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 12,
+            "code": "",
+            "type": "ward",
+            "name": "Mỹ Hòa Hưng",
+            "slug": "mỹ hoa hung",
+            "nameWithType": "Xã Mỹ Hòa Hưng",
+            "path": "Mỹ Hòa Hưng, Tp. Long Xuyên, An Giang, Việt Nam",
+            "pathWithType": "Xã Mỹ Hòa Hưng, Thành phố Long Xuyên, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 13,
+            "code": "",
+            "type": "ward",
+            "name": "Mỹ Khánh",
+            "slug": "mỹ khanh",
+            "nameWithType": "Xã Mỹ Khánh",
+            "path": "Mỹ Khánh, Tp. Long Xuyên, An Giang, Việt Nam",
+            "pathWithType": "Xã Mỹ Khánh, Thành phố Long Xuyên, Tỉnh An Giang, Việt Nam"
+        }
+    ]
+}

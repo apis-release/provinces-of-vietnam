@@ -1,0 +1,188 @@
+{
+    "description": "Tính đến tháng 06 năm 2021 - Huyện Phú Tân bao gồm 2 Thị trấn và 16 Xã",
+    "lastUpdatedAt": "2021-06-29T09:57:51.159879105+07:00",
+    "type": "district",
+    "name": "Phú Tân",
+    "wards": [
+        {
+            "index": 1,
+            "code": "",
+            "type": "ward",
+            "name": "TT. Phú Mỹ",
+            "slug": "tt. phu mỹ",
+            "nameWithType": "Thị Trấn Phú Mỹ",
+            "path": "TT. Phú Mỹ, Phú Tân, An Giang, Việt Nam",
+            "pathWithType": "Thị trấn Phú Mỹ, Huyện Phú Tân, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 2,
+            "code": "",
+            "type": "ward",
+            "name": "TT. Chợ Vàm",
+            "slug": "tt. cho vam",
+            "nameWithType": "Thị trấn Chợ Vàm",
+            "path": "TT. Chợ Vàm, Phú Tân, An Giang, Việt Nam",
+            "pathWithType": "Thị trấn Chợ Vàm, Huyện Phú Tân, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 3,
+            "code": "",
+            "type": "ward",
+            "name": "Bình Thạnh Đông",
+            "slug": "binh thanh dong",
+            "nameWithType": "Xã Bình Thạnh Đông",
+            "path": "Bình Thạnh Đông, Phú Tân, An Giang, Việt Nam",
+            "pathWithType": "Xã Bình Thạnh Đông, Huyện Phú Tân, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 4,
+            "code": "",
+            "type": "ward",
+            "name": "Hiệp Xương",
+            "slug": "hiep xuong",
+            "nameWithType": "Xã Hiệp Xương",
+            "path": "Hiệp Xương, Phú Tân, An Giang, Việt Nam",
+            "pathWithType": "Xã Hiệp Xương, Huyện Phú Tân, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 5,
+            "code": "",
+            "type": "ward",
+            "name": "Hòa Lạc",
+            "slug": "hoa lac",
+            "nameWithType": "Xã Hòa Lạc",
+            "path": "Hòa Lạc, Phú Tân, An Giang, Việt Nam",
+            "pathWithType": "Xã Hòa Lạc, Huyện Phú Tân, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 6,
+            "code": "",
+            "type": "ward",
+            "name": "Long Hòa",
+            "slug": "long hoa",
+            "nameWithType": "Xã Long Hòa",
+            "path": "Long Hòa, Phú Tân, An Giang, Việt Nam",
+            "pathWithType": "Xã Long Hòa, Huyện Phú Tân, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 7,
+            "code": "",
+            "type": "ward",
+            "name": "Phú An",
+            "slug": "phu an",
+            "nameWithType": "Xã Phú An",
+            "path": "Phú An, Phú Tân, An Giang, Việt Nam",
+            "pathWithType": "Xã Phú An, Huyện Phú Tân, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 8,
+            "code": "",
+            "type": "ward",
+            "name": "Phú Bình",
+            "slug": "phu binh",
+            "nameWithType": "Xã Phú Bình",
+            "path": "Phú Bình, Phú Tân, An Giang, Việt Nam",
+            "pathWithType": "Xã Phú Bình, Huyện Phú Tân, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 9,
+            "code": "",
+            "type": "ward",
+            "name": "Phú Hiệp",
+            "slug": "phu hiep",
+            "nameWithType": "Xã Phú Hiệp",
+            "path": "Phú Hiệp, Phú Tân, An Giang, Việt Nam",
+            "pathWithType": "Xã Phú Hiệp, Huyện Phú Tân, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 10,
+            "code": "",
+            "type": "ward",
+            "name": "Phú Hưng",
+            "slug": "phu hung",
+            "nameWithType": "Xã Phú Hưng",
+            "path": "Phú Hưng, Phú Tân, An Giang, Việt Nam",
+            "pathWithType": "Xã Phú Hưng, Huyện Phú Tân, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 11,
+            "code": "",
+            "type": "ward",
+            "name": "Phú Lâm",
+            "slug": "phu lam",
+            "nameWithType": "Xã Phú Lâm",
+            "path": "Phú Lâm, Phú Tân, An Giang, Việt Nam",
+            "pathWithType": "Xã Phú Lâm, Huyện Phú Tân, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 12,
+            "code": "",
+            "type": "ward",
+            "name": "Phú Long",
+            "slug": "phu long",
+            "nameWithType": "Xã Phú Long",
+            "path": "Phú Long, Phú Tân, An Giang, Việt Nam",
+            "pathWithType": "Xã Phú Long, Huyện Phú Tân, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 13,
+            "code": "",
+            "type": "ward",
+            "name": "Phú Thành",
+            "slug": "phu thanh",
+            "nameWithType": "Xã Phú Thành",
+            "path": "Phú Thành, Phú Tân, An Giang, Việt Nam",
+            "pathWithType": "Xã Phú Thành, Huyện Phú Tân, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 14,
+            "code": "",
+            "type": "ward",
+            "name": "Phú Thạnh",
+            "slug": "phu thanh",
+            "nameWithType": "Xã Phú Thạnh",
+            "path": "Phú Thạnh, Phú Tân, An Giang, Việt Nam",
+            "pathWithType": "Xã Phú Thạnh, Huyện Phú Tân, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 15,
+            "code": "",
+            "type": "ward",
+            "name": "Phú Thọ",
+            "slug": "phu tho",
+            "nameWithType": "Xã Phú Thọ",
+            "path": "Phú Thọ, Phú Tân, An Giang, Việt Nam",
+            "pathWithType": "Xã Phú Thọ, Huyện Phú Tân, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 16,
+            "code": "",
+            "type": "ward",
+            "name": "Phú Xuân",
+            "slug": "phu xuan",
+            "nameWithType": "Xã Phú Xuân",
+            "path": "Phú Xuân, Phú Tân, An Giang, Việt Nam",
+            "pathWithType": "Xã Phú Xuân, Huyện Phú Tân, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 17,
+            "code": "",
+            "type": "ward",
+            "name": "Tân Hòa",
+            "slug": "tan hoa",
+            "nameWithType": "Xã Tân Hòa",
+            "path": "Tân Hòa, Phú Tân, An Giang, Việt Nam",
+            "pathWithType": "Xã Tân Hòa, Huyện Phú Tân, Tỉnh An Giang, Việt Nam"
+        },
+        {
+            "index": 18,
+            "code": "",
+            "type": "ward",
+            "name": "Tân Trung",
+            "slug": "tan trung",
+            "nameWithType": "Xã Tân Trung",
+            "path": "Tân Trung, Phú Tân, An Giang, Việt Nam",
+            "pathWithType": "Xã Tân Trung, Huyện Phú Tân, Tỉnh An Giang, Việt Nam"
+        }
+    ]
+}
