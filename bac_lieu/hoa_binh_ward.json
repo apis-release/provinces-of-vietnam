@@ -1,0 +1,88 @@
+{
+    "description": "Tính đến tháng 06 năm 2021 - Huyện Hòa Bình bao gồm 1 Thị trấn và 7 Xã",
+    "lastUpdatedAt": "2021-06-29T10:45:57.504002669+07:00",
+    "type": "district",
+    "name": "Hòa Bình",
+    "wards": [
+        {
+            "index": 1,
+            "code": "",
+            "type": "ward",
+            "name": "TT. Hòa Bình",
+            "slug": "tt. hoa binh",
+            "nameWithType": "Thị trấn Hòa Bình",
+            "path": "TT. Hòa Bình, Hòa Bình, Bạc Liêu, Việt Nam",
+            "pathWithType": "Thị trấn Hòa Bình, Huyện Hòa Bình, Tỉnh Bạc Liêu, Việt Nam"
+        },
+        {
+            "index": 2,
+            "code": "",
+            "type": "ward",
+            "name": "Minh Diệu",
+            "slug": "minh dieu",
+            "nameWithType": "Xã Minh Diệu",
+            "path": "Minh Diệu, Hòa Bình, Bạc Liêu, Việt Nam",
+            "pathWithType": "Xã Minh Diệu, Huyện Hòa Bình, Tỉnh Bạc Liêu, Việt Nam"
+        },
+        {
+            "index": 3,
+            "code": "",
+            "type": "ward",
+            "name": "Vĩnh Bình",
+            "slug": "vinh binh",
+            "nameWithType": "Xã Vĩnh Bình",
+            "path": "Vĩnh Bình, Hòa Bình, Bạc Liêu, Việt Nam",
+            "pathWithType": "Xã Vĩnh BÌnh, Huyện Hòa Bình, Tỉnh Bạc Liêu, Việt Nam"
+        },
+        {
+            "index": 4,
+            "code": "",
+            "type": "ward",
+            "name": "Vĩnh Hậu",
+            "slug": "vinh hau",
+            "nameWithType": "Xã Vĩnh Hậu",
+            "path": "Vĩnh Hậu, Hòa Bình, Bạc Liêu, Việt Nam",
+            "pathWithType": "Xã Vĩnh Hậu, Huyện Hòa Bình, Tỉnh Bạc Liêu, Việt Nam"
+        },
+        {
+            "index": 5,
+            "code": "",
+            "type": "ward",
+            "name": "Vĩnh Hậu A",
+            "slug": "vinh hau a",
+            "nameWithType": "Xã Vĩnh Hậu A",
+            "path": "Vĩnh Hậu A, Hòa Bình, Bạc Liêu, Việt Nam",
+            "pathWithType": "Xã Vĩnh Hậu A, Huyện Hòa Bình, Tỉnh Bạc Liêu, Việt Nam"
+        },
+        {
+            "index": 6,
+            "code": "",
+            "type": "ward",
+            "name": "Vĩnh Mỹ A",
+            "slug": "vinh mỹ a",
+            "nameWithType": "Xã Vĩnh Mỹ A",
+            "path": "Vĩnh Mỹ A, Hòa Bình, Bạc Liêu, Việt Nam",
+            "pathWithType": "Xã Vĩnh Mỹ A, Huyện Hòa Bình, Tỉnh Bạc Liêu, Việt Nam"
+        },
+        {
+            "index": 7,
+            "code": "",
+            "type": "ward",
+            "name": "Vĩnh Mỹ B",
+            "slug": "vinh mỹ b",
+            "nameWithType": "Xã Vĩnh Mỹ B",
+            "path": "Vĩnh Mỹ B, Hòa Bình, Bạc Liêu, Việt Nam",
+            "pathWithType": "Xã Vĩnh Mỹ B, Huyện Hòa Bình, Tỉnh Bạc Liêu, Việt Nam"
+        },
+        {
+            "index": 8,
+            "code": "",
+            "type": "ward",
+            "name": "Vĩnh Thịnh",
+            "slug": "vinh thinh",
+            "nameWithType": "Xã Vĩnh Thịnh",
+            "path": "Vĩnh Thịnh, Hòa Bình, Bạc Liêu, Việt Nam",
+            "pathWithType": "Xã Vĩnh Thịnh, Huyện Hòa Bình, Tỉnh Bạc Liêu, Việt Nam"
+        }
+    ]
+}

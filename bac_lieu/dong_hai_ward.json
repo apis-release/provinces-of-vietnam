@@ -1,0 +1,118 @@
+{
+    "description": "Tính đến tháng 06 năm 2021 - Huyện Đông Hải bao gồm 1 Thị trấn và 10 Xã",
+    "lastUpdatedAt": "2021-06-29T10:45:57.50396871+07:00",
+    "type": "district",
+    "name": "Đông Hải",
+    "wards": [
+        {
+            "index": 1,
+            "code": "",
+            "type": "ward",
+            "name": "TT. Gành Hào",
+            "slug": "tt. ganh hao",
+            "nameWithType": "Thị trấn Gành Hào",
+            "path": "TT. Gành Hào, Đông Hải, Bạc Liêu, Việt Nam",
+            "pathWithType": "Thị trấn Gành Hào, Huyện Đông Hải, Tỉnh Bạc Liêu, Việt Nam"
+        },
+        {
+            "index": 2,
+            "code": "",
+            "type": "ward",
+            "name": "An Phúc",
+            "slug": "an phuc",
+            "nameWithType": "Xã An Phúc",
+            "path": "An Phúc, Đông Hải, Bạc Liêu, Việt Nam",
+            "pathWithType": "Xã An Phúc, Huyện Đông Hải, Tỉnh Bạc Liêu, Việt Nam"
+        },
+        {
+            "index": 3,
+            "code": "",
+            "type": "ward",
+            "name": "An Trạch",
+            "slug": "an trach",
+            "nameWithType": "Xã An Trạch",
+            "path": "An Trạch, Đông Hải, Bạc Liêu, Việt Nam",
+            "pathWithType": "Xã An Trạch, Huyện Đông Hải, Tỉnh Bạc Liêu, Việt Nam"
+        },
+        {
+            "index": 4,
+            "code": "",
+            "type": "ward",
+            "name": "An Trạch A",
+            "slug": "an trach",
+            "nameWithType": "Xã An Trạch A",
+            "path": "An Trạch A, Đông Hải, Bạc Liêu, Việt Nam",
+            "pathWithType": "Xã An Trạch A, Huyện Đông Hải, Tỉnh Bạc Liêu, Việt Nam"
+        },
+        {
+            "index": 5,
+            "code": "",
+            "type": "ward",
+            "name": "Điền Hải",
+            "slug": "dien hai",
+            "nameWithType": "Xã Điền Hải",
+            "path": "Điền Hải, Đông Hải, Bạc Liêu, Việt Nam",
+            "pathWithType": "Xã Điền Hải, Huyện Đông Hải, Tỉnh Bạc Liêu, Việt Nam"
+        },
+        {
+            "index": 6,
+            "code": "",
+            "type": "ward",
+            "name": "Định Thành",
+            "slug": "dinh thanh",
+            "nameWithType": "Xã Định Thành",
+            "path": "Định Thành, Đông Hải, Bạc Liêu, Việt Nam",
+            "pathWithType": "Xã ĐỊnh Thành, Huyện Đông Hải, Tỉnh Bạc Liêu, Việt Nam"
+        },
+        {
+            "index": 7,
+            "code": "",
+            "type": "ward",
+            "name": "Định Thành A",
+            "slug": "dinh thanh a",
+            "nameWithType": "Xã Định Thành A",
+            "path": "Định Thành A, Đông Hải, Bạc Liêu, Việt Nam",
+            "pathWithType": "Xã Định Thành A, Huyện Đông Hải, Tỉnh Bạc Liêu, Việt Nam"
+        },
+        {
+            "index": 8,
+            "code": "",
+            "type": "ward",
+            "name": "Long Điền",
+            "slug": "long dien",
+            "nameWithType": "Xã Long Điền",
+            "path": "Long Điền, Đông Hải, Bạc Liêu, Việt Nam",
+            "pathWithType": "Xã Long Điền, Huyện Đông Hải, Tỉnh Bạc Liêu, Việt Nam"
+        },
+        {
+            "index": 9,
+            "code": "",
+            "type": "ward",
+            "name": "Long Điền Đông",
+            "slug": "long dien dong",
+            "nameWithType": "Xã Long Điền Đông",
+            "path": "Long Điền ĐÔng, Đông Hải, Bạc Liêu, Việt Nam",
+            "pathWithType": "Xã Long Điền Đông, Huyện Đông Hải, Tỉnh Bạc Liêu, Việt Nam"
+        },
+        {
+            "index": 10,
+            "code": "",
+            "type": "ward",
+            "name": "Long Điền ĐÔng A",
+            "slug": "long dien dong a",
+            "nameWithType": "Xã Long Điền ĐÔng A",
+            "path": "Long Điền Đông A, Đông Hải, Bạc Liêu, Việt Nam",
+            "pathWithType": "Xã Long Điền Đông A, Huyện Đông Hải, Tỉnh Bạc Liêu, Việt Nam"
+        },
+        {
+            "index": 11,
+            "code": "",
+            "type": "ward",
+            "name": "Long Điền Tây",
+            "slug": "long dien tay",
+            "nameWithType": "Xã Long Điền Tây",
+            "path": "Long Điền Tây, Đông Hải, Bạc Liêu, Việt Nam",
+            "pathWithType": "Xã Long Điền Tây, Huyện Đông Hải, Tỉnh Bạc Liêu, Việt Nam"
+        }
+    ]
+}

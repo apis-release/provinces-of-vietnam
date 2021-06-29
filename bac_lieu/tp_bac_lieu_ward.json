@@ -1,0 +1,108 @@
+{
+    "description": "Tính đến tháng 06 năm 2021 - Tp. Bạc Liêu bao gồm 7 Phường và 3 Xã",
+    "lastUpdatedAt": "2021-06-29T10:45:57.503833774+07:00",
+    "type": "district",
+    "name": "Tp. Bạc Liêu",
+    "wards": [
+        {
+            "index": 1,
+            "code": "",
+            "type": "ward",
+            "name": "P.1",
+            "slug": "p.1",
+            "nameWithType": "Phường 1",
+            "path": "P.1, Tp. Bạc Liêu, Bạc Liêu, Việt Nam",
+            "pathWithType": "Phường 1, Thành phố Bạc Liêu, Tỉnh Bạc Liêu, Việt Nam"
+        },
+        {
+            "index": 2,
+            "code": "",
+            "type": "ward",
+            "name": "P.2",
+            "slug": "p.2",
+            "nameWithType": "Phường 1",
+            "path": "P.2, Tp. Bạc Liêu, Bạc Liêu, Việt Nam",
+            "pathWithType": "Phường 2, Thành phố Bạc Liêu, Tỉnh Bạc Liêu, Việt Nam"
+        },
+        {
+            "index": 3,
+            "code": "",
+            "type": "ward",
+            "name": "P.3",
+            "slug": "p.3",
+            "nameWithType": "Phường 3",
+            "path": "P.3, Tp. Bạc Liêu, Bạc Liêu, Việt Nam",
+            "pathWithType": "Phường 3, Thành phố Bạc Liêu, Tỉnh Bạc Liêu, Việt Nam"
+        },
+        {
+            "index": 4,
+            "code": "",
+            "type": "ward",
+            "name": "P.5",
+            "slug": "p.5",
+            "nameWithType": "Phường 5",
+            "path": "P.5, Tp. Bạc Liêu, Bạc Liêu, Việt Nam",
+            "pathWithType": "Phường 5, Thành phố Bạc Liêu, Tỉnh Bạc Liêu, Việt Nam"
+        },
+        {
+            "index": 5,
+            "code": "",
+            "type": "ward",
+            "name": "P.7",
+            "slug": "p.7",
+            "nameWithType": "Phường 7",
+            "path": "P.7, Tp. Bạc Liêu, Bạc Liêu, Việt Nam",
+            "pathWithType": "Phường 7, Thành phố Bạc Liêu, Tỉnh Bạc Liêu, Việt Nam"
+        },
+        {
+            "index": 6,
+            "code": "",
+            "type": "ward",
+            "name": "P.8",
+            "slug": "p.8",
+            "nameWithType": "Phường 8",
+            "path": "P.8, Tp. Bạc Liêu, Bạc Liêu, Việt Nam",
+            "pathWithType": "Phường 8, Thành phố Bạc Liêu, Tỉnh Bạc Liêu, Việt Nam"
+        },
+        {
+            "index": 7,
+            "code": "",
+            "type": "ward",
+            "name": "Nhà Mát",
+            "slug": "nha mat",
+            "nameWithType": "Phường Nhà Mát",
+            "path": "Nhà Mát, Tp. Bạc Liêu, Bạc Liêu, Việt Nam",
+            "pathWithType": "Phường Nhà Mát, Thành phố Bạc Liêu, Tỉnh Bạc Liêu, Việt Nam"
+        },
+        {
+            "index": 8,
+            "code": "",
+            "type": "ward",
+            "name": "Hiệp Thành",
+            "slug": "hiep thanh",
+            "nameWithType": "Xã Hiệp Thành",
+            "path": "Hiệp Thành, Tp. Bạc Liêu, Bạc Liêu, Việt Nam",
+            "pathWithType": "Xã Hiệp Thành, Thành phố Bạc Liêu, Tỉnh Bạc Liêu, Việt Nam"
+        },
+        {
+            "index": 9,
+            "code": "",
+            "type": "ward",
+            "name": "Vĩnh Trạch",
+            "slug": "vinh trach",
+            "nameWithType": "Xã Vĩnh Trạch",
+            "path": "Vĩnh Trạch, Tp. Bạc Liêu, Bạc Liêu, Việt Nam",
+            "pathWithType": "Xã Vĩnh Trạch, Thành phố Bạc Liêu, Tỉnh Bạc Liêu, Việt Nam"
+        },
+        {
+            "index": 10,
+            "code": "",
+            "type": "ward",
+            "name": "Vĩnh Trạch Đông",
+            "slug": "vinh trach dong",
+            "nameWithType": "Xã Vĩnh Trạch Đông",
+            "path": "Vĩnh Trạch Đông, Tp. Bạc Liêu, Bạc Liêu, Việt Nam",
+            "pathWithType": "Xã Vĩnh Trạch Đông, Thành phố Bạc Liêu, Tỉnh Bạc Liêu, Việt Nam"
+        }
+    ]
+}

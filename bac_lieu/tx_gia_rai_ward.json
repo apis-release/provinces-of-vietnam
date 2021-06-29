@@ -1,0 +1,108 @@
+{
+    "description": "Tính đến tháng 06 năm 2021 - Tx. Giá Rai bao gồm 3 Phường và 7 Xã",
+    "lastUpdatedAt": "2021-06-29T10:45:57.50393352+07:00",
+    "type": "district",
+    "name": "Tx. Giá Rai",
+    "wards": [
+        {
+            "index": 1,
+            "code": "",
+            "type": "ward",
+            "name": "P.1",
+            "slug": "p.1",
+            "nameWithType": "Phường 1",
+            "path": "P.1, Tx. Giá Rai, Bạc Liêu, Việt Nam",
+            "pathWithType": "Phường 1, Thị xã Giá Rai, Tỉnh Bạc Liêu, Việt Nam"
+        },
+        {
+            "index": 2,
+            "code": "",
+            "type": "ward",
+            "name": "Hộ Phòng",
+            "slug": "ho phong",
+            "nameWithType": "Phường Hộ Phòng",
+            "path": "Hộ Phòng, Tx. Giá Rai, Bạc Liêu, Việt Nam",
+            "pathWithType": "Phường Hộ Phòng, Thị xã Giá Rai, Tỉnh Bạc Liêu, Việt Nam"
+        },
+        {
+            "index": 3,
+            "code": "",
+            "type": "ward",
+            "name": "Láng Tròn",
+            "slug": "lang tron",
+            "nameWithType": "Phường Láng Tròn",
+            "path": "Láng Tròn, Tx. Giá Rai, Bạc Liêu, Việt Nam",
+            "pathWithType": "Phường Láng Tròn, Thị xã Giá Rai, Tỉnh Bạc Liêu, Việt Nam"
+        },
+        {
+            "index": 4,
+            "code": "",
+            "type": "ward",
+            "name": "Phong Tân",
+            "slug": "phong tan",
+            "nameWithType": "Xã Phong Tân",
+            "path": "Phong Tân, Tx. Giá Rai, Bạc Liêu, Việt Nam",
+            "pathWithType": "Xã Phong Tân, Thị xã Giá Rai, Tỉnh Bạc Liêu, Việt Nam"
+        },
+        {
+            "index": 5,
+            "code": "",
+            "type": "ward",
+            "name": "Phong Thạnh",
+            "slug": "phong thanh",
+            "nameWithType": "Xã Phong Thạnh",
+            "path": "Phong Thạnh, Tx. Giá Rai, Bạc Liêu, Việt Nam",
+            "pathWithType": "Xã Phong Thạnh, Thị xã Giá Rai, Tỉnh Bạc Liêu, Việt Nam"
+        },
+        {
+            "index": 6,
+            "code": "",
+            "type": "ward",
+            "name": "Phong Thạnh A",
+            "slug": "phong thanh a",
+            "nameWithType": "Xã Phong Thạnh A",
+            "path": "Phong Thạnh A, Tx. Giá Rai, Bạc Liêu, Việt Nam",
+            "pathWithType": "Xã Phong Thạnh A, Thị xã Giá Rai, Tỉnh Bạc Liêu, Việt Nam"
+        },
+        {
+            "index": 7,
+            "code": "",
+            "type": "ward",
+            "name": "Phong Thạnh Đông",
+            "slug": "phong thanh dong",
+            "nameWithType": "Xã Phong Thạnh Đông",
+            "path": "Phong Thạnh Đông, Tx. Giá Rai, Bạc Liêu, Việt Nam",
+            "pathWithType": "Xã Phong Thạnh Đông, Thị xã Giá Rai, Tỉnh Bạc Liêu, Việt Nam"
+        },
+        {
+            "index": 8,
+            "code": "",
+            "type": "ward",
+            "name": "Phong Thạnh Tây",
+            "slug": "phong thanh tay",
+            "nameWithType": "Xã Phong Thạnh Tây",
+            "path": "Phong Thạnh Tây, Tx. Giá Rai, Bạc Liêu, Việt Nam",
+            "pathWithType": "Xã Phong Thạnh Tây, Thị xã Giá Rai, Tỉnh Bạc Liêu, Việt Nam"
+        },
+        {
+            "index": 9,
+            "code": "",
+            "type": "ward",
+            "name": "Tân Phong",
+            "slug": "tan phong",
+            "nameWithType": "Xã Tân Phong",
+            "path": "Tân Phong, Tx. Giá Rai, Bạc Liêu, Việt Nam",
+            "pathWithType": "Xã Tân Phong, Thị xã Giá Rai, Tỉnh Bạc Liêu, Việt Nam"
+        },
+        {
+            "index": 10,
+            "code": "",
+            "type": "ward",
+            "name": "Tân Thạnh",
+            "slug": "tan thanh",
+            "nameWithType": "Xã Tân Thạnh",
+            "path": "Tân Thạnh, Tx. Giá Rai, Bạc Liêu, Việt Nam",
+            "pathWithType": "Xã Tân Thạnh, Thị xã Giá Rai, Tỉnh Bạc Liêu, Việt Nam"
+        }
+    ]
+}

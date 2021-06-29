@@ -1,0 +1,98 @@
+{
+    "description": "Tính đến tháng 06 năm 2021 - Huyện 1 bao gồm 1 Thị trấn và 8 Xã",
+    "lastUpdatedAt": "2021-06-29T10:45:57.504034731+07:00",
+    "type": "district",
+    "name": "Hồng Dân",
+    "wards": [
+        {
+            "index": 1,
+            "code": "",
+            "type": "ward",
+            "name": "TT. Ngan Dừa",
+            "slug": "tt. ngan dua",
+            "nameWithType": "Thị trấn Ngan Dừa",
+            "path": "TT. Ngan Dừa, Hồng Dân, Bạc Liêu, Việt Nam",
+            "pathWithType": "Thị trấn Ngan Dừa, Huyện Hồng Dân, Tỉnh Bạc Liêu, Việt Nam"
+        },
+        {
+            "index": 2,
+            "code": "",
+            "type": "ward",
+            "name": "Lộc Ninh",
+            "slug": "loc ninh",
+            "nameWithType": "Xã Lộc Ninh",
+            "path": "Lộc Ninh, Hồng Dân, Bạc Liêu, Việt Nam",
+            "pathWithType": "Xã Lộc Ninh, Huyện Hồng Dân, Tỉnh Bạc Liêu, Việt Nam"
+        },
+        {
+            "index": 3,
+            "code": "",
+            "type": "ward",
+            "name": "Ninh Hòa",
+            "slug": "ninh hoa",
+            "nameWithType": "Xã Ninh Hòa",
+            "path": "Ninh Hòa, Hồng Dân, Bạc Liêu, Việt Nam",
+            "pathWithType": "Xã Ninh Hòa, Huyện Hồng Dân, Tỉnh Bạc Liêu, Việt Nam"
+        },
+        {
+            "index": 4,
+            "code": "",
+            "type": "ward",
+            "name": "Ninh Quới",
+            "slug": "ninh quoi",
+            "nameWithType": "Xã Ninh Quới",
+            "path": "Ninh Quới, Hồng Dân, Bạc Liêu, Việt Nam",
+            "pathWithType": "Xã Ninh Quới, Huyện Hồng Dân, Tỉnh Bạc Liêu, Việt Nam"
+        },
+        {
+            "index": 5,
+            "code": "",
+            "type": "ward",
+            "name": "Ninh Quới A",
+            "slug": "ninh quoi a",
+            "nameWithType": "Xã Ninh Quới A",
+            "path": "Ninh Qưới A, Hồng Dân, Bạc Liêu, Việt Nam",
+            "pathWithType": "Xã Ninh Quới A, Huyện Hồng Dân, Tỉnh Bạc Liêu, Việt Nam"
+        },
+        {
+            "index": 6,
+            "code": "",
+            "type": "ward",
+            "name": "Ninh Thạnh Lợi",
+            "slug": "ninh thanh loi",
+            "nameWithType": "Xã Ninh Thạnh Lợi",
+            "path": "Ninh Thạnh Lợi, Hồng Dân, Bạc Liêu, Việt Nam",
+            "pathWithType": "Xã Ninh Thạnh Lợi, Huyện Hồng Dân, Tỉnh Bạc Liêu, Việt Nam"
+        },
+        {
+            "index": 7,
+            "code": "",
+            "type": "ward",
+            "name": "Ninh Thạnh Lợi A",
+            "slug": "ninh thanh loi a",
+            "nameWithType": "Xã Ninh Thạnh Lợi A",
+            "path": "Ninh Thạnh Lợi A, Hồng Dân, Bạc Liêu, Việt Nam",
+            "pathWithType": "Xã Ninh Thạnh Lợi A, Huyện Hồng Dân, Tỉnh Bạc Liêu, Việt Nam"
+        },
+        {
+            "index": 8,
+            "code": "",
+            "type": "ward",
+            "name": "Vĩnh Lộc",
+            "slug": "vinh loc",
+            "nameWithType": "Xã Vĩnh Lộc",
+            "path": "Vĩnh Lộc, Hồng Dân, Bạc Liêu, Việt Nam",
+            "pathWithType": "Xã Vĩnh Lộc, Huyện Hồng Dân, Tỉnh Bạc Liêu, Việt Nam"
+        },
+        {
+            "index": 9,
+            "code": "",
+            "type": "ward",
+            "name": "Vĩnh Lộc A",
+            "slug": "vinh loc a",
+            "nameWithType": "Xã Vĩnh Lộc A",
+            "path": "Vĩnh Lộc A, Hồng Dân, Bạc Liêu, Việt Nam",
+            "pathWithType": "Xã Vĩnh Lộc A, Huyện Hồng Dân, Tỉnh Bạc Liêu, Việt Nam"
+        }
+    ]
+}
