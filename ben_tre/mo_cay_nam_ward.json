@@ -1,0 +1,168 @@
+{
+    "description": "Tính đến tháng 06 năm 2021 - Huyện Mỏ Cày Nam bao gồm 1 Thị trấn và 15 Xã",
+    "lastUpdatedAt": "2021-06-29T11:32:39.356581725+07:00",
+    "type": "district",
+    "name": "Mỏ Cày Nam",
+    "wards": [
+        {
+            "index": 1,
+            "code": "",
+            "type": "ward",
+            "name": "TT. Mỏ Cày",
+            "slug": "tt. mo cay",
+            "nameWithType": "Thị trấn Mỏ Cày",
+            "path": "TT. Mỏ Cày, Mỏ Cày Nam, Bến Tre, Việt Nam",
+            "pathWithType": "Thị trấn Mỏ Cày, Huyện Mỏ Cày Nam, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 2,
+            "code": "",
+            "type": "ward",
+            "name": "An Định",
+            "slug": "an dinh",
+            "nameWithType": "Xã An Định",
+            "path": "An Định, Mỏ Cày Nam, Bến Tre, Việt Nam",
+            "pathWithType": "Xã An Định, Huyện Mỏ Cày Nam, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 3,
+            "code": "",
+            "type": "ward",
+            "name": "An Thạnh",
+            "slug": "an thanh",
+            "nameWithType": "Xã An Thạnh",
+            "path": "An Thạnh, Mỏ Cày Nam, Bến Tre, Việt Nam",
+            "pathWithType": "Xã An Thạnh, Huyện Mỏ Cày Nam, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 4,
+            "code": "",
+            "type": "ward",
+            "name": "An Thới",
+            "slug": "an thoi",
+            "nameWithType": "Xã An Thới",
+            "path": "An Thới, Mỏ Cày Nam, Bến Tre, Việt Nam",
+            "pathWithType": "Xã An Thới, Huyện Mỏ Cày Nam, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 5,
+            "code": "",
+            "type": "ward",
+            "name": "Bình Khánh",
+            "slug": "binh khanh",
+            "nameWithType": "Xã Bình Khánh",
+            "path": "Bình Khánh, Mỏ Cày Nam, Bến Tre, Việt Nam",
+            "pathWithType": "Xã Bình Khánh, Huyện Mỏ Cày Nam, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 6,
+            "code": "",
+            "type": "ward",
+            "name": "Cẩm Sơn",
+            "slug": "cam son",
+            "nameWithType": "Xã Cẩm Sơn",
+            "path": "Cẩm Sơn, Mỏ Cày Nam, Bến Tre, Việt Nam",
+            "pathWithType": "Xã Cẩm Sơn, Huyện Mỏ Cày Nam, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 7,
+            "code": "",
+            "type": "ward",
+            "name": "Đa Phước Hội",
+            "slug": "da phuoc hoi",
+            "nameWithType": "Xã Đa Phước Hội",
+            "path": "Đa Phước Hội, Mỏ Cày Nam, Bến Tre, Việt Nam",
+            "pathWithType": "Xã Đa Phước Hội, Huyện Mỏ Cày Nam, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 8,
+            "code": "",
+            "type": "ward",
+            "name": "Định Thủy",
+            "slug": "dinh thuy",
+            "nameWithType": "Xã Định Thủy",
+            "path": "Định Thủy, Mỏ Cày Nam, Bến Tre, Việt Nam",
+            "pathWithType": "Xã Định Thủy, Huyện Mỏ Cày Nam, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 9,
+            "code": "",
+            "type": "ward",
+            "name": "Hương Mỹ",
+            "slug": "huong mỹ",
+            "nameWithType": "Xã Hương Mỹ",
+            "path": "Hương Mỹ, Mỏ Cày Nam, Bến Tre, Việt Nam",
+            "pathWithType": "Xã Hương Mỹ, Huyện Mỏ Cày Nam, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 10,
+            "code": "",
+            "type": "ward",
+            "name": "Minh Đức",
+            "slug": "minh duc",
+            "nameWithType": "Xã Minh Đức",
+            "path": "Minh Đức, Mỏ Cày Nam, Bến Tre, Việt Nam",
+            "pathWithType": "Xã Minh Đức, Huyện Mỏ Cày Nam, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 11,
+            "code": "",
+            "type": "ward",
+            "name": "Ngãi Đăng",
+            "slug": "ngai dang",
+            "nameWithType": "Xã Ngãi Đăng",
+            "path": "Ngãi Đăng, Mỏ Cày Nam, Bến Tre, Việt Nam",
+            "pathWithType": "Xã Ngãi Đăng, Huyện Mỏ Cày Nam, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 12,
+            "code": "",
+            "type": "ward",
+            "name": "Phước Hiệp",
+            "slug": "phuoc hiep",
+            "nameWithType": "Xã Phước Hiệp",
+            "path": "Phước Hiệp, Mỏ Cày Nam, Bến Tre, Việt Nam",
+            "pathWithType": "Xã Phước Hiệp, Huyện Mỏ Cày Nam, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 13,
+            "code": "",
+            "type": "ward",
+            "name": "Tân Hội",
+            "slug": "tan hoi",
+            "nameWithType": "Xã Tân Hội",
+            "path": "Tân Hội, Mỏ Cày Nam, Bến Tre, Việt Nam",
+            "pathWithType": "Xã Tân Hội, Huyện Mỏ Cày Nam, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 14,
+            "code": "",
+            "type": "ward",
+            "name": "Tân Trung",
+            "slug": "tan trung",
+            "nameWithType": "Xã Tân Trung",
+            "path": "Tân Trung, Mỏ Cày Nam, Bến Tre, Việt Nam",
+            "pathWithType": "Xã Tân Trung, Huyện Mỏ Cày Nam, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 15,
+            "code": "",
+            "type": "ward",
+            "name": "Thành Thới A",
+            "slug": "thanh thoi a",
+            "nameWithType": "Xã Thành Thới A",
+            "path": "Thành Thới A, Mỏ Cày Nam, Bến Tre, Việt Nam",
+            "pathWithType": "Xã Thành Thới A, Huyện Mỏ Cày Nam, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 16,
+            "code": "",
+            "type": "ward",
+            "name": "Thành Thới B",
+            "slug": "thanh thoi b",
+            "nameWithType": "Xã Thành Thới B",
+            "path": "Thành Thới B, Mỏ Cày Nam, Bến Tre, Việt Nam",
+            "pathWithType": "Xã Thành Thới B, Huyện Mỏ Cày Nam, Tỉnh Bến Tre, Việt Nam"
+        }
+    ]
+}

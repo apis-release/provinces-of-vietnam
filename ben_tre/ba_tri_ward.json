@@ -1,0 +1,238 @@
+{
+    "description": "Tính đến tháng 06 năm 2021 - Huyện Ba Tri bao gồm 1 Thị trấn và 22 Xã",
+    "lastUpdatedAt": "2021-06-29T11:32:39.356113912+07:00",
+    "type": "district",
+    "name": "Ba Tri",
+    "wards": [
+        {
+            "index": 1,
+            "code": "",
+            "type": "ward",
+            "name": "TT. Ba Tri",
+            "slug": "tt. ba tri",
+            "nameWithType": "Thị trấn Ba Tri",
+            "path": "TT. Ba Tri, Ba Tri, Bến Tre, Việt Nam",
+            "pathWithType": "Thị trấn Ba Tri, Huyện Ba Tri, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 2,
+            "code": "",
+            "type": "ward",
+            "name": "An Bình Tây",
+            "slug": "an binh tay",
+            "nameWithType": "Xã An Bình Tây",
+            "path": "An Bình Tây, Ba Tri, Bến Tre, Việt Nam",
+            "pathWithType": "Xã An Bình Tây, Huyện Ba Tri, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 3,
+            "code": "",
+            "type": "ward",
+            "name": "An Đức",
+            "slug": "an duc",
+            "nameWithType": "Xã An Đức",
+            "path": "An Đức, Ba Tri, Bến Tre, Việt Nam",
+            "pathWithType": "Xã An Đức, Huyện Ba Tri, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 4,
+            "code": "",
+            "type": "ward",
+            "name": "An Hiệp",
+            "slug": "an hiep",
+            "nameWithType": "Xã An Hiệp",
+            "path": "An Hiệp, Ba Tri, Bến Tre, Việt Nam",
+            "pathWithType": "Xã An Hiệp, Huyện Ba Tri, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 5,
+            "code": "",
+            "type": "ward",
+            "name": "An Hòa Tây",
+            "slug": "an hoa tay",
+            "nameWithType": "Xã An Hòa Tây",
+            "path": "An Hòa Tây, Ba Tri, Bến Tre, Việt Nam",
+            "pathWithType": "Xã An Hòa Tây, Huyện Ba Tri, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 6,
+            "code": "",
+            "type": "ward",
+            "name": "An Ngãi Tây",
+            "slug": "an ngai tay",
+            "nameWithType": "Xã An Ngãi Tây",
+            "path": "An Ngãi Tây, Ba Tri, Bến Tre, Việt Nam",
+            "pathWithType": "Xã An Ngãi Tây, Huyện Ba Tri, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 7,
+            "code": "",
+            "type": "ward",
+            "name": "An Ngãi Trung",
+            "slug": "an ngai trung",
+            "nameWithType": "Xã An Ngãi Trung",
+            "path": "An Ngãi Trung, Ba Tri, Bến Tre, Việt Nam",
+            "pathWithType": "Xã An Ngãi Trung, Huyện Ba Tri, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 8,
+            "code": "",
+            "type": "ward",
+            "name": "An Phú Trung",
+            "slug": "an phu trung",
+            "nameWithType": "Xã An Phú Trung",
+            "path": "An Phú Trung, Ba Tri, Bến Tre, Việt Nam",
+            "pathWithType": "Xã An Phú Trung, Huyện Ba Tri, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 9,
+            "code": "",
+            "type": "ward",
+            "name": "An Thủy",
+            "slug": "an thuy",
+            "nameWithType": "Xã An Thủy",
+            "path": "An Thủy, Ba Tri, Bến Tre, Việt Nam",
+            "pathWithType": "Xã An Thủy, Huyện Ba Tri, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 10,
+            "code": "",
+            "type": "ward",
+            "name": "Bảo Thạnh",
+            "slug": "bao thanh",
+            "nameWithType": "Xã Bảo Thạnh",
+            "path": "Bảo Thạnh, Ba Tri, Bến Tre, Việt Nam",
+            "pathWithType": "Xã Bảo Thạnh, Huyện Ba Tri, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 11,
+            "code": "",
+            "type": "ward",
+            "name": "Bảo Thuận",
+            "slug": "bao thuan",
+            "nameWithType": "Xã Bảo Thuận",
+            "path": "Bảo Thuận, Ba Tri, Bến Tre, Việt Nam",
+            "pathWithType": "Xã Bảo Thuận, Huyện Ba Tri, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 12,
+            "code": "",
+            "type": "ward",
+            "name": "Mỹ Chánh",
+            "slug": "mỹ chanh",
+            "nameWithType": "Xã Mỹ Chánh",
+            "path": "Mỹ Chánh, Ba Tri, Bến Tre, Việt Nam",
+            "pathWithType": "Xã Mỹ Chánh, Huyện Ba Tri, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 13,
+            "code": "",
+            "type": "ward",
+            "name": "Mỹ Hòa",
+            "slug": "mỹ hoa",
+            "nameWithType": "Xã Mỹ Hòa",
+            "path": "Mỹ Hòa, Ba Tri, Bến Tre, Việt Nam",
+            "pathWithType": "Xã Mỹ Hòa, Huyện Ba Tri, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 14,
+            "code": "",
+            "type": "ward",
+            "name": "Mỹ Nhơn",
+            "slug": "mỹ nhon",
+            "nameWithType": "Xã Mỹ Nhơn",
+            "path": "Mỹ Nhơn, Ba Tri, Bến Tre, Việt Nam",
+            "pathWithType": "Xã Mỹ Nhơn, Huyện Ba Tri, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 15,
+            "code": "",
+            "type": "ward",
+            "name": "Mỹ Thạnh",
+            "slug": "mỹ thanh",
+            "nameWithType": "Xã Mỹ Thạnh",
+            "path": "Mỹ Thạnh, Ba Tri, Bến Tre, Việt Nam",
+            "pathWithType": "Xã Mỹ Thạnh, Huyện Ba Tri, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 16,
+            "code": "",
+            "type": "ward",
+            "name": "Phú Lễ",
+            "slug": "phu le",
+            "nameWithType": "Xã Phú Lễ",
+            "path": "Phú Lễ, Ba Tri, Bến Tre, Việt Nam",
+            "pathWithType": "Xã Phú Lễ, Huyện Ba Tri, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 17,
+            "code": "",
+            "type": "ward",
+            "name": "Phước Ngãi",
+            "slug": "phuoc ngai",
+            "nameWithType": "Xã Phước Ngãi",
+            "path": "Phước Ngãi, Ba Tri, Bến Tre, Việt Nam",
+            "pathWithType": "Xã Phước Ngãi, Huyện Ba Tri, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 18,
+            "code": "",
+            "type": "ward",
+            "name": "Tân Hưng",
+            "slug": "tan hung",
+            "nameWithType": "Xã Tân Hưng",
+            "path": "Tân Hưng, Ba Tri, Bến Tre, Việt Nam",
+            "pathWithType": "Xã Tân Hưng, Huyện Ba Tri, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 19,
+            "code": "",
+            "type": "ward",
+            "name": "Tân Mỹ",
+            "slug": "tan mỹ",
+            "nameWithType": "Xã Tân Mỹ",
+            "path": "Tân Mỹ, Ba Tri, Bến Tre, Việt Nam",
+            "pathWithType": "Xã Tân Mỹ, Huyện Ba Tri, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 20,
+            "code": "",
+            "type": "ward",
+            "name": "Tân Thủy",
+            "slug": "tan thuy",
+            "nameWithType": "Xã Tân Thủy",
+            "path": "Tân Thủy, Ba Tri, Bến Tre, Việt Nam",
+            "pathWithType": "Xã Tân Thủy, Huyện Ba Tri, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 21,
+            "code": "",
+            "type": "ward",
+            "name": "Tân Xuân",
+            "slug": "tan xuan",
+            "nameWithType": "Xã Tân Xuân",
+            "path": "Tân Xuân, Ba Tri, Bến Tre, Việt Nam",
+            "pathWithType": "Xã Tân Xuân, Huyện Ba Tri, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 22,
+            "code": "",
+            "type": "ward",
+            "name": "Vĩnh An",
+            "slug": "vinh an",
+            "nameWithType": "Xã Vĩnh An",
+            "path": "Vĩnh An, Ba Tri, Bến Tre, Việt Nam",
+            "pathWithType": "Xã Vĩnh An, Huyện Ba Tri, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 23,
+            "code": "",
+            "type": "ward",
+            "name": "Vĩnh Hòa",
+            "slug": "vinh hoa",
+            "nameWithType": "Xã Vĩnh Hòa",
+            "path": "Vĩnh Hòa, Ba Tri, Bến Tre, Việt Nam",
+            "pathWithType": "Xã Vĩnh Hòa, Huyện Ba Tri, Tỉnh Bến Tre, Việt Nam"
+        }
+    ]
+}

@@ -1,0 +1,188 @@
+{
+    "description": "Tính đến tháng 06 năm 2021 - Huyện Thạnh Phú bao gồm 1 Thị trấn và 17 Xã",
+    "lastUpdatedAt": "2021-06-29T11:32:39.35665412+07:00",
+    "type": "district",
+    "name": "Thạnh Phú",
+    "wards": [
+        {
+            "index": 1,
+            "code": "",
+            "type": "ward",
+            "name": "TT. Thạnh Phú",
+            "slug": "tt. thanh phu",
+            "nameWithType": "Thị trấn Thạnh Phú",
+            "path": "TT. Thạnh Phú, Thạnh Phú, Bến Tre, Việt Nam",
+            "pathWithType": "Thị trấn Thạnh Phú, Huyện Thạnh Phú, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 2,
+            "code": "",
+            "type": "ward",
+            "name": "An Điền",
+            "slug": "an dien",
+            "nameWithType": "Xã An Điền",
+            "path": "An Điền, Thạnh Phú, Bến Tre, Việt Nam",
+            "pathWithType": "Xã An Điền, Huyện Thạnh Phú, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 3,
+            "code": "",
+            "type": "ward",
+            "name": "An Nhơn",
+            "slug": "an nhon",
+            "nameWithType": "Xã An Nhơn",
+            "path": "An Nhơn, Thạnh Phú, Bến Tre, Việt Nam",
+            "pathWithType": "Xã An Nhơn, Huyện Thạnh Phú, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 4,
+            "code": "",
+            "type": "ward",
+            "name": "An Quy",
+            "slug": "an quy",
+            "nameWithType": "Xã An Quy",
+            "path": "An Quy, Thạnh Phú, Bến Tre, Việt Nam",
+            "pathWithType": "Xã An Quy, Huyện Thạnh Phú, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 5,
+            "code": "",
+            "type": "ward",
+            "name": "An Thạnh",
+            "slug": "an thanh",
+            "nameWithType": "Xã An Thạnh",
+            "path": "An Thạnh, Thạnh Phú, Bến Tre, Việt Nam",
+            "pathWithType": "Xã An Thạnh, Huyện Thạnh Phú, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 6,
+            "code": "",
+            "type": "ward",
+            "name": "An Thuận",
+            "slug": "an thuan",
+            "nameWithType": "Xã An Thuận",
+            "path": "An Thuận, Thạnh Phú, Bến Tre, Việt Nam",
+            "pathWithType": "Xã An Thuận, Huyện Thạnh Phú, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 7,
+            "code": "",
+            "type": "ward",
+            "name": "Bình Thạnh",
+            "slug": "binh thanh",
+            "nameWithType": "Xã Bình Thạnh",
+            "path": "Bình Thạnh, Thạnh Phú, Bến Tre, Việt Nam",
+            "pathWithType": "Xã Bình Thạnh, Huyện Thạnh Phú, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 8,
+            "code": "",
+            "type": "ward",
+            "name": "Đại Điền",
+            "slug": "dai dien",
+            "nameWithType": "Xã Đại Điền",
+            "path": "Đại Điền, Thạnh Phú, Bến Tre, Việt Nam",
+            "pathWithType": "Xã Đại Điền, Huyện Thạnh Phú, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 9,
+            "code": "",
+            "type": "ward",
+            "name": "Giao Thạnh",
+            "slug": "giao thanh",
+            "nameWithType": "Xã Giao Thạnh",
+            "path": "Giao Thạnh, Thạnh Phú, Bến Tre, Việt Nam",
+            "pathWithType": "Xã Giao Thạnh, Huyện Thạnh Phú, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 10,
+            "code": "",
+            "type": "ward",
+            "name": "Hòa Lợi",
+            "slug": "hoa loi",
+            "nameWithType": "Xã Hòa Lợi",
+            "path": "Hòa Lợi, Thạnh Phú, Bến Tre, Việt Nam",
+            "pathWithType": "Xã Hòa Lợi, Huyện Thạnh Phú, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 11,
+            "code": "",
+            "type": "ward",
+            "name": "Mỹ An",
+            "slug": "mỹ an",
+            "nameWithType": "Xã Mỹ An",
+            "path": "Mỹ An, Thạnh Phú, Bến Tre, Việt Nam",
+            "pathWithType": "Xã Mỹ An, Huyện Thạnh Phú, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 12,
+            "code": "",
+            "type": "ward",
+            "name": "Mỹ Hưng",
+            "slug": "mỹ hung",
+            "nameWithType": "Xã Mỹ Hưng",
+            "path": "Mỹ Hưng, Thạnh Phú, Bến Tre, Việt Nam",
+            "pathWithType": "Xã Mỹ Hưng, Huyện Thạnh Phú, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 13,
+            "code": "",
+            "type": "ward",
+            "name": "Phú Khánh",
+            "slug": "phu khanh",
+            "nameWithType": "Xã Phú Khánh",
+            "path": "Phú Khánh, Thạnh Phú, Bến Tre, Việt Nam",
+            "pathWithType": "Xã Phú Khánh, Huyện Thạnh Phú, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 14,
+            "code": "",
+            "type": "ward",
+            "name": "Quới Điền",
+            "slug": "quoi dien",
+            "nameWithType": "Xã Quới Điền",
+            "path": "Quới Điền, Thạnh Phú, Bến Tre, Việt Nam",
+            "pathWithType": "Xã Quới Điền, Huyện Thạnh Phú, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 15,
+            "code": "",
+            "type": "ward",
+            "name": "Tân Phong",
+            "slug": "tan phong",
+            "nameWithType": "Xã Tân Phong",
+            "path": "Tân Phong, Thạnh Phú, Bến Tre, Việt Nam",
+            "pathWithType": "Xã Tân Phong, Huyện Thạnh Phú, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 16,
+            "code": "",
+            "type": "ward",
+            "name": "Thạnh Hải",
+            "slug": "thanh hai",
+            "nameWithType": "Xã Thạnh Hải",
+            "path": "Thạnh Hải, Thạnh Phú, Bến Tre, Việt Nam",
+            "pathWithType": "Xã Thạnh Hải, Huyện Thạnh Phú, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 17,
+            "code": "",
+            "type": "ward",
+            "name": "Thạnh Phong",
+            "slug": "thanh phong",
+            "nameWithType": "Xã Thạnh Phong",
+            "path": "Thạnh Phong, Thạnh Phú, Bến Tre, Việt Nam",
+            "pathWithType": "Xã Thạnh Phong, Huyện Thạnh Phú, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 18,
+            "code": "",
+            "type": "ward",
+            "name": "Thới Thạnh",
+            "slug": "thoi thanh",
+            "nameWithType": "Xã Thới Thạnh",
+            "path": "Thới Thạnh, Thạnh Phú, Bến Tre, Việt Nam",
+            "pathWithType": "Xã Thới Thạnh, Huyện Thạnh Phú, Tỉnh Bến Tre, Việt Nam"
+        }
+    ]
+}

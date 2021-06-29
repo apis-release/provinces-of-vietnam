@@ -1,0 +1,138 @@
+{
+    "description": "Tính đến tháng 06 năm 2021 - Huyện Mỏ Cày Bắc bao gồm 13 Xã",
+    "lastUpdatedAt": "2021-06-29T11:32:39.356513059+07:00",
+    "type": "district",
+    "name": "Mỏ Cày Bắc",
+    "wards": [
+        {
+            "index": 1,
+            "code": "",
+            "type": "ward",
+            "name": "Hòa Lộc",
+            "slug": "hoa loc",
+            "nameWithType": "Xã Hòa Lộc",
+            "path": "Hòa Lộc, Mỏ Cày Bắc, Bến Tre, Việt Nam",
+            "pathWithType": "Xã Hòa Lộc, Huyện Mỏ Cày Bắc, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 2,
+            "code": "",
+            "type": "ward",
+            "name": "Hưng Khánh Trung A",
+            "slug": "hung khanh trung a",
+            "nameWithType": "Xã Hưng Khánh Trung A",
+            "path": "Hưng Khánh Trung A, Mỏ Cày Bắc, Bến Tre, Việt Nam",
+            "pathWithType": "Xã Hưng Khánh Trung A, Huyện Mỏ Cày Bắc, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 3,
+            "code": "",
+            "type": "ward",
+            "name": "Khánh Thạnh Tân",
+            "slug": "khanh thanh tan",
+            "nameWithType": "Xã Khánh Thạnh Tân",
+            "path": "Khánh Thạnh Tân, Mỏ Cày Bắc, Bến Tre, Việt Nam",
+            "pathWithType": "Xã Khánh Thạnh Tân, Huyện Mỏ Cày Bắc, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 4,
+            "code": "",
+            "type": "ward",
+            "name": "Nhuận Phú Tân",
+            "slug": "nhuan phu tan",
+            "nameWithType": "Xã Nhuận Phú Tân",
+            "path": "Nhuân Phú Tân, Mỏ Cày Bắc, Bến Tre, Việt Nam",
+            "pathWithType": "Xã Nhuân Phú Tân, Huyện Mỏ Cày Bắc, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 5,
+            "code": "",
+            "type": "ward",
+            "name": "Phú Mỹ",
+            "slug": "phu mỹ",
+            "nameWithType": "Xã Phú Mỹ",
+            "path": "Phú Mỹ, Mỏ Cày Bắc, Bến Tre, Việt Nam",
+            "pathWithType": "Xã Phú Mỹ, Huyện Mỏ Cày Bắc, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 6,
+            "code": "",
+            "type": "ward",
+            "name": "Phước Mỹ Trung",
+            "slug": "phuoc mỹ trung",
+            "nameWithType": "Xã Phước Mỹ Trung",
+            "path": "Phước Mỹ Trung, Mỏ Cày Bắc, Bến Tre, Việt Nam",
+            "pathWithType": "Xã Phước Mỹ Trung, Huyện Mỏ Cày Bắc, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 7,
+            "code": "",
+            "type": "ward",
+            "name": "Tân Bình",
+            "slug": "tan binh",
+            "nameWithType": "Xã Tân Bình",
+            "path": "Tân Bình, Mỏ Cày Bắc, Bến Tre, Việt Nam",
+            "pathWithType": "Xã Tân Bình, Huyện Mỏ Cày Bắc, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 8,
+            "code": "",
+            "type": "ward",
+            "name": "Tân Phú Tây",
+            "slug": "tan phu tay",
+            "nameWithType": "Xã Tân Phú Tây",
+            "path": "Tân Phú Tây, Mỏ Cày Bắc, Bến Tre, Việt Nam",
+            "pathWithType": "Xã Tân Phú Tây, Huyện Mỏ Cày Bắc, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 9,
+            "code": "",
+            "type": "ward",
+            "name": "Tân Thành Bình",
+            "slug": "tan thanh binh",
+            "nameWithType": "Xã Tân Thành Bình",
+            "path": "Tân Thành Bình, Mỏ Cày Bắc, Bến Tre, Việt Nam",
+            "pathWithType": "Xã Tân Thành Bình, Huyện Mỏ Cày Bắc, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 10,
+            "code": "",
+            "type": "ward",
+            "name": "Tân Thanh Tây",
+            "slug": "tan thanh tay",
+            "nameWithType": "Xã Tân Thanh Tây",
+            "path": "Tân Thanh Tây, Mỏ Cày Bắc, Bến Tre, Việt Nam",
+            "pathWithType": "Xã Tân Thanh Tây, Huyện Mỏ Cày Bắc, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 11,
+            "code": "",
+            "type": "ward",
+            "name": "Thành An",
+            "slug": "thanh an",
+            "nameWithType": "Xã Thành An",
+            "path": "Thành An, Mỏ Cày Bắc, Bến Tre, Việt Nam",
+            "pathWithType": "Xã Thành An, Huyện Mỏ Cày Bắc, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 12,
+            "code": "",
+            "type": "ward",
+            "name": "Thạnh Ngãi",
+            "slug": "thanh ngai",
+            "nameWithType": "Xã Thạnh Ngãi",
+            "path": "Thạnh Ngãi, Mỏ Cày Bắc, Bến Tre, Việt Nam",
+            "pathWithType": "Xã Thạnh Ngãi, Huyện Mỏ Cày Bắc, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 13,
+            "code": "",
+            "type": "ward",
+            "name": "Thanh Tân",
+            "slug": "thanh tan",
+            "nameWithType": "Xã Thanh Tân",
+            "path": "Thanh Tân, Mỏ Cày Bắc, Bến Tre, Việt Nam",
+            "pathWithType": "Xã Thanh Tân, Huyện Mỏ Cày Bắc, Tỉnh Bến Tre, Việt Nam"
+        }
+    ]
+}

@@ -1,0 +1,218 @@
+{
+    "description": "Tính đến tháng 06 năm 2021 - Huyện Giồng Trôm bao gồm 1 Thị trấn và 20 Xã",
+    "lastUpdatedAt": "2021-06-29T11:32:39.356427915+07:00",
+    "type": "district",
+    "name": "Giồng Trôm",
+    "wards": [
+        {
+            "index": 1,
+            "code": "",
+            "type": "ward",
+            "name": "TT. Giồng Trôm",
+            "slug": "tt. giong trom",
+            "nameWithType": "Thị trấn Giồng Trôm",
+            "path": "TT. Giồng Trôm, Giồng Trôm, Bến Tre, Việt Nam",
+            "pathWithType": "Thị trấn Giồng Trôm, Huyện Giồng Trôm, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 2,
+            "code": "",
+            "type": "ward",
+            "name": "Bình Hòa",
+            "slug": "binh hoa",
+            "nameWithType": "Xã Bình Hòa",
+            "path": "Bình Hòa, Giồng Trôm, Bến Tre, Việt Nam",
+            "pathWithType": "Xã Bình Hòa, Huyện Giồng Trôm, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 3,
+            "code": "",
+            "type": "ward",
+            "name": "Bình Thành",
+            "slug": "binh thanh",
+            "nameWithType": "Xã Bình Thành",
+            "path": "Bình Thành, Giồng Trôm, Bến Tre, Việt Nam",
+            "pathWithType": "Xã Bình Thành, Huyện Giồng Trôm, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 4,
+            "code": "",
+            "type": "ward",
+            "name": "Châu Bình",
+            "slug": "chau binh",
+            "nameWithType": "Xã Châu Bình",
+            "path": "Châu Bình, Giồng Trôm, Bến Tre, Việt Nam",
+            "pathWithType": "Xã Châu Bình, Huyện Giồng Trôm, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 5,
+            "code": "",
+            "type": "ward",
+            "name": "Châu Hòa",
+            "slug": "chau hoa",
+            "nameWithType": "Xã Châu Hòa",
+            "path": "Châu Hòa, Giồng Trôm, Bến Tre, Việt Nam",
+            "pathWithType": "Xã Châu Hòa, Huyện Giồng Trôm, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 6,
+            "code": "",
+            "type": "ward",
+            "name": "Hưng Lễ",
+            "slug": "hung le",
+            "nameWithType": "Xã Hưng Lễ",
+            "path": "Hưng Lễ, Giồng Trôm, Bến Tre, Việt Nam",
+            "pathWithType": "Xã Hưng Lễ, Huyện Giồng Trôm, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 7,
+            "code": "",
+            "type": "ward",
+            "name": "Hưng Nhượng",
+            "slug": "hung nhuong",
+            "nameWithType": "Xã Hưng Nhượng",
+            "path": "Hưng Nhượng, Giồng Trôm, Bến Tre, Việt Nam",
+            "pathWithType": "Xã Hưng Nhượng, Huyện Giồng Trôm, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 8,
+            "code": "",
+            "type": "ward",
+            "name": "Hưng Phong",
+            "slug": "hung phong",
+            "nameWithType": "Xã Hưng Phong",
+            "path": "Hưng Phong, Giồng Trôm, Bến Tre, Việt Nam",
+            "pathWithType": "Xã Hưng Phong, Huyện Giồng Trôm, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 9,
+            "code": "",
+            "type": "ward",
+            "name": "Long Mỹ",
+            "slug": "long mỹ",
+            "nameWithType": "Xã Long Mỹ",
+            "path": "Long Mỹ, Giồng Trôm, Bến Tre, Việt Nam",
+            "pathWithType": "Xã Long Mỹ, Huyện Giồng Trôm, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 10,
+            "code": "",
+            "type": "ward",
+            "name": "Lương Hòa",
+            "slug": "luong hoa",
+            "nameWithType": "Xã Lương Hòa",
+            "path": "Lương Hòa, Giồng Trôm, Bến Tre, Việt Nam",
+            "pathWithType": "Xã Lương Hòa, Huyện Giồng Trôm, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 11,
+            "code": "",
+            "type": "ward",
+            "name": "Lương Phú",
+            "slug": "luong phu",
+            "nameWithType": "Xã Lương Phú",
+            "path": "Lương Phú, Giồng Trôm, Bến Tre, Việt Nam",
+            "pathWithType": "Xã Lương Phú, Huyện Giồng Trôm, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 12,
+            "code": "",
+            "type": "ward",
+            "name": "Lương Quới",
+            "slug": "luong quoi",
+            "nameWithType": "Xã Lương Quới",
+            "path": "Lương Quới, Giồng Trôm, Bến Tre, Việt Nam",
+            "pathWithType": "Xã Lương Quới, Huyện Giồng Trôm, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 13,
+            "code": "",
+            "type": "ward",
+            "name": "Mỹ Thạnh",
+            "slug": "mỹ thanh",
+            "nameWithType": "Xã Mỹ Thạnh",
+            "path": "Mỹ Thạnh, Giồng Trôm, Bến Tre, Việt Nam",
+            "pathWithType": "Xã Mỹ Thạnh, Huyện Giồng Trôm, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 14,
+            "code": "",
+            "type": "ward",
+            "name": "Phong Nẫm",
+            "slug": "phong nam",
+            "nameWithType": "Xã Phong Nẫm",
+            "path": "Phong Nẫm, Giồng Trôm, Bến Tre, Việt Nam",
+            "pathWithType": "Xã Phong Nẫm, Huyện Giồng Trôm, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 15,
+            "code": "",
+            "type": "ward",
+            "name": "Phước Long",
+            "slug": "phuoc long",
+            "nameWithType": "Xã Phước Long",
+            "path": "Phước Long, Giồng Trôm, Bến Tre, Việt Nam",
+            "pathWithType": "Xã Phước Long, Huyện Giồng Trôm, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 16,
+            "code": "",
+            "type": "ward",
+            "name": "Sơn Phú",
+            "slug": "son phu",
+            "nameWithType": "Xã Sơn Phú",
+            "path": "Sơn Phú, Giồng Trôm, Bến Tre, Việt Nam",
+            "pathWithType": "Xã Sơn Phú, Huyện Giồng Trôm, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 17,
+            "code": "",
+            "type": "ward",
+            "name": "Tân Hào",
+            "slug": "tan hao",
+            "nameWithType": "Xã Tân Hào",
+            "path": "Tân Hào, Giồng Trôm, Bến Tre, Việt Nam",
+            "pathWithType": "Xã Tân Hào, Huyện Giồng Trôm, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 18,
+            "code": "",
+            "type": "ward",
+            "name": "Tân Lợi Thạnh",
+            "slug": "tan loi thanh",
+            "nameWithType": "Xã Tân Lợi Thạnh",
+            "path": "Tân Lợi Thạnh, Giồng Trôm, Bến Tre, Việt Nam",
+            "pathWithType": "Xã Tân Lợi Thạnh, Huyện Giồng Trôm, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 19,
+            "code": "",
+            "type": "ward",
+            "name": "Tân Thanh",
+            "slug": "tan thanh",
+            "nameWithType": "Xã Tân Thanh",
+            "path": "Tân Thanh, Giồng Trôm, Bến Tre, Việt Nam",
+            "pathWithType": "Xã Tân Thanh, Huyện Giồng Trôm, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 20,
+            "code": "",
+            "type": "ward",
+            "name": "Thạnh Phú Đông",
+            "slug": "thanh phu dong",
+            "nameWithType": "Xã Thạnh Phú Đông",
+            "path": "Thạnh Phú Đông, Giồng Trôm, Bến Tre, Việt Nam",
+            "pathWithType": "Xã Thạnh Phú Đông, Huyện Giồng Trôm, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 21,
+            "code": "",
+            "type": "ward",
+            "name": "Thuận Điền",
+            "slug": "thuan dien",
+            "nameWithType": "Xã Thuận Điền",
+            "path": "Thuận Điền, Giồng Trôm, Bến Tre, Việt Nam",
+            "pathWithType": "Xã Thuân Điền, Huyện Giồng Trôm, Tỉnh Bến Tre, Việt Nam"
+        }
+    ]
+}

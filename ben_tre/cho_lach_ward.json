@@ -1,0 +1,118 @@
+{
+    "description": "Tính đến tháng 06 năm 2021 - Huyện Chợ Lách bao gồm 1 Thị trấn và 10 Xã",
+    "lastUpdatedAt": "2021-06-29T11:32:39.356371434+07:00",
+    "type": "district",
+    "name": "Chợ Lách",
+    "wards": [
+        {
+            "index": 1,
+            "code": "",
+            "type": "ward",
+            "name": "TT. Chợ Lách",
+            "slug": "tt. cho lach",
+            "nameWithType": "Thị trấn Chợ Lách",
+            "path": "TT. Chợ Lách, Chợ Lách, Bến Tre, Việt Nam",
+            "pathWithType": "Thị trấn Chợ Lách, Huyện Chợ Lách, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 2,
+            "code": "",
+            "type": "ward",
+            "name": "Hòa Nghĩa",
+            "slug": "hoa nghia",
+            "nameWithType": "Xã Hòa Nghĩa",
+            "path": "Hòa Nghĩa, Chợ Lách, Bến Tre, Việt Nam",
+            "pathWithType": "Xã Hòa Nghĩa, Huyện Chợ Lách, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 3,
+            "code": "",
+            "type": "ward",
+            "name": "Hưng Khánh Trung B",
+            "slug": "hung khanh trung b",
+            "nameWithType": "Xã Hưng Khánh Trung B",
+            "path": "Hưng Khánh Trung B, Chợ Lách, Bến Tre, Việt Nam",
+            "pathWithType": "Xã Hưng Khánh Trung B, Huyện Chợ Lách, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 4,
+            "code": "",
+            "type": "ward",
+            "name": "Long Thới",
+            "slug": "long thoi",
+            "nameWithType": "Xã Long Thới",
+            "path": "Long Thới, Chợ Lách, Bến Tre, Việt Nam",
+            "pathWithType": "Xã Long Thới, Huyện Chợ Lách, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 5,
+            "code": "",
+            "type": "ward",
+            "name": "Phú Phụng",
+            "slug": "phu phung",
+            "nameWithType": "Xã Phú Phụng",
+            "path": "Phú Phụng, Chợ Lách, Bến Tre, Việt Nam",
+            "pathWithType": "Xã Phú Phụng, Huyện Chợ Lách, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 6,
+            "code": "",
+            "type": "ward",
+            "name": "Phú Sơn",
+            "slug": "phu son",
+            "nameWithType": "Xã Phú Sơn",
+            "path": "Phú Sơn, Chợ Lách, Bến Tre, Việt Nam",
+            "pathWithType": "Xã Phú Sơn, Huyện Chợ Lách, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 7,
+            "code": "",
+            "type": "ward",
+            "name": "Sơn Định",
+            "slug": "son dinh",
+            "nameWithType": "Xã Sơn Định",
+            "path": "Sơn Định, Chợ Lách, Bến Tre, Việt Nam",
+            "pathWithType": "Xã Sơn Định, Huyện Chợ Lách, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 8,
+            "code": "",
+            "type": "ward",
+            "name": "Tân Thiềng",
+            "slug": "tan thieng",
+            "nameWithType": "Xã Tân Thiềng",
+            "path": "Tân Thiềng, Chợ Lách, Bến Tre, Việt Nam",
+            "pathWithType": "Xã Tân Thiềng, Huyện Chợ Lách, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 9,
+            "code": "",
+            "type": "ward",
+            "name": "Vĩnh Bình",
+            "slug": "vinh binh",
+            "nameWithType": "Xã Vĩnh Bình",
+            "path": "Vĩnh Bình, Chợ Lách, Bến Tre, Việt Nam",
+            "pathWithType": "Xã Vĩnh Bình, Huyện Chợ Lách, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 10,
+            "code": "",
+            "type": "ward",
+            "name": "Vĩnh Hòa",
+            "slug": "vinh hoa",
+            "nameWithType": "Xã Vĩnh Hòa",
+            "path": "Vĩnh Hòa, Chợ Lách, Bến Tre, Việt Nam",
+            "pathWithType": "Xã Vĩnh Hòa, Huyện Chợ Lách, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 11,
+            "code": "",
+            "type": "ward",
+            "name": "Vĩnh Thành",
+            "slug": "vinh thanh",
+            "nameWithType": "Xã Vĩnh Thành",
+            "path": "Vĩnh Thành, Chợ Lách, Bến Tre, Việt Nam",
+            "pathWithType": "Xã Vĩnh Thành, Huyện Chợ Lách, Tỉnh Bến Tre, Việt Nam"
+        }
+    ]
+}

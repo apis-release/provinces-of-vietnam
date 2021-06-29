@@ -1,0 +1,208 @@
+{
+    "description": "Tính đến tháng 06 năm 2021 - Huyện Bình Đại bao gồm 1 Thị trấn và 19 Xã",
+    "lastUpdatedAt": "2021-06-29T11:32:39.356206942+07:00",
+    "type": "district",
+    "name": "Bình Đại",
+    "wards": [
+        {
+            "index": 1,
+            "code": "",
+            "type": "ward",
+            "name": "TT. Bình Đại",
+            "slug": "tt. binh dai",
+            "nameWithType": "Thị trấn Bình Đại",
+            "path": "TT. Bình Đại, Bình Đại, Bến Tre, Việt Nam",
+            "pathWithType": "Thị trấn Bình Đại, Huyện Bình Đại, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 2,
+            "code": "",
+            "type": "ward",
+            "name": "Bình Thắng",
+            "slug": "binh thang",
+            "nameWithType": "Xã Bình Thắng",
+            "path": "Bình Thắng, Bình Đại, Bến Tre, Việt Nam",
+            "pathWithType": "Xã Bình Thắng, Huyện Bình Đại, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 3,
+            "code": "",
+            "type": "ward",
+            "name": "Bình Thới",
+            "slug": "binh thoi",
+            "nameWithType": "Xã Bình Thới",
+            "path": "Bình Thới, Bình Đại, Bến Tre, Việt Nam",
+            "pathWithType": "Xã Bình Thới, Huyện Bình Đại, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 4,
+            "code": "",
+            "type": "ward",
+            "name": "Châu Hưng",
+            "slug": "chau hung",
+            "nameWithType": "Xã Châu Hưng",
+            "path": "Châu Hưng, Bình Đại, Bến Tre, Việt Nam",
+            "pathWithType": "Xã Châu Hưng, Huyện Bình Đại, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 5,
+            "code": "",
+            "type": "ward",
+            "name": "Đại Hòa Lộc",
+            "slug": "dai hoa loc",
+            "nameWithType": "Xã Đại Hòa Lộc",
+            "path": "Đại Hòa Lộc, Bình Đại, Bến Tre, Việt Nam",
+            "pathWithType": "Xã Đại Hòa Lộc, Huyện Bình Đại, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 6,
+            "code": "",
+            "type": "ward",
+            "name": "Định Trung",
+            "slug": "dinh trung",
+            "nameWithType": "Xã Định Trung",
+            "path": "Định Trung, Bình Đại, Bến Tre, Việt Nam",
+            "pathWithType": "Xã Định Trung, Huyện Bình Đại, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 7,
+            "code": "",
+            "type": "ward",
+            "name": "Lộc Thuận",
+            "slug": "loc thuan",
+            "nameWithType": "Xã Lộc Thuận",
+            "path": "Lộc Thuận, Bình Đại, Bến Tre, Việt Nam",
+            "pathWithType": "Xã Lộc Thuận, Huyện Bình Đại, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 8,
+            "code": "",
+            "type": "ward",
+            "name": "Long Định",
+            "slug": "long dinh",
+            "nameWithType": "Xã Long Định",
+            "path": "Long Định, Bình Đại, Bến Tre, Việt Nam",
+            "pathWithType": "Xã Long Định, Huyện Bình Đại, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 9,
+            "code": "",
+            "type": "ward",
+            "name": "Long Hòa",
+            "slug": "long hoa",
+            "nameWithType": "Xã Long Hòa",
+            "path": "Long Hòa, Bình Đại, Bến Tre, Việt Nam",
+            "pathWithType": "Xã Long Hòa, Huyện Bình Đại, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 10,
+            "code": "",
+            "type": "ward",
+            "name": "Phú Long",
+            "slug": "phu long",
+            "nameWithType": "Xã Phú Long",
+            "path": "Phú Long, Bình Đại, Bến Tre, Việt Nam",
+            "pathWithType": "Xã Phú Long, Huyện Bình Đại, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 11,
+            "code": "",
+            "type": "ward",
+            "name": "Phú Thuận",
+            "slug": "phu thuan",
+            "nameWithType": "Xã Phú Thuận",
+            "path": "Phú Thuận, Bình Đại, Bến Tre, Việt Nam",
+            "pathWithType": "Xã Phú Thuận, Huyện Bình Đại, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 12,
+            "code": "",
+            "type": "ward",
+            "name": "Phú Vang",
+            "slug": "phu vang",
+            "nameWithType": "Xã Phú Vang",
+            "path": "Phú Vang, Bình Đại, Bến Tre, Việt Nam",
+            "pathWithType": "Xã Phú Vang, Huyện Bình Đại, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 13,
+            "code": "",
+            "type": "ward",
+            "name": "Tam Hiệp",
+            "slug": "tam hiep",
+            "nameWithType": "Xã Tam Hiệp",
+            "path": "Tam Hiệp, Bình Đại, Bến Tre, Việt Nam",
+            "pathWithType": "Xã Tam Hiệp, Huyện Bình Đại, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 14,
+            "code": "",
+            "type": "ward",
+            "name": "Thạnh Phước",
+            "slug": "thanh phuoc",
+            "nameWithType": "Xã Thạnh Phước",
+            "path": "Thạnh Phước, Bình Đại, Bến Tre, Việt Nam",
+            "pathWithType": "Xã Thạnh Phước, Huyện Bình Đại, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 15,
+            "code": "",
+            "type": "ward",
+            "name": "Thạnh Trị",
+            "slug": "thanh tri",
+            "nameWithType": "Xã Thạnh Trị",
+            "path": "Thạnh Trị, Bình Đại, Bến Tre, Việt Nam",
+            "pathWithType": "Xã Thạnh Trị, Huyện Bình Đại, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 16,
+            "code": "",
+            "type": "ward",
+            "name": "Thới Lai",
+            "slug": "thoi lai",
+            "nameWithType": "Xã Thới Lai",
+            "path": "Thới Lai, Bình Đại, Bến Tre, Việt Nam",
+            "pathWithType": "Xã Thới Lai, Huyện Bình Đại, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 17,
+            "code": "",
+            "type": "ward",
+            "name": "Thới Thuận",
+            "slug": "thoi thuan",
+            "nameWithType": "Xã Thới Thuận",
+            "path": "Thới Thuận, Bình Đại, Bến Tre, Việt Nam",
+            "pathWithType": "Xã Thới Thuận, Huyện Bình Đại, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 18,
+            "code": "",
+            "type": "ward",
+            "name": "Thừa Đức",
+            "slug": "thua duc",
+            "nameWithType": "Xã Thừa Đức",
+            "path": "Thừa Đức, Bình Đại, Bến Tre, Việt Nam",
+            "pathWithType": "Xã Thừa Đức, Huyện Bình Đại, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 19,
+            "code": "",
+            "type": "ward",
+            "name": "Vang Quới Đông",
+            "slug": "vang quoi dong",
+            "nameWithType": "Xã Vang Quới Đông",
+            "path": "Vang Quới Đông, Bình Đại, Bến Tre, Việt Nam",
+            "pathWithType": "Xã Vang Quới Đông, Huyện Bình Đại, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 20,
+            "code": "",
+            "type": "ward",
+            "name": "Vang Quới Tây",
+            "slug": "vang quoi tay",
+            "nameWithType": "Xã Vang Quới Tây",
+            "path": "Vang Quới Tây, Bình Đại, Bến Tre, Việt Nam",
+            "pathWithType": "Xã Vang Quới Tây, Huyện Bình Đại, Tỉnh Bến Tre, Việt Nam"
+        }
+    ]
+}

@@ -1,0 +1,218 @@
+{
+    "description": "Tính đến tháng 06 năm 2021 - Huyện Châu Thành bao gồm 1 Thị trấn và 20 Xã",
+    "lastUpdatedAt": "2021-06-29T11:32:39.356291877+07:00",
+    "type": "district",
+    "name": "Châu Thành",
+    "wards": [
+        {
+            "index": 1,
+            "code": "",
+            "type": "ward",
+            "name": "TT. Châu Thành",
+            "slug": "tt. chau thanh",
+            "nameWithType": "Thị trấn Châu Thành",
+            "path": "TT. Châu Thành, Châu Thành, Bến Tre, Việt Nam",
+            "pathWithType": "Thi trấn Châu Thành, Huyện Châu Thành, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 2,
+            "code": "",
+            "type": "ward",
+            "name": "An Hiệp",
+            "slug": "an hiep",
+            "nameWithType": "Xã An Hiệp",
+            "path": "An Hiệp, Châu Thành, Bến Tre, Việt Nam",
+            "pathWithType": "Xã An Hiệp, Huyện Châu Thành, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 3,
+            "code": "",
+            "type": "ward",
+            "name": "An Hóa",
+            "slug": "an hoa",
+            "nameWithType": "Xã An Hóa",
+            "path": "An Hóa, Châu Thành, Bến Tre, Việt Nam",
+            "pathWithType": "Xã An Hóa, Huyện Châu Thành, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 4,
+            "code": "",
+            "type": "ward",
+            "name": "An Khánh",
+            "slug": "an khanh",
+            "nameWithType": "Xã An Khánh",
+            "path": "An Khánh, Châu Thành, Bến Tre, Việt Nam",
+            "pathWithType": "Xã An Khánh, Huyện Châu Thành, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 5,
+            "code": "",
+            "type": "ward",
+            "name": "An Phước",
+            "slug": "an phuoc",
+            "nameWithType": "Xã An Phước",
+            "path": "An Phước, Châu Thành, Bến Tre, Việt Nam",
+            "pathWithType": "Xã An Phước, Huyện Châu Thành, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 6,
+            "code": "",
+            "type": "ward",
+            "name": "Giao Long",
+            "slug": "giao long",
+            "nameWithType": "Xã Giao Long",
+            "path": "Giao Long, Châu Thành, Bến Tre, Việt Nam",
+            "pathWithType": "Xã Giao Long, Huyện Châu Thành, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 7,
+            "code": "",
+            "type": "ward",
+            "name": "Hữu Định",
+            "slug": "huu dinh",
+            "nameWithType": "Xã Hữu Định",
+            "path": "Hữu Định, Châu Thành, Bến Tre, Việt Nam",
+            "pathWithType": "Xã Hữu Định, Huyện Châu Thành, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 8,
+            "code": "",
+            "type": "ward",
+            "name": "Phú An Hòa",
+            "slug": "phu an hoa",
+            "nameWithType": "Xã Phú An Hòa",
+            "path": "Phú An Hòa, Châu Thành, Bến Tre, Việt Nam",
+            "pathWithType": "Xã Phú An Hòa, Huyện Châu Thành, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 9,
+            "code": "",
+            "type": "ward",
+            "name": "Phú Đức",
+            "slug": "phu duc",
+            "nameWithType": "Xã Phú Đức",
+            "path": "Phú Đức, Châu Thành, Bến Tre, Việt Nam",
+            "pathWithType": "Xã Phú Đức, Huyện Châu Thành, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 10,
+            "code": "",
+            "type": "ward",
+            "name": "Phú Túc",
+            "slug": "phu tuc",
+            "nameWithType": "Xã Phú Túc",
+            "path": "Phú Túc, Châu Thành, Bến Tre, Việt Nam",
+            "pathWithType": "Xã Phú Túc, Huyện Châu Thành, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 11,
+            "code": "",
+            "type": "ward",
+            "name": "Phước Thạnh",
+            "slug": "phuoc thanh",
+            "nameWithType": "Xã Phước Thạnh",
+            "path": "Phước Thạnh, Châu Thành, Bến Tre, Việt Nam",
+            "pathWithType": "Xã Phước Thạnh, Huyện Châu Thành, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 12,
+            "code": "",
+            "type": "ward",
+            "name": "Quới Sơn",
+            "slug": "quoi son",
+            "nameWithType": "Xã Quới Sơn",
+            "path": "Quới Sơn, Châu Thành, Bến Tre, Việt Nam",
+            "pathWithType": "Xã Quới Sơn, Huyện Châu Thành, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 13,
+            "code": "",
+            "type": "ward",
+            "name": "Quới Thành",
+            "slug": "quoi thanh",
+            "nameWithType": "Xã Quới Thành",
+            "path": "Quới Thành, Châu Thành, Bến Tre, Việt Nam",
+            "pathWithType": "Xã Quới Thành, Huyện Châu Thành, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 14,
+            "code": "",
+            "type": "ward",
+            "name": "Sơn Hòa",
+            "slug": "son hoa",
+            "nameWithType": "Xã Sơn Hòa",
+            "path": "Sơn Hòa, Châu Thành, Bến Tre, Việt Nam",
+            "pathWithType": "Xã Sơn Hòa, Huyện Châu Thành, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 15,
+            "code": "",
+            "type": "ward",
+            "name": "Tam Phước",
+            "slug": "tam phuoc",
+            "nameWithType": "Xã Tam Phước",
+            "path": "Tam Phước, Châu Thành, Bến Tre, Việt Nam",
+            "pathWithType": "Xã Tam Phước, Huyện Châu Thành, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 16,
+            "code": "",
+            "type": "ward",
+            "name": "Tân Phú",
+            "slug": "tan phu",
+            "nameWithType": "Xã Tân Phú",
+            "path": "Tân Phú, Châu Thành, Bến Tre, Việt Nam",
+            "pathWithType": "Xã Tân Phú, Huyện Châu Thành, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 17,
+            "code": "",
+            "type": "ward",
+            "name": "Tân Thạch",
+            "slug": "tan thach",
+            "nameWithType": "Xã Tân Thạch",
+            "path": "Tân Thạch, Châu Thành, Bến Tre, Việt Nam",
+            "pathWithType": "Xã Tân Thạch, Huyện Châu Thành, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 18,
+            "code": "",
+            "type": "ward",
+            "name": "Thành Triệu",
+            "slug": "thanh trieu",
+            "nameWithType": "Xã Thành Triệu",
+            "path": "Thành Triệu, Châu Thành, Bến Tre, Việt Nam",
+            "pathWithType": "Xã Thành Triệu, Huyện Châu Thành, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 19,
+            "code": "",
+            "type": "ward",
+            "name": "Tiên Long",
+            "slug": "tien long",
+            "nameWithType": "Xã Tiên Long",
+            "path": "Tiên Long, Châu Thành, Bến Tre, Việt Nam",
+            "pathWithType": "Xã Tiên Long, Huyện Châu Thành, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 20,
+            "code": "",
+            "type": "ward",
+            "name": "Tiên Thủy",
+            "slug": "tien thuy",
+            "nameWithType": "Xã Tiên Thủy",
+            "path": "Tiên Thủy, Châu Thành, Bến Tre, Việt Nam",
+            "pathWithType": "Xã Tiên Thủy, Huyện Châu Thành, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 21,
+            "code": "",
+            "type": "ward",
+            "name": "Tường Đa",
+            "slug": "tuong da",
+            "nameWithType": "Xã Tường Đa",
+            "path": "Tường Đa, Châu Thành, Bến Tre, Việt Nam",
+            "pathWithType": "Xã Tường Đa, Huyện Châu Thành, Tỉnh Bến Tre, Việt Nam"
+        }
+    ]
+}

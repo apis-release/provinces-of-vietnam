@@ -1,0 +1,148 @@
+{
+    "description": "Tính đến tháng 06 năm 2021 - Tp. Bến Tre bao gồm 8 Phường và 6 Xã",
+    "lastUpdatedAt": "2021-06-29T11:32:39.355976402+07:00",
+    "type": "district",
+    "name": "Tp. Bến Tre",
+    "wards": [
+        {
+            "index": 1,
+            "code": "",
+            "type": "ward",
+            "name": "An Hội",
+            "slug": "an hoi",
+            "nameWithType": "Xã An Hội",
+            "path": "An Hội, Tp. Bến Tre, Bến Tre, Việt Nam",
+            "pathWithType": "Xã An Hội, Thành phố Bến Tre, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 2,
+            "code": "",
+            "type": "ward",
+            "name": "Phú Khương",
+            "slug": "phu khuong",
+            "nameWithType": "Phường Phú Khương",
+            "path": "Phú Khương, Tp. Bến Tre, Bến Tre, Việt Nam",
+            "pathWithType": "Phường Phú Khương, Thành phố Bến Tre, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 3,
+            "code": "",
+            "type": "ward",
+            "name": "Phú Tân",
+            "slug": "phu tan",
+            "nameWithType": "Phường Phú Tân",
+            "path": "Phú Tân, Tp. Bến Tre, Bến Tre, Việt Nam",
+            "pathWithType": "Phường Phú Tân, Thành phố Bến Tre, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 4,
+            "code": "",
+            "type": "ward",
+            "name": "P.4",
+            "slug": "p.4",
+            "nameWithType": "Phường 4",
+            "path": "P.4, Tp. Bến Tre, Bến Tre, Việt Nam",
+            "pathWithType": "Phường 4, Thành phố Bến Tre, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 5,
+            "code": "",
+            "type": "ward",
+            "name": "P.5",
+            "slug": "p.5",
+            "nameWithType": "Phường 5",
+            "path": "P.5, Tp. Bến Tre, Bến Tre, Việt Nam",
+            "pathWithType": "Phường 5, Thành phố Bến Tre, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 6,
+            "code": "",
+            "type": "ward",
+            "name": "P.6",
+            "slug": "p.6",
+            "nameWithType": "Phường 6",
+            "path": "P.6, Tp. Bến Tre, Bến Tre, Việt Nam",
+            "pathWithType": "Phường 6, Thành phố Bến Tre, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 7,
+            "code": "",
+            "type": "ward",
+            "name": "P.7",
+            "slug": "p.7",
+            "nameWithType": "Phường 7",
+            "path": "P.7, Tp. Bến Tre, Bến Tre, Việt Nam",
+            "pathWithType": "Phường 7, Thành phố Bến Tre, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 8,
+            "code": "",
+            "type": "ward",
+            "name": "P.8",
+            "slug": "p.8",
+            "nameWithType": "Phường 8",
+            "path": "P.8, Tp. Bến Tre, Bến Tre, Việt Nam",
+            "pathWithType": "Phường 8, Thành phố Bến Tre, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 9,
+            "code": "",
+            "type": "ward",
+            "name": "Bình Phú",
+            "slug": "binh phu",
+            "nameWithType": "Xã Bình Phú",
+            "path": "Bình Phú, Tp. Bến Tre, Bến Tre, Việt Nam",
+            "pathWithType": "Xã Bình Phú, Thành phố Bến Tre, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 10,
+            "code": "",
+            "type": "ward",
+            "name": "Mỹ Thạnh An",
+            "slug": "mỹ thanh an",
+            "nameWithType": "Xã Mỹ Thạnh An",
+            "path": "Mỹ Thạnh An, Tp. Bến Tre, Bến Tre, Việt Nam",
+            "pathWithType": "Xã Mỹ Thạnh An, Thành phố Bến Tre, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 11,
+            "code": "",
+            "type": "ward",
+            "name": "Nhơn Thạnh",
+            "slug": "nhon thanh",
+            "nameWithType": "Xã Nhơn Thạnh",
+            "path": "Nhơn Thạnh, Tp. Bến Tre, Bến Tre, Việt Nam",
+            "pathWithType": "Xã Nhơn Thạnh, Thành phố Bến Tre, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 12,
+            "code": "",
+            "type": "ward",
+            "name": "Phú Hưng",
+            "slug": "phu hung",
+            "nameWithType": "Xã Phú Hưng",
+            "path": "Phú Hưng, Tp. Bến Tre, Bến Tre, Việt Nam",
+            "pathWithType": "Xã Phú Hưng, Thành phố Bến Tre, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 13,
+            "code": "",
+            "type": "ward",
+            "name": "Phú Nhuận",
+            "slug": "phu nhuan",
+            "nameWithType": "Xã Phú Nhuận",
+            "path": "Phú Nhuận, Tp. Bến Tre, Bến Tre, Việt Nam",
+            "pathWithType": "Xã Phú Nhuận, Thành phố Bến Tre, Tỉnh Bến Tre, Việt Nam"
+        },
+        {
+            "index": 14,
+            "code": "",
+            "type": "ward",
+            "name": "Sơn Đông",
+            "slug": "son dong",
+            "nameWithType": "Xã Sơn Đông",
+            "path": "Sơn Đông, Tp. Bến Tre, Bến Tre, Việt Nam",
+            "pathWithType": "Xã Sơn Đông, Thành phố Bến Tre, Tỉnh Bến Tre, Việt Nam"
+        }
+    ]
+}
