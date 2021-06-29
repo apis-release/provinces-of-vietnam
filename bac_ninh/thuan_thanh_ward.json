@@ -1,0 +1,188 @@
+{
+    "description": "Tính đến tháng 06 năm 2021 - Huyện Thuận Thành bao gồm 1 Thị trấn và 17 Xã",
+    "lastUpdatedAt": "2021-06-29T11:16:20.959002785+07:00",
+    "type": "district",
+    "name": "Thuận Thành",
+    "wards": [
+        {
+            "index": 1,
+            "code": "",
+            "type": "ward",
+            "name": "TT. Hồ",
+            "slug": "tt. ho",
+            "nameWithType": "Thị trấn Hồ",
+            "path": "TT. Hồ, Thuận Thành, Bắc Ninh, Việt Nam",
+            "pathWithType": "Thị trấn Hồ, Huyện Thuận Thành, Tỉnh Bắc Ninh, Việt Nam"
+        },
+        {
+            "index": 2,
+            "code": "",
+            "type": "ward",
+            "name": "An Bình",
+            "slug": "an binh",
+            "nameWithType": "Xã An Bình",
+            "path": "An Bình, Thuận Thành, Bắc Ninh, Việt Nam",
+            "pathWithType": "Xã An Bình, Huyện Thuận Thành, Tỉnh Bắc Ninh, Việt Nam"
+        },
+        {
+            "index": 3,
+            "code": "",
+            "type": "ward",
+            "name": "Đại Đồng Thành",
+            "slug": "dai dong thanh",
+            "nameWithType": "Xã Đại Đồng Thành",
+            "path": "Đại Đồng Thành, Thuận Thành, Bắc Ninh, Việt Nam",
+            "pathWithType": "Xã Đại Đồng Thành, Huyện Thuận Thành, Tỉnh Bắc Ninh, Việt Nam"
+        },
+        {
+            "index": 4,
+            "code": "",
+            "type": "ward",
+            "name": "Đình Tổ",
+            "slug": "dinh to",
+            "nameWithType": "Xã Đình Tổ",
+            "path": "Đình Tổ, Thuận Thành, Bắc Ninh, Việt Nam",
+            "pathWithType": "Xã Đình Tổ, Huyện Thuận Thành, Tỉnh Bắc Ninh, Việt Nam"
+        },
+        {
+            "index": 5,
+            "code": "",
+            "type": "ward",
+            "name": "Gia Đông",
+            "slug": "gia dong",
+            "nameWithType": "Xã Gia Đông",
+            "path": "Gia Đông, Thuận Thành, Bắc Ninh, Việt Nam",
+            "pathWithType": "Xã Gia Đông, Huyện Thuận Thành, Tỉnh Bắc Ninh, Việt Nam"
+        },
+        {
+            "index": 6,
+            "code": "",
+            "type": "ward",
+            "name": "Hà Mãn",
+            "slug": "ha man",
+            "nameWithType": "Xã Hà Mãn",
+            "path": "hà Mãn, Thuận Thành, Bắc Ninh, Việt Nam",
+            "pathWithType": "Xã Hà Mãn, Huyện Thuận Thành, Tỉnh Bắc Ninh, Việt Nam"
+        },
+        {
+            "index": 7,
+            "code": "",
+            "type": "ward",
+            "name": "Hoài Thượng",
+            "slug": "hoai thuong",
+            "nameWithType": "Xã Hoài Thượng",
+            "path": "Hoài Thượng, Thuận Thành, Bắc Ninh, Việt Nam",
+            "pathWithType": "Xã Hoài Thượng, Huyện Thuận Thành, Tỉnh Bắc Ninh, Việt Nam"
+        },
+        {
+            "index": 8,
+            "code": "",
+            "type": "ward",
+            "name": "Mão Điền",
+            "slug": "mao dien",
+            "nameWithType": "Xã Mão Điền",
+            "path": "Mão Điền, Thuận Thành, Bắc Ninh, Việt Nam",
+            "pathWithType": "Xã Mão Điền, Huyện Thuận Thành, Tỉnh Bắc Ninh, Việt Nam"
+        },
+        {
+            "index": 9,
+            "code": "",
+            "type": "ward",
+            "name": "Nghĩa Đạo",
+            "slug": "nghia dao",
+            "nameWithType": "Xã Nghĩa Đạo",
+            "path": "Nghĩa Đạo, Thuận Thành, Bắc Ninh, Việt Nam",
+            "pathWithType": "Xã Nghĩa Đạo, Huyện Thuận Thành, Tỉnh Bắc Ninh, Việt Nam"
+        },
+        {
+            "index": 10,
+            "code": "",
+            "type": "ward",
+            "name": "Ngũ Thái",
+            "slug": "ngu thai",
+            "nameWithType": "Xã Ngũ Thái",
+            "path": "Ngũ Thái, Thuận Thành, Bắc Ninh, Việt Nam",
+            "pathWithType": "Xã Ngũ Thái, Huyện Thuận Thành, Tỉnh Bắc Ninh, Việt Nam"
+        },
+        {
+            "index": 11,
+            "code": "",
+            "type": "ward",
+            "name": "Nguyệt Đức",
+            "slug": "nguyet duc",
+            "nameWithType": "Xã Nguyệt Đức",
+            "path": "Nguyệt Đức, Thuận Thành, Bắc Ninh, Việt Nam",
+            "pathWithType": "Xã Nguyệt Đức, Huyện Thuận Thành, Tỉnh Bắc Ninh, Việt Nam"
+        },
+        {
+            "index": 12,
+            "code": "",
+            "type": "ward",
+            "name": "Ninh Xá",
+            "slug": "ninh xa",
+            "nameWithType": "Xã Ninh Xá",
+            "path": "Ninh Xá, Thuận Thành, Bắc Ninh, Việt Nam",
+            "pathWithType": "Xã Ninh Xá, Huyện Thuận Thành, Tỉnh Bắc Ninh, Việt Nam"
+        },
+        {
+            "index": 13,
+            "code": "",
+            "type": "ward",
+            "name": "Song Hồ",
+            "slug": "song ho",
+            "nameWithType": "Xã Song Hồ",
+            "path": "Song Hồ, Thuận Thành, Bắc Ninh, Việt Nam",
+            "pathWithType": "Xã Song Hồ, Huyện Thuận Thành, Tỉnh Bắc Ninh, Việt Nam"
+        },
+        {
+            "index": 14,
+            "code": "",
+            "type": "ward",
+            "name": "Song Liễu",
+            "slug": "song lieu",
+            "nameWithType": "Xã Song Liễu",
+            "path": "Song Liễu, Thuận Thành, Bắc Ninh, Việt Nam",
+            "pathWithType": "Xã Song Liễu, Huyện Thuận Thành, Tỉnh Bắc Ninh, Việt Nam"
+        },
+        {
+            "index": 15,
+            "code": "",
+            "type": "ward",
+            "name": "Thanh Khương",
+            "slug": "thanh khuong",
+            "nameWithType": "Xã Thanh Khương",
+            "path": "Thanh Khương, Thuận Thành, Bắc Ninh, Việt Nam",
+            "pathWithType": "Xã Thanh Khương, Huyện Thuận Thành, Tỉnh Bắc Ninh, Việt Nam"
+        },
+        {
+            "index": 16,
+            "code": "",
+            "type": "ward",
+            "name": "Trạm Lộ",
+            "slug": "tram lo",
+            "nameWithType": "Xã Trạm Lộ",
+            "path": "Trạm Lộ, Thuận Thành, Bắc Ninh, Việt Nam",
+            "pathWithType": "Xã Trạm Lộ, Huyện Thuận Thành, Tỉnh Bắc Ninh, Việt Nam"
+        },
+        {
+            "index": 17,
+            "code": "",
+            "type": "ward",
+            "name": "Trí Quả",
+            "slug": "tri qua",
+            "nameWithType": "Xã Trí Quả",
+            "path": "Trí Quả, Thuận Thành, Bắc Ninh, Việt Nam",
+            "pathWithType": "Xã Trí Quả, Huyện Thuận Thành, Tỉnh Bắc Ninh, Việt Nam"
+        },
+        {
+            "index": 18,
+            "code": "",
+            "type": "ward",
+            "name": "Xuân Lâm",
+            "slug": "xuan lam",
+            "nameWithType": "Xã Xuân Lâm",
+            "path": "Xuân Lâm, Thuận Thành, Bắc Ninh, Việt Nam",
+            "pathWithType": "Xã Xuân Lâm, Huyện Thuận Thành, Tỉnh Bắc Ninh, Việt Nam"
+        }
+    ]
+}

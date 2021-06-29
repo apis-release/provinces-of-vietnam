@@ -1,0 +1,148 @@
+{
+    "description": "Tính đến tháng 06 năm 2021 - Huyện Tiên Du bao gồm 1 Thị trấn và 13 Xã",
+    "lastUpdatedAt": "2021-06-29T11:16:20.959048635+07:00",
+    "type": "district",
+    "name": "Tiên Du",
+    "wards": [
+        {
+            "index": 1,
+            "code": "",
+            "type": "ward",
+            "name": "TT. Lim",
+            "slug": "tt. lim",
+            "nameWithType": "Thị trấn Lim",
+            "path": "TT. Lim, Tiên Du, Bắc Ninh, Việt Nam",
+            "pathWithType": "Thị trấn Lim, Huyện Tiên Du, Tỉnh Bắc Ninh, Việt Nam"
+        },
+        {
+            "index": 2,
+            "code": "",
+            "type": "ward",
+            "name": "Cảnh Hưng",
+            "slug": "canh hung",
+            "nameWithType": "Xã Cảnh Hưng",
+            "path": "Cảnh Hưng, Tiên Du, Bắc Ninh, Việt Nam",
+            "pathWithType": "Xa Cảnh Hưng, Huyện Tiên Du, Tỉnh Bắc Ninh, Việt Nam"
+        },
+        {
+            "index": 3,
+            "code": "",
+            "type": "ward",
+            "name": "Đại Đồng",
+            "slug": "dai dong",
+            "nameWithType": "Xã Đại Đồng",
+            "path": "Đại Đồng, Tiên Du, Bắc Ninh, Việt Nam",
+            "pathWithType": "Xã Đại Đồng, Huyện Tiên Du, Tỉnh Bắc Ninh, Việt Nam"
+        },
+        {
+            "index": 4,
+            "code": "",
+            "type": "ward",
+            "name": "Hiên Vân",
+            "slug": "hien van",
+            "nameWithType": "Xã Hiên Vân",
+            "path": "Hiên Vân, Tiên Du, Bắc Ninh, Việt Nam",
+            "pathWithType": "Xã Hiên Vân, Huyện Tiên Du, Tỉnh Bắc Ninh, Việt Nam"
+        },
+        {
+            "index": 5,
+            "code": "",
+            "type": "ward",
+            "name": "Hoàn Sơn",
+            "slug": "hoan son",
+            "nameWithType": "Xã Hoàn Sơn",
+            "path": "Hoàn Sơn, Tiên Du, Bắc Ninh, Việt Nam",
+            "pathWithType": "Xã Hoàn Sơn, Huyện Tiên Du, Tỉnh Bắc Ninh, Việt Nam"
+        },
+        {
+            "index": 6,
+            "code": "",
+            "type": "ward",
+            "name": "Lạc Vệ",
+            "slug": "lac ve",
+            "nameWithType": "Xã Lạc Vệ",
+            "path": "Lạc Vệ, Tiên Du, Bắc Ninh, Việt Nam",
+            "pathWithType": "Xã Lạc Vệ, Huyện Tiên Du, Tỉnh Bắc Ninh, Việt Nam"
+        },
+        {
+            "index": 7,
+            "code": "",
+            "type": "ward",
+            "name": "Liên Bão",
+            "slug": "lien bao",
+            "nameWithType": "Xã Liên Bão",
+            "path": "Liên Bão, Tiên Du, Bắc Ninh, Việt Nam",
+            "pathWithType": "Xã Liên Bão, Huyện Tiên Du, Tỉnh Bắc Ninh, Việt Nam"
+        },
+        {
+            "index": 8,
+            "code": "",
+            "type": "ward",
+            "name": "Minh Đạo",
+            "slug": "minh dao",
+            "nameWithType": "Xã Minh Đạo",
+            "path": "Minh Đạo, Tiên Du, Bắc Ninh, Việt Nam",
+            "pathWithType": "Xã Minh Đạo, Huyện Tiên Du, Tỉnh Bắc Ninh, Việt Nam"
+        },
+        {
+            "index": 9,
+            "code": "",
+            "type": "ward",
+            "name": "Nội Duệ",
+            "slug": "noi due",
+            "nameWithType": "Xã Nội Duệ",
+            "path": "Nội Duệ, Tiên Du, Bắc Ninh, Việt Nam",
+            "pathWithType": "Xã Nội Duệ, Huyện Tiên Du, Tỉnh Bắc Ninh, Việt Nam"
+        },
+        {
+            "index": 10,
+            "code": "",
+            "type": "ward",
+            "name": "Phật Tích",
+            "slug": "phat tich",
+            "nameWithType": "Xã Phật Tích",
+            "path": "Phật Tích, Tiên Du, Bắc Ninh, Việt Nam",
+            "pathWithType": "Xã Phật Tích, Huyện Tiên Du, Tỉnh Bắc Ninh, Việt Nam"
+        },
+        {
+            "index": 11,
+            "code": "",
+            "type": "ward",
+            "name": "Phú Lâm",
+            "slug": "phu lam",
+            "nameWithType": "Xã Phú Lâm",
+            "path": "Phú Lâm, Tiên Du, Bắc Ninh, Việt Nam",
+            "pathWithType": "Xã Phú Lâm, Huyện Tiên Du, Tỉnh Bắc Ninh, Việt Nam"
+        },
+        {
+            "index": 12,
+            "code": "",
+            "type": "ward",
+            "name": "Tân Chi",
+            "slug": "tan chi",
+            "nameWithType": "Xã Tân Chi",
+            "path": "Tân Chi, Tiên Du, Bắc Ninh, Việt Nam",
+            "pathWithType": "Xã Tân Chi, Huyện Tiên Du, Tỉnh Bắc Ninh, Việt Nam"
+        },
+        {
+            "index": 13,
+            "code": "",
+            "type": "ward",
+            "name": "Tri Phương",
+            "slug": "tri phuong",
+            "nameWithType": "Xã Tri Phương",
+            "path": "Tri Phương, Tiên Du, Bắc Ninh, Việt Nam",
+            "pathWithType": "Xã Tri Phương, Huyện Tiên Du, Tỉnh Bắc Ninh, Việt Nam"
+        },
+        {
+            "index": 14,
+            "code": "",
+            "type": "ward",
+            "name": "Việt Đoàn",
+            "slug": "viet doan",
+            "nameWithType": "Xã Việt Đoàn",
+            "path": "Việt Đoàn, Tiên Du, Bắc Ninh, Việt Nam",
+            "pathWithType": "Xã Việt Đoàn, Huyện Tiên Du, Tỉnh Bắc Ninh, Việt Nam"
+        }
+    ]
+}

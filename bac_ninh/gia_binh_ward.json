@@ -1,0 +1,148 @@
+{
+    "description": "Tính đến tháng 06 năm 2021 - Huyện Gia Bình bao gồm 1 Thị trấn và 13 Xã",
+    "lastUpdatedAt": "2021-06-29T11:16:20.958860601+07:00",
+    "type": "district",
+    "name": "Gia Bình",
+    "wards": [
+        {
+            "index": 1,
+            "code": "",
+            "type": "ward",
+            "name": "TT. Gia Bình",
+            "slug": "tt. gia binh",
+            "nameWithType": "Thị trấn Gia Bình",
+            "path": "TT. Gia Bình, Gia Bình, Bắc Ninh, Việt Nam",
+            "pathWithType": "Thị trấn Gia Bình, Huyện Gia Bình, Tỉnh Bắc Ninh, Việt Nam"
+        },
+        {
+            "index": 2,
+            "code": "",
+            "type": "ward",
+            "name": "Bình Dương",
+            "slug": "binh duong",
+            "nameWithType": "Xã Bình Dương",
+            "path": "Bình Dương, Gia Bình, Bắc Ninh, Việt Nam",
+            "pathWithType": "Xã Bình Dương, Huyện Gia Bình, Tỉnh Bắc Ninh, Việt Nam"
+        },
+        {
+            "index": 3,
+            "code": "",
+            "type": "ward",
+            "name": "Cao Đức",
+            "slug": "cao duc",
+            "nameWithType": "Xã Cao Đức",
+            "path": "Cao Đức, Gia Bình, Bắc Ninh, Việt Nam",
+            "pathWithType": "Xã Cao Đức, Huyện Gia Bình, Tỉnh Bắc Ninh, Việt Nam"
+        },
+        {
+            "index": 4,
+            "code": "",
+            "type": "ward",
+            "name": "Đại Bái",
+            "slug": "dai bai",
+            "nameWithType": "Xã Đại Bái",
+            "path": "Đại Bái, Gia Bình, Bắc Ninh, Việt Nam",
+            "pathWithType": "Xã Đại Bái, Huyện Gia Bình, Tỉnh Bắc Ninh, Việt Nam"
+        },
+        {
+            "index": 5,
+            "code": "",
+            "type": "ward",
+            "name": "Đại Lai",
+            "slug": "dai lai",
+            "nameWithType": "Xã Đại Lai",
+            "path": "Đại Lai, Gia Bình, Bắc Ninh, Việt Nam",
+            "pathWithType": "Xã Đại Lai, Huyện Gia Bình, Tỉnh Bắc Ninh, Việt Nam"
+        },
+        {
+            "index": 6,
+            "code": "",
+            "type": "ward",
+            "name": "Đông Cứu",
+            "slug": "dong cuu",
+            "nameWithType": "Xã Đông Cứu",
+            "path": "Đông Cứu, Gia Bình, Bắc Ninh, Việt Nam",
+            "pathWithType": "Xã Đông Cứu, Huyện Gia Bình, Tỉnh Bắc Ninh, Việt Nam"
+        },
+        {
+            "index": 7,
+            "code": "",
+            "type": "ward",
+            "name": "Giang Sơn",
+            "slug": "giang son",
+            "nameWithType": "Xã Giang Sơn",
+            "path": "Giang Sơn, Gia Bình, Bắc Ninh, Việt Nam",
+            "pathWithType": "Xã Giang Sơn, Huyện Gia Bình, Tỉnh Bắc Ninh, Việt Nam"
+        },
+        {
+            "index": 8,
+            "code": "",
+            "type": "ward",
+            "name": "Lãng Ngâm",
+            "slug": "lang ngam",
+            "nameWithType": "Xã Lãng Ngâm",
+            "path": "Lãng Ngâm, Gia Bình, Bắc Ninh, Việt Nam",
+            "pathWithType": "Xã Lãng Ngâm, Huyện Gia Bình, Tỉnh Bắc Ninh, Việt Nam"
+        },
+        {
+            "index": 9,
+            "code": "",
+            "type": "ward",
+            "name": "Nhân Thắng",
+            "slug": "nhan thang",
+            "nameWithType": "Xã Nhân Thắng",
+            "path": "Nhân Thắng, Gia Bình, Bắc Ninh, Việt Nam",
+            "pathWithType": "Xã Nhân Thắng, Huyện Gia Bình, Tỉnh Bắc Ninh, Việt Nam"
+        },
+        {
+            "index": 10,
+            "code": "",
+            "type": "ward",
+            "name": "Quỳnh Phú",
+            "slug": "quỳnh phu",
+            "nameWithType": "Xã Quỳnh Phú",
+            "path": "Quỳnh Phú, Gia Bình, Bắc Ninh, Việt Nam",
+            "pathWithType": "Xã Quỳnh Phú, Huyện Gia Bình, Tỉnh Bắc Ninh, Việt Nam"
+        },
+        {
+            "index": 11,
+            "code": "",
+            "type": "ward",
+            "name": "Song Giang",
+            "slug": "song giang",
+            "nameWithType": "Xã Song Giang",
+            "path": "Song Giang, Gia Bình, Bắc Ninh, Việt Nam",
+            "pathWithType": "Xã Song Giang, Huyện Gia Bình, Tỉnh Bắc Ninh, Việt Nam"
+        },
+        {
+            "index": 12,
+            "code": "",
+            "type": "ward",
+            "name": "Thái Bảo",
+            "slug": "thai bao",
+            "nameWithType": "Xã Thái Bảo",
+            "path": "Thái Bảo, Gia Bình, Bắc Ninh, Việt Nam",
+            "pathWithType": "Xã Thái Bảo, Huyện Gia Bình, Tỉnh Bắc Ninh, Việt Nam"
+        },
+        {
+            "index": 13,
+            "code": "",
+            "type": "ward",
+            "name": "Vạn Ninh",
+            "slug": "van ninh",
+            "nameWithType": "Xã Vạn Ninh",
+            "path": "Vạn Ninh, Gia Bình, Bắc Ninh, Việt Nam",
+            "pathWithType": "Xã Vạn Ninh, Huyện Gia Bình, Tỉnh Bắc Ninh, Việt Nam"
+        },
+        {
+            "index": 14,
+            "code": "",
+            "type": "ward",
+            "name": "Xuân Lai",
+            "slug": "xuan lai",
+            "nameWithType": "Xã Xuân Lai",
+            "path": "Xuân Lai, Gia Bình, Bắc Ninh, Việt Nam",
+            "pathWithType": "Xã Xuân Lai, Huyện Gia Bình, Tỉnh Bắc Ninh, Việt Nam"
+        }
+    ]
+}

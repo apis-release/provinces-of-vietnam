@@ -1,0 +1,128 @@
+{
+    "description": "Tính đến tháng 06 năm 2021 - Tx. Từ Sơn bao gồm 12 Phường",
+    "lastUpdatedAt": "2021-06-29T11:16:20.958799218+07:00",
+    "type": "district",
+    "name": "Tx. Từ Sơn",
+    "wards": [
+        {
+            "index": 1,
+            "code": "",
+            "type": "ward",
+            "name": "Châu Khê",
+            "slug": "chau khe",
+            "nameWithType": "Phường Châu Khê",
+            "path": "Châu Khê, Tx. Từ Sơn, Bắc Ninh, Việt Nam",
+            "pathWithType": "Phường Châu Khê, Thị xã Từ Sơn, Tỉnh Bắc Ninh, Việt Nam"
+        },
+        {
+            "index": 2,
+            "code": "",
+            "type": "ward",
+            "name": "Đình Bảng",
+            "slug": "dinh bang",
+            "nameWithType": "Phường Đình Bảng",
+            "path": "Đình Bảng, Tx. Từ Sơn, Bắc Ninh, Việt Nam",
+            "pathWithType": "Phường Đình Bảng, Thị xã Từ Sơn, Tỉnh Bắc Ninh, Việt Nam"
+        },
+        {
+            "index": 3,
+            "code": "",
+            "type": "ward",
+            "name": "Đông Ngàn",
+            "slug": "dong ngan",
+            "nameWithType": "Phường Đông Ngàn",
+            "path": "Đông Ngàn, Tx. Từ Sơn, Bắc Ninh, Việt Nam",
+            "pathWithType": "Phường Đông Ngàn, Thị xã Từ Sơn, Tỉnh Bắc Ninh, Việt Nam"
+        },
+        {
+            "index": 4,
+            "code": "",
+            "type": "ward",
+            "name": "Đồng Kỵ",
+            "slug": "dong kỵ",
+            "nameWithType": "Phường Đồng Kỵ",
+            "path": "Đồng Kỵ, Tx. Từ Sơn, Bắc Ninh, Việt Nam",
+            "pathWithType": "Phường Đồng Kỵ, Thị xã Từ Sơn, Tỉnh Bắc Ninh, Việt Nam"
+        },
+        {
+            "index": 5,
+            "code": "",
+            "type": "ward",
+            "name": "Đồng Nguyên",
+            "slug": "dong nguyen",
+            "nameWithType": "Phường Đồng Nguyên",
+            "path": "Đồng Nguyên, Tx. Từ Sơn, Bắc Ninh, Việt Nam",
+            "pathWithType": "Phường Đồng Nguyên, Thị xã Từ Sơn, Tỉnh Bắc Ninh, Việt Nam"
+        },
+        {
+            "index": 6,
+            "code": "",
+            "type": "ward",
+            "name": "Hương Mạc",
+            "slug": "huong mac",
+            "nameWithType": "Phường Hương Mạc",
+            "path": "Hương Mạc, Tx. Từ Sơn, Bắc Ninh, Việt Nam",
+            "pathWithType": "Phường Hương Mạc, Thị xã Từ Sơn, Tỉnh Bắc Ninh, Việt Nam"
+        },
+        {
+            "index": 7,
+            "code": "",
+            "type": "ward",
+            "name": "Phù Chẩn",
+            "slug": "phu chan",
+            "nameWithType": "Phường Phù Chẩn",
+            "path": "Phù Chẩn, Tx. Từ Sơn, Bắc Ninh, Việt Nam",
+            "pathWithType": "Phường Phù Chẩn, Thị xã Từ Sơn, Tỉnh Bắc Ninh, Việt Nam"
+        },
+        {
+            "index": 8,
+            "code": "",
+            "type": "ward",
+            "name": "Phù Khê",
+            "slug": "phu khe",
+            "nameWithType": "Phường Phù Khê",
+            "path": "Phù Khê, Tx. Từ Sơn, Bắc Ninh, Việt Nam",
+            "pathWithType": "Phường Phù Khê, Thị xã Từ Sơn, Tỉnh Bắc Ninh, Việt Nam"
+        },
+        {
+            "index": 9,
+            "code": "",
+            "type": "ward",
+            "name": "Tam Sơn",
+            "slug": "tam son",
+            "nameWithType": "Phường Tam Sơn",
+            "path": "Tam Sơn, Tx. Từ Sơn, Bắc Ninh, Việt Nam",
+            "pathWithType": "Phường Tam Sơn, Thị xã Từ Sơn, Tỉnh Bắc Ninh, Việt Nam"
+        },
+        {
+            "index": 10,
+            "code": "",
+            "type": "ward",
+            "name": "Tân Hồng",
+            "slug": "tan hong",
+            "nameWithType": "Phường Tân Hồng",
+            "path": "Tân Hồng, Tx. Từ Sơn, Bắc Ninh, Việt Nam",
+            "pathWithType": "Phường Tân Hồng, Thị xã Từ Sơn, Tỉnh Bắc Ninh, Việt Nam"
+        },
+        {
+            "index": 11,
+            "code": "",
+            "type": "ward",
+            "name": "Trang Hạ",
+            "slug": "trang ha",
+            "nameWithType": "Phường Trang Hạ",
+            "path": "Trang Hạ, Tx. Từ Sơn, Bắc Ninh, Việt Nam",
+            "pathWithType": "Phường Trang Hạ, Thị xã Từ Sơn, Tỉnh Bắc Ninh, Việt Nam"
+        },
+        {
+            "index": 12,
+            "code": "",
+            "type": "ward",
+            "name": "Tương Giang",
+            "slug": "tuong giang",
+            "nameWithType": "Phường Tương Giang",
+            "path": "Tương Giang, Tx. Từ Sơn, Bắc Ninh, Việt Nam",
+            "pathWithType": "Phường Tương Giang, Thị xã Từ Sơn, Tỉnh Bắc Ninh, Việt Nam"
+        }
+    ]
+}

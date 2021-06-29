@@ -1,0 +1,218 @@
+{
+    "description": "Tính đến tháng 06 năm 2021 - Huyện Quế Võ bao gồm 1 Thị trấn và 20 Xã",
+    "lastUpdatedAt": "2021-06-29T11:16:20.958944995+07:00",
+    "type": "district",
+    "name": "Quế Võ",
+    "wards": [
+        {
+            "index": 1,
+            "code": "",
+            "type": "ward",
+            "name": "TT. Phố Mới",
+            "slug": "tt. pho moi",
+            "nameWithType": "Thị trấn Phố Mới",
+            "path": "TT. Phố Mới, Quế Võ, Bắc Ninh, Việt Nam",
+            "pathWithType": "Thị trấn Phố Mới, Huyện Quế Võ, Tỉnh Bắc Ninh, Việt Nam"
+        },
+        {
+            "index": 2,
+            "code": "",
+            "type": "ward",
+            "name": "Bằng An",
+            "slug": "bang an",
+            "nameWithType": "Xã Bằng An",
+            "path": "Bằng An, Quế Võ, Bắc Ninh, Việt Nam",
+            "pathWithType": "Xã Bầng An, Huyện Quế Võ, Tỉnh Bắc Ninh, Việt Nam"
+        },
+        {
+            "index": 3,
+            "code": "",
+            "type": "ward",
+            "name": "Bồng Lai",
+            "slug": "bong lai",
+            "nameWithType": "Xã Bồng Lai",
+            "path": "Bồng Lai, Quế Võ, Bắc Ninh, Việt Nam",
+            "pathWithType": "Xã Bồng Lai, Huyện Quế Võ, Tỉnh Bắc Ninh, Việt Nam"
+        },
+        {
+            "index": 4,
+            "code": "",
+            "type": "ward",
+            "name": "Cách Bi",
+            "slug": "cach bi",
+            "nameWithType": "Xã Cách Bi",
+            "path": "Cách Bi, Quế Võ, Bắc Ninh, Việt Nam",
+            "pathWithType": "Xã Cách Bi, Huyện Quế Võ, Tỉnh Bắc Ninh, Việt Nam"
+        },
+        {
+            "index": 5,
+            "code": "",
+            "type": "ward",
+            "name": "Châu Phong",
+            "slug": "chau phong",
+            "nameWithType": "Xã Châu Phong",
+            "path": "Châu Phong, Quế Võ, Bắc Ninh, Việt Nam",
+            "pathWithType": "Xã Châu Phong, Huyện Quế Võ, Tỉnh Bắc Ninh, Việt Nam"
+        },
+        {
+            "index": 6,
+            "code": "",
+            "type": "ward",
+            "name": "Chi Lăng",
+            "slug": "chi lang",
+            "nameWithType": "Xã Chi Lăng",
+            "path": "Chi Lăng, Quế Võ, Bắc Ninh, Việt Nam",
+            "pathWithType": "Xã Chi Lăng, Huyện Quế Võ, Tỉnh Bắc Ninh, Việt Nam"
+        },
+        {
+            "index": 7,
+            "code": "",
+            "type": "ward",
+            "name": "Đại Xuân",
+            "slug": "dai xuan",
+            "nameWithType": "Xã Đại Xuân",
+            "path": "Đại Xuân, Quế Võ, Bắc Ninh, Việt Nam",
+            "pathWithType": "Xã Đại Xuân, Huyện Quế Võ, Tỉnh Bắc Ninh, Việt Nam"
+        },
+        {
+            "index": 8,
+            "code": "",
+            "type": "ward",
+            "name": "Đào Viên",
+            "slug": "dao vien",
+            "nameWithType": "Xã Đào Viên",
+            "path": "Đào Viên, Quế Võ, Bắc Ninh, Việt Nam",
+            "pathWithType": "Xã Đào Viên, Huyện Quế Võ, Tỉnh Bắc Ninh, Việt Nam"
+        },
+        {
+            "index": 9,
+            "code": "",
+            "type": "ward",
+            "name": "Đức Long",
+            "slug": "duc long",
+            "nameWithType": "Xã Đức Long",
+            "path": "Đức Long, Quế Võ, Bắc Ninh, Việt Nam",
+            "pathWithType": "Xã Đức Long, Huyện Quế Võ, Tỉnh Bắc Ninh, Việt Nam"
+        },
+        {
+            "index": 10,
+            "code": "",
+            "type": "ward",
+            "name": "Hán Quảng",
+            "slug": "han quang",
+            "nameWithType": "Xã Hán Quảng",
+            "path": "Hán Quảng, Quế Võ, Bắc Ninh, Việt Nam",
+            "pathWithType": "Xã Hán QUảng, Huyện Quế Võ, Tỉnh Bắc Ninh, Việt Nam"
+        },
+        {
+            "index": 11,
+            "code": "",
+            "type": "ward",
+            "name": "Mộ Đạo",
+            "slug": "mo dao",
+            "nameWithType": "Xã Mộ Đạo",
+            "path": "Mộ Đạo, Quế Võ, Bắc Ninh, Việt Nam",
+            "pathWithType": "Xã Mộ Đạo, Huyện Quế Võ, Tỉnh Bắc Ninh, Việt Nam"
+        },
+        {
+            "index": 12,
+            "code": "",
+            "type": "ward",
+            "name": "Ngọc Xá",
+            "slug": "ngoc xa",
+            "nameWithType": "Xã NGọc Xá",
+            "path": "Ngọc Xá, Quế Võ, Bắc Ninh, Việt Nam",
+            "pathWithType": "Xã Ngọc Xá, Huyện Quế Võ, Tỉnh Bắc Ninh, Việt Nam"
+        },
+        {
+            "index": 13,
+            "code": "",
+            "type": "ward",
+            "name": "Nhân Hòa",
+            "slug": "nhan hoa",
+            "nameWithType": "Xã Nhân Hòa",
+            "path": "Nhân Hòa, Quế Võ, Bắc Ninh, Việt Nam",
+            "pathWithType": "Xã Nhân Hòa, Huyện Quế Võ, Tỉnh Bắc Ninh, Việt Nam"
+        },
+        {
+            "index": 14,
+            "code": "",
+            "type": "ward",
+            "name": "Phù Lãng",
+            "slug": "phu lang",
+            "nameWithType": "Xã Phù Lãng",
+            "path": "Phù Lãng, Quế Võ, Bắc Ninh, Việt Nam",
+            "pathWithType": "Xã Phù Lãng, Huyện Quế Võ, Tỉnh Bắc Ninh, Việt Nam"
+        },
+        {
+            "index": 15,
+            "code": "",
+            "type": "ward",
+            "name": "Phù Lương",
+            "slug": "phu luong",
+            "nameWithType": "Xã Phù Lương",
+            "path": "Phù Lương, Quế Võ, Bắc Ninh, Việt Nam",
+            "pathWithType": "Xã Phù Lương, Huyện Quế Võ, Tỉnh Bắc Ninh, Việt Nam"
+        },
+        {
+            "index": 16,
+            "code": "",
+            "type": "ward",
+            "name": "Phương Liễu",
+            "slug": "phuong lieu",
+            "nameWithType": "Xã Phương Liễu",
+            "path": "Phương Liễu, Quế Võ, Bắc Ninh, Việt Nam",
+            "pathWithType": "Xã Phương Liễu, Huyện Quế Võ, Tỉnh Bắc Ninh, Việt Nam"
+        },
+        {
+            "index": 17,
+            "code": "",
+            "type": "ward",
+            "name": "Phượng Mao",
+            "slug": "phuong mao",
+            "nameWithType": "Xã Phượng Mao",
+            "path": "Phượng Mao, Quế Võ, Bắc Ninh, Việt Nam",
+            "pathWithType": "Xã Phượng Mao, Huyện Quế Võ, Tỉnh Bắc Ninh, Việt Nam"
+        },
+        {
+            "index": 18,
+            "code": "",
+            "type": "ward",
+            "name": "Quế Tân",
+            "slug": "que tan",
+            "nameWithType": "Xã Quế Tân",
+            "path": "Quế Tân, Quế Võ, Bắc Ninh, Việt Nam",
+            "pathWithType": "Xã Quế Tân, Huyện Quế Võ, Tỉnh Bắc Ninh, Việt Nam"
+        },
+        {
+            "index": 19,
+            "code": "",
+            "type": "ward",
+            "name": "Việt Hùng",
+            "slug": "viet hung",
+            "nameWithType": "Xã Việt Hùng",
+            "path": "Việt Hùng, Quế Võ, Bắc Ninh, Việt Nam",
+            "pathWithType": "Xã Việt Hùng, Huyện Quế Võ, Tỉnh Bắc Ninh, Việt Nam"
+        },
+        {
+            "index": 20,
+            "code": "",
+            "type": "ward",
+            "name": "Việt Thống",
+            "slug": "viet thong",
+            "nameWithType": "Xã Việt Thống",
+            "path": "Việt Thống, Quế Võ, Bắc Ninh, Việt Nam",
+            "pathWithType": "Xã Việt Thống, Huyện Quế Võ, Tỉnh Bắc Ninh, Việt Nam"
+        },
+        {
+            "index": 21,
+            "code": "",
+            "type": "ward",
+            "name": "Yên Giả",
+            "slug": "yen gia",
+            "nameWithType": "Xã Yên Giả",
+            "path": "Yên Giả, Quế Võ, Bắc Ninh, Việt Nam",
+            "pathWithType": "Xã Yên Giả, Huyện Quế Võ, Tỉnh Bắc Ninh, Việt Nam"
+        }
+    ]
+}

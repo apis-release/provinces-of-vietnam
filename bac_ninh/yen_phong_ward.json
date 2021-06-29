@@ -1,0 +1,148 @@
+{
+    "description": "Tính đến tháng 06 năm 2021 - Huyện Yên Phong bao gồm 1 Thị trấn và 13 Xã",
+    "lastUpdatedAt": "2021-06-29T11:16:20.959088364+07:00",
+    "type": "district",
+    "name": "Yên Phong",
+    "wards": [
+        {
+            "index": 1,
+            "code": "",
+            "type": "ward",
+            "name": "TT. Chờ",
+            "slug": "tt. cho",
+            "nameWithType": "Thị trấn Chờ",
+            "path": "TT. Chờ, Yên Phong, Bắc Ninh, Việt Nam",
+            "pathWithType": "Thị trấn Chờ, Huyện Yên Phong, Tỉnh Bắc Ninh, Việt Nam"
+        },
+        {
+            "index": 2,
+            "code": "",
+            "type": "ward",
+            "name": "Dũng Liệt",
+            "slug": "dung liet",
+            "nameWithType": "Xã Dũng Liệt",
+            "path": "Dũng Liệt, Yên Phong, Bắc Ninh, Việt Nam",
+            "pathWithType": "Xã Dũng Liệt, Huyện Yên Phong, Tỉnh Bắc Ninh, Việt Nam"
+        },
+        {
+            "index": 3,
+            "code": "",
+            "type": "ward",
+            "name": "Đông Phong",
+            "slug": "dong phong",
+            "nameWithType": "Xã Đông Phong",
+            "path": "Đông Phong, Yên Phong, Bắc Ninh, Việt Nam",
+            "pathWithType": "Xã Đông Phong, Huyện Yên Phong, Tỉnh Bắc Ninh, Việt Nam"
+        },
+        {
+            "index": 4,
+            "code": "",
+            "type": "ward",
+            "name": "Đông Thọ",
+            "slug": "dong tho",
+            "nameWithType": "Xã Đông Thọ",
+            "path": "Đông Thọ, Yên Phong, Bắc Ninh, Việt Nam",
+            "pathWithType": "Xã Đông Thọ, Huyện Yên Phong, Tỉnh Bắc Ninh, Việt Nam"
+        },
+        {
+            "index": 5,
+            "code": "",
+            "type": "ward",
+            "name": "Đông Tiến",
+            "slug": "dong tien",
+            "nameWithType": "Xã Đông Tiến",
+            "path": "Đông Tiến, Yên Phong, Bắc Ninh, Việt Nam",
+            "pathWithType": "Xã Đông Tiến, Huyện Yên Phong, Tỉnh Bắc Ninh, Việt Nam"
+        },
+        {
+            "index": 6,
+            "code": "",
+            "type": "ward",
+            "name": "Hòa Tiến",
+            "slug": "hoa tien",
+            "nameWithType": "Xã Hòa Tiến",
+            "path": "Hòa Tiến, Yên Phong, Bắc Ninh, Việt Nam",
+            "pathWithType": "Xã Hòa Tiến, Huyện Yên Phong, Tỉnh Bắc Ninh, Việt Nam"
+        },
+        {
+            "index": 7,
+            "code": "",
+            "type": "ward",
+            "name": "Long Châu",
+            "slug": "long chau",
+            "nameWithType": "Xã Long Châu",
+            "path": "Long Châu, Yên Phong, Bắc Ninh, Việt Nam",
+            "pathWithType": "Xã Long Châu, Huyện Yên Phong, Tỉnh Bắc Ninh, Việt Nam"
+        },
+        {
+            "index": 8,
+            "code": "",
+            "type": "ward",
+            "name": "Tam Đa",
+            "slug": "tam da",
+            "nameWithType": "Xã Tam Đa",
+            "path": "Tam Đa, Yên Phong, Bắc Ninh, Việt Nam",
+            "pathWithType": "Xã Tam Đa, Huyện Yên Phong, Tỉnh Bắc Ninh, Việt Nam"
+        },
+        {
+            "index": 9,
+            "code": "",
+            "type": "ward",
+            "name": "Tam Giang",
+            "slug": "tam giang",
+            "nameWithType": "Xã Tam Giang",
+            "path": "Tam Giang, Yên Phong, Bắc Ninh, Việt Nam",
+            "pathWithType": "Xã Tam Giang, Huyện Yên Phong, Tỉnh Bắc Ninh, Việt Nam"
+        },
+        {
+            "index": 10,
+            "code": "",
+            "type": "ward",
+            "name": "Thụy Hòa",
+            "slug": "thuy hoa",
+            "nameWithType": "Xã Thụy Hòa",
+            "path": "Thụy Hòa, Yên Phong, Bắc Ninh, Việt Nam",
+            "pathWithType": "Xã Thụy Hòa, Huyện Yên Phong, Tỉnh Bắc Ninh, Việt Nam"
+        },
+        {
+            "index": 11,
+            "code": "",
+            "type": "ward",
+            "name": "Trung Nghĩa",
+            "slug": "trung nghia",
+            "nameWithType": "Xã Trung Nghĩa",
+            "path": "Trung Nghĩa, Yên Phong, Bắc Ninh, Việt Nam",
+            "pathWithType": "Xã Trung Nghĩa, Huyện Yên Phong, Tỉnh Bắc Ninh, Việt Nam"
+        },
+        {
+            "index": 12,
+            "code": "",
+            "type": "ward",
+            "name": "Văn Môn",
+            "slug": "van mon",
+            "nameWithType": "Xã Văn Môn",
+            "path": "Văn Môn, Yên Phong, Bắc Ninh, Việt Nam",
+            "pathWithType": "Xã Văn Môn, Huyện Yên Phong, Tỉnh Bắc Ninh, Việt Nam"
+        },
+        {
+            "index": 13,
+            "code": "",
+            "type": "ward",
+            "name": "Yên Phụ",
+            "slug": "yen phu",
+            "nameWithType": "Xã Yên Phụ",
+            "path": "Yên Phụ, Yên Phong, Bắc Ninh, Việt Nam",
+            "pathWithType": "Xã Yên Phụ, Huyện Yên Phong, Tỉnh Bắc Ninh, Việt Nam"
+        },
+        {
+            "index": 14,
+            "code": "",
+            "type": "ward",
+            "name": "Yên Trung",
+            "slug": "yen trung",
+            "nameWithType": "Xã Yên Trung",
+            "path": "Yên Trung, Yên Phong, Bắc Ninh, Việt Nam",
+            "pathWithType": "Xã Yên Trung, Huyện Yên Phong, Tỉnh Bắc Ninh, Việt Nam"
+        }
+    ]
+}
